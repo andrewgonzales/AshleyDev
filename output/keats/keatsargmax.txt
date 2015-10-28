@@ -1,0 +1,286 @@
+
+ ============October 28th 2015, 10:50:01 am============= 
+argmax PERPLEXITY: 9.24
+    Thd hee  hh thoe t                                                                               
+ ============October 28th 2015, 10:54:38 am============= 
+argmax PERPLEXITY: 14.99
+    Thd hee  hh  hoe en thee thne ehe  heen the tee the ehe thne en thee  hee  hee ehee ehe  hee ehne
+ ============October 28th 2015, 10:59:09 am============= 
+argmax PERPLEXITY: 15.56
+    Th  hee the  hee th thee th the                                                                  
+ ============October 28th 2015, 11:04:10 am============= 
+argmax PERPLEXITY: 17.17
+    Thd her  tee the te  hee eh                                                                      
+ ============October 28th 2015, 11:09:36 am============= 
+argmax PERPLEXITY: 16.17
+    The thee eees the the the ehe ehee eh                                                            
+ ============October 28th 2015, 11:14:03 am============= 
+argmax PERPLEXITY: 28.47
+    Th  hee  t                                                                                       
+ ============October 28th 2015, 11:19:36 am============= 
+argmax PERPLEXITY: 13.40
+    Th  hee  hoes eee th  hee eoe th  hee theth hne  her  hee   hees thes then thes ee  hee  hoe eoe 
+ ============October 28th 2015, 11:25:22 am============= 
+argmax PERPLEXITY: 18.43
+    Th                                                                                               
+ ============October 28th 2015, 11:30:18 am============= 
+argmax PERPLEXITY: Infinity
+    Th  hoe thoe thet the  ee  he   hoe  hot                                                         
+ ============October 28th 2015, 11:34:03 am============= 
+argmax PERPLEXITY: 14.62
+    Th  hee  te  hoe toe to  he  hoe th  he eer   he  he  he  hee toe the  hne ee                    
+ ============October 28th 2015, 11:39:39 am============= 
+argmax PERPLEXITY: 12.60
+    Th  hee  hae toe eee the  the   e  hee  hee hoe tee the   he                                     
+ ============October 28th 2015, 11:45:56 am============= 
+argmax PERPLEXITY: 18.86
+    Th  hee  t                                                                                       
+ ============October 28th 2015, 11:51:47 am============= 
+argmax PERPLEXITY: 9.23
+    Th  he                                                                                           
+ ============October 28th 2015, 11:57:20 am============= 
+argmax PERPLEXITY: 14.06
+    Thd he   hee  e  hee thene                                                                       
+ ============October 28th 2015, 12:02:45 pm============= 
+argmax PERPLEXITY: 14.58
+    Thd he   hee  e  he  he  he  hie  e                                                              
+ ============October 28th 2015, 12:08:38 pm============= 
+argmax PERPLEXITY: 13.25
+    Thd he   hee te  he  he  hoe the ee  hie  the soe  hoe th  he  aee toe the  eee  eee  ee  he   he
+ ============October 28th 2015, 12:13:20 pm============= 
+argmax PERPLEXITY: 13.53
+    Thd he   hee tee te  tee  tee  tee  tee  tee  tee  tee  tee  ee   tee  tee  ee  he               
+ ============October 28th 2015, 12:17:42 pm============= 
+argmax PERPLEXITY: 12.44
+    Thd hee  hee the                                                                                 
+ ============October 28th 2015, 12:23:07 pm============= 
+argmax PERPLEXITY: Infinity
+    Thd he   hee aee te  aee see  aee the te  aee  ane  tee  aee  tee  ae  he   hee  e  hn  he  ae  a
+ ============October 28th 2015, 12:28:53 pm============= 
+argmax PERPLEXITY: 7.11
+    Thd  to                                                                                          
+ ============October 28th 2015, 12:34:45 pm============= 
+argmax PERPLEXITY: 6.22
+    Th                                                                                               
+ ============October 28th 2015, 12:40:27 pm============= 
+argmax PERPLEXITY: 14.26
+    And  toe  aoe  to  hoe  ooe  oo  hoe  ooe  ao  hoe  ooe  ao  hoe  ooe  ao  hoe  ooe  ao  hoe  ooe
+ ============October 28th 2015, 12:46:15 pm============= 
+argmax PERPLEXITY: 18.58
+    And ho                                                                                           
+ ============October 28th 2015, 12:51:07 pm============= 
+argmax PERPLEXITY: 18.18
+    And hee  hee  hne  hne  hn  he the hee the hhe hh  hee hh hh                                     
+ ============October 28th 2015, 12:57:05 pm============= 
+argmax PERPLEXITY: 12.60
+    And he                                                                                           
+ ============October 28th 2015, 01:02:06 pm============= 
+argmax PERPLEXITY: 13.36
+    And  the  hee  hne   e  hee  hoe hoe  hne   ee  hee   he  he  hee  hoe hoe  hne   he  he  hee  ho
+ ============October 28th 2015, 01:07:50 pm============= 
+argmax PERPLEXITY: 12.55
+    Thd hoe  hre hoe hoe  hr  hoe hoe hhe                                                            
+ ============October 28th 2015, 01:13:42 pm============= 
+argmax PERPLEXITY: 14.30
+    Thd he   h the  hot  the                                                                         
+ ============October 28th 2015, 01:19:45 pm============= 
+argmax PERPLEXITY: 11.31
+    And he  hee  her  hee  her  hee  hed hee   hed hee   hed hee   hed hee   hed hee   hed hee   hed 
+ ============October 28th 2015, 01:24:50 pm============= 
+argmax PERPLEXITY: Infinity
+    And hee  he  hee  hne sie eee  he  he  hee se  hee  hn  he ser  her  aer  aor  aer  aer  aer  aor
+ ============October 28th 2015, 01:29:42 pm============= 
+argmax PERPLEXITY: 15.44
+    And hee  he  hee  hne sie   ee  hee  hne   ee  hee   ee   ee   ee   ee   ee   ee   ee   ee   ee  
+ ============October 28th 2015, 01:33:53 pm============= 
+argmax PERPLEXITY: 19.38
+    And he   hie  n  hee  hee  hee hhe the th  hoe soe hh  he ene  aer  her  aer  aer  aer  aer  aer 
+ ============October 28th 2015, 01:38:25 pm============= 
+argmax PERPLEXITY: 16.35
+    Thd hee  hne hne see  hne  h  hh  hh  hh  hh  hh  hh  hh  hh  hh  he  hh                         
+ ============October 28th 2015, 01:42:40 pm============= 
+argmax PERPLEXITY: 10.73
+    Thd he   hie ho  ho  he  hoe  hee  hne  an  he  hi e to                                          
+ ============October 28th 2015, 01:48:27 pm============= 
+argmax PERPLEXITY: 16.67
+    Thd hee  hoe hhe see  hoe the the the sees the the hhee the the the the the hhe eee  hee eee ehee
+ ============October 28th 2015, 01:54:12 pm============= 
+argmax PERPLEXITY: 18.97
+    Thd hee  hoe the see  ane  ane eh the                                                            
+ ============October 28th 2015, 01:59:13 pm============= 
+argmax PERPLEXITY: 15.52
+    Thd hee  hne the eon  tn  hoe en  hoe tn  hne sne sne  hne  en  hee  ane the ene ehe  hee  tn  ho
+ ============October 28th 2015, 02:04:36 pm============= 
+argmax PERPLEXITY: 18.51
+    The soe aor  ae                                                                                  
+ ============October 28th 2015, 02:09:40 pm============= 
+argmax PERPLEXITY: 20.33
+    Thd he  ae                                                                                       
+ ============October 28th 2015, 02:14:27 pm============= 
+argmax PERPLEXITY: 11.97
+    Thd he                                                                                           
+ ============October 28th 2015, 02:18:51 pm============= 
+argmax PERPLEXITY: 14.14
+    To                                                                                               
+ ============October 28th 2015, 02:24:20 pm============= 
+argmax PERPLEXITY: 7.38
+    Th                                                                                               
+ ============October 28th 2015, 02:30:31 pm============= 
+argmax PERPLEXITY: 9.26
+    Th  he the  hee  ene   h                                                                         
+ ============October 28th 2015, 02:36:10 pm============= 
+argmax PERPLEXITY: 18.22
+    Thd he                                                                                           
+ ============October 28th 2015, 02:42:16 pm============= 
+argmax PERPLEXITY: 15.01
+    The eh  the the   hee the tee the heer the tee thee the the the eh  heen the hhe hee eh  hee  hee
+ ============October 28th 2015, 02:48:19 pm============= 
+argmax PERPLEXITY: 11.90
+    The the  he  hee  he  hee  hee  he  hoe hee hoe  he the                                          
+ ============October 28th 2015, 02:54:11 pm============= 
+argmax PERPLEXITY: 14.92
+    And he  ae                                                                                       
+ ============October 28th 2015, 02:58:36 pm============= 
+argmax PERPLEXITY: 26.30
+    Thoe tho hhe    hhr                                                                              
+ ============October 28th 2015, 03:03:34 pm============= 
+argmax PERPLEXITY: 14.30
+    Thd  sn  he the                                                                                  
+ ============October 28th 2015, 03:07:44 pm============= 
+argmax PERPLEXITY: 18.27
+    Thd  seeee  ees eer ee ees teee see  seee see see see                                            
+ ============October 28th 2015, 03:12:31 pm============= 
+argmax PERPLEXITY: 17.22
+    And  tn  he the  he   eee  he   hee  he    hee teet te  hn  ha  he  hee tn  hne tan teee t th  he
+ ============October 28th 2015, 03:18:31 pm============= 
+argmax PERPLEXITY: Infinity
+    And  te   te   te   te   te   te   te   te   te   te   te   te   te   te   te   te   te   te   te
+ ============October 28th 2015, 03:24:06 pm============= 
+argmax PERPLEXITY: 16.11
+    And  tee  th  he  he   hee  tee  tee  s   he  hee  th  he e toe te  hoe  tee  tee  tee  tee  te  
+ ============October 28th 2015, 03:28:40 pm============= 
+argmax PERPLEXITY: 12.87
+    And  tee  aee  tee   e  he the                                                                   
+ ============October 28th 2015, 03:33:43 pm============= 
+argmax PERPLEXITY: Infinity
+    And  tee  the see the tee the ene  the  aee  tee   e  he   aee the  aee  tee ene   e   see  the t
+ ============October 28th 2015, 03:38:42 pm============= 
+argmax PERPLEXITY: 14.28
+    And  tee  tee  tee  tee  tee  tee   ee  tee   ee  tee   ee  tee   ee  tee   e  he  ae            
+ ============October 28th 2015, 03:44:24 pm============= 
+argmax PERPLEXITY: 14.52
+    And he                                                                                           
+ ============October 28th 2015, 03:50:10 pm============= 
+argmax PERPLEXITY: Infinity
+    And he  the ere   o                                                                              
+ ============October 28th 2015, 03:53:51 pm============= 
+argmax PERPLEXITY: 8.96
+    And  the   he    e                                                                               
+ ============October 28th 2015, 03:58:02 pm============= 
+argmax PERPLEXITY: 12.41
+  And                                                                                                
+ ============October 28th 2015, 04:03:21 pm============= 
+argmax PERPLEXITY: 13.98
+    Thd hee  hoe hhe  one  hn t the  hee  one  h                                                     
+ ============October 28th 2015, 04:08:40 pm============= 
+argmax PERPLEXITY: 13.52
+    Thd her  te  hoe th  hoe  en the  aor  aor  aer  aor  aor  ao                                    
+ ============October 28th 2015, 04:14:38 pm============= 
+argmax PERPLEXITY: 15.46
+    Thd her  th  ho  h                                                                               
+ ============October 28th 2015, 04:19:02 pm============= 
+argmax PERPLEXITY: 2.73
+    Th                                                                                               
+ ============October 28th 2015, 04:24:01 pm============= 
+argmax PERPLEXITY: Infinity
+  And                                                                                                
+ ============October 28th 2015, 04:29:06 pm============= 
+argmax PERPLEXITY: Infinity
+  And  hn  he                                                                                        
+ ============October 28th 2015, 04:33:23 pm============= 
+argmax PERPLEXITY: 13.87
+    And he                                                                                           
+ ============October 28th 2015, 04:37:31 pm============= 
+argmax PERPLEXITY: Infinity
+    And  tee  the    he the tee the  ee   ee  hee  tee   ee  tee   ee  the    he                     
+ ============October 28th 2015, 04:42:08 pm============= 
+argmax PERPLEXITY: 17.09
+    Thd he   ho    ho                                                                                
+ ============October 28th 2015, 04:47:23 pm============= 
+argmax PERPLEXITY: Infinity
+    And he   hee en  he the  hhe  hhe  he  hee   her  he   her   he  hh                              
+ ============October 28th 2015, 04:53:08 pm============= 
+argmax PERPLEXITY: 11.87
+    And he                                                                                           
+ ============October 28th 2015, 04:58:33 pm============= 
+argmax PERPLEXITY: 19.95
+    And he                                                                                           
+ ============October 28th 2015, 05:02:51 pm============= 
+argmax PERPLEXITY: 11.16
+    And her  hee the he  hee  her  hne  tee  tee  tee  tee  tee  tee  tee  hee  tee   e  her  hne tee
+ ============October 28th 2015, 05:07:07 pm============= 
+argmax PERPLEXITY: 18.86
+    Ahe her  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  
+ ============October 28th 2015, 05:12:06 pm============= 
+argmax PERPLEXITY: 21.76
+    And he                                                                                           
+ ============October 28th 2015, 05:17:08 pm============= 
+argmax PERPLEXITY: 17.69
+    And hee  hee  hne hoe  hne  n  hee  hee  hne hne hee hne eh  hee hne hhe  hee  hne hoe  hne hne h
+ ============October 28th 2015, 05:22:00 pm============= 
+argmax PERPLEXITY: 19.80
+    And he                                                                                           
+ ============October 28th 2015, 05:28:06 pm============= 
+argmax PERPLEXITY: 12.95
+    And he   hee en  he   te  he  hee the  he   hee he  he   hee he  he enn   he  he  he  he  he  he 
+ ============October 28th 2015, 05:33:12 pm============= 
+argmax PERPLEXITY: 14.15
+    And hh   hhe hh  he ee the the  hee thee the the   hee the  hee the  hh the  hh the  hh the  hh  
+ ============October 28th 2015, 05:38:55 pm============= 
+argmax PERPLEXITY: 16.42
+    A                                                                                                
+ ============October 28th 2015, 05:43:14 pm============= 
+argmax PERPLEXITY: 11.95
+    Ah  he   tn  hoe  hn  he thn   ho  hoan the en  hoe th   hn  he thn   hn  ho  ho  hoe t          
+ ============October 28th 2015, 05:48:21 pm============= 
+argmax PERPLEXITY: 17.61
+    And he  ae  ant  ae   ae   ae   ae   ae   ae   ae   he   ae   he   ae   he   ae   he   ae   he   
+ ============October 28th 2015, 05:53:37 pm============= 
+argmax PERPLEXITY: 14.85
+    And he  the the  her  he   he   he   he   he   he   he   he   he   he                            
+ ============October 28th 2015, 05:58:51 pm============= 
+argmax PERPLEXITY: Infinity
+    And hee  hee  ane  tee  en  hee  the  tee  en  hee  the  tee  en  hee  the  tee  en  hee  the  te
+ ============October 28th 2015, 06:04:31 pm============= 
+argmax PERPLEXITY: 22.94
+    And he   hie  h  hee  hee  t                                                                     
+ ============October 28th 2015, 06:10:12 pm============= 
+argmax PERPLEXITY: 44.67
+    And he   h                                                                                       
+ ============October 28th 2015, 06:16:29 pm============= 
+argmax PERPLEXITY: 20.22
+    And he   h the                                                                                   
+ ============October 28th 2015, 06:21:52 pm============= 
+argmax PERPLEXITY: 16.01
+    The aoe  he  he  ha  hr  he  h                                                                   
+ ============October 28th 2015, 06:26:17 pm============= 
+argmax PERPLEXITY: 16.63
+    Thd hee  hn  hn  hn  he  he  hn  he  he  he  he  he  hn  hn  hn  hn  hn  he  hn  he  he  he  he  
+ ============October 28th 2015, 06:31:24 pm============= 
+argmax PERPLEXITY: 13.48
+    Thd hee  hn  hn  hn  hn  hn  an  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  
+ ============October 28th 2015, 06:37:10 pm============= 
+argmax PERPLEXITY: 11.05
+    Thd hon   n  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  hn  ho  ho  ho  hn  hn  hn  hn  hn  hn  
+ ============October 28th 2015, 06:43:31 pm============= 
+argmax PERPLEXITY: 16.94
+    Thd her                                                                                          
+ ============October 28th 2015, 06:48:42 pm============= 
+argmax PERPLEXITY: 14.71
+    Thd her  t                                                                                       
+ ============October 28th 2015, 06:54:54 pm============= 
+argmax PERPLEXITY: 22.46
+    Thd her  te ehn  hoae                                                                            
+ ============October 28th 2015, 06:59:52 pm============= 
+argmax PERPLEXITY: 30.25
+    Ahd he   h  hen  hr  he en    hn th   he  hee e                                                  

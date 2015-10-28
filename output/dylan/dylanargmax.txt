@@ -1,0 +1,7 @@
+
+ ============October 26th 2015, 06:27:27 am============= 
+argmax PERPLEXITY: 54.63
+ ooodooodooooomoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ ============October 26th 2015, 06:30:55 am============= 
+argmax PERPLEXITY: 12642.42
+ n eofh n eh n en n e h n eh n eh n eh n eh n en n e h n n n n en n e h n eh n en n e h n e  n n en n
