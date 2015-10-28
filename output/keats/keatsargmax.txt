@@ -1,0 +1,1380 @@
+
+ ============October 28th 2015, 03:02:52 am============= 
+argmax PERPLEXITY: 6.62
+    And the the the the the the the the the the the the the strangers the the strangers the the stran
+ ============October 28th 2015, 03:05:25 am============= 
+argmax PERPLEXITY: 6.21
+    And the she she she she she she she she she she she she strangers the she strange
+
+ ============October 28th 2015, 03:07:39 am============= 
+argmax PERPLEXITY: 4.41
+    And the she she she she she she she she she strangers the she strangers the she strangers the she
+ ============October 28th 2015, 03:10:27 am============= 
+argmax PERPLEXITY: 7.40
+    And the strangers the strangers the strangers,
+
+ ============October 28th 2015, 03:13:05 am============= 
+argmax PERPLEXITY: 5.71
+    And the she strange the strange the strange the strange strange strange strange strange strange s
+ ============October 28th 2015, 03:15:27 am============= 
+argmax PERPLEXITY: 4.47
+    And the strange the strange the strange the strange the strange strange
+
+ ============October 28th 2015, 03:17:53 am============= 
+argmax PERPLEXITY: 7.07
+    And the she shade the she shade the she strange she strange
+
+ ============October 28th 2015, 03:20:11 am============= 
+argmax PERPLEXITY: 5.63
+    And the she she she she strange the she strange
+
+ ============October 28th 2015, 03:22:33 am============= 
+argmax PERPLEXITY: 5.58
+    And the she shall the she shall the she shall the she strange
+
+ ============October 28th 2015, 03:25:25 am============= 
+argmax PERPLEXITY: 9.28
+    And the shall the shall the shall the shall the shall the shade,
+
+ ============October 28th 2015, 03:28:09 am============= 
+argmax PERPLEXITY: 9.77
+                                                                                                     
+ ============October 28th 2015, 03:30:40 am============= 
+argmax PERPLEXITY: 3.88
+    And the shade and the shade and the shade,
+
+ ============October 28th 2015, 03:33:23 am============= 
+argmax PERPLEXITY: 4.87
+    And shade and shade and shade and shade,
+
+ ============October 28th 2015, 03:35:57 am============= 
+argmax PERPLEXITY: Infinity
+    And shall the shall the shade and shall the shades,
+
+ ============October 28th 2015, 03:38:36 am============= 
+argmax PERPLEXITY: 5.53
+    And shall the shade and shalt and shalt and shalt shall the shade,
+
+ ============October 28th 2015, 03:41:31 am============= 
+argmax PERPLEXITY: Infinity
+    And shalt and share and share and share and share and share and share and share and share and sha
+ ============October 28th 2015, 03:44:06 am============= 
+argmax PERPLEXITY: 4.53
+    And shade and shade and shades and shades,
+
+ ============October 28th 2015, 03:47:12 am============= 
+argmax PERPLEXITY: 5.15
+    And the shade and shade and shades and shades,
+
+ ============October 28th 2015, 03:49:37 am============= 
+argmax PERPLEXITY: 3.97
+  And the share the share the share the shares and share
+
+ ============October 28th 2015, 03:52:10 am============= 
+argmax PERPLEXITY: 3.95
+    The share the so light the shares and the shares and shares and shares and shares and shares and 
+ ============October 28th 2015, 03:54:59 am============= 
+argmax PERPLEXITY: 2.32
+    The said and shapes of the said shades,
+
+ ============October 28th 2015, 03:58:12 am============= 
+argmax PERPLEXITY: 8.79
+                                                                                                     
+ ============October 28th 2015, 04:00:51 am============= 
+argmax PERPLEXITY: Infinity
+    And the so my so my she so my me so my me so my me so my me so my me so my me so my me so my me s
+ ============October 28th 2015, 04:03:01 am============= 
+argmax PERPLEXITY: 8.03
+    And the so sore the so sore the so sorrow
+
+ ============October 28th 2015, 04:05:28 am============= 
+argmax PERPLEXITY: 6.33
+    And the so the so the so the see the see the see the see the see the see the see the see the see 
+ ============October 28th 2015, 04:07:44 am============= 
+argmax PERPLEXITY: 4.08
+  And shape and shall the soul and shall the see see spheres
+
+ ============October 28th 2015, 04:10:57 am============= 
+argmax PERPLEXITY: Infinity
+    And the sore a shall the sore a seath
+
+ ============October 28th 2015, 04:13:30 am============= 
+argmax PERPLEXITY: 839.16
+  And she to the sounds her she she she she she she she she she she she she she she she she she she s
+ ============October 28th 2015, 04:15:51 am============= 
+argmax PERPLEXITY: 4.13
+    And the sounds and shall the sounds and shall the sounds
+
+ ============October 28th 2015, 04:18:34 am============= 
+argmax PERPLEXITY: 4.37
+    The so love a soul the so love a soul the so love a soul the so love
+
+ ============October 28th 2015, 04:21:08 am============= 
+argmax PERPLEXITY: 5.28
+    And the soul the soul the soul the soul the soul the soul the soul the soul the soul the soul the
+ ============October 28th 2015, 04:23:39 am============= 
+argmax PERPLEXITY: 5.52
+    Where stranger stranger stranger strangers strangers strange
+
+ ============October 28th 2015, 04:26:15 am============= 
+argmax PERPLEXITY: 5.21
+    And the sould the strange the strangher strange stranghyrion
+
+ ============October 28th 2015, 04:29:09 am============= 
+argmax PERPLEXITY: 6.63
+    And sorrow the said and sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow sor
+ ============October 28th 2015, 04:31:08 am============= 
+argmax PERPLEXITY: 3.72
+    And strain's the sorrow the sorrow straint strains and strain.
+
+ ============October 28th 2015, 04:33:20 am============= 
+argmax PERPLEXITY: Infinity
+    And strange the strange the strange the strange the strange
+
+ ============October 28th 2015, 04:36:17 am============= 
+argmax PERPLEXITY: 4.22
+    And strange the strange the strange the strange the strange the strange strange
+
+ ============October 28th 2015, 04:39:01 am============= 
+argmax PERPLEXITY: 6.70
+    And the strange the strange the strange the strange the strange the strange strange
+
+ ============October 28th 2015, 04:41:41 am============= 
+argmax PERPLEXITY: Infinity
+    And the souls and strange the strange the strange the strangher strangher strangher strangher str
+ ============October 28th 2015, 04:44:07 am============= 
+argmax PERPLEXITY: 5.29
+    The she she she she she she she she she she she she she she strangher she strangher strangher str
+ ============October 28th 2015, 04:47:12 am============= 
+argmax PERPLEXITY: 5.27
+    The so love a silent the so love and strange strange strange
+
+ ============October 28th 2015, 04:49:33 am============= 
+argmax PERPLEXITY: 5.72
+    The so like a silent strange strange strange strange strange strange strange strange strange
+
+ ============October 28th 2015, 04:52:15 am============= 
+argmax PERPLEXITY: Infinity
+    The she she she she she she she she she she she she she she stranghyro stranghyro stranghyro stra
+ ============October 28th 2015, 04:55:00 am============= 
+argmax PERPLEXITY: 7.82
+    The she she she she she she she she she she she she she she she she stranghy
+
+ ============October 28th 2015, 04:57:26 am============= 
+argmax PERPLEXITY: 6.08
+    The so look'd the so store the so store the strange
+
+ ============October 28th 2015, 04:59:52 am============= 
+argmax PERPLEXITY: 7.28
+    And the strange the strange the strange the strangher the strangher,
+
+ ============October 28th 2015, 05:02:33 am============= 
+argmax PERPLEXITY: Infinity
+    The soft stranger the soft stranger the soft strangers strangers strangers strangers strangers st
+ ============October 28th 2015, 05:05:33 am============= 
+argmax PERPLEXITY: 5.61
+    The stranger the stranger the strangers the strangers breast strange
+
+ ============October 28th 2015, 05:08:29 am============= 
+argmax PERPLEXITY: 5.38
+    And the strange the strange the strange the stranger the strangers the strangers the strangers th
+ ============October 28th 2015, 05:10:59 am============= 
+argmax PERPLEXITY: 3.73
+    And the strange the strange the strange the strange the strangers,
+
+ ============October 28th 2015, 05:13:46 am============= 
+argmax PERPLEXITY: Infinity
+    And the stay in the stays and stays and stays,
+
+ ============October 28th 2015, 05:16:29 am============= 
+argmax PERPLEXITY: 6.15
+    And the she she she she she she she she she stallen she stallen she stalled she stallonion
+
+ ============October 28th 2015, 05:18:49 am============= 
+argmax PERPLEXITY: 5.44
+    And the she the so the she starless and stalless,
+
+ ============October 28th 2015, 05:21:20 am============= 
+argmax PERPLEXITY: 4.68
+    And the so beauty the so been the so been the so been
+
+ ============October 28th 2015, 05:24:04 am============= 
+argmax PERPLEXITY: 6.49
+    Anon the soft string the soft string the soft string the so best string
+
+ ============October 28th 2015, 05:26:38 am============= 
+argmax PERPLEXITY: 3.74
+    And she she silent her she silent her she siless her strangers strangers strangers strangers stra
+ ============October 28th 2015, 05:28:54 am============= 
+argmax PERPLEXITY: 5.59
+    And silver silver silver silver siless
+
+ ============October 28th 2015, 05:31:26 am============= 
+argmax PERPLEXITY: 3.74
+    And silver silent the so stair, and stranger,
+
+ ============October 28th 2015, 05:33:26 am============= 
+argmax PERPLEXITY: 4.79
+    And the soft and so silent the so stalless, and so stalless
+
+ ============October 28th 2015, 05:35:40 am============= 
+argmax PERPLEXITY: 5.26
+    Anon the soft and the soft and so the so soring the so soring the so soring the so soring the so 
+ ============October 28th 2015, 05:38:21 am============= 
+argmax PERPLEXITY: 5.48
+    Anon the so long the so long the so long the so long the so long the so long the so long the so l
+ ============October 28th 2015, 05:40:42 am============= 
+argmax PERPLEXITY: Infinity
+    Anon the so long the so long the so long the so long the so long the so long the so long the so l
+ ============October 28th 2015, 05:43:05 am============= 
+argmax PERPLEXITY: 4.90
+    He pale and so singer and so singer and so stal a sick,
+
+ ============October 28th 2015, 05:46:05 am============= 
+argmax PERPLEXITY: 6.54
+    He pale the so long the so long the so long the so long the so long the so long the so long the s
+ ============October 28th 2015, 05:48:48 am============= 
+argmax PERPLEXITY: 7.53
+    Her she see the so long the so long the so long the so long the so long so long so long so long s
+ ============October 28th 2015, 05:51:14 am============= 
+argmax PERPLEXITY: 5.15
+    And the soft and so lover the soft and see,
+
+ ============October 28th 2015, 05:53:51 am============= 
+argmax PERPLEXITY: 3.86
+    Her see the soft and the soft and the soft and the see the see the see the see the see the see th
+ ============October 28th 2015, 05:56:46 am============= 
+argmax PERPLEXITY: Infinity
+    And the see the see his see his see see see see see see see see see see see see see see see see s
+ ============October 28th 2015, 05:59:43 am============= 
+argmax PERPLEXITY: 6.64
+    And the silent her silent her siless the siless the see siless the see siless the see siless the 
+ ============October 28th 2015, 06:02:36 am============= 
+argmax PERPLEXITY: 4.35
+    Of the said the said the said the see siless the see,
+
+ ============October 28th 2015, 06:05:34 am============= 
+argmax PERPLEXITY: 5.58
+                                                                                                     
+ ============October 28th 2015, 06:08:31 am============= 
+argmax PERPLEXITY: 7.72
+    And the sound the sound the sound the sounds and star the star the star the star the star the sta
+ ============October 28th 2015, 06:11:03 am============= 
+argmax PERPLEXITY: 4.64
+    And the shade and shade and shade and shade and shade shade shade shade shade shade shade shade s
+ ============October 28th 2015, 06:13:24 am============= 
+argmax PERPLEXITY: 5.82
+    And the silent the silent the star the star the star the star the star the star the star the star
+ ============October 28th 2015, 06:16:04 am============= 
+argmax PERPLEXITY: 4.74
+    And the shade the shade the stay the stay the stay the stays
+
+ ============October 28th 2015, 06:18:59 am============= 
+argmax PERPLEXITY: 1.98
+    And the star the star the star the star the star the star the star the star the star the star the
+ ============October 28th 2015, 06:21:57 am============= 
+argmax PERPLEXITY: 4.27
+    And the strange the strange the strange the strange strange strange strange strange strange stran
+ ============October 28th 2015, 06:24:53 am============= 
+argmax PERPLEXITY: 6.48
+    And the so strayed the strain and strains,
+
+ ============October 28th 2015, 06:27:25 am============= 
+argmax PERPLEXITY: 5.65
+    And the sound and strayed the sounds and strayed strange
+
+ ============October 28th 2015, 06:30:18 am============= 
+argmax PERPLEXITY: 5.07
+    And the said the said the said the said the said the said
+
+ ============October 28th 2015, 06:32:54 am============= 
+argmax PERPLEXITY: 3.52
+    And the soft a sorrow the soft a sorrow the strange
+
+ ============October 28th 2015, 06:35:30 am============= 
+argmax PERPLEXITY: 6.11
+    And the soft the soft the soft a soul the soft a soul the soft a soul the soft a soul the soft a 
+ ============October 28th 2015, 06:37:48 am============= 
+argmax PERPLEXITY: Infinity
+    And the soft a soul and so more so more so sorrow so star the soft and so sould the soft and so s
+ ============October 28th 2015, 06:40:13 am============= 
+argmax PERPLEXITY: 6.93
+    And the so sorrow the so string and so mears,
+
+ ============October 28th 2015, 06:42:51 am============= 
+argmax PERPLEXITY: 9.89
+    And so me so me so me so me so me so mead
+
+ ============October 28th 2015, 06:44:56 am============= 
+argmax PERPLEXITY: 4.14
+    And the soft and so me soft and so me so me stranged so me strang
+
+ ============October 28th 2015, 06:47:00 am============= 
+argmax PERPLEXITY: 7.97
+    And the soft and stranger her stranger the strange
+
+ ============October 28th 2015, 06:49:28 am============= 
+argmax PERPLEXITY: 9.36
+    And the stringer the strings and the strange the strange the strange
+
+ ============October 28th 2015, 06:52:29 am============= 
+argmax PERPLEXITY: 4.88
+    And the so string the so string the so string the so string,
+
+ ============October 28th 2015, 06:55:05 am============= 
+argmax PERPLEXITY: 6.38
+    And the so stranger stranger strangers strangers strange
+
+ ============October 28th 2015, 06:57:51 am============= 
+argmax PERPLEXITY: 5.54
+    And the so sorrow the so strings,
+
+ ============October 28th 2015, 07:00:51 am============= 
+argmax PERPLEXITY: 6.68
+    And the soft the soft the so the so the so the so the so the so the so the so the so the so the s
+ ============October 28th 2015, 07:03:27 am============= 
+argmax PERPLEXITY: 5.56
+    And the so the so the so the so the so the so the so the so the so the so the so the so the so th
+ ============October 28th 2015, 07:06:20 am============= 
+argmax PERPLEXITY: 3.92
+    And the soft streathed the streathed the streath,
+
+ ============October 28th 2015, 07:08:45 am============= 
+argmax PERPLEXITY: 6.55
+  And the shall the shall the shall the shall the shall the shall the shall streather shall strayed s
+ ============October 28th 2015, 07:11:25 am============= 
+argmax PERPLEXITY: 5.86
+  And the should the should the should should should should should should should should should should
+ ============October 28th 2015, 07:14:24 am============= 
+argmax PERPLEXITY: 5.07
+    And the she shall the she shall the she silent the she streath,
+
+ ============October 28th 2015, 07:17:04 am============= 
+argmax PERPLEXITY: 12.30
+    And the she she she she she she she she she streath,
+
+ ============October 28th 2015, 07:19:40 am============= 
+argmax PERPLEXITY: 4.60
+    And the she she she streather the she streath,
+
+ ============October 28th 2015, 07:22:11 am============= 
+argmax PERPLEXITY: 5.18
+    And the so the so the so the so the so the so the so the so the so the so the so the so the so th
+ ============October 28th 2015, 07:24:20 am============= 
+argmax PERPLEXITY: 7.65
+    And the streathed the streathed the streathed the streath,
+
+ ============October 28th 2015, 07:27:08 am============= 
+argmax PERPLEXITY: 3.34
+    And the she strease and strease and strease and streast the streast
+
+ ============October 28th 2015, 07:29:45 am============= 
+argmax PERPLEXITY: 5.38
+    And the so the so the string the string the string string
+
+ ============October 28th 2015, 07:32:24 am============= 
+argmax PERPLEXITY: 5.21
+    And she shall shall the she shall share she string,
+
+ ============October 28th 2015, 07:34:58 am============= 
+argmax PERPLEXITY: 6.08
+    And the share the share the share the share,
+
+ ============October 28th 2015, 07:37:29 am============= 
+argmax PERPLEXITY: 185.13
+    And the shalt the shalt the shalt the shalt shallen the shalt shalt shalt shalt shalt shalt shalt
+ ============October 28th 2015, 07:40:07 am============= 
+argmax PERPLEXITY: 5.19
+    And the shalt the shalt the shalt the shalt the shalt strange
+
+ ============October 28th 2015, 07:43:01 am============= 
+argmax PERPLEXITY: 5.12
+    And the so the so the so the so the so the strange the strange
+
+ ============October 28th 2015, 07:45:37 am============= 
+argmax PERPLEXITY: Infinity
+    And the so the so the so the so the so the stars and stars,
+
+ ============October 28th 2015, 07:47:51 am============= 
+argmax PERPLEXITY: Infinity
+    And the so store the so store the still the still the still the still the still the still the sti
+ ============October 28th 2015, 07:50:44 am============= 
+argmax PERPLEXITY: 5.11
+    And the so the so the strease the strease
+
+ ============October 28th 2015, 07:52:54 am============= 
+argmax PERPLEXITY: 3.95
+    And the she still the she still the she still the she still the she string the still the still th
+ ============October 28th 2015, 07:55:40 am============= 
+argmax PERPLEXITY: 2.65
+    And the so the so the so the so the so the so the so the so the so the string string
+
+ ============October 28th 2015, 07:58:13 am============= 
+argmax PERPLEXITY: 5.57
+    The string the strayed the strayed the strayed stray
+
+ ============October 28th 2015, 08:01:00 am============= 
+argmax PERPLEXITY: 4.94
+    And the soul and the strange the strange the strange the strange
+
+ ============October 28th 2015, 08:03:55 am============= 
+argmax PERPLEXITY: 5.59
+    The so sorrow the so sorrow the strease,
+
+ ============October 28th 2015, 08:06:18 am============= 
+argmax PERPLEXITY: 7.88
+    The so sorrow the strain and strain,
+
+ ============October 28th 2015, 08:08:45 am============= 
+argmax PERPLEXITY: 7.44
+    And the strange strange strange strange strange strange strange strange strange strange
+
+ ============October 28th 2015, 08:11:17 am============= 
+argmax PERPLEXITY: 6.68
+    And the she strange she strange she strange she strange she strange strange
+
+ ============October 28th 2015, 08:13:33 am============= 
+argmax PERPLEXITY: 13.03
+    And the she see the she see the she see she streast
+
+ ============October 28th 2015, 08:16:01 am============= 
+argmax PERPLEXITY: 5.99
+    The she see the she see the she see the she see she strange
+
+ ============October 28th 2015, 08:18:18 am============= 
+argmax PERPLEXITY: 7.30
+    When the she she she she she she she strange the she strange
+
+ ============October 28th 2015, 08:20:56 am============= 
+argmax PERPLEXITY: Infinity
+    When the she she she she she see the she see the she stream,
+
+ ============October 28th 2015, 08:23:35 am============= 
+argmax PERPLEXITY: 4.46
+    And the shade the shade the shade the shade the shade the shade the shade the shade and shade
+
+ ============October 28th 2015, 08:26:26 am============= 
+argmax PERPLEXITY: 5.57
+    And the shade the shade the shade the shade the strange the strange
+
+ ============October 28th 2015, 08:29:12 am============= 
+argmax PERPLEXITY: 7.72
+    And the so lov'd the so lov'd the so love,
+
+ ============October 28th 2015, 08:31:51 am============= 
+argmax PERPLEXITY: 6.51
+    And the soft and the soft and the so lov'd the so lov'd the so lov'd the so lov'd the so lov'd th
+ ============October 28th 2015, 08:34:17 am============= 
+argmax PERPLEXITY: 4.35
+    And the she string the she string the string the string,
+
+ ============October 28th 2015, 08:36:41 am============= 
+argmax PERPLEXITY: 5.25
+    And the so lover of the so love, and strange strange she strange
+
+ ============October 28th 2015, 08:39:07 am============= 
+argmax PERPLEXITY: 6.02
+    And the strange the strange the stranger stranger strange
+
+ ============October 28th 2015, 08:42:01 am============= 
+argmax PERPLEXITY: 3.92
+    And the start and the starter the starter her start
+
+ ============October 28th 2015, 08:44:43 am============= 
+argmax PERPLEXITY: 5.91
+    And the she she she she she she she string the she string she string
+
+ ============October 28th 2015, 08:47:23 am============= 
+argmax PERPLEXITY: 4.54
+    And the she she she she she she she she she she she she she she she she she she she she she she s
+ ============October 28th 2015, 08:50:21 am============= 
+argmax PERPLEXITY: 5.68
+    The she she she she she she she she she she she stream,
+
+ ============October 28th 2015, 08:53:38 am============= 
+argmax PERPLEXITY: Infinity
+    The she she she she she she she she she she she, and she,
+
+ ============October 28th 2015, 08:56:04 am============= 
+argmax PERPLEXITY: 4.41
+    And she stream of the she stream, and stream,
+
+ ============October 28th 2015, 08:58:18 am============= 
+argmax PERPLEXITY: 3.06
+    And the stream the stream, and the stream,
+
+ ============October 28th 2015, 09:01:17 am============= 
+argmax PERPLEXITY: 5.44
+    And the stream the stream the stream the stream,
+
+ ============October 28th 2015, 09:04:07 am============= 
+argmax PERPLEXITY: 5.32
+    And she stard the sad the sad the sad streams,
+
+ ============October 28th 2015, 09:06:47 am============= 
+argmax PERPLEXITY: 5.97
+    And she stream the said the said the said
+
+ ============October 28th 2015, 09:09:31 am============= 
+argmax PERPLEXITY: 6.21
+    And stream of the said the said the said
+
+ ============October 28th 2015, 09:12:17 am============= 
+argmax PERPLEXITY: 5.61
+    And the strease the strease,
+
+ ============October 28th 2015, 09:15:11 am============= 
+argmax PERPLEXITY: 5.69
+  And the strease and streath,
+
+ ============October 28th 2015, 09:17:37 am============= 
+argmax PERPLEXITY: 9.55
+    And the said the sad strease strease,
+
+ ============October 28th 2015, 09:19:58 am============= 
+argmax PERPLEXITY: 8.97
+    And stream and stream and streaser hard streast streast
+
+ ============October 28th 2015, 09:22:23 am============= 
+argmax PERPLEXITY: 3.27
+    And the sance the strange the strange the strange strange strange strange strange strange strange
+ ============October 28th 2015, 09:24:45 am============= 
+argmax PERPLEXITY: 163.08
+    The strease the strease strease strease,
+
+ ============October 28th 2015, 09:27:17 am============= 
+argmax PERPLEXITY: 3.43
+    The shade the soft shade the so long shade,
+
+ ============October 28th 2015, 09:30:03 am============= 
+argmax PERPLEXITY: Infinity
+    The she she she she she she she she she she she she she she she she she she she she she she she s
+ ============October 28th 2015, 09:32:10 am============= 
+argmax PERPLEXITY: Infinity
+    The she she she she she she she she she she she she she she she she she she she she she she she s
+ ============October 28th 2015, 09:35:01 am============= 
+argmax PERPLEXITY: Infinity
+    And the she she she she she she she she she she she stard
+
+ ============October 28th 2015, 09:37:21 am============= 
+argmax PERPLEXITY: 3.32
+    And the she she she she she she so love
+
+ ============October 28th 2015, 09:39:35 am============= 
+argmax PERPLEXITY: 22.64
+                                                                                                     
+ ============October 28th 2015, 09:41:45 am============= 
+argmax PERPLEXITY: Infinity
+    The sorrow the sorrow the sorrow she so long she so long she so long she so long she so long she 
+ ============October 28th 2015, 09:44:16 am============= 
+argmax PERPLEXITY: 6.59
+    The sorrust the sorrust the sorrust sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorro
+ ============October 28th 2015, 09:47:00 am============= 
+argmax PERPLEXITY: 5.25
+    The said and the said and the said,
+
+ ============October 28th 2015, 09:49:07 am============= 
+argmax PERPLEXITY: 2.30
+    The said the said the said the said
+
+ ============October 28th 2015, 09:51:15 am============= 
+argmax PERPLEXITY: 4.78
+                                                                                                     
+ ============October 28th 2015, 09:53:59 am============= 
+argmax PERPLEXITY: 3.79
+    The sorrow the sorrow the sorrow the streass,
+
+ ============October 28th 2015, 09:56:43 am============= 
+argmax PERPLEXITY: 4.56
+                                                                                                     
+ ============October 28th 2015, 09:59:01 am============= 
+argmax PERPLEXITY: 3.75
+    The so love a so love a so love a so love
+
+ ============October 28th 2015, 10:02:05 am============= 
+argmax PERPLEXITY: 6.60
+    And the sorrow the sorrow the sorrow the so life the so life the so life the so life the so life 
+ ============October 28th 2015, 10:04:33 am============= 
+argmax PERPLEXITY: 5.43
+    And the so love the so love a for the so love a for the so love
+
+ ============October 28th 2015, 10:06:51 am============= 
+argmax PERPLEXITY: 8.40
+    And the soft so light the soft so light so light so light
+
+ ============October 28th 2015, 10:09:56 am============= 
+argmax PERPLEXITY: 5.52
+    And the sorrow the shore the so light the shore she shore she shore she shore she shore she shore
+ ============October 28th 2015, 10:12:49 am============= 
+argmax PERPLEXITY: 5.50
+    And the sorrow the sorrow the sorrow the sorrow the sorrow
+
+ ============October 28th 2015, 10:15:01 am============= 
+argmax PERPLEXITY: 5.37
+    And the sorrow the sorrow she so light she she so light
+
+ ============October 28th 2015, 10:17:58 am============= 
+argmax PERPLEXITY: 5.56
+    And the so light so her so light so her so light
+
+ ============October 28th 2015, 10:20:29 am============= 
+argmax PERPLEXITY: 3.98
+    And the someford the somefould the so light
+
+ ============October 28th 2015, 10:23:39 am============= 
+argmax PERPLEXITY: 5.50
+    And the said the said the said the said for the said
+
+ ============October 28th 2015, 10:26:12 am============= 
+argmax PERPLEXITY: 6.49
+  And the said the said the said the sad the sad the sad the sad the sad the sad the sad the sad the 
+ ============October 28th 2015, 10:28:41 am============= 
+argmax PERPLEXITY: 8.27
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 28th 2015, 10:31:24 am============= 
+argmax PERPLEXITY: 4.96
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 28th 2015, 10:34:07 am============= 
+argmax PERPLEXITY: Infinity
+    And the the the the the the the the the the the the the the the the the the the the the the the t
+ ============October 28th 2015, 10:36:45 am============= 
+argmax PERPLEXITY: 7.17
+    And the sad the sad the sad the sad the sad the sad the sad the sad the sad the sad the sad the s
+ ============October 28th 2015, 10:39:46 am============= 
+argmax PERPLEXITY: 8.31
+    And the sad the sad the sad the sad the sad the sad the sad the sad the sad the sad the sad the s
+ ============October 28th 2015, 10:42:02 am============= 
+argmax PERPLEXITY: 8.93
+    And the sander the sander the sad shore shore shore shore
+
+ ============October 28th 2015, 10:44:31 am============= 
+argmax PERPLEXITY: 4.59
+    And the said the said the said the said from the said
+
+ ============October 28th 2015, 10:47:08 am============= 
+argmax PERPLEXITY: 5.27
+    And the so sorrow the so sorrow the so sorrow.
+
+ ============October 28th 2015, 10:49:59 am============= 
+argmax PERPLEXITY: 4.93
+    The space the space the space space space,
+
+ ============October 28th 2015, 10:52:32 am============= 
+argmax PERPLEXITY: 5.71
+    The space the space the space space space:
+
+ ============October 28th 2015, 10:55:13 am============= 
+argmax PERPLEXITY: Infinity
+    When the she she she she she she she she space she space she space she space she space she space 
+ ============October 28th 2015, 10:57:17 am============= 
+argmax PERPLEXITY: 4.19
+    When the sharp the sharp she sharp she sharp
+
+ ============October 28th 2015, 11:00:11 am============= 
+argmax PERPLEXITY: 5.73
+    And a sharp anou his sharp anou his stars and sharp
+
+ ============October 28th 2015, 11:03:07 am============= 
+argmax PERPLEXITY: 5.17
+    And a space the so light another the stars the stars,
+
+ ============October 28th 2015, 11:05:39 am============= 
+argmax PERPLEXITY: 6.00
+    And the so light a sad the so lighters and stars,
+
+ ============October 28th 2015, 11:08:08 am============= 
+argmax PERPLEXITY: 10.52
+    And the soft a space the soft a space,
+
+ ============October 28th 2015, 11:10:38 am============= 
+argmax PERPLEXITY: 5.33
+    And the said the said the said the said,
+
+ ============October 28th 2015, 11:13:17 am============= 
+argmax PERPLEXITY: 6.90
+    And the sorrow the sorrow the sorrow the sorrow.
+
+
+ ============October 28th 2015, 11:16:07 am============= 
+argmax PERPLEXITY: 4.82
+    And the soft the soft the soft the soft the so looks,
+
+ ============October 28th 2015, 11:18:50 am============= 
+argmax PERPLEXITY: 5.22
+    And the said the said the said the said the said
+
+ ============October 28th 2015, 11:21:12 am============= 
+argmax PERPLEXITY: Infinity
+    And the some so look heard the some so look hard she she she she she she she she she she she she 
+ ============October 28th 2015, 11:24:02 am============= 
+argmax PERPLEXITY: 8.37
+    And the soft the soft the soft the soft the soft and so light
+
+ ============October 28th 2015, 11:26:57 am============= 
+argmax PERPLEXITY: 4.49
+                                                                                                     
+ ============October 28th 2015, 11:30:05 am============= 
+argmax PERPLEXITY: 3.22
+                                                                                                     
+ ============October 28th 2015, 11:33:03 am============= 
+argmax PERPLEXITY: 5.07
+    The sad the sad the sad the sad the sad she should she should she should she should she should sh
+ ============October 28th 2015, 11:36:03 am============= 
+argmax PERPLEXITY: 2.85
+    And the sank and stard and stard and starden stard
+
+ ============October 28th 2015, 11:39:01 am============= 
+argmax PERPLEXITY: 4.54
+    And she she she she she she she she she she she she she she she she she she she she she she she s
+ ============October 28th 2015, 11:41:32 am============= 
+argmax PERPLEXITY: 5.04
+    And the she she she she she she she she she she she she she she she she she she she she she she s
+ ============October 28th 2015, 11:44:12 am============= 
+argmax PERPLEXITY: 6.47
+    And the she stard and stard she stard
+
+ ============October 28th 2015, 11:47:02 am============= 
+argmax PERPLEXITY: 6.66
+    And the sorrow the sorrows and stars,
+
+ ============October 28th 2015, 11:49:24 am============= 
+argmax PERPLEXITY: 5.56
+    And the so low a sweet so love,
+
+ ============October 28th 2015, 11:52:00 am============= 
+argmax PERPLEXITY: 4.58
+    And the so let the so let strange strange strange strange.
+
+ ============October 28th 2015, 11:54:27 am============= 
+argmax PERPLEXITY: 7.02
+    And she star and she stars and stars and stars and stars,
+
+ ============October 28th 2015, 11:57:08 am============= 
+argmax PERPLEXITY: 5.47
+    And so like a so like a so like a so like a so like a so like a so like a so like a so like a so 
+ ============October 28th 2015, 11:59:48 am============= 
+argmax PERPLEXITY: 8.05
+    And she so like a song and she stars and stars and stars,
+
+ ============October 28th 2015, 12:02:10 pm============= 
+argmax PERPLEXITY: 7.80
+    And the she string of the string the strange string
+
+ ============October 28th 2015, 12:04:37 pm============= 
+argmax PERPLEXITY: 6.36
+    As the star the star the stars and stars and stars
+
+ ============October 28th 2015, 12:07:00 pm============= 
+argmax PERPLEXITY: 6.61
+    And a soft a soft a soft a so love
+
+ ============October 28th 2015, 12:09:27 pm============= 
+argmax PERPLEXITY: 5.31
+    And the star and star and star and stars and stars,
+
+ ============October 28th 2015, 12:12:14 pm============= 
+argmax PERPLEXITY: 8.43
+  And the should the star the stars of the stars and stars,
+
+ ============October 28th 2015, 12:14:58 pm============= 
+argmax PERPLEXITY: 4.66
+    And the soft a soft and so more so more
+
+ ============October 28th 2015, 12:17:36 pm============= 
+argmax PERPLEXITY: Infinity
+    And the still still still still still still still still still still still still still still still
+ ============October 28th 2015, 12:20:27 pm============= 
+argmax PERPLEXITY: 3.79
+    And the she so look heard she stars,
+
+ ============October 28th 2015, 12:22:59 pm============= 
+argmax PERPLEXITY: 5.06
+    And the she she she she she she she she she she she she she she she she she she she she she she s
+ ============October 28th 2015, 12:25:48 pm============= 
+argmax PERPLEXITY: 5.44
+    And the she she stard and the she stard and the stard
+
+ ============October 28th 2015, 12:28:19 pm============= 
+argmax PERPLEXITY: 5.91
+    And the should the should the should the should the should should should should should should sho
+ ============October 28th 2015, 12:30:50 pm============= 
+argmax PERPLEXITY: 6.82
+    And the should the should the should the should the should the should the should the should the s
+ ============October 28th 2015, 12:33:18 pm============= 
+argmax PERPLEXITY: 3.77
+    And the should the should the should the should the should the should the should the should the s
+ ============October 28th 2015, 12:35:23 pm============= 
+argmax PERPLEXITY: 9.50
+    And the she she she she she she shriek'd his her string,
+
+ ============October 28th 2015, 12:38:00 pm============= 
+argmax PERPLEXITY: Infinity
+  And the she she strings and the she strings and strings and string,
+
+ ============October 28th 2015, 12:40:39 pm============= 
+argmax PERPLEXITY: 5.44
+  And the so the so the so the so the so the so the so the so the string,
+
+ ============October 28th 2015, 12:43:38 pm============= 
+argmax PERPLEXITY: 5.89
+  And the soft a see her stranger her stranger strange
+
+ ============October 28th 2015, 12:46:16 pm============= 
+argmax PERPLEXITY: Infinity
+  And the starden the stars the stars the steeth the steeth the steeth the steet
+
+ ============October 28th 2015, 12:49:07 pm============= 
+argmax PERPLEXITY: 5.84
+  And the still the still the still the still the still the still the still the still the still the s
+ ============October 28th 2015, 12:51:28 pm============= 
+argmax PERPLEXITY: 7.07
+    And the stranger the stranger the stranger her stranger stranger stranger stranger stranger stran
+ ============October 28th 2015, 12:54:15 pm============= 
+argmax PERPLEXITY: Infinity
+    The so sound so the soft a sees, and so south the so south,
+
+ ============October 28th 2015, 12:56:51 pm============= 
+argmax PERPLEXITY: 5.20
+    The see the should the should the should she soft a sees
+
+ ============October 28th 2015, 12:59:19 pm============= 
+argmax PERPLEXITY: 5.23
+    The soft so soul and so soul and so souls and so soul.                                           
+ ============October 28th 2015, 01:01:56 pm============= 
+argmax PERPLEXITY: 12.67
+    The soft so long the soft so long so long stars,
+
+ ============October 28th 2015, 01:04:32 pm============= 
+argmax PERPLEXITY: Infinity
+    And the should the should the starters the stars the stars,
+
+ ============October 28th 2015, 01:07:20 pm============= 
+argmax PERPLEXITY: 2.89
+    And the stars the stars the stars the stars the stars the stars,
+
+ ============October 28th 2015, 01:10:14 pm============= 
+argmax PERPLEXITY: 6.46
+    The spirit the spirit the spirit the spirit the spirit the spirit the spiriter strangers the spir
+ ============October 28th 2015, 01:12:58 pm============= 
+argmax PERPLEXITY: 4.95
+    The see the see the see the see the sees,
+
+ ============October 28th 2015, 01:15:24 pm============= 
+argmax PERPLEXITY: Infinity
+    And the strease the strease the strease,
+
+ ============October 28th 2015, 01:17:41 pm============= 
+argmax PERPLEXITY: Infinity
+    And the should the should the should the should the should the should the should the should the s
+ ============October 28th 2015, 01:20:35 pm============= 
+argmax PERPLEXITY: Infinity
+    And the still of the still of the still of the still still still still still still still still st
+ ============October 28th 2015, 01:23:06 pm============= 
+argmax PERPLEXITY: 8.59
+    The should the should the should the should should should should should should should should shou
+ ============October 28th 2015, 01:26:06 pm============= 
+argmax PERPLEXITY: 4.84
+    And should the should the should the should should should should should should should should shou
+ ============October 28th 2015, 01:28:46 pm============= 
+argmax PERPLEXITY: 5.78
+  And the should the should the should the should she soft she soft she soft she soft she soft she so
+ ============October 28th 2015, 01:31:29 pm============= 
+argmax PERPLEXITY: 8.67
+    And the should the should the should the should the should shore the should shore the should shor
+ ============October 28th 2015, 01:33:54 pm============= 
+argmax PERPLEXITY: 7.53
+    And the should the should the should the should the should the should the should the should the s
+ ============October 28th 2015, 01:36:43 pm============= 
+argmax PERPLEXITY: 5.32
+    And the shore the shore the shore the shore the shores,
+
+ ============October 28th 2015, 01:39:47 pm============= 
+argmax PERPLEXITY: 5.22
+    And the shore the shore the shore the shores,
+
+ ============October 28th 2015, 01:43:01 pm============= 
+argmax PERPLEXITY: 5.08
+  And the should the should the should the should the should the should the should the should the sho
+ ============October 28th 2015, 01:46:11 pm============= 
+argmax PERPLEXITY: 6.48
+  And the she star the she stard the she stard the she stars,
+
+ ============October 28th 2015, 01:48:12 pm============= 
+argmax PERPLEXITY: 6.75
+    And the star the star the star the star the star the star the star the stars,
+
+ ============October 28th 2015, 01:50:41 pm============= 
+argmax PERPLEXITY: 5.60
+    And the star the star the star the star the star the star the star the star the star the star the
+ ============October 28th 2015, 01:53:24 pm============= 
+argmax PERPLEXITY: 6.13
+    And the shade the shade the shade the should the should she spall the should she spall the should
+ ============October 28th 2015, 01:55:22 pm============= 
+argmax PERPLEXITY: 5.11
+    And the she star the she star the she star the she stars,
+
+ ============October 28th 2015, 01:58:06 pm============= 
+argmax PERPLEXITY: 4.89
+    And the so the so the star the star the stars,
+
+ ============October 28th 2015, 02:01:07 pm============= 
+argmax PERPLEXITY: 5.96
+    And the star the star the star the star the stars and so the stars,
+
+ ============October 28th 2015, 02:03:33 pm============= 
+argmax PERPLEXITY: 5.46
+    And the she she she she she she she she she she she she she she she she she she she she she she s
+ ============October 28th 2015, 02:06:39 pm============= 
+argmax PERPLEXITY: 5.94
+    And the strease the strease the strease the strease
+
+ ============October 28th 2015, 02:09:24 pm============= 
+argmax PERPLEXITY: 5.24
+    And the streas'd the strease the strease,
+
+ ============October 28th 2015, 02:11:54 pm============= 
+argmax PERPLEXITY: 4.64
+    And the she she she she she she she stream the she she strease,
+
+ ============October 28th 2015, 02:15:09 pm============= 
+argmax PERPLEXITY: 5.59
+    And the she spels the she spels the she strine the she strine she strine
+
+ ============October 28th 2015, 02:18:00 pm============= 
+argmax PERPLEXITY: 152.23
+    And the star the stars and stars and stars,
+
+ ============October 28th 2015, 02:20:22 pm============= 
+argmax PERPLEXITY: Infinity
+    From the so the so the so the so the stars and so the stars,
+
+ ============October 28th 2015, 02:23:08 pm============= 
+argmax PERPLEXITY: 8.94
+    The said and so the said the said to the said for so start
+
+ ============October 28th 2015, 02:25:45 pm============= 
+argmax PERPLEXITY: 3.87
+    The so she see so the so sorrow the so sorrow she so she so she so stars,
+
+ ============October 28th 2015, 02:29:01 pm============= 
+argmax PERPLEXITY: 12.17
+    A all her star the star the star the star the star the stars, and the stars,
+
+ ============October 28th 2015, 02:31:49 pm============= 
+argmax PERPLEXITY: 4.62
+    And the she see the she seen the she sees,
+
+ ============October 28th 2015, 02:34:11 pm============= 
+argmax PERPLEXITY: 7.66
+    And the star the star the star the star the stars the stars the stars,
+
+ ============October 28th 2015, 02:36:45 pm============= 
+argmax PERPLEXITY: 4.85
+    And the soft the soft the soft the soft the soft the soft the so the so the so the so the so the 
+ ============October 28th 2015, 02:39:11 pm============= 
+argmax PERPLEXITY: 3.54
+    And the so the so the so the so the so the so the so the so the so the so the so the so the so th
+ ============October 28th 2015, 02:41:57 pm============= 
+argmax PERPLEXITY: 3.78
+    And the so the so the so the so the so the so the so the so the so the so the so the so the so th
+ ============October 28th 2015, 02:44:35 pm============= 
+argmax PERPLEXITY: 75.59
+    And the so the so the so the silent the silent the silent
+
+ ============October 28th 2015, 02:46:53 pm============= 
+argmax PERPLEXITY: 4.21
+    And the silent the silent the silent the silent the silent,
+
+ ============October 28th 2015, 02:49:44 pm============= 
+argmax PERPLEXITY: Infinity
+    And the sing the sing so the sing so the sing so the sing,
+
+ ============October 28th 2015, 02:52:16 pm============= 
+argmax PERPLEXITY: 5.48
+    The see the sorrow the sorrow the sorrow the see so the see,
+
+ ============October 28th 2015, 02:54:51 pm============= 
+argmax PERPLEXITY: 4.40
+    The so she see the so she she so she streass,
+
+ ============October 28th 2015, 02:57:42 pm============= 
+argmax PERPLEXITY: 7.38
+    And the streath, and so the streath, and so the streath,
+
+ ============October 28th 2015, 03:00:43 pm============= 
+argmax PERPLEXITY: 6.38
+    And the star the star the star the stars, and she streass,
+
+ ============October 28th 2015, 03:03:42 pm============= 
+argmax PERPLEXITY: 5.50
+                                                                                                     
+ ============October 28th 2015, 03:06:47 pm============= 
+argmax PERPLEXITY: 3.19
+                                                                           40
+
+ ============October 28th 2015, 03:09:15 pm============= 
+argmax PERPLEXITY: 4.04
+    And the so shade the so shade the streast the streast sharp
+
+ ============October 28th 2015, 03:11:39 pm============= 
+argmax PERPLEXITY: 9.87
+    And the so the so the so the so the streast the streast
+
+ ============October 28th 2015, 03:14:39 pm============= 
+argmax PERPLEXITY: 5.08
+    And the streath the streath the streath, and so the streath,
+
+ ============October 28th 2015, 03:17:58 pm============= 
+argmax PERPLEXITY: 2.94
+    And the soft the soft the soft the soft the soft the soft the soft the streath, and so the streat
+ ============October 28th 2015, 03:20:59 pm============= 
+argmax PERPLEXITY: 3.68
+    And the streath the streath the streath the streath,
+
+ ============October 28th 2015, 03:24:00 pm============= 
+argmax PERPLEXITY: 246.07
+    And the shade the shade the shade the stranger the strangers,
+
+ ============October 28th 2015, 03:27:05 pm============= 
+argmax PERPLEXITY: 6.88
+    And the streath the streath the streath, and the streath,
+
+ ============October 28th 2015, 03:29:12 pm============= 
+argmax PERPLEXITY: 3.61
+    And the sing the sing the singer the singer the side the side the side the side the side the side
+ ============October 28th 2015, 03:31:55 pm============= 
+argmax PERPLEXITY: 6.62
+    And the sharp the sharp the sharp the sharp the sharp the sharp the sharp the sharp shall the sha
+ ============October 28th 2015, 03:34:30 pm============= 
+argmax PERPLEXITY: 6.50
+    And the soft a for the soft a from the soft a sleep
+
+ ============October 28th 2015, 03:36:59 pm============= 
+argmax PERPLEXITY: 5.82
+    And sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow sorrow so
+ ============October 28th 2015, 03:40:01 pm============= 
+argmax PERPLEXITY: 6.55
+    And the sorrow the sorrow sorrow streast
+
+ ============October 28th 2015, 03:42:57 pm============= 
+argmax PERPLEXITY: 4.92
+    And the sorrow the string the string the string string string string string string string string 
+ ============October 28th 2015, 03:45:34 pm============= 
+argmax PERPLEXITY: 7.63
+    The string the string the string the string shade and string string
+
+ ============October 28th 2015, 03:47:53 pm============= 
+argmax PERPLEXITY: 4.78
+    The sorrow the sorrow sorrow she strease
+
+ ============October 28th 2015, 03:50:38 pm============= 
+argmax PERPLEXITY: 7.18
+    And so sorrow sorrow so sorrow so sorrow so sorrow so sorrow
+
+ ============October 28th 2015, 03:53:28 pm============= 
+argmax PERPLEXITY: 5.80
+    The soft a sain the soft a silent a said so sorrow so sorrow so sorrow so sorrow so sorrow so sor
+ ============October 28th 2015, 03:56:08 pm============= 
+argmax PERPLEXITY: 6.15
+    The soft a said and so sorrow the so sorrow so sorrow so sorrow so sorrow so sorrow so sorrow so 
+ ============October 28th 2015, 03:58:39 pm============= 
+argmax PERPLEXITY: Infinity
+    And the soft a sweet and so soft and so soft and so soft and so soft and so soft and so soft and 
+ ============October 28th 2015, 04:01:38 pm============= 
+argmax PERPLEXITY: 4.07
+    An the soft a sad the soft a sweet and so sorrow the soft and so sorrow the soft and so sorrow th
+ ============October 28th 2015, 04:04:01 pm============= 
+argmax PERPLEXITY: 5.24
+    An the soft a sort one so sorrow the soft so the soft so the soft so the soft so the soft so the 
+ ============October 28th 2015, 04:06:34 pm============= 
+argmax PERPLEXITY: 6.54
+    An the soft a sorthed the soft so the sorrow the soft so the sorrow the soft so the sorrow the so
+ ============October 28th 2015, 04:09:28 pm============= 
+argmax PERPLEXITY: 6.42
+    And the soft a sain the soft a sain the soft so the soft so the soft so the soft so the soft so t
+ ============October 28th 2015, 04:11:59 pm============= 
+argmax PERPLEXITY: 5.70
+    And the soft a soft a soft a soft a soft a soft a soft a soft
+
+ ============October 28th 2015, 04:14:27 pm============= 
+argmax PERPLEXITY: 6.35
+    And the soft a sair so the soft so the soft so the soft so the soft so the soft so the soft so th
+ ============October 28th 2015, 04:17:31 pm============= 
+argmax PERPLEXITY: 2.04
+    And the sain the sain the saintled the saintled streater streater streater streater streater stre
+ ============October 28th 2015, 04:19:53 pm============= 
+argmax PERPLEXITY: 4.92
+    And the soft a sort a saintled the streast streast,
+
+ ============October 28th 2015, 04:22:20 pm============= 
+argmax PERPLEXITY: 3.13
+    And the soft a sorrow the street the street,
+
+ ============October 28th 2015, 04:24:47 pm============= 
+argmax PERPLEXITY: 5.00
+    And the soft the star the stars, and stars, and stars,
+
+ ============October 28th 2015, 04:27:44 pm============= 
+argmax PERPLEXITY: 6.31
+    And the soft a sain the soft a sain the stars,
+
+ ============October 28th 2015, 04:30:16 pm============= 
+argmax PERPLEXITY: 5.56
+    The sorrow the sorrow the sorrow the stars and sorrow
+
+ ============October 28th 2015, 04:33:05 pm============= 
+argmax PERPLEXITY: 5.02
+    The sorrow the sorrow the sorrow the sorrow the sorrow
+
+ ============October 28th 2015, 04:35:14 pm============= 
+argmax PERPLEXITY: 8.31
+    And the sore of the sore of the sore here the sore here the sore here the sore here the sore here
+ ============October 28th 2015, 04:37:31 pm============= 
+argmax PERPLEXITY: 3.98
+  And so the soul of the soul of the soul and soul and soul and soul?
+
+ ============October 28th 2015, 04:39:58 pm============= 
+argmax PERPLEXITY: Infinity
+    And the sore her soul and soul and soul?
+
+ ============October 28th 2015, 04:42:34 pm============= 
+argmax PERPLEXITY: 5.59
+  And the so the so the so the so the so the so the so the so the so the so the so the so the so the 
+ ============October 28th 2015, 04:45:25 pm============= 
+argmax PERPLEXITY: 4.42
+  And so the so sorrur'd the so sorrur'd,
+
+ ============October 28th 2015, 04:47:45 pm============= 
+argmax PERPLEXITY: 4.47
+  And the so sorrow the so sorrow the so sorrow
+
+ ============October 28th 2015, 04:50:01 pm============= 
+argmax PERPLEXITY: 6.94
+    The so soul and so soul and so soul and so soul and so soul and strang
+
+ ============October 28th 2015, 04:52:44 pm============= 
+argmax PERPLEXITY: 3.33
+    The so sorrow the so sorrow the so sorrow the so sorrow
+
+ ============October 28th 2015, 04:55:06 pm============= 
+argmax PERPLEXITY: 9.81
+    The so sorrow the so sorrow the so sorrurs
+
+ ============October 28th 2015, 04:57:33 pm============= 
+argmax PERPLEXITY: 5.59
+    The she she she she she she she she she she she she she she she she she she she she she she strin
+ ============October 28th 2015, 05:00:07 pm============= 
+argmax PERPLEXITY: 4.85
+    The she she she she she she she she she she she she she she she she she she she she she she she s
+ ============October 28th 2015, 05:02:51 pm============= 
+argmax PERPLEXITY: 6.43
+    The she she strus the she she strung the she strung the she strung,
+
+ ============October 28th 2015, 05:06:15 pm============= 
+argmax PERPLEXITY: 8.50
+    The star the star the star the star the star the star the star the star the star the stars
+
+ ============October 28th 2015, 05:08:10 pm============= 
+argmax PERPLEXITY: 6.59
+    The so soring the so soring the star the start
+
+ ============October 28th 2015, 05:10:56 pm============= 
+argmax PERPLEXITY: 6.15
+    Or the she she she she she she she she she she should the should the should the should the should
+ ============October 28th 2015, 05:13:24 pm============= 
+argmax PERPLEXITY: 8.05
+    The she she she she she she she she she she she strease,
+
+ ============October 28th 2015, 05:15:50 pm============= 
+argmax PERPLEXITY: Infinity
+    The she she she she she she she she she she she she she she she she she she string the she string
+ ============October 28th 2015, 05:18:04 pm============= 
+argmax PERPLEXITY: 11.15
+    The she she she string the she she string the she string,
+
+ ============October 28th 2015, 05:20:40 pm============= 
+argmax PERPLEXITY: 6.63
+    The string the string the string the string, as the string,
+
+ ============October 28th 2015, 05:22:59 pm============= 
+argmax PERPLEXITY: 12.21
+    The streathed the streath the streathed the strease
+
+ ============October 28th 2015, 05:25:51 pm============= 
+argmax PERPLEXITY: 5.16
+    The so sorrow the so sorrow the string the stranger strang
+
+ ============October 28th 2015, 05:28:23 pm============= 
+argmax PERPLEXITY: 4.66
+    The stranger so the stranger stranger strangs
+
+ ============October 28th 2015, 05:30:30 pm============= 
+argmax PERPLEXITY: 6.71
+    The star the star the star the star the star the stars the stars,
+
+ ============October 28th 2015, 05:32:56 pm============= 
+argmax PERPLEXITY: 22.50
+                                                                                                     
+ ============October 28th 2015, 05:35:21 pm============= 
+argmax PERPLEXITY: 5.40
+    And the shaded the shaded the shaded the shaded the shade
+
+ ============October 28th 2015, 05:37:57 pm============= 
+argmax PERPLEXITY: 5.14
+    And the stranger still of the stranger strangs
+
+ ============October 28th 2015, 05:40:14 pm============= 
+argmax PERPLEXITY: Infinity
+    And the string the string the string the string the string string with string
+
+ ============October 28th 2015, 05:42:33 pm============= 
+argmax PERPLEXITY: 4.20
+    And the stranger still of the stranger her still the strange
+
+ ============October 28th 2015, 05:45:04 pm============= 
+argmax PERPLEXITY: Infinity
+    And the string the string the string the string the string the string the string the string the s
+ ============October 28th 2015, 05:48:05 pm============= 
+argmax PERPLEXITY: Infinity
+    And the stranger stranger stranger her strange
+
+ ============October 28th 2015, 05:50:56 pm============= 
+argmax PERPLEXITY: 5.59
+    And the soft an in the soft an in the soft and so more still of the string
+
+ ============October 28th 2015, 05:53:34 pm============= 
+argmax PERPLEXITY: 7.85
+    The soul of the soul of the soul of the soul of the soul.                                        
+ ============October 28th 2015, 05:56:19 pm============= 
+argmax PERPLEXITY: 7.43
+    The star the soft and star the star the star the star the star the star the star the star the sta
+ ============October 28th 2015, 05:58:53 pm============= 
+argmax PERPLEXITY: 3.03
+    The stranger stranger strangs and strangs
+
+ ============October 28th 2015, 06:01:39 pm============= 
+argmax PERPLEXITY: 4.57
+    And the streak the streak the streaks and streak
+
+ ============October 28th 2015, 06:04:25 pm============= 
+argmax PERPLEXITY: 4.97
+    Of the sounds and the sounds and the sounds and the streaks and streaks
+
+ ============October 28th 2015, 06:07:31 pm============= 
+argmax PERPLEXITY: 5.66
+    She the stranger the stard the stard the stards and the stard
+
+ ============October 28th 2015, 06:09:40 pm============= 
+argmax PERPLEXITY: 5.40
+    Of the streak of the streak of the streaks and streaks
+
+ ============October 28th 2015, 06:12:17 pm============= 
+argmax PERPLEXITY: 4.34
+    Of the she silent the string the string the string the string the string
+
+ ============October 28th 2015, 06:15:02 pm============= 
+argmax PERPLEXITY: 5.22
+    Of the silent the silent of the silent of the string the string the string she string she string 
+ ============October 28th 2015, 06:17:54 pm============= 
+argmax PERPLEXITY: 3.75
+    And the she see of she see of she see see stream of the stream
+
+ ============October 28th 2015, 06:20:17 pm============= 
+argmax PERPLEXITY: 6.71
+    And the stream of the stream of the strease
+
+ ============October 28th 2015, 06:22:59 pm============= 
+argmax PERPLEXITY: 4.90
+    The she see of shell the she see of shell the she seest she seest she sees,
+
+ ============October 28th 2015, 06:25:13 pm============= 
+argmax PERPLEXITY: 98.58
+    The stream of the stream of the strease strease strease,
+
+ ============October 28th 2015, 06:27:46 pm============= 
+argmax PERPLEXITY: 4.75
+    And the stream of the stream of the streass,
+
+ ============October 28th 2015, 06:30:25 pm============= 
+argmax PERPLEXITY: 4.17
+    And the string the string the string the string,
+
+ ============October 28th 2015, 06:33:24 pm============= 
+argmax PERPLEXITY: 4.23
+    And the star the star the star the star the star the star the stars,
+
+ ============October 28th 2015, 06:36:11 pm============= 
+argmax PERPLEXITY: 4.80
+    And the star the stard the starden the stars,
+
+ ============October 28th 2015, 06:39:12 pm============= 
+argmax PERPLEXITY: 7.06
+    And the star the star the star the stars and the stars,
+
+ ============October 28th 2015, 06:41:55 pm============= 
+argmax PERPLEXITY: 5.96
+    And the streath the streath the streath the streath
+
+ ============October 28th 2015, 06:44:21 pm============= 
+argmax PERPLEXITY: Infinity
+    The should the streath the streath the streath,
+
+ ============October 28th 2015, 06:46:48 pm============= 
+argmax PERPLEXITY: 5.29
+    The streath the star the streath the stard the stars and the stars,
+
+ ============October 28th 2015, 06:50:12 pm============= 
+argmax PERPLEXITY: 4.67
+    The she see of the she see of the she see the she see,
+
+ ============October 28th 2015, 06:52:55 pm============= 
+argmax PERPLEXITY: 4.79
+    The she see of the she seen the she seen the she stream,
+
+ ============October 28th 2015, 06:55:23 pm============= 
+argmax PERPLEXITY: Infinity
+    The she see of the she see of the shell the shell the shell the shell the shell the shell the she
+ ============October 28th 2015, 06:57:54 pm============= 
+argmax PERPLEXITY: 3.55
+    And with her she see she see she sees,
+
+ ============October 28th 2015, 07:00:31 pm============= 
+argmax PERPLEXITY: 4.63
+    And the she she see and the she she sees,
+
+ ============October 28th 2015, 07:03:08 pm============= 
+argmax PERPLEXITY: 5.32
+    And the she she seen and she she seen and she she she see,
+
+ ============October 28th 2015, 07:05:39 pm============= 
+argmax PERPLEXITY: 6.55
+    And the she she spers the she she spers the she she spers, and she spers,
+
+ ============October 28th 2015, 07:08:26 pm============= 
+argmax PERPLEXITY: 3.81
+    And the she she see her she she see and the she she she spears and she she she she she she she sp
+ ============October 28th 2015, 07:10:26 pm============= 
+argmax PERPLEXITY: 3.79
+                                                                                                     
+ ============October 28th 2015, 07:12:56 pm============= 
+argmax PERPLEXITY: 5.54
+                                                                                                     
+ ============October 28th 2015, 07:15:45 pm============= 
+argmax PERPLEXITY: 5.81
+                                                                                                     
+ ============October 28th 2015, 07:18:07 pm============= 
+argmax PERPLEXITY: Infinity
+    And the sad and the sad and the sad and beauty and beauty and beauty and beauty and beauty and be
+ ============October 28th 2015, 07:20:41 pm============= 
+argmax PERPLEXITY: 6.27
+                                                                                                     
+ ============October 28th 2015, 07:23:13 pm============= 
+argmax PERPLEXITY: 12.35
+    And the she see he shade the she see he shade the sad he shade
+
+ ============October 28th 2015, 07:25:41 pm============= 
+argmax PERPLEXITY: 3.64
+    And the she she she she she she she she she she she she she she she she she she she she she she s
+ ============October 28th 2015, 07:28:25 pm============= 
+argmax PERPLEXITY: 4.88
+    And the sad his the sad he she string,
