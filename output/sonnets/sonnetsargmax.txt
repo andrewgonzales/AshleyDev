@@ -1,0 +1,175 @@
+
+ ============October 29th 2015, 10:55:37 pm============= 
+argmax PERPLEXITY: Infinity
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 10:57:18 pm============= 
+argmax PERPLEXITY: 6.54
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 10:59:05 pm============= 
+argmax PERPLEXITY: 4.57
+  The shall then the shall then the shall then the shall then the shall then the shall then the shall
+ ============October 29th 2015, 11:00:22 pm============= 
+argmax PERPLEXITY: Infinity
+  The so the so the so the so the so the so the so the so the so the so the so the so the so the so t
+ ============October 29th 2015, 11:01:41 pm============= 
+argmax PERPLEXITY: 7.75
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:02:58 pm============= 
+argmax PERPLEXITY: 4.64
+  The the doth the doth the doth the doth the doth the doth the doth the doth the doth the doth the d
+ ============October 29th 2015, 11:04:36 pm============= 
+argmax PERPLEXITY: Infinity
+  The then the then the then the then the then the then the then the then the then the then the then 
+ ============October 29th 2015, 11:06:12 pm============= 
+argmax PERPLEXITY: 7.10
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:07:49 pm============= 
+argmax PERPLEXITY: Infinity
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:09:21 pm============= 
+argmax PERPLEXITY: 5.10
+  Which the so the so the so the so the so the so the so the so the so the so the so the so the so th
+ ============October 29th 2015, 11:10:45 pm============= 
+argmax PERPLEXITY: 6.74
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:12:27 pm============= 
+argmax PERPLEXITY: 7.89
+  Which the the the the the the the the the the the the the the the the the the the the the the the t
+ ============October 29th 2015, 11:14:08 pm============= 
+argmax PERPLEXITY: 5.52
+    And the the the the the the the the the the the the the the the the the the the the the the the t
+ ============October 29th 2015, 11:15:47 pm============= 
+argmax PERPLEXITY: 4.95
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:17:25 pm============= 
+argmax PERPLEXITY: 4.26
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:19:08 pm============= 
+argmax PERPLEXITY: 5.06
+  The the the the the the the the the the the the so the so the so the so the so the the the the the 
+ ============October 29th 2015, 11:20:42 pm============= 
+argmax PERPLEXITY: 4.82
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:22:17 pm============= 
+argmax PERPLEXITY: 5.47
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:23:51 pm============= 
+argmax PERPLEXITY: 4.65
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:25:28 pm============= 
+argmax PERPLEXITY: 8.53
+  The the shall the shall the shall the shall the shall the shall the shall the shall the shall the s
+ ============October 29th 2015, 11:27:02 pm============= 
+argmax PERPLEXITY: 4.99
+  The do shall the do shall the do shall the do shall the do shall the do shall the do shall the do s
+ ============October 29th 2015, 11:28:23 pm============= 
+argmax PERPLEXITY: 4.42
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:29:52 pm============= 
+argmax PERPLEXITY: 9.77
+  The the thee thee thee thee thee thee thee thee thee thee thee thee thee thee the the the the the t
+ ============October 29th 2015, 11:31:22 pm============= 
+argmax PERPLEXITY: 6.80
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:32:54 pm============= 
+argmax PERPLEXITY: 6.47
+  The thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee 
+ ============October 29th 2015, 11:34:24 pm============= 
+argmax PERPLEXITY: Infinity
+  The love the love the love the love the love the love the love the love the love the love the love 
+ ============October 29th 2015, 11:36:17 pm============= 
+argmax PERPLEXITY: 4.60
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:38:01 pm============= 
+argmax PERPLEXITY: 5.74
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:39:35 pm============= 
+argmax PERPLEXITY: 7.96
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:40:56 pm============= 
+argmax PERPLEXITY: 5.88
+  The thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee 
+ ============October 29th 2015, 11:42:20 pm============= 
+argmax PERPLEXITY: 5.62
+    And the the the the the the the the the the the the the the the the the the the the the the the t
+ ============October 29th 2015, 11:44:04 pm============= 
+argmax PERPLEXITY: 4.31
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:45:43 pm============= 
+argmax PERPLEXITY: 6.40
+    And the the the the the the the the the the the the the the the the the the the the the the the t
+ ============October 29th 2015, 11:47:03 pm============= 
+argmax PERPLEXITY: 4.99
+    And the the the the the the the the the the the the the the the the the the the the the the the t
+ ============October 29th 2015, 11:48:34 pm============= 
+argmax PERPLEXITY: 8.53
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:50:06 pm============= 
+argmax PERPLEXITY: 4.33
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 29th 2015, 11:51:17 pm============= 
+argmax PERPLEXITY: Infinity
+  The do the do the do the do the do the do the do the do the do the do the do the do the do the do t
+ ============October 29th 2015, 11:52:40 pm============= 
+argmax PERPLEXITY: 6.29
+  The the doth the doth the doth the doth the doth the doth the doth the doth the doth the doth the d
+ ============October 29th 2015, 11:54:00 pm============= 
+argmax PERPLEXITY: 7.50
+  The the dead the dead the dead the dead the dead the dead the dead the dead the dead the dead the d
+ ============October 29th 2015, 11:55:30 pm============= 
+argmax PERPLEXITY: Infinity
+  The do which thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee t
+ ============October 29th 2015, 11:56:55 pm============= 
+argmax PERPLEXITY: 5.14
+  The doth thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee 
+ ============October 29th 2015, 11:58:13 pm============= 
+argmax PERPLEXITY: 8.42
+  The the doth thee thee thee thee thee thee thee thee thee thee thee thee thee the doth the doth the
+ ============October 29th 2015, 11:59:37 pm============= 
+argmax PERPLEXITY: 7.92
+  The the death the death the death the death the death the death the death the death the death the d
+ ============October 30th 2015, 12:01:24 am============= 
+argmax PERPLEXITY: 4.45
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 30th 2015, 12:02:47 am============= 
+argmax PERPLEXITY: 6.72
+  The thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee 
+ ============October 30th 2015, 12:04:12 am============= 
+argmax PERPLEXITY: 5.38
+  The the thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee t
+ ============October 30th 2015, 12:05:52 am============= 
+argmax PERPLEXITY: 7.66
+  Which the death the death the death the death the death the death the death the death the death the
+ ============October 30th 2015, 12:07:15 am============= 
+argmax PERPLEXITY: 5.37
+  Which the dead the dead the dead the dead the dead the dead the dead the dead the dead the dead the
+ ============October 30th 2015, 12:08:44 am============= 
+argmax PERPLEXITY: 3.02
+  Which the dead the dead the dead the dead the dead the dead the dead the dead the dead the dead the
+ ============October 30th 2015, 12:10:05 am============= 
+argmax PERPLEXITY: 4.59
+  Which the so the so the so the so the so the so the so the so the so the so the so the so the so th
+ ============October 30th 2015, 12:11:43 am============= 
+argmax PERPLEXITY: Infinity
+  Which the dot so the dot so the dot so the dot so the dot so the dot so the dot so the dot so the d
+ ============October 30th 2015, 12:13:14 am============= 
+argmax PERPLEXITY: 4.72
+    And the dich the doth the so the so the so the so the so the so the so the so the so the so the s
+ ============October 30th 2015, 12:14:38 am============= 
+argmax PERPLEXITY: 5.84
+  Which the so the so the so the so the so the so the so the so the so the so the so the so the so th
+ ============October 30th 2015, 12:16:04 am============= 
+argmax PERPLEXITY: 4.87
+    And the so the so the so the so the so the so the so the so the so the so the so the so the so th
+ ============October 30th 2015, 12:17:30 am============= 
+argmax PERPLEXITY: 7.94
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============October 30th 2015, 12:18:57 am============= 
+argmax PERPLEXITY: 6.84
+    Then the so the so the so the so the so the so the so the so the so the so the so the so the so t
+ ============October 30th 2015, 12:20:24 am============= 
+argmax PERPLEXITY: 4.41
+    And the the the the the the the the the the the the the the the the the the the the the the the t
+ ============October 30th 2015, 12:21:39 am============= 
+argmax PERPLEXITY: 8.59
+  The the the the the the the the the the the the the the the the the the the the the the the the the

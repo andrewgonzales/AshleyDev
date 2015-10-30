@@ -1,0 +1,3271 @@
+
+ ============October 30th 2015, 12:34:46 am============= 
+argmax PERPLEXITY: 4.55
+      The sound the shall the she she she she she she she she she she she she she she she she she she
+ ============October 30th 2015, 12:35:14 am============= 
+argmax PERPLEXITY: 5.62
+      The be sound the she she she she she she she she she she she she she she she she she she she sh
+ ============October 30th 2015, 12:35:41 am============= 
+argmax PERPLEXITY: 5.41
+
+
+ ============October 30th 2015, 12:36:11 am============= 
+argmax PERPLEXITY: Infinity
+      The be songen the gone the gone the gone the gone the gone the gone the gone the gone the gone 
+ ============October 30th 2015, 12:36:39 am============= 
+argmax PERPLEXITY: 1.83
+      The song the grorn the grown the grongen the grown the grongen the grown the grongen the grown 
+ ============October 30th 2015, 12:37:04 am============= 
+argmax PERPLEXITY: 6.68
+
+
+ ============October 30th 2015, 12:37:31 am============= 
+argmax PERPLEXITY: 5.33
+      The song the gove to to tough the gove to to tough the gove to to tough the gove to to tough th
+ ============October 30th 2015, 12:37:57 am============= 
+argmax PERPLEXITY: Infinity
+      The song the gove to tough the gove to tough the gove to tough the gove to tough the gove to to
+ ============October 30th 2015, 12:38:28 am============= 
+argmax PERPLEXITY: Infinity
+      The song the gove song,
+
+ ============October 30th 2015, 12:39:05 am============= 
+argmax PERPLEXITY: 4.35
+      The song a gord far the gove fror the gove fror the gove fror the gove fror the gove fror the g
+ ============October 30th 2015, 12:39:41 am============= 
+argmax PERPLEXITY: 5.43
+      The song the song a sher to sher to sher to sher to sher to shen to shen to shen to shen to she
+ ============October 30th 2015, 12:40:15 am============= 
+argmax PERPLEXITY: 3.83
+      The bearter the grove the gods the gods the gods the gods the gods the gods the gods the gods t
+ ============October 30th 2015, 12:40:42 am============= 
+argmax PERPLEXITY: Infinity
+      The song the gods the gods the gods the gods the gods the gods the gods the gods the gods the g
+ ============October 30th 2015, 12:41:09 am============= 
+argmax PERPLEXITY: 3.70
+      The herer the groves the groves the groves the groves the grocks the grocks the grocks the groc
+ ============October 30th 2015, 12:41:34 am============= 
+argmax PERPLEXITY: 4.69
+
+
+ ============October 30th 2015, 12:42:02 am============= 
+argmax PERPLEXITY: 3.32
+      The song the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 12:42:31 am============= 
+argmax PERPLEXITY: Infinity
+      The song the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 12:42:57 am============= 
+argmax PERPLEXITY: 5.21
+      The song the gone to my song to my song all
+
+ ============October 30th 2015, 12:43:29 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 12:44:00 am============= 
+argmax PERPLEXITY: 5.94
+      And the grock the grocks the groce the groce the groce the groce the groce the groce the groce 
+ ============October 30th 2015, 12:44:32 am============= 
+argmax PERPLEXITY: Infinity
+      And the grock the grocks to my tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom 
+ ============October 30th 2015, 12:45:25 am============= 
+argmax PERPLEXITY: 5.69
+      And the sort the sort the sort the sort the sord the sord the sord the sord the sord the sord t
+ ============October 30th 2015, 12:46:29 am============= 
+argmax PERPLEXITY: 4.97
+      The sound the groin the grock,
+
+ ============October 30th 2015, 12:47:26 am============= 
+argmax PERPLEXITY: 3.30
+      The sound the grock, and the grock, and the grock, and the grock, and the grock,
+
+ ============October 30th 2015, 12:48:26 am============= 
+argmax PERPLEXITY: 5.48
+
+
+ ============October 30th 2015, 12:49:23 am============= 
+argmax PERPLEXITY: 2.39
+      The far the groin the grock, and the groce,
+
+ ============October 30th 2015, 12:50:09 am============= 
+argmax PERPLEXITY: 6.34
+      The sound the groin the groin the groin the groin the groin the groin the groin the groin the g
+ ============October 30th 2015, 12:51:04 am============= 
+argmax PERPLEXITY: 8.90
+      The sound the sound the groin the grove the grove to my to flames the grove to my to flames the
+ ============October 30th 2015, 12:51:48 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 12:52:37 am============= 
+argmax PERPLEXITY: 6.24
+      THE AN THE
+
+
+ ============October 30th 2015, 12:53:35 am============= 
+argmax PERPLEXITY: 4.97
+      And shall the gone the gods the gods the gods the gods the gods the gods the gods the gods the 
+ ============October 30th 2015, 12:54:41 am============= 
+argmax PERPLEXITY: Infinity
+      The be dise the sound the gove to my most the gove to my most the gone the gone the gone the go
+ ============October 30th 2015, 12:55:46 am============= 
+argmax PERPLEXITY: 4.61
+      The my to my to me to my to me to me the groin the gove to me to me the gove to me to me the go
+ ============October 30th 2015, 12:56:48 am============= 
+argmax PERPLEXITY: Infinity
+      There the shall the shall the shat the shat the shat the shat the shat the shat the shat the sh
+ ============October 30th 2015, 12:57:40 am============= 
+argmax PERPLEXITY: 3.93
+      The the grost the gone the gone the gone the gone the gone the gone the gone the gone the gone 
+ ============October 30th 2015, 12:59:05 am============= 
+argmax PERPLEXITY: 2.05
+      The sound the sound the soun the soun the soun the soun the soun the soun the soun the soun the
+ ============October 30th 2015, 01:00:26 am============= 
+argmax PERPLEXITY: Infinity
+      The sound the sound the sound the sound the sound the sound the sound the sound the sound the s
+ ============October 30th 2015, 01:01:41 am============= 
+argmax PERPLEXITY: Infinity
+      The far sher to shen to shen to shen to shen to shen to shen to shen to shen to shen to shen to
+ ============October 30th 2015, 01:02:35 am============= 
+argmax PERPLEXITY: 3.97
+      The far shall to my shall to my to far the gone the gone the gone the gone the gone the gone th
+ ============October 30th 2015, 01:03:28 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 01:04:33 am============= 
+argmax PERPLEXITY: 2.90
+      And shall the gods the gods the gods the gods the gods the gods the gods the gods the gods the 
+ ============October 30th 2015, 01:05:33 am============= 
+argmax PERPLEXITY: 6.45
+      And the grove the gods the gods the gods the gods the gods the gods the gods the gods the gods 
+ ============October 30th 2015, 01:06:37 am============= 
+argmax PERPLEXITY: 3.58
+      The song the grove the grove the grove the grove the grove the grove the grove the grove the gr
+ ============October 30th 2015, 01:07:37 am============= 
+argmax PERPLEXITY: 3.79
+      The far the grast the grast the grast the grast the grast the grast the grast the grast the gra
+ ============October 30th 2015, 01:08:44 am============= 
+argmax PERPLEXITY: 5.98
+      The farth the grast the groin the groin the groin the groin the groin the groin the groin the g
+ ============October 30th 2015, 01:09:44 am============= 
+argmax PERPLEXITY: 4.24
+      The far the grast the grast the grast the grast the grast the grast the grast the grast the gra
+ ============October 30th 2015, 01:10:58 am============= 
+argmax PERPLEXITY: Infinity
+      The Teat the groin the groin the groin the groin the groin the groin the groin the groin the gr
+ ============October 30th 2015, 01:12:12 am============= 
+argmax PERPLEXITY: 4.68
+      The song the song,
+
+ ============October 30th 2015, 01:13:13 am============= 
+argmax PERPLEXITY: 4.45
+      The sonds the songed the songed the songed to gone the songed to gone the songed to gone the so
+ ============October 30th 2015, 01:14:25 am============= 
+argmax PERPLEXITY: 5.62
+      The song the groin the groin the groin the groin the groin the groin the groin the groin the gr
+ ============October 30th 2015, 01:15:30 am============= 
+argmax PERPLEXITY: Infinity
+      The song the song the song the song and the song and the song and the song and the song and the
+ ============October 30th 2015, 01:16:43 am============= 
+argmax PERPLEXITY: Infinity
+      The here the groin the groin the groin the groin the groin the groin the groin the groin the gr
+ ============October 30th 2015, 01:17:42 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 01:19:03 am============= 
+argmax PERPLEXITY: 7.05
+      The song the song to the song to the song to my song to my song to my song to my song to my son
+ ============October 30th 2015, 01:20:46 am============= 
+argmax PERPLEXITY: 6.87
+      The song the song the groin the groin the groin the groin the groin the groin the groin the gro
+ ============October 30th 2015, 01:22:27 am============= 
+argmax PERPLEXITY: 2.92
+      The brove the grove the grocks to the grocks to the grocks to the grocks to the grocks to the g
+ ============October 30th 2015, 01:24:04 am============= 
+argmax PERPLEXITY: 11.37
+      The be the groin the groin the groin the groine the groine the groine the groine the groine the
+ ============October 30th 2015, 01:25:02 am============= 
+argmax PERPLEXITY: 6.00
+      The her to my song and the groine the groine the groine the groine the groine the groine the gr
+ ============October 30th 2015, 01:26:03 am============= 
+argmax PERPLEXITY: 4.71
+
+
+ ============October 30th 2015, 01:27:08 am============= 
+argmax PERPLEXITY: 8.02
+      Who her the she to my song the she to me the she to me the she to me the she to me the she to m
+ ============October 30th 2015, 01:28:13 am============= 
+argmax PERPLEXITY: 1.95
+      There the song a shrong the song all
+
+ ============October 30th 2015, 01:29:20 am============= 
+argmax PERPLEXITY: Infinity
+      The song the grove the grove the grore the grore the grore the grore the grore the grore the gr
+ ============October 30th 2015, 01:30:21 am============= 
+argmax PERPLEXITY: Infinity
+      The be day the gronger the gronger the gronger the gronger the gronger the gronger the gronger 
+ ============October 30th 2015, 01:31:24 am============= 
+argmax PERPLEXITY: 6.78
+      The be dieft the share the to flom the shars the she to gome the she to gome the she to gome th
+ ============October 30th 2015, 01:32:12 am============= 
+argmax PERPLEXITY: Infinity
+      The be dieft the gone the gone the gods to me the gods to me the gods to me the gods to me the 
+ ============October 30th 2015, 01:33:27 am============= 
+argmax PERPLEXITY: 11.81
+      And the groves the grort the grore the grore the grore the grore the grore the grore the grore 
+ ============October 30th 2015, 01:34:34 am============= 
+argmax PERPLEXITY: 3.63
+      Father to me the groine the groine the groine the groine the groine the groine the groine the g
+ ============October 30th 2015, 01:35:59 am============= 
+argmax PERPLEXITY: 5.44
+      And the song the song to me the song to me the song to me the song to me the song to me the son
+ ============October 30th 2015, 01:37:26 am============= 
+argmax PERPLEXITY: Infinity
+      The song the song the seas to me the seas to me the seas to me the seas to me the seas to me th
+ ============October 30th 2015, 01:38:53 am============= 
+argmax PERPLEXITY: Infinity
+      The song the song the song the sher to me the song the sher to me the song the sher to me the s
+ ============October 30th 2015, 01:40:26 am============= 
+argmax PERPLEXITY: 13.94
+      The song the song to me the song to me the song to me the song to me the song to me the song to
+ ============October 30th 2015, 01:41:40 am============= 
+argmax PERPLEXITY: 4.14
+      The song a stall, and the song and the song and the song and the song and the song and the song
+ ============October 30th 2015, 01:42:48 am============= 
+argmax PERPLEXITY: 5.96
+      The song and the sing the sing,
+
+ ============October 30th 2015, 01:44:05 am============= 
+argmax PERPLEXITY: 4.52
+      The song the song the song the song the song the song the song the song the song the song the s
+ ============October 30th 2015, 01:45:19 am============= 
+argmax PERPLEXITY: 5.65
+      The sond the shars shars shars shars shars shars shars shars shars shars shars shars shars shar
+ ============October 30th 2015, 01:46:28 am============= 
+argmax PERPLEXITY: Infinity
+      The song and shars shars shars shars shars shars shars shars shars shars shars shars shars shar
+ ============October 30th 2015, 01:47:32 am============= 
+argmax PERPLEXITY: 7.11
+      The song the gome the gome the gome the gome the gome the gome the gome the gome the gome the g
+ ============October 30th 2015, 01:48:28 am============= 
+argmax PERPLEXITY: Infinity
+      The song the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 01:49:34 am============= 
+argmax PERPLEXITY: 6.51
+      The farted the gong the gonger the gonger the gonger the gonger the gonger the gonger the gonge
+ ============October 30th 2015, 01:50:43 am============= 
+argmax PERPLEXITY: 5.02
+      The song the gonger the gone the gone the gone the gone the gone the gone the gone the gone the
+ ============October 30th 2015, 01:51:49 am============= 
+argmax PERPLEXITY: Infinity
+      The farted the gaze the gaze the gaze the gaze the gaze the gaze the gaze the gong the gong the
+ ============October 30th 2015, 01:52:50 am============= 
+argmax PERPLEXITY: 3.64
+      The far the gove the gove the gove the gove the gove the gove the gove the gove the gove the go
+ ============October 30th 2015, 01:53:41 am============= 
+argmax PERPLEXITY: Infinity
+      XXI
+
+
+ ============October 30th 2015, 01:54:42 am============= 
+argmax PERPLEXITY: 4.91
+      XXI
+
+
+ ============October 30th 2015, 01:56:04 am============= 
+argmax PERPLEXITY: Infinity
+      And the gong the fare the far the far the far the far the far the far the far the far the far t
+ ============October 30th 2015, 01:57:05 am============= 
+argmax PERPLEXITY: 4.76
+      XXII
+
+
+ ============October 30th 2015, 01:58:10 am============= 
+argmax PERPLEXITY: 3.50
+      LI
+
+
+ ============October 30th 2015, 01:59:00 am============= 
+argmax PERPLEXITY: 4.52
+      XXII
+
+
+ ============October 30th 2015, 02:00:07 am============= 
+argmax PERPLEXITY: Infinity
+      The sond the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 02:01:06 am============= 
+argmax PERPLEXITY: 5.46
+      XXII
+
+
+ ============October 30th 2015, 02:02:26 am============= 
+argmax PERPLEXITY: 2.09
+      And the gone the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 02:03:36 am============= 
+argmax PERPLEXITY: 22.95
+      And the groom the gods the gods the gods the gods the gods the gods the gods the gods the gods 
+ ============October 30th 2015, 02:04:32 am============= 
+argmax PERPLEXITY: 5.87
+      And the gods the gods the gods the gods the gods the gods the gods the gods the gods the gods t
+ ============October 30th 2015, 02:05:33 am============= 
+argmax PERPLEXITY: Infinity
+      And the gods the gods the gods the gods the gods the gods the gods the gods the gods the gods t
+ ============October 30th 2015, 02:06:18 am============= 
+argmax PERPLEXITY: 2.91
+
+
+
+ ============October 30th 2015, 02:07:09 am============= 
+argmax PERPLEXITY: 2.13
+
+
+ ============October 30th 2015, 02:08:11 am============= 
+argmax PERPLEXITY: 3.53
+      And the gone the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 02:09:05 am============= 
+argmax PERPLEXITY: Infinity
+      And the gone the gone the gone the gone the gods, and the godss the godss the godss the godss t
+ ============October 30th 2015, 02:10:13 am============= 
+argmax PERPLEXITY: Infinity
+      And the sound the gods the gods to my tough--
+
+ ============October 30th 2015, 02:11:29 am============= 
+argmax PERPLEXITY: Infinity
+      XXXIIII
+
+
+ ============October 30th 2015, 02:12:10 am============= 
+argmax PERPLEXITY: 4.44
+
+
+ ============October 30th 2015, 02:12:58 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 02:14:00 am============= 
+argmax PERPLEXITY: 5.68
+      And the gove the gods the gove to me the gods the gods the gods the gods the gods the gods the 
+ ============October 30th 2015, 02:14:57 am============= 
+argmax PERPLEXITY: 6.55
+
+
+ ============October 30th 2015, 02:16:03 am============= 
+argmax PERPLEXITY: Infinity
+      And the gove to me the gome the gome the gome the gome the gome the gome the gome the gome the 
+ ============October 30th 2015, 02:17:14 am============= 
+argmax PERPLEXITY: 3.90
+      XXIII
+
+
+ ============October 30th 2015, 02:18:17 am============= 
+argmax PERPLEXITY: 4.39
+      And the gove to me the gods the be dore the gods the be dender the be dender the be dender the 
+ ============October 30th 2015, 02:19:23 am============= 
+argmax PERPLEXITY: Infinity
+      XXXIII
+
+
+ ============October 30th 2015, 02:20:10 am============= 
+argmax PERPLEXITY: 4.37
+
+
+ ============October 30th 2015, 02:21:02 am============= 
+argmax PERPLEXITY: 7.11
+
+
+ ============October 30th 2015, 02:22:00 am============= 
+argmax PERPLEXITY: 6.14
+      The belong the gome the gome the gome the gome the gome the gome the gome the gome the gome the
+ ============October 30th 2015, 02:22:59 am============= 
+argmax PERPLEXITY: 7.46
+      The be dore the gods the gods the gods to me the gods to me the gods to me the gods to me the g
+ ============October 30th 2015, 02:24:12 am============= 
+argmax PERPLEXITY: 7.31
+      The blue the gorget the gods to me the gods to me the gods to me the gods to me the gods to me 
+ ============October 30th 2015, 02:25:09 am============= 
+argmax PERPLEXITY: 5.65
+      The blue the gone the gods to gorged the gods to gorged the godt the godt the godt the godt the
+ ============October 30th 2015, 02:26:25 am============= 
+argmax PERPLEXITY: Infinity
+      The blue the gove to me the gove to me the gove to me the gove to me the gove to me the gove to
+ ============October 30th 2015, 02:27:18 am============= 
+argmax PERPLEXITY: 2.96
+      The blue the groom the groom the groom the groom the groom the groom the groom the groom the gr
+ ============October 30th 2015, 02:28:06 am============= 
+argmax PERPLEXITY: Infinity
+      The song the groom the groom the groom the groom the groom the groom the groom the groom the gr
+ ============October 30th 2015, 02:28:57 am============= 
+argmax PERPLEXITY: 4.94
+
+
+
+ ============October 30th 2015, 02:29:56 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 02:31:04 am============= 
+argmax PERPLEXITY: 5.20
+      The song the groom the groom the groom the groom the groom the groom the groom the groom the gr
+ ============October 30th 2015, 02:32:12 am============= 
+argmax PERPLEXITY: Infinity
+      The sonds the groom the groom the groom the groom the groom the groom the groom the groom the g
+ ============October 30th 2015, 02:33:20 am============= 
+argmax PERPLEXITY: 5.32
+      And the groom the groom the groom the groom the groom the groom the groom the groom the groom t
+ ============October 30th 2015, 02:34:35 am============= 
+argmax PERPLEXITY: 4.20
+      And the groin me me me me me me me me me me me me me me me me me me me me me me me me me me me 
+ ============October 30th 2015, 02:35:40 am============= 
+argmax PERPLEXITY: 7.94
+      And the groom the groom the groom the groom the groom the groom the groom the groom the groom t
+ ============October 30th 2015, 02:36:48 am============= 
+argmax PERPLEXITY: Infinity
+      I spome the groin the groom the groom the groom the groom the groom the groom the groom the gro
+ ============October 30th 2015, 02:37:42 am============= 
+argmax PERPLEXITY: 6.10
+
+
+ ============October 30th 2015, 02:38:36 am============= 
+argmax PERPLEXITY: Infinity
+      I spoke the groin the groin the groin the groin the groin the groin the groin the groin the gro
+ ============October 30th 2015, 02:39:42 am============= 
+argmax PERPLEXITY: Infinity
+      The blue the groin the groin the groin the groin the groin the groin the groin the groin the gr
+ ============October 30th 2015, 02:40:34 am============= 
+argmax PERPLEXITY: Infinity
+      And the grain the grarts the grarts the grarts the grarts the grarts the grarts the grarts the 
+ ============October 30th 2015, 02:41:31 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 02:42:31 am============= 
+argmax PERPLEXITY: 4.38
+      And the groves the groin the grocks to me the grocks to me the grocks to me the grocks to me th
+ ============October 30th 2015, 02:43:41 am============= 
+argmax PERPLEXITY: 4.11
+      And the grove the grove the grove the grove to me the grove to me the grove to me the grove to 
+ ============October 30th 2015, 02:44:43 am============= 
+argmax PERPLEXITY: 9.00
+      And the groin the groom the groom the groom the grocks to me the grocks to me the grocks to me 
+ ============October 30th 2015, 02:45:52 am============= 
+argmax PERPLEXITY: 4.87
+      And the gove the gold.
+
+
+ ============October 30th 2015, 02:46:52 am============= 
+argmax PERPLEXITY: Infinity
+      And the groves the groin the groin the groom the groom the groom the groom the groom the groom 
+ ============October 30th 2015, 02:47:55 am============= 
+argmax PERPLEXITY: 5.23
+      The belodser thee to mest thee to mest thee to mest thee to mest thee to mest thee to mest thee
+ ============October 30th 2015, 02:48:42 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 02:49:39 am============= 
+argmax PERPLEXITY: 4.91
+      XXXII
+
+
+ ============October 30th 2015, 02:50:39 am============= 
+argmax PERPLEXITY: Infinity
+      The bloom the gove the goves the goves to me the goves to me the goves to me the goves to me th
+ ============October 30th 2015, 02:51:51 am============= 
+argmax PERPLEXITY: Infinity
+      The the give the give the give the give the give the give the give the give the give the give t
+ ============October 30th 2015, 02:52:54 am============= 
+argmax PERPLEXITY: 9.69
+      The the gift the gift the gift,
+
+ ============October 30th 2015, 02:54:11 am============= 
+argmax PERPLEXITY: 3.58
+      The the to give the gift the shall.
+
+
+ ============October 30th 2015, 02:55:11 am============= 
+argmax PERPLEXITY: 4.03
+      The the shat the shat the shat the shall the shall.
+
+
+ ============October 30th 2015, 02:56:15 am============= 
+argmax PERPLEXITY: 6.05
+      The my to me the sond the sont the sont the son.
+
+ ============October 30th 2015, 02:57:13 am============= 
+argmax PERPLEXITY: 4.47
+      The the song the song the song the song the song the song the song the song the song the song t
+ ============October 30th 2015, 02:58:22 am============= 
+argmax PERPLEXITY: Infinity
+      And sonds the song the song the song the song the song the song the song the song the song the 
+ ============October 30th 2015, 02:59:09 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 02:59:55 am============= 
+argmax PERPLEXITY: 5.57
+      The the song the song the shall the shall.
+
+
+ ============October 30th 2015, 03:01:08 am============= 
+argmax PERPLEXITY: 4.54
+      The blue the song the song,
+
+ ============October 30th 2015, 03:02:25 am============= 
+argmax PERPLEXITY: 1.98
+      The belent the gove the gove to the gove to the gove to the gove to the gove to the gove to the
+ ============October 30th 2015, 03:03:49 am============= 
+argmax PERPLEXITY: 6.15
+      The my to to gold the gold.
+
+
+ ============October 30th 2015, 03:04:51 am============= 
+argmax PERPLEXITY: 5.28
+      The my to to to gold the grast the grast the grast the grast the grast the grast the grast the 
+ ============October 30th 2015, 03:05:45 am============= 
+argmax PERPLEXITY: Infinity
+
+
+
+ ============October 30th 2015, 03:06:40 am============= 
+argmax PERPLEXITY: 5.50
+      The blust the gove to me to me the gove to me to me the gove to me to me the gove to me to me t
+ ============October 30th 2015, 03:07:41 am============= 
+argmax PERPLEXITY: 4.95
+      The form the groom the groom to me the groom to me the groom to me the groom to me the gove to 
+ ============October 30th 2015, 03:08:42 am============= 
+argmax PERPLEXITY: Infinity
+      The song the grove to the grocks to the grow.
+ ============October 30th 2015, 03:10:11 am============= 
+argmax PERPLEXITY: 4.09
+      And the grove the grove to me the grove to me the grove to me the grove to me the groom the gro
+ ============October 30th 2015, 03:11:13 am============= 
+argmax PERPLEXITY: 5.15
+      And the song the song the song the grove to me the song the grove to me the song the grove to m
+ ============October 30th 2015, 03:12:27 am============= 
+argmax PERPLEXITY: 3.57
+      And the grove the grove to me the grove to me the grove to me the grove to me the grove to me t
+ ============October 30th 2015, 03:14:01 am============= 
+argmax PERPLEXITY: Infinity
+      And the groom the groom the groom the groom the groom the groom the groom the groom the groom t
+ ============October 30th 2015, 03:15:11 am============= 
+argmax PERPLEXITY: 4.07
+      And the grow,
+
+ ============October 30th 2015, 03:16:23 am============= 
+argmax PERPLEXITY: 4.98
+      And the grow,
+
+ ============October 30th 2015, 03:17:45 am============= 
+argmax PERPLEXITY: 5.39
+      And the grost the grond the grond the grond the gronged the gronged the gronged the gronged the
+ ============October 30th 2015, 03:18:49 am============= 
+argmax PERPLEXITY: 4.94
+      And the grost the grost the grost the grost the grost the grost the grost the grost the grost t
+ ============October 30th 2015, 03:20:14 am============= 
+argmax PERPLEXITY: Infinity
+      And sound the soun the soun the soun the soun the song the song the song the song the song the 
+ ============October 30th 2015, 03:21:29 am============= 
+argmax PERPLEXITY: 13.61
+      And sound the sound the soun the soun the soun the soun the soun the soun the soun the soun the
+ ============October 30th 2015, 03:22:38 am============= 
+argmax PERPLEXITY: 7.34
+      And the grock the groce the groce the groce the groce the groce the groce the groce the groce t
+ ============October 30th 2015, 03:23:26 am============= 
+argmax PERPLEXITY: 3.25
+
+
+
+ ============October 30th 2015, 03:24:12 am============= 
+argmax PERPLEXITY: 5.37
+      And the grock the grock the grock,
+
+ ============October 30th 2015, 03:25:27 am============= 
+argmax PERPLEXITY: 3.67
+      The song the song the song the song the song to me the song to me the song to me the song to me
+ ============October 30th 2015, 03:26:37 am============= 
+argmax PERPLEXITY: Infinity
+      The song the song the song the song the song the song the song the song the song the song the s
+ ============October 30th 2015, 03:28:00 am============= 
+argmax PERPLEXITY: 4.30
+      The song the grow,
+
+ ============October 30th 2015, 03:28:59 am============= 
+argmax PERPLEXITY: 5.20
+      The song the song the song the song to the song to the song to the song to the song to the song
+ ============October 30th 2015, 03:30:20 am============= 
+argmax PERPLEXITY: 5.72
+      The song the grow the gods to me the gods to me the gods to me the gods to me the gods to me th
+ ============October 30th 2015, 03:31:23 am============= 
+argmax PERPLEXITY: 5.05
+      The shror the shall the shall the shall the shall the shall the shall the shall the shall the s
+ ============October 30th 2015, 03:32:36 am============= 
+argmax PERPLEXITY: Infinity
+      The sond the song the shall shall shall shall shall shall shall shall shall shall shall shall s
+ ============October 30th 2015, 03:33:36 am============= 
+argmax PERPLEXITY: 2.43
+      The sond the shade to me the shade to me the shades to me the shades to me the shades to me the
+ ============October 30th 2015, 03:34:39 am============= 
+argmax PERPLEXITY: 12.00
+      The sond the sont the shade with the shade with the shade with the shade with the shade with th
+ ============October 30th 2015, 03:35:58 am============= 
+argmax PERPLEXITY: 5.48
+      The be most the shall to the shall to the shall to the shall to the shall to the shall to the s
+ ============October 30th 2015, 03:37:02 am============= 
+argmax PERPLEXITY: 6.17
+      The sond the sher to the shen to the shen to the shen to the she to me the she to me the she to
+ ============October 30th 2015, 03:38:03 am============= 
+argmax PERPLEXITY: 4.34
+      The shen to the gone the gone the gone the gods to me the shand.
+
+
+ ============October 30th 2015, 03:39:13 am============= 
+argmax PERPLEXITY: 3.87
+      The song the shent to the shent to the shes the shes the shes the shes the shes the shes the sh
+ ============October 30th 2015, 03:40:17 am============= 
+argmax PERPLEXITY: 4.03
+      Lost to my to me the song the shent to the shent to the shen to the shese to the shes to the sh
+ ============October 30th 2015, 03:41:26 am============= 
+argmax PERPLEXITY: 4.86
+      The song the song the shen to the shen to the shen to the shese to the shese to the shese to th
+ ============October 30th 2015, 03:42:24 am============= 
+argmax PERPLEXITY: 2.11
+      The bease the song the shall to the shall with the shall wing the shall wing the shall wing the
+ ============October 30th 2015, 03:43:45 am============= 
+argmax PERPLEXITY: Infinity
+      The beace the song the song, and the song, and the song, and the song, and the song, and the so
+ ============October 30th 2015, 03:44:49 am============= 
+argmax PERPLEXITY: 5.51
+      The be dack the shall the shall the shall waves the shall waves the shall waves the shall waves
+ ============October 30th 2015, 03:45:58 am============= 
+argmax PERPLEXITY: 4.35
+      The be dore the song, and the shall the shall to the shall to the shall to the shall, and the s
+ ============October 30th 2015, 03:47:13 am============= 
+argmax PERPLEXITY: 4.27
+      The bloow, and the goves the goves the gods the gods the gods the gods the gods the gods the go
+ ============October 30th 2015, 03:48:43 am============= 
+argmax PERPLEXITY: 4.88
+      And the groves the grove the groom the groom the groom the goves the gods the gods the gods the
+ ============October 30th 2015, 03:49:51 am============= 
+argmax PERPLEXITY: Infinity
+      Sapphose the grove the groves the groom the goves the shime to the shime to the shime to the sh
+ ============October 30th 2015, 03:50:56 am============= 
+argmax PERPLEXITY: 9.53
+      Sappho the goves the song the song to the song to the song to the song,
+
+ ============October 30th 2015, 03:52:01 am============= 
+argmax PERPLEXITY: 5.37
+      Sapphose the song the shall the shalls the shes the shes to the shes to the shes to the shes to
+ ============October 30th 2015, 03:53:26 am============= 
+argmax PERPLEXITY: 13.44
+      The be doves the gods the gods the gods the gods the gods the gods the gods the gods the gods t
+ ============October 30th 2015, 03:54:20 am============= 
+argmax PERPLEXITY: Infinity
+      Sappho the gods the gods the gods the gods the gods the gods the gods the gods the gods the god
+ ============October 30th 2015, 03:55:27 am============= 
+argmax PERPLEXITY: 3.76
+      Sappho the gods the gods the gods the gods the gods the gods the gods the gods the gods the god
+ ============October 30th 2015, 03:56:35 am============= 
+argmax PERPLEXITY: 4.28
+      Sappho the gove the gove the gove the gove the gove the gove the gove the gove the gove the gov
+ ============October 30th 2015, 03:57:28 am============= 
+argmax PERPLEXITY: 4.72
+      Sappho the gove the gove the gove the gove the gove the gove the gove the gove the gove the gov
+ ============October 30th 2015, 03:58:39 am============= 
+argmax PERPLEXITY: Infinity
+      And the groves the grove the grost the gove to the gove to the gove to the gove to the gove to 
+ ============October 30th 2015, 03:59:57 am============= 
+argmax PERPLEXITY: 4.55
+      And shrene the groin the groin the groined the groined the groined the groined the groined the 
+ ============October 30th 2015, 04:00:57 am============= 
+argmax PERPLEXITY: 12.30
+      Sappho the gods the gods the gods the gods the gods the gods the gods the gods the gods the god
+ ============October 30th 2015, 04:01:54 am============= 
+argmax PERPLEXITY: Infinity
+      Sappho the gods the gods the gods to the gods to the gods to the gods to the gods to the gods t
+ ============October 30th 2015, 04:02:59 am============= 
+argmax PERPLEXITY: 4.28
+      The but shall fart the grast the grast the grast the gods the gods the gods the gods the gods t
+ ============October 30th 2015, 04:03:53 am============= 
+argmax PERPLEXITY: 4.64
+      Sappho belong and the goves the goves the goves the goves the goves the goves the goves the gov
+ ============October 30th 2015, 04:04:52 am============= 
+argmax PERPLEXITY: 10.44
+      Sappho the gift,
+
+ ============October 30th 2015, 04:05:54 am============= 
+argmax PERPLEXITY: 4.54
+      The beast, and the grost the grost the grost the grost the grost the grost the gove to me the g
+ ============October 30th 2015, 04:07:10 am============= 
+argmax PERPLEXITY: 4.63
+      The but the grost the groves the groves the groves the groves the groves the groves the groves 
+ ============October 30th 2015, 04:08:11 am============= 
+argmax PERPLEXITY: 6.69
+      And the grove the grove the grove the grove the grove the grove the grove the grove the grocks 
+ ============October 30th 2015, 04:09:06 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 04:10:12 am============= 
+argmax PERPLEXITY: 2.36
+      Like the grove the grock the grore the grast the grast the grast the grast the grast the gods t
+ ============October 30th 2015, 04:11:09 am============= 
+argmax PERPLEXITY: 6.58
+
+
+ ============October 30th 2015, 04:12:16 am============= 
+argmax PERPLEXITY: Infinity
+      The the grock the grocks to to the grocks to me to the grocks to me to the gods the gods the go
+ ============October 30th 2015, 04:13:30 am============= 
+argmax PERPLEXITY: 10.46
+      The beare the blue the blue the blue the blue the blue the blue the blue the blue the blue the 
+ ============October 30th 2015, 04:14:32 am============= 
+argmax PERPLEXITY: 2.87
+      The beace the beace to the beace to the beace to the beace to the beace to the beace to the bea
+ ============October 30th 2015, 04:15:43 am============= 
+argmax PERPLEXITY: 6.06
+      The beast, and the by the beassede the beassede the beassede the beassede the beassede the beas
+ ============October 30th 2015, 04:17:02 am============= 
+argmax PERPLEXITY: 7.47
+      And the gras the gods the gods the gods the gods the gods to the gods to the gods thee to me th
+ ============October 30th 2015, 04:18:24 am============= 
+argmax PERPLEXITY: 5.08
+      And the brease be dorgow.
+
+ ============October 30th 2015, 04:19:40 am============= 
+argmax PERPLEXITY: 3.98
+      Thy born the gras the grast the grast the grast the grast the grast the grast the grast the gra
+ ============October 30th 2015, 04:20:51 am============= 
+argmax PERPLEXITY: 16.83
+      The brove the gods the gods to the gods to the gods to the gods frore the gods frore the gods f
+ ============October 30th 2015, 04:21:48 am============= 
+argmax PERPLEXITY: 6.67
+      There the breare the breare the brove the gods to the belong,
+
+ ============October 30th 2015, 04:22:59 am============= 
+argmax PERPLEXITY: Infinity
+      The blue the gorgow the gods the gods the gods the gods the gods the gods the gods the gods the
+ ============October 30th 2015, 04:24:16 am============= 
+argmax PERPLEXITY: Infinity
+      The be deed the gove the gove to the gove to the gove to the gove to the gove to the gove to th
+ ============October 30th 2015, 04:25:27 am============= 
+argmax PERPLEXITY: 3.20
+      The blue the grove the goved the gifter the goved the goved the goved the goved the goved the g
+ ============October 30th 2015, 04:26:43 am============= 
+argmax PERPLEXITY: Infinity
+      The blue the grove the gods the gods the gods the gods the gods the gods the gods the gods the 
+ ============October 30th 2015, 04:27:55 am============= 
+argmax PERPLEXITY: 14.33
+      The blue the greed the grove the grove the groom the groom the gods to gove the gods to gove th
+ ============October 30th 2015, 04:28:48 am============= 
+argmax PERPLEXITY: 8.28
+      And the grove the gods the gods the gods the gods the gods the gods the gods the gods the gods 
+ ============October 30th 2015, 04:30:01 am============= 
+argmax PERPLEXITY: Infinity
+      And the grears the grist the groom the groom the groom the gone the gone the gone the gone the 
+ ============October 30th 2015, 04:31:01 am============= 
+argmax PERPLEXITY: 3.98
+      And the green the gong the gone the gone the gone the gone the gone the gone the gone the gone 
+ ============October 30th 2015, 04:32:14 am============= 
+argmax PERPLEXITY: Infinity
+      And the gong the gong the gong to the gone the gone the gone the gone the gone the gone the gon
+ ============October 30th 2015, 04:33:25 am============= 
+argmax PERPLEXITY: 5.13
+      The blue the gring the gring the grown the gone the gone the gone the gone the gone the gone th
+ ============October 30th 2015, 04:34:14 am============= 
+argmax PERPLEXITY: Infinity
+      The blue the gonded the gone the gone the gone the gone the gone the gone the gone the gone the
+ ============October 30th 2015, 04:35:28 am============= 
+argmax PERPLEXITY: 7.06
+      The blue the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 04:36:28 am============= 
+argmax PERPLEXITY: 4.00
+
+
+
+ ============October 30th 2015, 04:37:33 am============= 
+argmax PERPLEXITY: 5.69
+
+
+ ============October 30th 2015, 04:38:39 am============= 
+argmax PERPLEXITY: 5.29
+      And the gros the gong the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 04:39:41 am============= 
+argmax PERPLEXITY: 4.29
+      The song the gros the grongs the grong the grong to my she she she she she she she she she she 
+ ============October 30th 2015, 04:40:39 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 04:41:41 am============= 
+argmax PERPLEXITY: 5.62
+      The song and the gone to the gone to the song and to the song and to the song to to tongt to th
+ ============October 30th 2015, 04:42:32 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 04:43:32 am============= 
+argmax PERPLEXITY: 3.56
+      The song the gone to the gone to the gone to the song to the gone to the song to the song to th
+ ============October 30th 2015, 04:44:44 am============= 
+argmax PERPLEXITY: 5.58
+      The song the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 04:45:56 am============= 
+argmax PERPLEXITY: 4.47
+      The song and the gods the gods the gods the gods the gods the gods the gods the gods the gods t
+ ============October 30th 2015, 04:47:07 am============= 
+argmax PERPLEXITY: 5.88
+      The song the gove to the gods the gods to the gods to the gods to the gods to me the gods to me
+ ============October 30th 2015, 04:47:59 am============= 
+argmax PERPLEXITY: 2.23
+      The song the gone the gods the gods the gods to the gods to the gods to the gods to the gods to
+ ============October 30th 2015, 04:49:18 am============= 
+argmax PERPLEXITY: 2.02
+      XX
+
+
+ ============October 30th 2015, 04:50:28 am============= 
+argmax PERPLEXITY: 5.31
+      XLIII
+
+
+ ============October 30th 2015, 04:51:35 am============= 
+argmax PERPLEXITY: 6.27
+      The blue the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 04:52:51 am============= 
+argmax PERPLEXITY: 12.14
+      The blue the gone the blue the blue the blue the blue the blue the blue the blue the blue the b
+ ============October 30th 2015, 04:53:54 am============= 
+argmax PERPLEXITY: 5.25
+      The blue shall belong to my song to my song to my song to my song to my song to my song to me w
+ ============October 30th 2015, 04:55:06 am============= 
+argmax PERPLEXITY: 4.11
+      The blue song the song song, whose shall, whose shall, whose shalls the song shalls the song sh
+ ============October 30th 2015, 04:56:28 am============= 
+argmax PERPLEXITY: 12.67
+      The blue the songs the songs the songs the song, whose the song, whose the son.
+
+
+ ============October 30th 2015, 04:57:43 am============= 
+argmax PERPLEXITY: 3.15
+      The be down the song the song the song to tears to tears to tears to tears to tears to tears to
+ ============October 30th 2015, 04:58:34 am============= 
+argmax PERPLEXITY: 4.53
+      The be down the song the song the song the song to to to gold the song to to to gold.
+
+
+ ============October 30th 2015, 04:59:58 am============= 
+argmax PERPLEXITY: Infinity
+      The be dark the song the song the song the shall the shall the shall, the song the shall
+
+ ============October 30th 2015, 05:00:58 am============= 
+argmax PERPLEXITY: Infinity
+      The be darkt the song the song to the song to the song to the song to the song to the song to t
+ ============October 30th 2015, 05:02:03 am============= 
+argmax PERPLEXITY: 15.47
+      The songs the song,
+
+ ============October 30th 2015, 05:02:57 am============= 
+argmax PERPLEXITY: 5.00
+      The song the song the song the song,
+
+ ============October 30th 2015, 05:04:03 am============= 
+argmax PERPLEXITY: 5.43
+      The be me the song to the song to the song to the song to the song to the song to the song to t
+ ============October 30th 2015, 05:05:15 am============= 
+argmax PERPLEXITY: 4.03
+      XXII
+
+
+ ============October 30th 2015, 05:06:14 am============= 
+argmax PERPLEXITY: 6.12
+      The be dore the be dore the be dore the song to teng to teng to teng to teng to teng to teng to
+ ============October 30th 2015, 05:07:03 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 05:07:52 am============= 
+argmax PERPLEXITY: 4.77
+
+
+ ============October 30th 2015, 05:09:17 am============= 
+argmax PERPLEXITY: 5.10
+      The belond the song, the song, the song, the shall the shall the shall the shall the shall the 
+ ============October 30th 2015, 05:10:17 am============= 
+argmax PERPLEXITY: 2.72
+      The blue the song the song the song the song the song the song the song,
+
+ ============October 30th 2015, 05:11:19 am============= 
+argmax PERPLEXITY: 2.04
+      XXI
+
+
+ ============October 30th 2015, 05:12:45 am============= 
+argmax PERPLEXITY: 4.19
+      The blue the shen to the shel,
+
+ ============October 30th 2015, 05:13:52 am============= 
+argmax PERPLEXITY: 6.87
+      The was the song the she to the she to the she to the she to the she to the she to the she to t
+ ============October 30th 2015, 05:14:52 am============= 
+argmax PERPLEXITY: 7.26
+      With the song the shall to the shall to the shall to the shall to the shall to the shall to the
+ ============October 30th 2015, 05:16:07 am============= 
+argmax PERPLEXITY: 4.06
+      XXI
+
+
+ ============October 30th 2015, 05:17:07 am============= 
+argmax PERPLEXITY: 3.85
+      XXIII
+
+
+ ============October 30th 2015, 05:18:23 am============= 
+argmax PERPLEXITY: Infinity
+      The withen the with the withen to the with the withen to the with the withen to the with the wi
+ ============October 30th 2015, 05:19:34 am============= 
+argmax PERPLEXITY: 6.39
+      The withen the gone the gone the gone the gone the gone the gone the gone the gone the gone the
+ ============October 30th 2015, 05:20:52 am============= 
+argmax PERPLEXITY: 2.49
+      The be me the gone the gone the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 05:21:51 am============= 
+argmax PERPLEXITY: 4.74
+      The blue the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 05:23:05 am============= 
+argmax PERPLEXITY: 5.98
+      The blue the shall the she me the she me the she me the she me the she me the she me the she me
+ ============October 30th 2015, 05:24:14 am============= 
+argmax PERPLEXITY: 2.93
+      The bloom the shall the shall to the shall to the shall to the shall to the shall to the shall 
+ ============October 30th 2015, 05:25:21 am============= 
+argmax PERPLEXITY: 3.95
+      The bloow the gone the gone the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 05:26:32 am============= 
+argmax PERPLEXITY: 4.12
+      The with the song the shall the shall the shall to the shall to the shall to the shall to the s
+ ============October 30th 2015, 05:27:38 am============= 
+argmax PERPLEXITY: 2.01
+      The wave the songs the shall the shall the shall the shall the shall the shall the shall the sh
+ ============October 30th 2015, 05:28:54 am============= 
+argmax PERPLEXITY: 2.22
+      The waves the songs the songs
+
+ ============October 30th 2015, 05:30:04 am============= 
+argmax PERPLEXITY: Infinity
+      The waves the songs the songs
+
+ ============October 30th 2015, 05:31:02 am============= 
+argmax PERPLEXITY: 2.85
+      The was the song the song the song the songs
+
+ ============October 30th 2015, 05:32:17 am============= 
+argmax PERPLEXITY: 2.61
+      All things the song the song the song,
+
+ ============October 30th 2015, 05:33:28 am============= 
+argmax PERPLEXITY: 3.67
+      All that the far the far
+
+ ============October 30th 2015, 05:34:42 am============= 
+argmax PERPLEXITY: 2.18
+      All that the song the shall the shall the shame the shame the shame the shame the shame the sha
+ ============October 30th 2015, 05:35:52 am============= 
+argmax PERPLEXITY: Infinity
+      XXXII
+
+
+ ============October 30th 2015, 05:36:38 am============= 
+argmax PERPLEXITY: 4.93
+      XXXII
+
+
+ ============October 30th 2015, 05:37:43 am============= 
+argmax PERPLEXITY: 4.94
+
+
+ ============October 30th 2015, 05:38:41 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 05:39:18 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 05:40:17 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 05:41:35 am============= 
+argmax PERPLEXITY: 4.07
+      All that the gove the goved the goved the goved,
+
+ ============October 30th 2015, 05:42:57 am============= 
+argmax PERPLEXITY: 2.58
+      All that the gove the gove the gove the gove to the gove to me the gove to me the gove to me th
+ ============October 30th 2015, 05:44:09 am============= 
+argmax PERPLEXITY: 4.62
+      A dast the gove the gove to me the gove for the gove for the gove for the gove for the gove for
+ ============October 30th 2015, 05:45:13 am============= 
+argmax PERPLEXITY: Infinity
+      The the gove the gove the gove the gove to me the gove to me the gove to me the gove to me the 
+ ============October 30th 2015, 05:46:17 am============= 
+argmax PERPLEXITY: 4.62
+      The heart to me marms the gove for the goven the goven the goven the goven the goven the goven 
+ ============October 30th 2015, 05:47:17 am============= 
+argmax PERPLEXITY: 4.32
+      The brerer the gove the goves the goves the goves to touther to me the gone the gone the gone t
+ ============October 30th 2015, 05:48:17 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 05:49:12 am============= 
+argmax PERPLEXITY: 10.12
+      The was the gonger the gonger the gonger to me the gone the gone the gone the gone the gone the
+ ============October 30th 2015, 05:50:32 am============= 
+argmax PERPLEXITY: Infinity
+      The the gonger the gonger the gonger the gone.
+
+
+ ============October 30th 2015, 05:51:40 am============= 
+argmax PERPLEXITY: Infinity
+      The the gonger the gone the gone the gone the gone the gone the gone the gold.
+
+
+ ============October 30th 2015, 05:52:43 am============= 
+argmax PERPLEXITY: 14.27
+      The the gonger the gone the gone the gone the gone the gone the gone the gone the gone the gone
+ ============October 30th 2015, 05:53:44 am============= 
+argmax PERPLEXITY: 6.07
+      TO AE THE
+
+
+ ============October 30th 2015, 05:54:51 am============= 
+argmax PERPLEXITY: Infinity
+      The heave to the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 05:55:56 am============= 
+argmax PERPLEXITY: 4.09
+      The with the gove the gove to the gove to the gove to the goves to the goves to the goves to th
+ ============October 30th 2015, 05:57:13 am============= 
+argmax PERPLEXITY: 4.41
+      The hears to me song, and the gove move marks to the song,
+
+ ============October 30th 2015, 05:58:18 am============= 
+argmax PERPLEXITY: 3.01
+      The beast the gone to me me me me me me me me me me me me me me me me me me me me me me me me m
+ ============October 30th 2015, 05:59:43 am============= 
+argmax PERPLEXITY: 4.61
+      The be my song to my dove my dove my dove my dove my dove my dove my dove my dove my dove my do
+ ============October 30th 2015, 06:00:47 am============= 
+argmax PERPLEXITY: 6.67
+      The be dorgotten the gove song,
+
+ ============October 30th 2015, 06:02:04 am============= 
+argmax PERPLEXITY: 5.58
+      The beass the gove my songs
+
+ ============October 30th 2015, 06:03:25 am============= 
+argmax PERPLEXITY: 5.82
+      The the gone to the gone to the gone to the gone to the gone to the gone to the gone to the gon
+ ============October 30th 2015, 06:04:34 am============= 
+argmax PERPLEXITY: Infinity
+      The the gone to the gone to the gone to the gone to the gone to the gone to the gone to the gon
+ ============October 30th 2015, 06:05:46 am============= 
+argmax PERPLEXITY: 4.04
+      Then shall thee to me and thee to me and thee to me and thee to me and thee to me and thee to m
+ ============October 30th 2015, 06:07:01 am============= 
+argmax PERPLEXITY: 3.82
+      The the gove the gold the gold the gold the gold,
+
+ ============October 30th 2015, 06:08:22 am============= 
+argmax PERPLEXITY: 11.42
+      The the gold the gold the gold the gold the gold,
+
+ ============October 30th 2015, 06:09:33 am============= 
+argmax PERPLEXITY: 6.21
+      The the gras the gras the gras the gras the gras the gras the gras the gras the gras the gras t
+ ============October 30th 2015, 06:10:40 am============= 
+argmax PERPLEXITY: Infinity
+      And the grass the grass the grass the grass the grass the grass the grass the grass the grass t
+ ============October 30th 2015, 06:11:54 am============= 
+argmax PERPLEXITY: 4.67
+      For the gras the gold the gold.
+
+
+ ============October 30th 2015, 06:13:17 am============= 
+argmax PERPLEXITY: 3.72
+      For the gove to the gone to the gone to the gone to the gone to the gone to the gone to the gon
+ ============October 30th 2015, 06:14:23 am============= 
+argmax PERPLEXITY: 3.83
+      And the gove the gove the gove the gove the gove to the she dowere the gove to the shes to the 
+ ============October 30th 2015, 06:15:41 am============= 
+argmax PERPLEXITY: 5.00
+      And the grate the gove the gove the gove the gove the gove to the gove to the gove to the gove 
+ ============October 30th 2015, 06:16:55 am============= 
+argmax PERPLEXITY: 5.14
+      And the gove the gove the gove the gove to the gove to the shall
+
+ ============October 30th 2015, 06:18:17 am============= 
+argmax PERPLEXITY: 10.24
+      And the grast the gove with the gove with the gove with the gove with the gove with the gove wi
+ ============October 30th 2015, 06:19:17 am============= 
+argmax PERPLEXITY: 7.08
+      Where has stall the grast the grast the grarts the grarts the grarts the grarts the grarts the 
+ ============October 30th 2015, 06:20:19 am============= 
+argmax PERPLEXITY: 4.11
+      Where her darkt the grast the grast the grast the grast the grast the gove wither to gone the s
+ ============October 30th 2015, 06:21:23 am============= 
+argmax PERPLEXITY: 8.63
+      Whe her darkt the grast the grartar the gove the gove to the gove to the gove were the gove wer
+ ============October 30th 2015, 06:22:51 am============= 
+argmax PERPLEXITY: 5.67
+      Then I who her dust to the shads to me dorgesss the goves to the shads to me dorgesss
+
+ ============October 30th 2015, 06:24:02 am============= 
+argmax PERPLEXITY: 2.99
+      And the goves the goves to the gone to the gone to the gone to the gone to the gone to the gone
+ ============October 30th 2015, 06:25:14 am============= 
+argmax PERPLEXITY: 4.19
+      And the groom the gone to me down the gold the gold the gold.
+
+
+ ============October 30th 2015, 06:26:17 am============= 
+argmax PERPLEXITY: 5.18
+      And the gorgotten, and the gone the gone to me down the gone to me down the gone to me down the
+ ============October 30th 2015, 06:27:19 am============= 
+argmax PERPLEXITY: 4.45
+      And the gorgotten, the gorth to me dorgotten,
+
+ ============October 30th 2015, 06:28:26 am============= 
+argmax PERPLEXITY: 3.83
+      And the grove the goves the goves the goves the goves the goves the goves the goves to the gone
+ ============October 30th 2015, 06:29:14 am============= 
+argmax PERPLEXITY: 5.79
+
+
+ ============October 30th 2015, 06:30:24 am============= 
+argmax PERPLEXITY: 5.30
+      The bloes the gone to me me me me me me me me me me me me me me me me me me me me me me me me m
+ ============October 30th 2015, 06:31:22 am============= 
+argmax PERPLEXITY: 3.65
+      Then sher the groom the sher to me to me to me the she down the she for the shes.
+
+ ============October 30th 2015, 06:32:25 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 06:33:24 am============= 
+argmax PERPLEXITY: 3.89
+      And shall the grove the grove to my shand to me who be down the song the song the song the song
+ ============October 30th 2015, 06:34:15 am============= 
+argmax PERPLEXITY: Infinity
+      And sher the groom the groom the gove for the gove for the gove for the gove will
+
+ ============October 30th 2015, 06:35:27 am============= 
+argmax PERPLEXITY: 7.29
+      And shall the gove the gove far.
+
+
+ ============October 30th 2015, 06:36:25 am============= 
+argmax PERPLEXITY: 4.06
+      And shall the far far the far the far the far.
+
+
+ ============October 30th 2015, 06:37:39 am============= 
+argmax PERPLEXITY: 4.77
+      And shall the far the far,
+
+ ============October 30th 2015, 06:38:47 am============= 
+argmax PERPLEXITY: 6.75
+      And sound the far the far the blue the song,
+
+ ============October 30th 2015, 06:40:03 am============= 
+argmax PERPLEXITY: 8.92
+      The bear the gove far the gove far the gove far the gove far the gove far the gove far the gove
+ ============October 30th 2015, 06:41:07 am============= 
+argmax PERPLEXITY: Infinity
+      The breast the gove far the gove far the gove far,
+
+ ============October 30th 2015, 06:42:11 am============= 
+argmax PERPLEXITY: 3.43
+      The blue shall the son.
+
+ ============October 30th 2015, 06:43:21 am============= 
+argmax PERPLEXITY: 8.12
+      The breest the song,
+
+ ============October 30th 2015, 06:44:15 am============= 
+argmax PERPLEXITY: 3.61
+      The breast the song,
+
+ ============October 30th 2015, 06:45:13 am============= 
+argmax PERPLEXITY: 2.08
+      The breast the grave the gradt the gradt the gradt the gradt the gradt the gradt the song.
+
+
+ ============October 30th 2015, 06:46:35 am============= 
+argmax PERPLEXITY: 5.41
+      The blue shall the gorget,
+
+ ============October 30th 2015, 06:47:38 am============= 
+argmax PERPLEXITY: 12.37
+      The be dorget, and the gorget,
+
+ ============October 30th 2015, 06:48:47 am============= 
+argmax PERPLEXITY: Infinity
+      The be dove the gove the gove the gove the gove the gove the gove the gove the gove the gove th
+ ============October 30th 2015, 06:50:07 am============= 
+argmax PERPLEXITY: 6.07
+      The brearsure the gone the gone the gone the gone the gone the gone the gone the gone the gone 
+ ============October 30th 2015, 06:51:14 am============= 
+argmax PERPLEXITY: 3.76
+      The breess the gove the goves the gove to the goves to the gone the goves to the gold.
+
+
+ ============October 30th 2015, 06:52:26 am============= 
+argmax PERPLEXITY: 3.17
+      The breess hears the gord the gone the gone the gone the gone.
+
+
+ ============October 30th 2015, 06:53:39 am============= 
+argmax PERPLEXITY: 3.89
+      The breast the gove the gove the gove to the gone the gone the gold.
+
+
+ ============October 30th 2015, 06:54:52 am============= 
+argmax PERPLEXITY: 3.62
+      The har gone to me the gove to me the gove to me the gove to me the gove to me the gove to me t
+ ============October 30th 2015, 06:56:11 am============= 
+argmax PERPLEXITY: 4.01
+      The who has to gone the gong to gone.
+
+
+ ============October 30th 2015, 06:57:13 am============= 
+argmax PERPLEXITY: 2.25
+      The brove the gove to the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 06:58:07 am============= 
+argmax PERPLEXITY: 4.92
+
+
+ ============October 30th 2015, 06:59:18 am============= 
+argmax PERPLEXITY: 4.91
+      The bloom the gove to the gove to the gone to the gone to the gone to the gone to the gone to t
+ ============October 30th 2015, 07:00:23 am============= 
+argmax PERPLEXITY: 4.41
+      The the govess the gong to tears to tears to tears to tears to tears to tears to tears to tears
+ ============October 30th 2015, 07:02:04 am============= 
+argmax PERPLEXITY: 11.38
+      The the gone the gone the gone to the gone to the gone to the gone to the gone to the gone to t
+ ============October 30th 2015, 07:03:23 am============= 
+argmax PERPLEXITY: 5.74
+      The the gong to the gone the gone,
+
+ ============October 30th 2015, 07:04:41 am============= 
+argmax PERPLEXITY: 4.04
+      All the sher to my sher to my shen to my shen to my to my to my to my to my to my to my to my t
+ ============October 30th 2015, 07:05:49 am============= 
+argmax PERPLEXITY: Infinity
+      The by the grows the growe the gone the growes the gone the gone the gone the gone the gone the
+ ============October 30th 2015, 07:07:08 am============= 
+argmax PERPLEXITY: 5.42
+      The bloall the growfs the growfs the growfs the growfs the growfs the growfs the growfs the gro
+ ============October 30th 2015, 07:08:26 am============= 
+argmax PERPLEXITY: 5.04
+      Mar he the growes the growes the gone the golder,
+
+ ============October 30th 2015, 07:09:32 am============= 
+argmax PERPLEXITY: 6.15
+      The blue shall the grise the gone the gone the gone the gone the gone the gone the gone the gon
+ ============October 30th 2015, 07:10:22 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 07:11:26 am============= 
+argmax PERPLEXITY: 5.91
+      The far the golder the golder the golder the gold.
+
+
+ ============October 30th 2015, 07:12:36 am============= 
+argmax PERPLEXITY: 3.78
+      The far the gone the gone the gone the gone the gone the gone the gone the gone the gone the go
+ ============October 30th 2015, 07:13:49 am============= 
+argmax PERPLEXITY: Infinity
+      The far the gold the gone the gone the gone the gone the gone the gone the gone the gone the go
+ ============October 30th 2015, 07:14:57 am============= 
+argmax PERPLEXITY: 6.23
+      The bloom the gone the gone the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 07:16:08 am============= 
+argmax PERPLEXITY: 4.31
+      The bloom the gold the gold.
+
+
+ ============October 30th 2015, 07:17:14 am============= 
+argmax PERPLEXITY: 3.65
+      The bloom the gone the gone the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 07:18:32 am============= 
+argmax PERPLEXITY: 5.35
+      The bloes the gone the gone the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 07:19:43 am============= 
+argmax PERPLEXITY: 5.85
+      The bloee the gone the gone the gone the gone the gone the gone the gold the gold the gold the 
+ ============October 30th 2015, 07:20:57 am============= 
+argmax PERPLEXITY: 6.84
+      The far gold the golder the golder the golder the golder the golder the golder the golder the g
+ ============October 30th 2015, 07:22:14 am============= 
+argmax PERPLEXITY: 6.47
+      The far the gold the gold the gold the gold the gold the gold the gold the gold the gold the go
+ ============October 30th 2015, 07:23:24 am============= 
+argmax PERPLEXITY: 4.54
+      The fare the grower the grower the golder,
+
+ ============October 30th 2015, 07:24:56 am============= 
+argmax PERPLEXITY: 3.51
+      The fale the groves the groves the groves to the gold the golder,
+
+ ============October 30th 2015, 07:26:07 am============= 
+argmax PERPLEXITY: 4.79
+      The for the gold the gold the gold the gold the gold the gold the gold the gold the gold the go
+ ============October 30th 2015, 07:27:19 am============= 
+argmax PERPLEXITY: 5.07
+      The for the golder the golder the golder,
+
+ ============October 30th 2015, 07:28:31 am============= 
+argmax PERPLEXITY: Infinity
+      The for the grower the grower the grower the grower the golder,
+
+ ============October 30th 2015, 07:29:34 am============= 
+argmax PERPLEXITY: Infinity
+      The for the groom the grower the grower the grower the grower the grower the grower the grower 
+ ============October 30th 2015, 07:30:59 am============= 
+argmax PERPLEXITY: 4.07
+      The formed the growe the growe the growe the growe the growe the growe the growe the growe the 
+ ============October 30th 2015, 07:32:01 am============= 
+argmax PERPLEXITY: 5.31
+      The former the grood the growe the growe the growe the growe the growe the growe the growe the 
+ ============October 30th 2015, 07:33:14 am============= 
+argmax PERPLEXITY: 3.60
+      The former the groon the gone the gone the gone the gone the gone the gone the gone the gone th
+ ============October 30th 2015, 07:34:42 am============= 
+argmax PERPLEXITY: 4.45
+      The forget the gone the gone the gone the gone the gone the gone the gone the gone the gone the
+ ============October 30th 2015, 07:35:59 am============= 
+argmax PERPLEXITY: 7.47
+      The forget the gong the gong to my gone,
+
+ ============October 30th 2015, 07:37:20 am============= 
+argmax PERPLEXITY: 9.23
+      The fale the gong the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 07:38:22 am============= 
+argmax PERPLEXITY: 5.04
+      The forgot the gong the gone the gone the gone the gone the gone the gone the gone the gone the
+ ============October 30th 2015, 07:39:33 am============= 
+argmax PERPLEXITY: 3.55
+      The far shall the gone the gone the gone the gone the gone the gone the gone the gone the gone 
+ ============October 30th 2015, 07:40:22 am============= 
+argmax PERPLEXITY: Infinity
+      The far shall the gone the gone the gone the gone the gone the gone the gone the gone the gone 
+ ============October 30th 2015, 07:41:36 am============= 
+argmax PERPLEXITY: 6.36
+      The farkt the gone the gone the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 07:42:42 am============= 
+argmax PERPLEXITY: 6.57
+
+
+ ============October 30th 2015, 07:43:34 am============= 
+argmax PERPLEXITY: 5.19
+      The blue the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 07:44:35 am============= 
+argmax PERPLEXITY: 7.58
+      The far gone the groves the groves the groves the groves the gone the gone the gone the gone th
+ ============October 30th 2015, 07:45:42 am============= 
+argmax PERPLEXITY: 4.34
+      The songs the gong the gong the gone,
+
+ ============October 30th 2015, 07:46:54 am============= 
+argmax PERPLEXITY: 13.31
+      The sher the grast the graye the graye the graye the graye,
+
+ ============October 30th 2015, 07:48:01 am============= 
+argmax PERPLEXITY: Infinity
+      The song the grast the grast the grast the grast the grast the grast the grast the grast the gr
+ ============October 30th 2015, 07:49:04 am============= 
+argmax PERPLEXITY: 6.40
+     The song the grast the grast the grast the grast the grast the grast the grast the grast the gra
+ ============October 30th 2015, 07:50:01 am============= 
+argmax PERPLEXITY: Infinity
+      The song the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 07:51:19 am============= 
+argmax PERPLEXITY: 3.92
+      The form the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 07:52:23 am============= 
+argmax PERPLEXITY: Infinity
+      The bloom the gone the gone the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 07:53:27 am============= 
+argmax PERPLEXITY: 4.42
+      The blue the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 07:54:45 am============= 
+argmax PERPLEXITY: 4.10
+      The breast the grast the grast the grast the grast the grow,
+
+ ============October 30th 2015, 07:55:46 am============= 
+argmax PERPLEXITY: 12.81
+      The bloom the gone the gone the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 07:56:50 am============= 
+argmax PERPLEXITY: 2.02
+      The belong the gone the gone the gone the gone the gone the gone the gone the gone the gone the
+ ============October 30th 2015, 07:57:58 am============= 
+argmax PERPLEXITY: 4.85
+      The fare the grast the grast the grast the grast the grast the grast the grast the grast the go
+ ============October 30th 2015, 07:59:15 am============= 
+argmax PERPLEXITY: Infinity
+      The fare the grove to me the grood and the grood and the grood and the grood and the grood and 
+ ============October 30th 2015, 08:00:32 am============= 
+argmax PERPLEXITY: 3.81
+      The bloom the grove to tout toud tough the gone to tout toud toude shall she toude shall dore t
+ ============October 30th 2015, 08:01:48 am============= 
+argmax PERPLEXITY: 6.36
+      The the song the groom the groom the gone the gone the gone the gone the gone the gone the gone
+ ============October 30th 2015, 08:02:42 am============= 
+argmax PERPLEXITY: Infinity
+      The the sonds the spring the she to me the she to me to tout to tout tough the she to tout toug
+ ============October 30th 2015, 08:03:59 am============= 
+argmax PERPLEXITY: 5.64
+      There the grast the gone the gone the gone to the songs
+
+ ============October 30th 2015, 08:04:56 am============= 
+argmax PERPLEXITY: 4.41
+      The blue the blue the blue the blue the blue the blue the blue the blue the blue the blue the b
+ ============October 30th 2015, 08:06:14 am============= 
+argmax PERPLEXITY: 5.31
+      The beast, who has to me shears to the blue sheads to the belong to the belong to the belong to
+ ============October 30th 2015, 08:07:21 am============= 
+argmax PERPLEXITY: Infinity
+      The be diefe the be dong the be dong the be dong the be dong the be dong the song,
+
+ ============October 30th 2015, 08:08:32 am============= 
+argmax PERPLEXITY: 4.16
+      And the grove the gront,
+
+ ============October 30th 2015, 08:09:42 am============= 
+argmax PERPLEXITY: Infinity
+      And the grove the grove the grove the grove the grove the grove the grove the gove to tout touc
+ ============October 30th 2015, 08:11:03 am============= 
+argmax PERPLEXITY: 5.33
+      And the blue the blue the blue the be dore the be dore the be dore the be dore the shee to me t
+ ============October 30th 2015, 08:11:57 am============= 
+argmax PERPLEXITY: 6.68
+      And the be dieder the be dest the be dest the be dest the be dest the be dest the be dest the b
+ ============October 30th 2015, 08:13:12 am============= 
+argmax PERPLEXITY: 4.16
+      And the blue the be dise the be dise the be dest.
+
+
+ ============October 30th 2015, 08:14:14 am============= 
+argmax PERPLEXITY: 3.23
+      The be dise the blue the be dise the be dest.
+
+
+ ============October 30th 2015, 08:15:09 am============= 
+argmax PERPLEXITY: 5.64
+      And the be dies the be dest,
+
+ ============October 30th 2015, 08:16:03 am============= 
+argmax PERPLEXITY: Infinity
+      And the blue the be dies the be dove the be dove the be dove the be dest.
+
+
+ ============October 30th 2015, 08:17:35 am============= 
+argmax PERPLEXITY: 5.62
+      And the blue the songs the songs the songs the shells the shells the shells the shells the shel
+ ============October 30th 2015, 08:18:56 am============= 
+argmax PERPLEXITY: 2.20
+      And the sound the song the song the song the song the song the song the song the song the song 
+ ============October 30th 2015, 08:20:19 am============= 
+argmax PERPLEXITY: 4.50
+      And the brotten the brotten,
+
+ ============October 30th 2015, 08:21:41 am============= 
+argmax PERPLEXITY: 7.05
+      The sont the sound the song the song to the song to the song to the song to the song to the son
+ ============October 30th 2015, 08:22:51 am============= 
+argmax PERPLEXITY: 5.91
+      The the sont the sont the sont the sont the sont the song to the shall to the shall to the shal
+ ============October 30th 2015, 08:23:59 am============= 
+argmax PERPLEXITY: 3.84
+      The the far storget the far the far the far,
+
+ ============October 30th 2015, 08:24:56 am============= 
+argmax PERPLEXITY: 3.50
+
+
+ ============October 30th 2015, 08:25:51 am============= 
+argmax PERPLEXITY: Infinity
+      The the song the song the song to the song to me the song to me the song to me the song to me t
+ ============October 30th 2015, 08:27:11 am============= 
+argmax PERPLEXITY: 4.08
+      The the gong the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 08:28:17 am============= 
+argmax PERPLEXITY: 4.85
+      The far far the gone far the gone far the gone far the gone far the gone far the gone far the g
+ ============October 30th 2015, 08:29:18 am============= 
+argmax PERPLEXITY: 2.68
+      The far far the gone the gone the gone the gone the gone the gone the gone the gone the gone th
+ ============October 30th 2015, 08:30:27 am============= 
+argmax PERPLEXITY: 10.40
+      The the gong the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 08:31:53 am============= 
+argmax PERPLEXITY: 9.14
+      The the sher to the shers the shers to the shers to the shers to the shers to the shers to the 
+ ============October 30th 2015, 08:33:05 am============= 
+argmax PERPLEXITY: 2.43
+      The the song the sher to tout to tout ton tongue to the shers to the shers to the shers to the 
+ ============October 30th 2015, 08:34:25 am============= 
+argmax PERPLEXITY: 10.80
+      And the song the sher to tout to tout ton ton to me to tough the sher to tout to tout ton ton t
+ ============October 30th 2015, 08:35:43 am============= 
+argmax PERPLEXITY: 5.60
+      The the sher the shen the shen the shen the shen the shen the shen the shen the shen the shen t
+ ============October 30th 2015, 08:36:48 am============= 
+argmax PERPLEXITY: 6.44
+      The whose the with the with the with the with the with the with the with the with the with the 
+ ============October 30th 2015, 08:37:51 am============= 
+argmax PERPLEXITY: 3.09
+      The the blue the blue the blue the blue the blue the blue the be dest the be dest the be dest t
+ ============October 30th 2015, 08:38:58 am============= 
+argmax PERPLEXITY: Infinity
+      The the blue the blue the blue the blue the blue the blue the blue the blue the blue the blue t
+ ============October 30th 2015, 08:39:56 am============= 
+argmax PERPLEXITY: 3.01
+      The far the gone the gone the gone to the gone to the gone to the gone to the gone to the gone 
+ ============October 30th 2015, 08:40:55 am============= 
+argmax PERPLEXITY: 6.83
+      The the be dest the be dest the be dest the be dest the be dest the be dest the be dest the be 
+ ============October 30th 2015, 08:41:54 am============= 
+argmax PERPLEXITY: 8.47
+      The the gond the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 08:43:01 am============= 
+argmax PERPLEXITY: 10.04
+      The to the sher to the toum to tears to tears to the shes to tears to the shes to tears to the 
+ ============October 30th 2015, 08:44:12 am============= 
+argmax PERPLEXITY: 5.16
+      The the sher to the sher tom stall the sher tom stall the sher tom stall the sher tom stall the
+ ============October 30th 2015, 08:45:28 am============= 
+argmax PERPLEXITY: 5.50
+      The the song the sher to the sher to the sher to me the sher to me the sher to me the sher to m
+ ============October 30th 2015, 08:46:51 am============= 
+argmax PERPLEXITY: Infinity
+      The will the song the song the song the song the song the song the song the song the song the s
+ ============October 30th 2015, 08:48:05 am============= 
+argmax PERPLEXITY: 5.79
+      The far the far the far the far the far,
+
+ ============October 30th 2015, 08:49:00 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 08:49:59 am============= 
+argmax PERPLEXITY: 4.63
+      The belong the gone the gone the gone the gone the gone the gone the gone the gone the gone the
+ ============October 30th 2015, 08:51:23 am============= 
+argmax PERPLEXITY: 3.66
+      The be dorn the sone the sone the sone the sone the sone the sone the sone the sone the sone th
+ ============October 30th 2015, 08:52:38 am============= 
+argmax PERPLEXITY: 9.93
+      The songs the gone the gone the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 08:53:52 am============= 
+argmax PERPLEXITY: 2.11
+      The the gone the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 08:54:57 am============= 
+argmax PERPLEXITY: 6.70
+      The songs the gover the gover to me she.
+
+ ============October 30th 2015, 08:56:30 am============= 
+argmax PERPLEXITY: Infinity
+      The belond the gone the gone to the gone to the gone to the gone to the gone to the gone to the
+ ============October 30th 2015, 08:57:34 am============= 
+argmax PERPLEXITY: 4.20
+      The belong the gone the gone to the gone to the gone to the gone to the gone to the gone to the
+ ============October 30th 2015, 08:58:41 am============= 
+argmax PERPLEXITY: 9.60
+      The by the gone the gone to the gone to the gone to the gone to the gone to the gone to the gon
+ ============October 30th 2015, 08:59:40 am============= 
+argmax PERPLEXITY: 7.21
+
+
+ ============October 30th 2015, 09:00:37 am============= 
+argmax PERPLEXITY: 6.48
+      And the gloon the giver the giver the giver the giver the giver the giver the giver the giver t
+ ============October 30th 2015, 09:01:29 am============= 
+argmax PERPLEXITY: 5.13
+      And the gong the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 09:02:49 am============= 
+argmax PERPLEXITY: 4.21
+      And the gove the gold,
+
+ ============October 30th 2015, 09:04:06 am============= 
+argmax PERPLEXITY: 2.96
+      The by the gold,
+
+ ============October 30th 2015, 09:05:10 am============= 
+argmax PERPLEXITY: Infinity
+      And the gove the gold,
+
+ ============October 30th 2015, 09:06:05 am============= 
+argmax PERPLEXITY: 7.07
+      And the gong the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 09:07:27 am============= 
+argmax PERPLEXITY: 8.37
+      And the gong the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 09:08:40 am============= 
+argmax PERPLEXITY: 3.86
+      The blue the gone the gone the gone the gone the shall the shall the shall the shall the shall 
+ ============October 30th 2015, 09:09:55 am============= 
+argmax PERPLEXITY: 2.21
+      The fare the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 09:11:20 am============= 
+argmax PERPLEXITY: 5.17
+      And the gift the gift the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 09:12:37 am============= 
+argmax PERPLEXITY: 3.67
+      The be dise the gift the gift,
+
+ ============October 30th 2015, 09:13:31 am============= 
+argmax PERPLEXITY: 5.67
+      And the gift the gift, the gift,
+
+ ============October 30th 2015, 09:14:50 am============= 
+argmax PERPLEXITY: 3.84
+      The be my to my blue the gone with the gone with the gone with the gone with the gone with the 
+ ============October 30th 2015, 09:16:00 am============= 
+argmax PERPLEXITY: 7.28
+      The be dise the gone the gone the gone the gone the gone the gone the gone the gone the gone th
+ ============October 30th 2015, 09:16:50 am============= 
+argmax PERPLEXITY: Infinity
+      The be dorn the gone the gone the gone the gone the gone the gone the gone the gone the gone th
+ ============October 30th 2015, 09:17:57 am============= 
+argmax PERPLEXITY: 4.26
+      The be my shanden the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 09:18:59 am============= 
+argmax PERPLEXITY: 4.16
+      The fare the give the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 09:20:18 am============= 
+argmax PERPLEXITY: Infinity
+      Then the gove the gove the gove the gove the gove the gove the gove the gove the gove the gove 
+ ============October 30th 2015, 09:21:33 am============= 
+argmax PERPLEXITY: 3.58
+      There the give the give the give the give the give the give the give the give the give the give
+ ============October 30th 2015, 09:22:35 am============= 
+argmax PERPLEXITY: 5.67
+      There the gove the gove the gove the gove the gove the gove the gove the gove the gove the gove
+ ============October 30th 2015, 09:23:54 am============= 
+argmax PERPLEXITY: 4.29
+      The far the songs the she to my for the she to my for the she to my for the she to me waves the
+ ============October 30th 2015, 09:25:25 am============= 
+argmax PERPLEXITY: 3.90
+      The far sher sher the she to the she to the she to the she to the she to the she to the she to 
+ ============October 30th 2015, 09:26:46 am============= 
+argmax PERPLEXITY: 5.04
+      The be down the sher the she to the she to the she to the she to the she to the she to the she 
+ ============October 30th 2015, 09:27:57 am============= 
+argmax PERPLEXITY: 7.41
+      The be dest the song the sher the sher,
+
+ ============October 30th 2015, 09:29:07 am============= 
+argmax PERPLEXITY: 18.23
+      The be dest the song,
+
+ ============October 30th 2015, 09:30:10 am============= 
+argmax PERPLEXITY: 5.11
+      There be my song the blue the song,
+
+ ============October 30th 2015, 09:31:09 am============= 
+argmax PERPLEXITY: 8.98
+
+
+ ============October 30th 2015, 09:32:18 am============= 
+argmax PERPLEXITY: 4.17
+
+
+ ============October 30th 2015, 09:33:13 am============= 
+argmax PERPLEXITY: 3.49
+
+
+ ============October 30th 2015, 09:34:25 am============= 
+argmax PERPLEXITY: 3.25
+      The far all?
+
+
+ ============October 30th 2015, 09:35:36 am============= 
+argmax PERPLEXITY: 12.59
+      The fair the fair the fair the fair the fair the fair the fair the fair the fair the fair the f
+ ============October 30th 2015, 09:36:31 am============= 
+argmax PERPLEXITY: 3.69
+      The far a shall from the fair the fair the fair the fair the fair the fair the fair the fair th
+ ============October 30th 2015, 09:37:15 am============= 
+argmax PERPLEXITY: 3.74
+
+
+ ============October 30th 2015, 09:38:36 am============= 
+argmax PERPLEXITY: 10.13
+      The fair the fair the fairs the fairs the fairs the fairs the fairs the fairs the fairs the fai
+ ============October 30th 2015, 09:39:54 am============= 
+argmax PERPLEXITY: 5.96
+      The the fair the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 09:41:04 am============= 
+argmax PERPLEXITY: Infinity
+      The who the golder, the golderer from the gold the gold.
+
+
+ ============October 30th 2015, 09:42:22 am============= 
+argmax PERPLEXITY: 4.17
+      And who the gone from the gone from the gone from the gone from the gone from the gone from the
+ ============October 30th 2015, 09:43:41 am============= 
+argmax PERPLEXITY: 4.14
+      And stalf the groom the groom the groom the groom the groom the groom the groom the groom the g
+ ============October 30th 2015, 09:44:36 am============= 
+argmax PERPLEXITY: 4.46
+      TO A ANTA
+
+
+ ============October 30th 2015, 09:45:40 am============= 
+argmax PERPLEXITY: 3.37
+      TO ANTH THE
+
+
+ ============October 30th 2015, 09:47:03 am============= 
+argmax PERPLEXITY: 4.42
+      The will the gold the goldow,
+
+ ============October 30th 2015, 09:48:12 am============= 
+argmax PERPLEXITY: 6.03
+      The will the gold the gold the gold the gold the gold the gold the gold the gold the gold the g
+ ============October 30th 2015, 09:49:54 am============= 
+argmax PERPLEXITY: 2.96
+      The with the sher the sher sher sher sher sher sher sher sher sher sher sher sher sher sher she
+ ============October 30th 2015, 09:51:01 am============= 
+argmax PERPLEXITY: 3.30
+      The wings the sher to me with the sher to me with the sher sto me with the sher sto me with the
+ ============October 30th 2015, 09:52:02 am============= 
+argmax PERPLEXITY: 4.31
+      The sond the sher to me to me to me the sher sher sher sher sher sher sher sher sher sher sher 
+ ============October 30th 2015, 09:53:14 am============= 
+argmax PERPLEXITY: Infinity
+      The wind the sher to me with the sher to me with the sher sher sher sher sher sher sher sher sh
+ ============October 30th 2015, 09:54:30 am============= 
+argmax PERPLEXITY: 3.49
+      The was the gone the gold the gold the gold the gold the gold the gold the gold the gold the go
+ ============October 30th 2015, 09:55:33 am============= 
+argmax PERPLEXITY: 4.96
+      The sound the sound the song,
+
+ ============October 30th 2015, 09:56:39 am============= 
+argmax PERPLEXITY: Infinity
+      The will the sher to me whose the shes to me whose the she me the she me the she me the she me 
+ ============October 30th 2015, 09:57:38 am============= 
+argmax PERPLEXITY: Infinity
+      The whose whose whose whose whose whose whose whose whose whose whose whose whose whose whose w
+ ============October 30th 2015, 09:58:33 am============= 
+argmax PERPLEXITY: 7.12
+
+
+ ============October 30th 2015, 09:59:39 am============= 
+argmax PERPLEXITY: 4.50
+      The sound the grove the grove the grove the grove the groom the groom the gold to me wast the g
+ ============October 30th 2015, 10:00:47 am============= 
+argmax PERPLEXITY: Infinity
+      The sound the grove the grove the grow the grow the grow the grow the grow the grow the grow th
+ ============October 30th 2015, 10:01:54 am============= 
+argmax PERPLEXITY: Infinity
+      The was the golls the shall shaws
+
+ ============October 30th 2015, 10:03:14 am============= 
+argmax PERPLEXITY: 1.85
+      The who the gold the gold.
+
+
+ ============October 30th 2015, 10:04:32 am============= 
+argmax PERPLEXITY: 12.38
+      The bet the goldere with the goldow,
+
+ ============October 30th 2015, 10:05:31 am============= 
+argmax PERPLEXITY: 8.34
+      Alas! and the grove the grove the grove the grove the grove the grove the grove the grove the g
+ ============October 30th 2015, 10:06:32 am============= 
+argmax PERPLEXITY: 5.60
+      The be dorgess the groom the groom the groom the gold the gold the gold the gold the gold the g
+ ============October 30th 2015, 10:07:37 am============= 
+argmax PERPLEXITY: Infinity
+      The be dood the gone the gone the gone the gone the gone the gone the goldow.
+
+
+ ============October 30th 2015, 10:08:34 am============= 
+argmax PERPLEXITY: 1.87
+      The the golds the golds the golds,
+
+ ============October 30th 2015, 10:09:39 am============= 
+argmax PERPLEXITY: Infinity
+      The be down the gone the gone the gone the gone the gone the gone the gone the gone the gone th
+ ============October 30th 2015, 10:10:43 am============= 
+argmax PERPLEXITY: 5.03
+      The be down the gone the gone the gone the gone the gone the gone the gone the gone the gone th
+ ============October 30th 2015, 10:12:01 am============= 
+argmax PERPLEXITY: 9.17
+      And the gone the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 10:13:22 am============= 
+argmax PERPLEXITY: 4.94
+      Hadose the gone the gone the gone the gone the gone the gone the gone the gone the gone the gon
+ ============October 30th 2015, 10:14:36 am============= 
+argmax PERPLEXITY: 4.11
+      Hates the gold the golder the goldere the goldere the goldere the goldere the goldere the golde
+ ============October 30th 2015, 10:15:49 am============= 
+argmax PERPLEXITY: 2.85
+      And the gone the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 10:17:01 am============= 
+argmax PERPLEXITY: 8.01
+      And the gone to tought to tought to tought to tought to tought to tough--
+
+
+ ============October 30th 2015, 10:18:01 am============= 
+argmax PERPLEXITY: Infinity
+      And the groom the gone to tought to toughter to to tought to toughter to toughter to to tought 
+ ============October 30th 2015, 10:19:02 am============= 
+argmax PERPLEXITY: 3.78
+      And seas the groom the groom the groom the groom the gone to to tengen to me to me to me to me 
+ ============October 30th 2015, 10:20:12 am============= 
+argmax PERPLEXITY: 2.38
+      I har girl the ground the groom the groom the groom the gold,
+
+ ============October 30th 2015, 10:21:17 am============= 
+argmax PERPLEXITY: Infinity
+      And the groom the groom the gone to me to the gone to me to the gone to me to the gone to me to
+ ============October 30th 2015, 10:22:09 am============= 
+argmax PERPLEXITY: 3.14
+      The to gold the golder the golder,
+
+ ============October 30th 2015, 10:23:30 am============= 
+argmax PERPLEXITY: 2.20
+      The to toutgy the gone the gone who the gone who the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 10:25:02 am============= 
+argmax PERPLEXITY: Infinity
+      The the gone the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 10:26:33 am============= 
+argmax PERPLEXITY: 5.31
+      And the grarth to me the gone the gone the gone the gone the gone the gone the gone the gone th
+ ============October 30th 2015, 10:27:39 am============= 
+argmax PERPLEXITY: 2.85
+      The the gone the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 10:28:56 am============= 
+argmax PERPLEXITY: Infinity
+      The be move the gone the gone the gone the gone the gone the gone the gone the gone the gone th
+ ============October 30th 2015, 10:30:06 am============= 
+argmax PERPLEXITY: 6.50
+      The the sarted the gone to me to me to me to me to me to me to me to me to me to me to me to me
+ ============October 30th 2015, 10:31:20 am============= 
+argmax PERPLEXITY: 7.86
+      The blue the gift the gift,
+
+ ============October 30th 2015, 10:32:19 am============= 
+argmax PERPLEXITY: 3.14
+
+
+
+ ============October 30th 2015, 10:33:11 am============= 
+argmax PERPLEXITY: 3.14
+
+
+
+ ============October 30th 2015, 10:34:13 am============= 
+argmax PERPLEXITY: 5.26
+      And the goves the gone the gone the gone the gone the gone the gone the gone the gone the gone 
+ ============October 30th 2015, 10:35:24 am============= 
+argmax PERPLEXITY: 6.43
+      The be move the gone the gone the gone the gone the gone the gone the gone the gone the gone th
+ ============October 30th 2015, 10:36:48 am============= 
+argmax PERPLEXITY: 5.22
+      The be down the gone far the gone the gone the gone the gone the gone the gone the gone the gon
+ ============October 30th 2015, 10:38:21 am============= 
+argmax PERPLEXITY: 3.51
+      The to tear to tear to me to me to me to tear to me to me to me to tear to me to me to me to te
+ ============October 30th 2015, 10:39:42 am============= 
+argmax PERPLEXITY: 5.04
+      The farted the golded the golded to telf.
+
+ ============October 30th 2015, 10:40:45 am============= 
+argmax PERPLEXITY: 4.59
+      The by the golded the golded the golded the golded the gone the gone the gone the gone the gold
+ ============October 30th 2015, 10:42:14 am============= 
+argmax PERPLEXITY: 4.82
+      The by the breest the breest the breest the breest the breest the breest the breest the breest 
+ ============October 30th 2015, 10:43:08 am============= 
+argmax PERPLEXITY: 4.18
+      The by no far the groom the groom the groom the groom the groom the groom the groom the groom t
+ ============October 30th 2015, 10:43:59 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 10:45:09 am============= 
+argmax PERPLEXITY: Infinity
+      The by the broke the broke the broke the broke the broke,
+
+ ============October 30th 2015, 10:46:22 am============= 
+argmax PERPLEXITY: 3.81
+      The by the blue the blue the blue the blue the blue the blue the blue the blue the blue the blu
+ ============October 30th 2015, 10:47:31 am============= 
+argmax PERPLEXITY: Infinity
+      The by the breass the breass the breass the breass the breass the breass the breass the breass 
+ ============October 30th 2015, 10:48:54 am============= 
+argmax PERPLEXITY: 4.85
+      The by the be me the be me the be me the be me the be me the be me the be me the be me the be m
+ ============October 30th 2015, 10:49:59 am============= 
+argmax PERPLEXITY: Infinity
+      THE S ANTA
+
+
+ ============October 30th 2015, 10:50:45 am============= 
+argmax PERPLEXITY: 4.67
+      TO AN SR
+
+
+ ============October 30th 2015, 10:51:43 am============= 
+argmax PERPLEXITY: Infinity
+
+
+
+ ============October 30th 2015, 10:52:44 am============= 
+argmax PERPLEXITY: 4.65
+      The bell the gone the gold the golded to storn the golded to storn the golded to storn the gold
+ ============October 30th 2015, 10:53:50 am============= 
+argmax PERPLEXITY: 3.60
+      The be me the blue the be me the be me the be me the be me the be me the be me the be me the be
+ ============October 30th 2015, 10:54:50 am============= 
+argmax PERPLEXITY: Infinity
+      The by no whose the brocks the brocks the brocks the brocks the brocks the brocks the brocks th
+ ============October 30th 2015, 10:55:48 am============= 
+argmax PERPLEXITY: 5.13
+      There by not the breast, and the breast,
+
+ ============October 30th 2015, 10:56:58 am============= 
+argmax PERPLEXITY: 6.70
+      The by not the be down the be down the be down the be down the be down the be down the be down 
+ ============October 30th 2015, 10:58:10 am============= 
+argmax PERPLEXITY: 4.52
+      The by now bree the be dove the be down the be down the be down the be down the be down the be 
+ ============October 30th 2015, 10:59:14 am============= 
+argmax PERPLEXITY: 5.62
+      There the gras the grast the grast the grast the groon the grow and the grow and the grow and t
+ ============October 30th 2015, 11:00:20 am============= 
+argmax PERPLEXITY: Infinity
+      And the breasser for the breads the be down the be down the be down the be down the be down the
+ ============October 30th 2015, 11:01:29 am============= 
+argmax PERPLEXITY: 2.11
+      The by no the bloing to the bloing to the bloing to the bloing to the bloing to the bloing to t
+ ============October 30th 2015, 11:02:35 am============= 
+argmax PERPLEXITY: 3.92
+      The by the golder the golder,
+
+ ============October 30th 2015, 11:03:46 am============= 
+argmax PERPLEXITY: Infinity
+      The by the far the far the grast the grast the grast the grast the grast the groom the gold the
+ ============October 30th 2015, 11:04:51 am============= 
+argmax PERPLEXITY: 3.75
+      The be gold the golded the gold.
+
+
+ ============October 30th 2015, 11:06:17 am============= 
+argmax PERPLEXITY: 2.23
+      The by the groom the groom the groom the groom the groom the groom the groom the groom the gold
+ ============October 30th 2015, 11:07:22 am============= 
+argmax PERPLEXITY: Infinity
+      And the grain, the grain, the grain,
+
+ ============October 30th 2015, 11:08:37 am============= 
+argmax PERPLEXITY: 5.85
+      The who the golded the golded the golded the golded the golded the golded the golded the golded
+ ============October 30th 2015, 11:09:31 am============= 
+argmax PERPLEXITY: 2.70
+      The who the gone the gone the gone the gone the gone the gone the gone the gone the gone the go
+ ============October 30th 2015, 11:10:37 am============= 
+argmax PERPLEXITY: 4.64
+      The who the golder the golder the golderer the golderer the goldere the goldere the goldere the
+ ============October 30th 2015, 11:11:56 am============= 
+argmax PERPLEXITY: 4.28
+      The whot the grove the grove tot tot tot tot tot tot tot tot tot tot tot tot tot tot tot tot to
+ ============October 30th 2015, 11:13:12 am============= 
+argmax PERPLEXITY: 5.32
+      The the grass the grast the grast the grast the grove the groom the groom the groom the groom t
+ ============October 30th 2015, 11:14:13 am============= 
+argmax PERPLEXITY: 3.24
+      And the grain the grain,
+
+ ============October 30th 2015, 11:15:34 am============= 
+argmax PERPLEXITY: 2.87
+      And the grain the grain the grain the groom the groom the groom the groom the groom the groom t
+ ============October 30th 2015, 11:16:47 am============= 
+argmax PERPLEXITY: 4.04
+      And the grove the groom the groom the groom the groom the groom the groom the groom the groom t
+ ============October 30th 2015, 11:18:17 am============= 
+argmax PERPLEXITY: 23.91
+      The by now blue the gone the gone the gone the gone the gone the gone the gone the gone the gon
+ ============October 30th 2015, 11:19:20 am============= 
+argmax PERPLEXITY: Infinity
+      The by now blue the gone the golded the golded the golded the golded the golded the golded the 
+ ============October 30th 2015, 11:20:35 am============= 
+argmax PERPLEXITY: 16.79
+      And the groom the groom the groom the groom the groom the grood the grood the grood the grood t
+ ============October 30th 2015, 11:21:52 am============= 
+argmax PERPLEXITY: 4.82
+      And the groom the gone the gone the gone the gone the gone the gone the gone the gone the gone 
+ ============October 30th 2015, 11:22:43 am============= 
+argmax PERPLEXITY: 5.87
+
+
+ ============October 30th 2015, 11:23:27 am============= 
+argmax PERPLEXITY: 5.96
+
+
+ ============October 30th 2015, 11:24:34 am============= 
+argmax PERPLEXITY: 4.67
+      The by now the gone the gone the gone the gone the gone the gone the gone the gone the gone the
+ ============October 30th 2015, 11:25:23 am============= 
+argmax PERPLEXITY: Infinity
+      The her tought the golder,
+
+ ============October 30th 2015, 11:26:25 am============= 
+argmax PERPLEXITY: 5.24
+      The the gone the gone the golder,
+
+ ============October 30th 2015, 11:27:19 am============= 
+argmax PERPLEXITY: 2.49
+      The her toud the loves the gone the gone the gone the gone the gone the blue the gone the gone 
+ ============October 30th 2015, 11:28:16 am============= 
+argmax PERPLEXITY: 4.35
+      TO AMM OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF OF O
+ ============October 30th 2015, 11:29:22 am============= 
+argmax PERPLEXITY: Infinity
+      TO A MO BO BLOR
+
+
+ ============October 30th 2015, 11:30:44 am============= 
+argmax PERPLEXITY: 4.65
+      The with the grove the sher to teart,
+
+ ============October 30th 2015, 11:31:57 am============= 
+argmax PERPLEXITY: 9.89
+      The the song the give the give the give the give the give the give the give the give the give t
+ ============October 30th 2015, 11:33:04 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 11:34:09 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 11:35:13 am============= 
+argmax PERPLEXITY: 8.01
+      Far has so and the song,
+
+ ============October 30th 2015, 11:36:03 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 11:37:10 am============= 
+argmax PERPLEXITY: 3.29
+      And the grast the grast the grast the groves to touth to me the groves to touth to me the grove
+ ============October 30th 2015, 11:38:16 am============= 
+argmax PERPLEXITY: Infinity
+      And the golded the golded the golded to tout to me the golded to me the golded to me the golded
+ ============October 30th 2015, 11:39:21 am============= 
+argmax PERPLEXITY: 7.90
+      And the gone the gone the gone to me the gone to me the gone to me the gone to me the gone to m
+ ============October 30th 2015, 11:40:32 am============= 
+argmax PERPLEXITY: 7.79
+      The song, and the song, and the song, and the song,
+
+ ============October 30th 2015, 11:41:59 am============= 
+argmax PERPLEXITY: Infinity
+      The gong the golded to the far the far the far the far the far the far the far the far the far 
+ ============October 30th 2015, 11:43:21 am============= 
+argmax PERPLEXITY: 12.57
+      And the shall the shall the shall the shall the shall the shall the shall the shall the shall t
+ ============October 30th 2015, 11:44:43 am============= 
+argmax PERPLEXITY: Infinity
+      And the gone the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 11:46:08 am============= 
+argmax PERPLEXITY: 14.67
+      And the gove the gove to me the gove to me the shere to me the shere to me the shere to me the 
+ ============October 30th 2015, 11:47:35 am============= 
+argmax PERPLEXITY: 2.08
+      The gone the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 11:49:01 am============= 
+argmax PERPLEXITY: 3.83
+      The song the song the shall the shall shall shall shall shall shall shall shall shall shall sha
+ ============October 30th 2015, 11:49:55 am============= 
+argmax PERPLEXITY: 1.73
+      The gone the song the song,
+
+ ============October 30th 2015, 11:51:07 am============= 
+argmax PERPLEXITY: Infinity
+      The song the song, and the song,
+
+ ============October 30th 2015, 11:52:41 am============= 
+argmax PERPLEXITY: 4.17
+      The song has the song has the song has the song,
+
+ ============October 30th 2015, 11:53:57 am============= 
+argmax PERPLEXITY: 3.41
+      The song has the song has the song, and the song, and the song, and the song, and the song, and
+ ============October 30th 2015, 11:55:03 am============= 
+argmax PERPLEXITY: 6.29
+      And the far not the song the song, and the song, and the song, and the song, and the song, and 
+ ============October 30th 2015, 11:55:57 am============= 
+argmax PERPLEXITY: 3.19
+      And song has the song,
+
+ ============October 30th 2015, 11:57:24 am============= 
+argmax PERPLEXITY: 4.54
+      And the song the sher the sher the sher the sher the sher the sher the sher the sher the sher t
+ ============October 30th 2015, 11:58:42 am============= 
+argmax PERPLEXITY: Infinity
+      The fair has the fair the fair the fair.
+
+ ============October 30th 2015, 11:59:45 am============= 
+argmax PERPLEXITY: Infinity
+      And song the fair the fair,
+
+ ============October 30th 2015, 12:00:48 pm============= 
+argmax PERPLEXITY: 2.03
+      XXI
+
+
+ ============October 30th 2015, 12:01:54 pm============= 
+argmax PERPLEXITY: Infinity
+      XXI
+
+
+ ============October 30th 2015, 12:02:56 pm============= 
+argmax PERPLEXITY: 4.00
+      XXXI
+
+
+ ============October 30th 2015, 12:04:06 pm============= 
+argmax PERPLEXITY: 5.15
+      And sher the song,
+
+ ============October 30th 2015, 12:05:17 pm============= 
+argmax PERPLEXITY: 10.39
+      And shall the far the far the far,
+
+ ============October 30th 2015, 12:06:24 pm============= 
+argmax PERPLEXITY: 3.14
+      The belong the blue the blue the blue the blue the blue the blue the blue the blue the belong,
+
+ ============October 30th 2015, 12:07:23 pm============= 
+argmax PERPLEXITY: 6.55
+      The belong the blue the blue the blue the belong,
+
+ ============October 30th 2015, 12:08:39 pm============= 
+argmax PERPLEXITY: 4.45
+      The be down the song,
+
+ ============October 30th 2015, 12:09:37 pm============= 
+argmax PERPLEXITY: 5.80
+      The be most the song,
+
+ ============October 30th 2015, 12:10:34 pm============= 
+argmax PERPLEXITY: 4.40
+      The be dest the spear.
+
+ ============October 30th 2015, 12:11:55 pm============= 
+argmax PERPLEXITY: 4.49
+      The be down the be down the be down the be down the be down the be down the be down the be down
+ ============October 30th 2015, 12:13:13 pm============= 
+argmax PERPLEXITY: 4.59
+      The be dark the song,
+
+ ============October 30th 2015, 12:14:20 pm============= 
+argmax PERPLEXITY: 3.98
+      The forget the forget the forget the forget the forget the forget the forget the forget the for
+ ============October 30th 2015, 12:15:25 pm============= 
+argmax PERPLEXITY: 3.80
+      The far gold the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 12:16:46 pm============= 
+argmax PERPLEXITY: 1.94
+      The be dorget the gone.
+
+
+ ============October 30th 2015, 12:17:49 pm============= 
+argmax PERPLEXITY: 2.50
+      I gove the far the far the far the far the far the far the far the far the far the far the far 
+ ============October 30th 2015, 12:18:53 pm============= 
+argmax PERPLEXITY: 5.59
+      XXIII
+
+
+ ============October 30th 2015, 12:19:54 pm============= 
+argmax PERPLEXITY: 6.28
+      XXIX
+
+
+ ============October 30th 2015, 12:20:48 pm============= 
+argmax PERPLEXITY: 4.80
+      The far the far the far the shall to me the shall to me the shall to me the shall to me the sha
+ ============October 30th 2015, 12:21:51 pm============= 
+argmax PERPLEXITY: 4.95
+      XXIX
+
+
+ ============October 30th 2015, 12:23:07 pm============= 
+argmax PERPLEXITY: 2.09
+      XXII
+
+
+ ============October 30th 2015, 12:24:26 pm============= 
+argmax PERPLEXITY: Infinity
+      The sonds the song to the song to the song to the song to the song to the song to the song to t
+ ============October 30th 2015, 12:25:35 pm============= 
+argmax PERPLEXITY: 3.77
+      The sonds the song the song to the song to the song to tears to tears to tears to tears to tear
+ ============October 30th 2015, 12:26:57 pm============= 
+argmax PERPLEXITY: 5.67
+      The song the song the song the song to the song to the song to the song to the song to the song
+ ============October 30th 2015, 12:27:53 pm============= 
+argmax PERPLEXITY: 4.06
+      The song the song the song the song the song to the song to the song to the song to the song to
+ ============October 30th 2015, 12:28:50 pm============= 
+argmax PERPLEXITY: 4.78
+      The song the song the song the song,
+
+ ============October 30th 2015, 12:29:45 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 12:30:53 pm============= 
+argmax PERPLEXITY: 5.72
+      The fair fair the song,
+
+ ============October 30th 2015, 12:32:18 pm============= 
+argmax PERPLEXITY: 4.45
+      The song the song, the song,
+
+ ============October 30th 2015, 12:33:35 pm============= 
+argmax PERPLEXITY: 3.47
+      The blusss the song,
+
+ ============October 30th 2015, 12:34:44 pm============= 
+argmax PERPLEXITY: Infinity
+      The far song,
+
+ ============October 30th 2015, 12:35:44 pm============= 
+argmax PERPLEXITY: 2.76
+      The be most the song the song to the spall to the spall to the spall to the spall to the spall 
+ ============October 30th 2015, 12:36:35 pm============= 
+argmax PERPLEXITY: 4.08
+      The sprend the spate to the spalled to the spalled to the spall to the spall to the spall to th
+ ============October 30th 2015, 12:37:47 pm============= 
+argmax PERPLEXITY: 4.42
+      And the spalled the spalled to the spall to the spall,
+
+ ============October 30th 2015, 12:39:05 pm============= 
+argmax PERPLEXITY: 2.47
+      The song the spring the spring to the spring to the spring,
+
+ ============October 30th 2015, 12:40:16 pm============= 
+argmax PERPLEXITY: Infinity
+      And the spalled the spalled the spall, the spall,
+
+ ============October 30th 2015, 12:41:20 pm============= 
+argmax PERPLEXITY: 3.41
+      The bell the spalled the spall to the spall, the spall, and the spall,
+
+ ============October 30th 2015, 12:42:29 pm============= 
+argmax PERPLEXITY: 4.25
+      The by the song,
+
+ ============October 30th 2015, 12:43:41 pm============= 
+argmax PERPLEXITY: 3.21
+      The gone the song, the song,
+
+ ============October 30th 2015, 12:44:46 pm============= 
+argmax PERPLEXITY: 9.63
+      The be mods the bloom the bloom the song,
+
+ ============October 30th 2015, 12:45:43 pm============= 
+argmax PERPLEXITY: 4.93
+      The gone the song, who song,
+
+ ============October 30th 2015, 12:46:42 pm============= 
+argmax PERPLEXITY: 4.45
+      The blue the song,
+
+ ============October 30th 2015, 12:47:28 pm============= 
+argmax PERPLEXITY: 2.10
+
+
+
+ ============October 30th 2015, 12:48:17 pm============= 
+argmax PERPLEXITY: 3.20
+
+
+
+ ============October 30th 2015, 12:49:13 pm============= 
+argmax PERPLEXITY: 2.82
+      The gone the song,
+
+ ============October 30th 2015, 12:50:10 pm============= 
+argmax PERPLEXITY: 4.93
+      The far the fair the fair,
+
+ ============October 30th 2015, 12:51:11 pm============= 
+argmax PERPLEXITY: Infinity
+      The far the fair the fair,
+
+ ============October 30th 2015, 12:52:38 pm============= 
+argmax PERPLEXITY: 4.75
+      And the gift the gift the gift the gifting to the spall to the spall to the spall to the spall 
+ ============October 30th 2015, 12:53:47 pm============= 
+argmax PERPLEXITY: 9.41
+      And the gift the gift the gift the gifter the gifter the gifter the gifter the gifter the gifte
+ ============October 30th 2015, 12:55:10 pm============= 
+argmax PERPLEXITY: 3.40
+      And the gone the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 12:56:18 pm============= 
+argmax PERPLEXITY: Infinity
+      And the gone the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 12:57:19 pm============= 
+argmax PERPLEXITY: 4.59
+      The gow song, and the gone the gone the for the gone the for the gone the for the gow.
+
+ ============October 30th 2015, 12:58:21 pm============= 
+argmax PERPLEXITY: 6.08
+      The gow song, and the grist the grist,
+
+ ============October 30th 2015, 12:59:25 pm============= 
+argmax PERPLEXITY: 9.83
+      The gone the goldererer,
+
+ ============October 30th 2015, 01:00:34 pm============= 
+argmax PERPLEXITY: 4.16
+      The gods the gold the gold,
+
+ ============October 30th 2015, 01:01:39 pm============= 
+argmax PERPLEXITY: 5.44
+      And the grist the grist the grise the grise the grise the grise.
+
+ ============October 30th 2015, 01:02:55 pm============= 
+argmax PERPLEXITY: 3.43
+      And the girls the give the give the give the give the give the give the give the give the give 
+ ============October 30th 2015, 01:04:07 pm============= 
+argmax PERPLEXITY: 5.40
+      And the gift the gift,
+
+ ============October 30th 2015, 01:05:22 pm============= 
+argmax PERPLEXITY: Infinity
+      And the breer the gift the breer the gift the breest the breest the breest the breest the brees
+ ============October 30th 2015, 01:06:31 pm============= 
+argmax PERPLEXITY: 10.86
+      And the gift the gifting the gifting the gifting the gifting to the gifting to the gone the gon
+ ============October 30th 2015, 01:07:55 pm============= 
+argmax PERPLEXITY: 7.87
+      The song the shall stand the shall stand the shall stand the shall stand the shall stand the sh
+ ============October 30th 2015, 01:09:10 pm============= 
+argmax PERPLEXITY: 9.68
+      The be move the gove to the gone the gone the gone the gone the gone the gone the gone to the s
+ ============October 30th 2015, 01:10:39 pm============= 
+argmax PERPLEXITY: 8.87
+      The song the shall shall shall shall shall shall shall shall shall shall shall shall shall shal
+ ============October 30th 2015, 01:12:05 pm============= 
+argmax PERPLEXITY: 4.55
+      The song all the gold the gone the gone the gone the gone to the song,
+
+ ============October 30th 2015, 01:13:18 pm============= 
+argmax PERPLEXITY: 5.05
+      The gods the gong to the gone,
+
+ ============October 30th 2015, 01:14:12 pm============= 
+argmax PERPLEXITY: 5.77
+
+
+ ============October 30th 2015, 01:15:10 pm============= 
+argmax PERPLEXITY: 6.42
+      The gods the gone.
+
+
+ ============October 30th 2015, 01:16:22 pm============= 
+argmax PERPLEXITY: 13.05
+      The son song the grove the grove the grove the grove the grove the grove the gold the gold the 
+ ============October 30th 2015, 01:17:31 pm============= 
+argmax PERPLEXITY: 4.55
+      The son the gold the gold the gold the gold the gold the gold the gold the gold the gold the go
+ ============October 30th 2015, 01:18:50 pm============= 
+argmax PERPLEXITY: 3.43
+      The song the blost the shall shall shall shall shall shall shall shall shall shall shall shall 
+ ============October 30th 2015, 01:20:15 pm============= 
+argmax PERPLEXITY: 4.01
+      The song the spring the spring the sprose the shall stands to the shall waves the sprode to the
+ ============October 30th 2015, 01:21:16 pm============= 
+argmax PERPLEXITY: 5.89
+      The song the broke the broke the broke the broke the shall wast the shall waves the shall waves
+ ============October 30th 2015, 01:22:22 pm============= 
+argmax PERPLEXITY: 4.19
+      And the grove the gove to the gove to the sprove to the set to the set to the set to the set to
+ ============October 30th 2015, 01:23:36 pm============= 
+argmax PERPLEXITY: 3.83
+      And the gonger the gone the gone the gone the gone the gone the gone the gone the gone the gone
+ ============October 30th 2015, 01:24:51 pm============= 
+argmax PERPLEXITY: 1.71
+      And the breasser the song,
+
+ ============October 30th 2015, 01:25:56 pm============= 
+argmax PERPLEXITY: 1.96
+      And the sound the song, the song,
+
+ ============October 30th 2015, 01:27:00 pm============= 
+argmax PERPLEXITY: 3.21
+      And the song the shall shall shall shall shall shall shall shall shall shall shall shall shall 
+ ============October 30th 2015, 01:28:14 pm============= 
+argmax PERPLEXITY: Infinity
+      And the gone the fair the fair.
+
+ ============October 30th 2015, 01:29:18 pm============= 
+argmax PERPLEXITY: 2.04
+      And the gong the gold the gold.
+
+
+ ============October 30th 2015, 01:30:22 pm============= 
+argmax PERPLEXITY: 7.02
+      And the breast the shall sting to the shall sting to the shes to the shes to the shes to the sh
+ ============October 30th 2015, 01:31:36 pm============= 
+argmax PERPLEXITY: 4.30
+      The who the shall the shall stand the shall stall,
+
+ ============October 30th 2015, 01:33:04 pm============= 
+argmax PERPLEXITY: Infinity
+      The who the gold the gold the gold the gold the gold the golded to the who will
+
+ ============October 30th 2015, 01:34:26 pm============= 
+argmax PERPLEXITY: 4.21
+      The will the gift the gift the gift the give the give the give the give the give the give the g
+ ============October 30th 2015, 01:35:25 pm============= 
+argmax PERPLEXITY: 9.15
+      XXIII
+
+
+ ============October 30th 2015, 01:36:29 pm============= 
+argmax PERPLEXITY: Infinity
+      XXXII
+
+
+ ============October 30th 2015, 01:37:36 pm============= 
+argmax PERPLEXITY: 2.90
+      The blue the give the give the give the give the give the give the give the give the give the g
+ ============October 30th 2015, 01:39:00 pm============= 
+argmax PERPLEXITY: Infinity
+      The songue the give the give the give the give the give the give the give the give the give the
+ ============October 30th 2015, 01:39:48 pm============= 
+argmax PERPLEXITY: 4.35
+
+
+
+ ============October 30th 2015, 01:40:42 pm============= 
+argmax PERPLEXITY: 3.20
+      The gone.
+
+
+ ============October 30th 2015, 01:42:01 pm============= 
+argmax PERPLEXITY: 8.21
+      The gifting the blue the gifting to the blue the gifting to the blue the gifting to the blue th
+ ============October 30th 2015, 01:43:05 pm============= 
+argmax PERPLEXITY: Infinity
+      The grove the grass to tear.
+
+ ============October 30th 2015, 01:44:27 pm============= 
+argmax PERPLEXITY: 5.32
+      The shall the shall stands to teass.
+
+ ============October 30th 2015, 01:45:26 pm============= 
+argmax PERPLEXITY: 3.69
+      The song the shall shall,
+
+ ============October 30th 2015, 01:46:21 pm============= 
+argmax PERPLEXITY: 5.52
+      The shall the breast the breast the breast,
+
+ ============October 30th 2015, 01:47:23 pm============= 
+argmax PERPLEXITY: 2.88
+      And the bluss the shall shall stands the shall stith the shall stith the shall stith the shall 
+ ============October 30th 2015, 01:48:44 pm============= 
+argmax PERPLEXITY: 8.04
+      The blue the blue the blue the blue the blue the blue the blue the blue the blue the blue the b
+ ============October 30th 2015, 01:49:48 pm============= 
+argmax PERPLEXITY: 5.56
+      The blue the breast,
+
+ ============October 30th 2015, 01:50:50 pm============= 
+argmax PERPLEXITY: 7.38
+      The blue the blue the blue the blue the blue the blue the blue the blue the blue the blue the b
+ ============October 30th 2015, 01:51:55 pm============= 
+argmax PERPLEXITY: 2.05
+      The blue the blue the blue the blue the blue the blue the blue the blue the blue the blue the b
+ ============October 30th 2015, 01:53:06 pm============= 
+argmax PERPLEXITY: 3.04
+      The blue the gone the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 01:54:14 pm============= 
+argmax PERPLEXITY: 4.20
+      The blue the song the she me the she to the she me the she me the she me the she me the she me 
+ ============October 30th 2015, 01:55:27 pm============= 
+argmax PERPLEXITY: 3.90
+      The fair the song to the song to the song to the song to the song to the song to the song to th
+ ============October 30th 2015, 01:56:29 pm============= 
+argmax PERPLEXITY: Infinity
+      The fair the song the song the song the song the song the song the song the song the song the s
+ ============October 30th 2015, 01:57:13 pm============= 
+argmax PERPLEXITY: 6.66
+
+
+ ============October 30th 2015, 01:58:21 pm============= 
+argmax PERPLEXITY: 3.26
+      The sonds the songs
+
+ ============October 30th 2015, 01:59:39 pm============= 
+argmax PERPLEXITY: 5.62
+      THE S AFTA
+
+
+ ============October 30th 2015, 02:00:39 pm============= 
+argmax PERPLEXITY: 7.99
+      THE S ALTA
+
+
+ ============October 30th 2015, 02:01:55 pm============= 
+argmax PERPLEXITY: 4.28
+      The far far the far-
+
+ ============October 30th 2015, 02:03:03 pm============= 
+argmax PERPLEXITY: Infinity
+      The far the far the far the far-
+
+ ============October 30th 2015, 02:04:11 pm============= 
+argmax PERPLEXITY: Infinity
+      The farter the far my far-
+
+ ============October 30th 2015, 02:05:24 pm============= 
+argmax PERPLEXITY: 13.04
+      The far the far the far the far,
+
+ ============October 30th 2015, 02:06:30 pm============= 
+argmax PERPLEXITY: 4.94
+      The the song the shall the shall the shall the shall the shall moin the shall moin the shall mo
+ ============October 30th 2015, 02:07:52 pm============= 
+argmax PERPLEXITY: 3.73
+      The song the song to my song,
+
+ ============October 30th 2015, 02:08:57 pm============= 
+argmax PERPLEXITY: 4.25
+      The song the grast the grast the grast the grast the grast the grove my shall
+
+ ============October 30th 2015, 02:10:06 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 02:11:23 pm============= 
+argmax PERPLEXITY: 5.66
+      The fair her the greer the greer the greer the greer the greer the greer the greer the greer th
+ ============October 30th 2015, 02:12:30 pm============= 
+argmax PERPLEXITY: Infinity
+      The be me the grast the grast the grast the grast the grast the grast shall the gone,
+
+ ============October 30th 2015, 02:13:49 pm============= 
+argmax PERPLEXITY: 11.23
+      The far grast the song to my shall the shall the shall the shall the shall the shall to my shal
+ ============October 30th 2015, 02:14:55 pm============= 
+argmax PERPLEXITY: Infinity
+      The bloss the gong to me me me me me me me me me me me me me me me me me me me me me me me me m
+ ============October 30th 2015, 02:16:13 pm============= 
+argmax PERPLEXITY: 3.79
+      The song the gong to my song to me the gove to me the gove to me the gone.
+
+
+ ============October 30th 2015, 02:17:34 pm============= 
+argmax PERPLEXITY: 4.39
+      The song the grast the grast the grast the grast the grove the grove the grove the grove the gr
+ ============October 30th 2015, 02:18:27 pm============= 
+argmax PERPLEXITY: 4.65
+
+
+
+ ============October 30th 2015, 02:19:38 pm============= 
+argmax PERPLEXITY: 4.78
+      The song the grate the gracen the gracen the gracen the gracen the gracen the gracen the gracen
+ ============October 30th 2015, 02:20:38 pm============= 
+argmax PERPLEXITY: 3.51
+      The gover the gove the gove the gove the gove the gove the gove the gove the gove the gove the 
+ ============October 30th 2015, 02:21:32 pm============= 
+argmax PERPLEXITY: 7.41
+
+
+ ============October 30th 2015, 02:22:32 pm============= 
+argmax PERPLEXITY: 5.79
+
+
+ ============October 30th 2015, 02:23:34 pm============= 
+argmax PERPLEXITY: 4.99
+
+
+ ============October 30th 2015, 02:24:31 pm============= 
+argmax PERPLEXITY: 5.82
+      The gone.
+
+
+ ============October 30th 2015, 02:25:14 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 02:26:10 pm============= 
+argmax PERPLEXITY: 5.14
+
+
+ ============October 30th 2015, 02:27:34 pm============= 
+argmax PERPLEXITY: 4.28
+      The shall the fair the fair the fair the fair the fair.
+
+ ============October 30th 2015, 02:28:40 pm============= 
+argmax PERPLEXITY: 3.67
+      The wind the gold the gone the gone the gone the gone the gone the gone the gone the gone the g
+ ============October 30th 2015, 02:29:35 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 02:30:29 pm============= 
+argmax PERPLEXITY: 5.13
+      The womes the fair the fair the fair.
+
+ ============October 30th 2015, 02:31:18 pm============= 
+argmax PERPLEXITY: 2.86
+
+
+ ============October 30th 2015, 02:32:13 pm============= 
+argmax PERPLEXITY: 5.80
+      The words the gove the gove the gove the gove the gove the gove the gove the gove the gove the 
+ ============October 30th 2015, 02:33:17 pm============= 
+argmax PERPLEXITY: Infinity
+      The song the grise the gone,
+
+ ============October 30th 2015, 02:34:33 pm============= 
+argmax PERPLEXITY: 10.46
+      The words the fair the fair the fair.
+
+ ============October 30th 2015, 02:35:37 pm============= 
+argmax PERPLEXITY: Infinity
+      The song the gold the gold the gold the gold the gold the gold the gold the gold the gold the g
+ ============October 30th 2015, 02:36:24 pm============= 
+argmax PERPLEXITY: 8.99
+      The song the gold the gone.
+
+
+ ============October 30th 2015, 02:37:20 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 02:38:06 pm============= 
+argmax PERPLEXITY: 5.28
+
+
+ ============October 30th 2015, 02:39:01 pm============= 
+argmax PERPLEXITY: 7.58
+      The fair and the gift,
+
+ ============October 30th 2015, 02:40:00 pm============= 
+argmax PERPLEXITY: 3.66
+      The far gift,
+
+ ============October 30th 2015, 02:41:14 pm============= 
+argmax PERPLEXITY: 7.43
+      The far gold the golder the golder the golder,
+
+ ============October 30th 2015, 02:42:46 pm============= 
+argmax PERPLEXITY: 5.85
+      The will the fair has the fair the fair the fair the fair,
+
+ ============October 30th 2015, 02:43:55 pm============= 
+argmax PERPLEXITY: 3.50
+      And the grover the gone.
+
+
+ ============October 30th 2015, 02:45:26 pm============= 
+argmax PERPLEXITY: 1.93
+      The fair hast the grood the gone.
+
+
+ ============October 30th 2015, 02:46:41 pm============= 
+argmax PERPLEXITY: Infinity
+      The far gold.
+
+
+ ============October 30th 2015, 02:47:49 pm============= 
+argmax PERPLEXITY: 4.03
+      And the grass the grast the grood the grood the grood the grood the grood the grood the grood t
+ ============October 30th 2015, 02:48:54 pm============= 
+argmax PERPLEXITY: 4.16
+      And the groom the groom the groom the groom the groom the groom the groom the groom the groom t
+ ============October 30th 2015, 02:49:59 pm============= 
+argmax PERPLEXITY: Infinity
+      And the groom the groom the groom the groom the groom the gone the gone the gone the gone the g
+ ============October 30th 2015, 02:51:06 pm============= 
+argmax PERPLEXITY: 3.60
+      The song the grood the grood the grood the golder,
+
+ ============October 30th 2015, 02:52:17 pm============= 
+argmax PERPLEXITY: 3.72
+      The whone the golder the golder,
+
+ ============October 30th 2015, 02:53:21 pm============= 
+argmax PERPLEXITY: 2.70
+      The the golder the gift,
+
+ ============October 30th 2015, 02:54:20 pm============= 
+argmax PERPLEXITY: 2.85
+      The the gone,
+
+ ============October 30th 2015, 02:55:15 pm============= 
+argmax PERPLEXITY: Infinity
+      The the gold the gold the gold,
+
+ ============October 30th 2015, 02:56:21 pm============= 
+argmax PERPLEXITY: Infinity
+      The words the gold the gold the gold the gold,
+
+ ============October 30th 2015, 02:57:31 pm============= 
+argmax PERPLEXITY: Infinity
+      The words the gold the gold the gold the gold the gold the gold the gold the gold the gold the 
+ ============October 30th 2015, 02:58:48 pm============= 
+argmax PERPLEXITY: 6.18
+      The wings the gold the gold the gold,
+
+ ============October 30th 2015, 03:00:01 pm============= 
+argmax PERPLEXITY: 14.08
+      And the shall the shall the gone,
+
+ ============October 30th 2015, 03:01:04 pm============= 
+argmax PERPLEXITY: 5.49
+
+
+ ============October 30th 2015, 03:02:12 pm============= 
+argmax PERPLEXITY: 5.45
+      And the goves the goven the gove the gove the gove the gove the gove the gove the gove the gove
+ ============October 30th 2015, 03:03:22 pm============= 
+argmax PERPLEXITY: 4.75
+      And the gras the goves the goves the goves the goves the goves the goves the goves the goves th
+ ============October 30th 2015, 03:04:37 pm============= 
+argmax PERPLEXITY: 10.68
+      And the grace the graves the gradn?
+
+
+ ============October 30th 2015, 03:05:35 pm============= 
+argmax PERPLEXITY: 4.98
+      The far the grace the groven,
+
+ ============October 30th 2015, 03:06:27 pm============= 
+argmax PERPLEXITY: 4.37
+      The will the groven, the gone,
+
+ ============October 30th 2015, 03:07:25 pm============= 
+argmax PERPLEXITY: 3.18
+      The will the gone the gone the gone,
+
+ ============October 30th 2015, 03:08:25 pm============= 
+argmax PERPLEXITY: 4.19
+      And the gift the gift,
+
+ ============October 30th 2015, 03:09:29 pm============= 
+argmax PERPLEXITY: Infinity
+      The will the golder the golder the golder the golder,
+
+ ============October 30th 2015, 03:10:30 pm============= 
+argmax PERPLEXITY: 4.73
+
+
+ ============October 30th 2015, 03:11:30 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 03:12:26 pm============= 
+argmax PERPLEXITY: Infinity
+      The words to the gone the gove to the gove to the gove to the gove to the gove to the gove to t
+ ============October 30th 2015, 03:13:32 pm============= 
+argmax PERPLEXITY: Infinity
+      XXXII
+
+
+ ============October 30th 2015, 03:14:49 pm============= 
+argmax PERPLEXITY: 6.93
+      XXXII
+
+
+ ============October 30th 2015, 03:15:49 pm============= 
+argmax PERPLEXITY: 3.10
+      XXXXI
+
+
+ ============October 30th 2015, 03:16:52 pm============= 
+argmax PERPLEXITY: 4.36
+      XXIII
+
+
+ ============October 30th 2015, 03:18:12 pm============= 
+argmax PERPLEXITY: 4.30
+      XLIIII
+
+
+ ============October 30th 2015, 03:19:29 pm============= 
+argmax PERPLEXITY: 3.36
+      XLIII
+
+
+ ============October 30th 2015, 03:20:48 pm============= 
+argmax PERPLEXITY: Infinity
+      And the gove the gove the gove the gove the gove the gove the gove the gove the gove the gove t
+ ============October 30th 2015, 03:21:56 pm============= 
+argmax PERPLEXITY: Infinity
+      And the gove the gove the gove the gove the gove the gove the gove the gove the gove the gove t
+ ============October 30th 2015, 03:22:57 pm============= 
+argmax PERPLEXITY: 13.61
+      XLVII
+
+
+ ============October 30th 2015, 03:23:59 pm============= 
+argmax PERPLEXITY: Infinity
+      The be moved the bease the bease the bease the bease the bease the bease the bease the beases t
+ ============October 30th 2015, 03:25:15 pm============= 
+argmax PERPLEXITY: 6.57
+      The but the blue the blue the blue the blue the blue the blue the blue the blue the blue the bl
+ ============October 30th 2015, 03:26:38 pm============= 
+argmax PERPLEXITY: 4.63
+      The sond, and the shall the shall the shall the shall the shall the shall the shall the shall t
+ ============October 30th 2015, 03:28:00 pm============= 
+argmax PERPLEXITY: 4.40
+      The far the gove the gove to me and the gove to me and the gove to me and the gove to me and th
+ ============October 30th 2015, 03:28:53 pm============= 
+argmax PERPLEXITY: 9.53
+      The sonds the gring,
+
+ ============October 30th 2015, 03:29:41 pm============= 
+argmax PERPLEXITY: 4.47
+      The sond the grast,
+
+ ============October 30th 2015, 03:31:19 pm============= 
+argmax PERPLEXITY: 4.87
+      The son the gift the gift,
+
+ ============October 30th 2015, 03:32:29 pm============= 
+argmax PERPLEXITY: 5.64
+      The waves the golder the golder the golder,
+
+ ============October 30th 2015, 03:33:30 pm============= 
+argmax PERPLEXITY: Infinity
+      The far-ante the gift the give the give the give the give the give the give the give the give t
+ ============October 30th 2015, 03:34:24 pm============= 
+argmax PERPLEXITY: 4.52
+      The sher the give the give the give the give the give the give the give the give the give the g
+ ============October 30th 2015, 03:35:30 pm============= 
+argmax PERPLEXITY: 6.02
+      The far of the gove the gove the gove the gove the gove the gove the gove the gove the gove the
+ ============October 30th 2015, 03:36:48 pm============= 
+argmax PERPLEXITY: 5.02
+      The far of the gove the gove the gove the gove the gove the gove the gove the gove the gove the
+ ============October 30th 2015, 03:37:32 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 03:38:34 pm============= 
+argmax PERPLEXITY: 7.91
+
+
+ ============October 30th 2015, 03:39:54 pm============= 
+argmax PERPLEXITY: 3.60
+      The words heave the gone the gone the gone the gone the gone the gone the gone the gone the gon
+ ============October 30th 2015, 03:40:57 pm============= 
+argmax PERPLEXITY: 3.36
+      The to dark the gonger the gone the gods the gone the gods the gone the gods the gone the gods 
+ ============October 30th 2015, 03:42:04 pm============= 
+argmax PERPLEXITY: Infinity
+      The far gark the gone the gone the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 03:43:27 pm============= 
+argmax PERPLEXITY: 6.00
+      The far gaugh--
+
+ ============October 30th 2015, 03:44:46 pm============= 
+argmax PERPLEXITY: 2.65
+      The fair her the grass the grass the grass the grass the grass the grass the grass the grass th
+ ============October 30th 2015, 03:46:15 pm============= 
+argmax PERPLEXITY: Infinity
+      The waves the gown the gown the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 03:47:26 pm============= 
+argmax PERPLEXITY: 3.75
+      The waves the gold the gold the golder and the gold.
+
+
+ ============October 30th 2015, 03:48:42 pm============= 
+argmax PERPLEXITY: 6.32
+      The waves the gown the golder to the golder to the golderer fair the golderer fair.
+
+
+ ============October 30th 2015, 03:50:01 pm============= 
+argmax PERPLEXITY: Infinity
+      The waves the gold the gold the gods the far.
+
+ ============October 30th 2015, 03:51:18 pm============= 
+argmax PERPLEXITY: 4.12
+      The will har far the gone the for the far.
+
+ ============October 30th 2015, 03:52:31 pm============= 
+argmax PERPLEXITY: 1.72
+      The tough the gone the gone the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 03:53:44 pm============= 
+argmax PERPLEXITY: 4.45
+      The tought to the gone the gone the gone the gone to the gone to the gone to the gone to the go
+ ============October 30th 2015, 03:54:55 pm============= 
+argmax PERPLEXITY: 6.25
+      Lest the gras the gone the gone the gone the gone the gone the gone the gone the gone the gone 
+ ============October 30th 2015, 03:55:47 pm============= 
+argmax PERPLEXITY: 3.28
+      Leder the godst the gone the gone the gone the gone the gone the gone the gone the gone the gon
+ ============October 30th 2015, 03:56:44 pm============= 
+argmax PERPLEXITY: Infinity
+      XXIII
+
+
+ ============October 30th 2015, 03:57:45 pm============= 
+argmax PERPLEXITY: 1.84
+      XXIIII
+
+
+ ============October 30th 2015, 03:59:11 pm============= 
+argmax PERPLEXITY: 4.25
+      The tour to me to me to me the gods the gong to me to me to me to me to me to me to me to me to
+ ============October 30th 2015, 04:00:38 pm============= 
+argmax PERPLEXITY: 3.64
+      The son the gods the gods to me the gods to me the gods to me the gods to me the gods to me to 
+ ============October 30th 2015, 04:01:46 pm============= 
+argmax PERPLEXITY: 5.24
+      And Aphrore the gove to my song to me the gove to me to me the gove to me song to me to me the 
+ ============October 30th 2015, 04:03:12 pm============= 
+argmax PERPLEXITY: 4.04
+      Thee will the gowner the gove to me the gove to me the gove to me the gove to me the gove to me
+ ============October 30th 2015, 04:04:32 pm============= 
+argmax PERPLEXITY: Infinity
+      The will the gowner the gods the gods the gods the gods the gods to me waves the gods to me wav
+ ============October 30th 2015, 04:05:31 pm============= 
+argmax PERPLEXITY: 11.35
+      And Aphrose the girls the girls the gifs the gifs the gifs the gifs the gifs the gifs the gifs 
+ ============October 30th 2015, 04:06:23 pm============= 
+argmax PERPLEXITY: 4.06
+
+
+ ============October 30th 2015, 04:07:15 pm============= 
+argmax PERPLEXITY: 2.05
+
+
+
+ ============October 30th 2015, 04:08:01 pm============= 
+argmax PERPLEXITY: 3.39
+      XXXII
+
+
+ ============October 30th 2015, 04:09:15 pm============= 
+argmax PERPLEXITY: 4.07
+      XXXII
+
+
+ ============October 30th 2015, 04:10:27 pm============= 
+argmax PERPLEXITY: 4.33
+      The touth the goves the goves the gove to the gove to the gove to the gove to the goves to the 
+ ============October 30th 2015, 04:11:33 pm============= 
+argmax PERPLEXITY: 4.36
+      The tour to me to the gong to the gong to the gong to the gong to the gong to the gong to the g
+ ============October 30th 2015, 04:12:40 pm============= 
+argmax PERPLEXITY: 3.96
+      The touke sper the gods the gods the gods the gods the gods the gods the gods the gods the gods
+ ============October 30th 2015, 04:13:48 pm============= 
+argmax PERPLEXITY: 4.32
+      The touke soungess the gong to my soung, the gone.
+
+
+ ============October 30th 2015, 04:14:51 pm============= 
+argmax PERPLEXITY: 1.78
+      XXXII
+
+
+ ============October 30th 2015, 04:16:06 pm============= 
+argmax PERPLEXITY: 3.94
+      XXXII
+
+
+ ============October 30th 2015, 04:17:15 pm============= 
+argmax PERPLEXITY: Infinity
+      The blue the groom the groom the groom the groom the groom the groom the good to the good to th
+ ============October 30th 2015, 04:18:10 pm============= 
+argmax PERPLEXITY: 4.22
+
+
+ ============October 30th 2015, 04:19:22 pm============= 
+argmax PERPLEXITY: 2.93
+      The blue the good to the good to the good to the good to the good to the good to the good to th
+ ============October 30th 2015, 04:20:39 pm============= 
+argmax PERPLEXITY: 6.37
+      And the groom the gove the gods the gods the gods the gods the gods the gods the gods the gods 
+ ============October 30th 2015, 04:21:56 pm============= 
+argmax PERPLEXITY: 2.38
+      The the groom the gong the gods the gods the gods the gods the gods the gods the gods the gods 
+ ============October 30th 2015, 04:22:54 pm============= 
+argmax PERPLEXITY: Infinity
+      The the grove the groom the gong,
+
+ ============October 30th 2015, 04:24:16 pm============= 
+argmax PERPLEXITY: 6.86
+      The to far the groom the grover the grover the gone,
+
+ ============October 30th 2015, 04:25:26 pm============= 
+argmax PERPLEXITY: 3.85
+      The tour to the grove the groom the groom the groom the groom the groom the groom the groom the
+ ============October 30th 2015, 04:26:32 pm============= 
+argmax PERPLEXITY: 15.87
+      The to me to the groom the groom the gove to the gove to the gove to the gove to the gove to th
+ ============October 30th 2015, 04:27:43 pm============= 
+argmax PERPLEXITY: 5.04
+      And the grove the groom the groom the groom the groom the groom the groom the gove to tears to 
+ ============October 30th 2015, 04:29:03 pm============= 
+argmax PERPLEXITY: 3.34
+      The far the give the give the gove to the gove to the gove to the gove to the gove to the gove 
+ ============October 30th 2015, 04:30:24 pm============= 
+argmax PERPLEXITY: 10.40
+      The fair the give the give the give the give the give the give the give the gove to the golder,
+ ============October 30th 2015, 04:31:23 pm============= 
+argmax PERPLEXITY: 4.11
+      And the groom the give the give the give the give the give the give the give the give the gove 
+ ============October 30th 2015, 04:32:39 pm============= 
+argmax PERPLEXITY: 4.14
+      The will the will the will the will the will the will the will the will the will the will the w
+ ============October 30th 2015, 04:33:47 pm============= 
+argmax PERPLEXITY: 1.94
+      The will the gove to the song to the song to the song to the song to the song to the song to th
+ ============October 30th 2015, 04:34:50 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 04:35:47 pm============= 
+argmax PERPLEXITY: 4.80
+      And who her stall the groom the groom the groom the gods the gods the gods the gods the gods th
+ ============October 30th 2015, 04:37:00 pm============= 
+argmax PERPLEXITY: Infinity
+      The song all the groom the groom the song to good will the song to good will the song to good w
+ ============October 30th 2015, 04:38:04 pm============= 
+argmax PERPLEXITY: Infinity
+      The waves the waves the waves the waves the waves the waves the waves the waves the waves the w
+ ============October 30th 2015, 04:39:18 pm============= 
+argmax PERPLEXITY: 12.24
+      The waves the gove the gove will the gove will the gove will the gove will the gove will the go
+ ============October 30th 2015, 04:40:21 pm============= 
+argmax PERPLEXITY: 3.61
+      The far good the groom the goves to the wind the song to the wind the wind the wind the wind th
+ ============October 30th 2015, 04:41:36 pm============= 
+argmax PERPLEXITY: 2.85
+      The far the grast the grast the grast the grass to the waves the waves the waves the waves the 
+ ============October 30th 2015, 04:42:37 pm============= 
+argmax PERPLEXITY: 3.56
+      The far the grast the grast the groom the groom the groom the groom the groom the groom the gro
+ ============October 30th 2015, 04:43:43 pm============= 
+argmax PERPLEXITY: Infinity
+      The far the gift the gift the gift the gift,
+
+ ============October 30th 2015, 04:45:15 pm============= 
+argmax PERPLEXITY: Infinity
+      And the grass the grast the grads the grads the grads the grads the grads the grads the grads t
+ ============October 30th 2015, 04:46:26 pm============= 
+argmax PERPLEXITY: Infinity
+      And the grass the grass the grass the grass the grass the grass the grass the grass the grass t
+ ============October 30th 2015, 04:47:33 pm============= 
+argmax PERPLEXITY: 4.48
+      And the groom the groom the groom the groom the groom the groom the groom the groom the groom t
+ ============October 30th 2015, 04:48:52 pm============= 
+argmax PERPLEXITY: 2.00
+      The fair the groom the groom the groom the groom the groom the groom the gone,
+
+ ============October 30th 2015, 04:49:49 pm============= 
+argmax PERPLEXITY: 6.19
+      And the gove the gove the gove the gove the gove the gove the gove the gove the gove the gove t
+ ============October 30th 2015, 04:50:47 pm============= 
+argmax PERPLEXITY: 3.57
+      And the girl the girls the gift the gift the gift the gift the gift the gift the gove the gove 
+ ============October 30th 2015, 04:51:54 pm============= 
+argmax PERPLEXITY: 6.71
+      And the gove the gove the gove the for the gove the for the gove to the song to the song to the
+ ============October 30th 2015, 04:52:51 pm============= 
+argmax PERPLEXITY: 5.53
+      The tour to the song to the song to the song to the song to the song to the song to the song to
+ ============October 30th 2015, 04:53:54 pm============= 
+argmax PERPLEXITY: Infinity
+      The tour for the gove the gove to the gove to the gove to the gove to the gove to the gove to t
+ ============October 30th 2015, 04:54:52 pm============= 
+argmax PERPLEXITY: 6.79
+      The tour the golder the gone,
+
+ ============October 30th 2015, 04:55:59 pm============= 
+argmax PERPLEXITY: 5.04
+      THE ALOL AR SON SO ALOL AR SO ALOL AR SO ALOL ARLOLE
+
+
+ ============October 30th 2015, 04:57:09 pm============= 
+argmax PERPLEXITY: 9.92
+      The fair the golder, the gove the song,
+
+ ============October 30th 2015, 04:58:09 pm============= 
+argmax PERPLEXITY: 4.65
+      THE ALTHE
+
+
+ ============October 30th 2015, 04:59:28 pm============= 
+argmax PERPLEXITY: 6.55
+      THE ALTHE
+
+
+ ============October 30th 2015, 05:00:35 pm============= 
+argmax PERPLEXITY: 3.00
+      And the goves the goves the goves the goves the goves the goves the goves the goves the goves t
+ ============October 30th 2015, 05:01:50 pm============= 
+argmax PERPLEXITY: 4.11
+      And shall the gover the goven the fair.
+
+ ============October 30th 2015, 05:02:54 pm============= 
+argmax PERPLEXITY: 4.00
+      And the shall the shall the far---
+
+ ============October 30th 2015, 05:04:11 pm============= 
+argmax PERPLEXITY: 2.82
+      And shall the giftar the give the gove the gove the gove the gove the gove the gove the gove th
+ ============October 30th 2015, 05:05:17 pm============= 
+argmax PERPLEXITY: 3.78
+
+
+
+ ============October 30th 2015, 05:06:27 pm============= 
+argmax PERPLEXITY: 4.10
+      And sher the gove the gove the gove the gove the gove the gove the gove the gove the gove the g
+ ============October 30th 2015, 05:07:34 pm============= 
+argmax PERPLEXITY: 4.61
+      The fair her the golded the gove the gove the gove the gove the gods the gods the gods the gods
+ ============October 30th 2015, 05:08:58 pm============= 
+argmax PERPLEXITY: 4.30
+      The sond the gods the gove the gove the shall dast the gods the shall dast the gods the shall d
+ ============October 30th 2015, 05:10:06 pm============= 
+argmax PERPLEXITY: 4.43
+      The was the gove the gove the gove the gove the gove the gove the gove the gove the gove the go
+ ============October 30th 2015, 05:11:22 pm============= 
+argmax PERPLEXITY: 5.13
+      The will the golds to the golds,
+
+ ============October 30th 2015, 05:12:42 pm============= 
+argmax PERPLEXITY: 4.70
+      The songue the golds to teart to teart tough whose the golds to teart,
+
+ ============October 30th 2015, 05:13:44 pm============= 
+argmax PERPLEXITY: 5.51
+      The song the golder the golder the goves the goves the goves the goves the goves the goves the 
+ ============October 30th 2015, 05:14:56 pm============= 
+argmax PERPLEXITY: 2.45
+      The song the golder the gone the gone the gone the gone the gone the gone the gone the gone the
+ ============October 30th 2015, 05:15:57 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 05:16:59 pm============= 
+argmax PERPLEXITY: 3.98
+      The songs the shall to tout to toud toude dood to tout to toud toude dood to toud tor to me to 
+ ============October 30th 2015, 05:18:14 pm============= 
+argmax PERPLEXITY: 5.88
+      The waves the shall the shall the shall the shall wave the shall wave the shall wave the shall 
+ ============October 30th 2015, 05:19:15 pm============= 
+argmax PERPLEXITY: Infinity
+      The will the shall the shall the shall waves the shall dess the shall dess the shall dess the s
+ ============October 30th 2015, 05:20:24 pm============= 
+argmax PERPLEXITY: Infinity
+      The will the shall the shall the shall to tout to tout tears
+
+ ============October 30th 2015, 05:21:22 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 05:22:27 pm============= 
+argmax PERPLEXITY: Infinity
+      The will the shall the shall the shall the shall the shall the shall the shall the shall the sh
+ ============October 30th 2015, 05:23:22 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 05:24:27 pm============= 
+argmax PERPLEXITY: Infinity
+      XXIII
+
+
+ ============October 30th 2015, 05:25:34 pm============= 
+argmax PERPLEXITY: 4.68
+      The far the blue the blue the blue the blue the blue the blue the blue the blue the blue the bl
+ ============October 30th 2015, 05:27:17 pm============= 
+argmax PERPLEXITY: 4.16
+      The wind the god the gods the gods the gods the gods the gods the gods the gods the gods the go
+ ============October 30th 2015, 05:28:32 pm============= 
+argmax PERPLEXITY: 10.75
+      The blue the give the give the give the give the give the give the give the give the give the g
+ ============October 30th 2015, 05:29:32 pm============= 
+argmax PERPLEXITY: 5.74
+      The dosiled the gone the god the god the god the god the god the god the god the god the god th
+ ============October 30th 2015, 05:30:42 pm============= 
+argmax PERPLEXITY: Infinity
+      The blue the girls the gifting the gone the gone the gone the gone the gone the gone the gone t
+ ============October 30th 2015, 05:31:44 pm============= 
+argmax PERPLEXITY: 6.01
+
+
+ ============October 30th 2015, 05:32:54 pm============= 
+argmax PERPLEXITY: 4.90
+      There the girls the gift the golder,
+
+ ============October 30th 2015, 05:34:25 pm============= 
+argmax PERPLEXITY: 4.39
+      The far good the gone the gone to me the gone to me the gone to me the gone to me the gone to m
+ ============October 30th 2015, 05:35:36 pm============= 
+argmax PERPLEXITY: 2.78
+      The far the gone the gone,
+
+ ============October 30th 2015, 05:36:38 pm============= 
+argmax PERPLEXITY: 8.88
+      The farte the gold the gone the gone the gone the gone the gone the gone the gone the gone the 
+ ============October 30th 2015, 05:37:33 pm============= 
+argmax PERPLEXITY: Infinity
+      The farte the far the gold the gold the far the gold the far.
+
+ ============October 30th 2015, 05:38:37 pm============= 
+argmax PERPLEXITY: 4.67
+      The farted the shall the shall the shall the shall the shall the shall the shall the shall the 
+ ============October 30th 2015, 05:39:50 pm============= 
+argmax PERPLEXITY: 4.14
+      The farth the far the gold,
+
+ ============October 30th 2015, 05:41:09 pm============= 
+argmax PERPLEXITY: 4.58
+      The fair the give the give the give the give the give the give the give the give the gold,
+
+ ============October 30th 2015, 05:42:23 pm============= 
+argmax PERPLEXITY: Infinity
+      And the gove the gove to tearts the gods the she to tearts the gods the she to teartst,
+
+ ============October 30th 2015, 05:43:54 pm============= 
+argmax PERPLEXITY: 3.74
+      All breast the breast to tears the breast to tears the breast,
+
+ ============October 30th 2015, 05:45:25 pm============= 
+argmax PERPLEXITY: 2.56
+      The blue the blue the blue the blue the blue the blue the blue the blue the blue the blue the b
+ ============October 30th 2015, 05:46:44 pm============= 
+argmax PERPLEXITY: 17.40
+      The blue the blue the blue the blue the blue the blue the blue the blue the blue the blue the b
