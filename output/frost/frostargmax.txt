@@ -1,2606 +1,1054 @@
 
- ============October 30th 2015, 12:35:10 am============= 
-argmax PERPLEXITY: 4.01
-    "I don't know the stind the stinds the side the side.
-
- ============October 30th 2015, 12:35:47 am============= 
-argmax PERPLEXITY: 6.24
-    "I sind the say the say the say the say the say the say the say the say the say the say the say t
- ============October 30th 2015, 12:36:28 am============= 
-argmax PERPLEXITY: 6.26
-    "I she say the she say the she say the say the say the say the say the say the say the say the sa
- ============October 30th 2015, 12:37:13 am============= 
-argmax PERPLEXITY: 4.42
-    "I she some the say the say the say the say the say the say the say the say the say the say the s
- ============October 30th 2015, 12:37:53 am============= 
-argmax PERPLEXITY: 4.36
-    "I sare the sare the sare the say.
-
- ============October 30th 2015, 12:38:31 am============= 
-argmax PERPLEXITY: 5.63
-    I some the sare the sare the say.
-
- ============October 30th 2015, 12:39:07 am============= 
-argmax PERPLEXITY: Infinity
-    The say the said the said the say the say.
-
- ============October 30th 2015, 12:39:49 am============= 
-argmax PERPLEXITY: 4.55
-    And she say the said the said.
-
- ============October 30th 2015, 12:40:31 am============= 
-argmax PERPLEXITY: 7.07
-    I should she shower the said the say.
-
- ============October 30th 2015, 12:41:14 am============= 
-argmax PERPLEXITY: 5.81
-    I should sprould sprout the say the say.
-
- ============October 30th 2015, 12:41:49 am============= 
-argmax PERPLEXITY: 4.26
-    "I should sprough the say the say.
-
- ============October 30th 2015, 12:42:28 am============= 
-argmax PERPLEXITY: 7.22
-    "I she say the say the say the say.
-
- ============October 30th 2015, 12:43:08 am============= 
-argmax PERPLEXITY: 3.77
-    "I shouldn't shatter the say the say.
-
- ============October 30th 2015, 12:43:46 am============= 
-argmax PERPLEXITY: 5.05
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 12:44:23 am============= 
-argmax PERPLEXITY: 5.10
-    "I shatter the sare the sare the say.
-
- ============October 30th 2015, 12:45:23 am============= 
-argmax PERPLEXITY: 4.29
-    "I shat the sare the sare the sare the say.
-
- ============October 30th 2015, 12:46:41 am============= 
-argmax PERPLEXITY: 5.87
-    "I she say the sarry the sare the say.
-
- ============October 30th 2015, 12:48:10 am============= 
-argmax PERPLEXITY: 4.72
-    "I she say the say the say the say.
-
- ============October 30th 2015, 12:49:18 am============= 
-argmax PERPLEXITY: 4.50
-    "I say the say the say the say the say the say.
-
- ============October 30th 2015, 12:50:32 am============= 
-argmax PERPLEXITY: 4.84
-    "I say the say the say the say the say the say.
-
- ============October 30th 2015, 12:51:44 am============= 
-argmax PERPLEXITY: 5.08
-    "I was the streat the say the say the say.
-
- ============October 30th 2015, 12:52:55 am============= 
-argmax PERPLEXITY: 30.24
-    "I won't have the sting the sting the streat the say.
-
- ============October 30th 2015, 12:54:10 am============= 
-argmax PERPLEXITY: 6.76
-    "I won't have the said the said.
-
- ============October 30th 2015, 12:55:36 am============= 
-argmax PERPLEXITY: 3.49
-    "I won't have the say the say the say.
-
- ============October 30th 2015, 12:56:58 am============= 
-argmax PERPLEXITY: 5.04
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 12:58:26 am============= 
-argmax PERPLEXITY: 4.24
-    "I say the say the say the say.
-
- ============October 30th 2015, 12:59:59 am============= 
-argmax PERPLEXITY: 6.26
-    "I don't have the say the say the say.
-
- ============October 30th 2015, 01:01:30 am============= 
-argmax PERPLEXITY: 5.29
-    "It say the say the say the say the say.
-
- ============October 30th 2015, 01:02:52 am============= 
-argmax PERPLEXITY: 4.65
-    "I say the say the say the say.
-
- ============October 30th 2015, 01:04:18 am============= 
-argmax PERPLEXITY: 5.90
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 01:05:40 am============= 
-argmax PERPLEXITY: 4.56
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 01:07:08 am============= 
-argmax PERPLEXITY: 11.81
-    "It's a shadve the say the say the say the say.
-
- ============October 30th 2015, 01:08:44 am============= 
-argmax PERPLEXITY: 4.19
-    "It say the say the say the say the say.
-
- ============October 30th 2015, 01:10:09 am============= 
-argmax PERPLEXITY: 6.53
-    "It say the say the say the say the say.
-
- ============October 30th 2015, 01:11:51 am============= 
-argmax PERPLEXITY: 4.48
-    "I'm something the say the say the say the say.
-
- ============October 30th 2015, 01:13:06 am============= 
-argmax PERPLEXITY: 6.23
-    "It say the say the say the say the say.
-
- ============October 30th 2015, 01:14:33 am============= 
-argmax PERPLEXITY: 5.09
-    "I'm he say the say the say the say the say.
-
- ============October 30th 2015, 01:16:12 am============= 
-argmax PERPLEXITY: 7.47
-    "I she say the say the say the say.
-
- ============October 30th 2015, 01:18:05 am============= 
-argmax PERPLEXITY: 5.68
-    "I shouldn't have the say the say the say.
-
- ============October 30th 2015, 01:20:03 am============= 
-argmax PERPLEXITY: 9.18
-    "I shouldn't have the say to the say to say.
-
- ============October 30th 2015, 01:21:39 am============= 
-argmax PERPLEXITY: 4.23
-    "I shower the say the say the say.
-
- ============October 30th 2015, 01:23:07 am============= 
-argmax PERPLEXITY: 41.23
-    I say the say the say the say the say.
-
- ============October 30th 2015, 01:24:48 am============= 
-argmax PERPLEXITY: 5.15
-    "I somether the somether the somether the say.
-
- ============October 30th 2015, 01:26:23 am============= 
-argmax PERPLEXITY: 4.80
-    "I'm the say the say the say the pay the pay.
-
- ============October 30th 2015, 01:27:55 am============= 
-argmax PERPLEXITY: 3.34
-    "I'm the say the say the say the say the say.
-
- ============October 30th 2015, 01:29:26 am============= 
-argmax PERPLEXITY: 4.44
-    "I say the say the say the say the say
-
- ============October 30th 2015, 01:31:01 am============= 
-argmax PERPLEXITY: 4.90
-    I say the say the say the say the say.
-
- ============October 30th 2015, 01:32:40 am============= 
-argmax PERPLEXITY: 3.65
-    "I say the pain the pain the paid the pay
-
- ============October 30th 2015, 01:34:17 am============= 
-argmax PERPLEXITY: 3.40
-    "I'm the say the say the say the say the say.
-
- ============October 30th 2015, 01:35:39 am============= 
-argmax PERPLEXITY: 6.73
-    "I say the say the say the say.
-
- ============October 30th 2015, 01:37:21 am============= 
-argmax PERPLEXITY: 4.21
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 01:39:03 am============= 
-argmax PERPLEXITY: 4.61
-    "It was the said the said the say.
-
- ============October 30th 2015, 01:40:29 am============= 
-argmax PERPLEXITY: 4.58
-    "I say the say the say the say.
-
- ============October 30th 2015, 01:42:01 am============= 
-argmax PERPLEXITY: 5.44
-    "I see the say the say the say.
-
- ============October 30th 2015, 01:43:25 am============= 
-argmax PERPLEXITY: 8.21
-    "I'm sting the said the said the said.
-
- ============October 30th 2015, 01:45:12 am============= 
-argmax PERPLEXITY: 4.08
-    "I say the bain the bain the bain the baid.
-
- ============October 30th 2015, 01:46:39 am============= 
-argmax PERPLEXITY: 5.73
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 01:48:16 am============= 
-argmax PERPLEXITY: 5.92
-    "I say the say the say the bay the bay the bay.
-
- ============October 30th 2015, 01:49:49 am============= 
-argmax PERPLEXITY: 8.22
-    "I should have the brow the brow the brow the brower to the brower
-
- ============October 30th 2015, 01:51:27 am============= 
-argmax PERPLEXITY: 4.86
-    "I see the said the said the said the said.
-
- ============October 30th 2015, 01:53:02 am============= 
-argmax PERPLEXITY: 4.96
-    "I sper the pain the pain the pain the pains."
-
- ============October 30th 2015, 01:54:24 am============= 
-argmax PERPLEXITY: 3.89
-    "I she say the said the said the say the say.
-
- ============October 30th 2015, 01:56:02 am============= 
-argmax PERPLEXITY: 6.71
-    "I she say the say the say the say the say.
-
- ============October 30th 2015, 01:57:33 am============= 
-argmax PERPLEXITY: 4.68
-    "I she say the say the say the say the say.
-
- ============October 30th 2015, 01:59:14 am============= 
-argmax PERPLEXITY: 4.11
-    "I say the say the say the for the for the say.
-
- ============October 30th 2015, 02:00:45 am============= 
-argmax PERPLEXITY: 6.04
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 02:02:13 am============= 
-argmax PERPLEXITY: 4.53
-    "I she say the say the say the say the say.
-
- ============October 30th 2015, 02:03:43 am============= 
-argmax PERPLEXITY: 6.49
-    I she she she the say the say the say the say.
-
- ============October 30th 2015, 02:05:22 am============= 
-argmax PERPLEXITY: 3.80
-    "I she say the say the say the say the say the say the say the say the say the say the say the sa
- ============October 30th 2015, 02:06:51 am============= 
-argmax PERPLEXITY: Infinity
-    "I should see the say the say the say the say the say the say the say the say the say the say the
- ============October 30th 2015, 02:08:19 am============= 
-argmax PERPLEXITY: 6.95
-    I see the ster the ster the say the say the say the say the say the say the say the say the say t
- ============October 30th 2015, 02:10:01 am============= 
-argmax PERPLEXITY: 5.13
-    It say the say the say the say the say.
-
- ============October 30th 2015, 02:11:24 am============= 
-argmax PERPLEXITY: 243.08
-    I say the strong the strong the say the say the say.
-
- ============October 30th 2015, 02:12:44 am============= 
-argmax PERPLEXITY: 4.52
-    "I say the bay the brow the brow the brow.
-
- ============October 30th 2015, 02:14:12 am============= 
-argmax PERPLEXITY: 3.10
-    "I'm the bear the bear the bear the beard.
-
- ============October 30th 2015, 02:15:45 am============= 
-argmax PERPLEXITY: 4.63
-    "I say the pay the pay the pay the pay the pay the bay the bay the bay the bay the bay the bay th
- ============October 30th 2015, 02:17:07 am============= 
-argmax PERPLEXITY: 7.72
-    "I say the say the say the say the say the say and to the say.
-
- ============October 30th 2015, 02:18:31 am============= 
-argmax PERPLEXITY: 4.41
-    "I say the say the say the say the say and the say and the say.
-
- ============October 30th 2015, 02:20:04 am============= 
-argmax PERPLEXITY: 5.06
-    "What was the says the says the says the says the say.
-
- ============October 30th 2015, 02:21:33 am============= 
-argmax PERPLEXITY: 7.50
-    "I say to the say to the say to the say to the say to the say to the say to the say to the say to
- ============October 30th 2015, 02:23:03 am============= 
-argmax PERPLEXITY: 4.34
-    The say the say the say the say the say the say.
-
- ============October 30th 2015, 02:24:33 am============= 
-argmax PERPLEXITY: 5.78
-    The say the say the say the say the say the say the say the say the say the say the say the say t
- ============October 30th 2015, 02:26:08 am============= 
-argmax PERPLEXITY: 4.48
-    The say to the say to the say the say the say.
-
- ============October 30th 2015, 02:27:40 am============= 
-argmax PERPLEXITY: 7.34
-    "I say to the brow the brown the brower the brower
-
- ============October 30th 2015, 02:29:21 am============= 
-argmax PERPLEXITY: 3.43
-    The say the say the say the say the say.
-
- ============October 30th 2015, 02:30:49 am============= 
-argmax PERPLEXITY: 4.74
-    The say the say the say the says the say.
-
- ============October 30th 2015, 02:32:16 am============= 
-argmax PERPLEXITY: 3.79
-    I say the say to the say the say.
-
- ============October 30th 2015, 02:33:39 am============= 
-argmax PERPLEXITY: 5.80
-    I say the say the say the say the say the say.
-
- ============October 30th 2015, 02:35:16 am============= 
-argmax PERPLEXITY: 3.89
-    The say the say the say the say the say.
-
- ============October 30th 2015, 02:36:36 am============= 
-argmax PERPLEXITY: 4.81
-    "I should see the say the say the say.
-
- ============October 30th 2015, 02:37:58 am============= 
-argmax PERPLEXITY: 3.52
-    "I should some the say the say the say.
-
- ============October 30th 2015, 02:39:40 am============= 
-argmax PERPLEXITY: 5.39
-    "What was the say the say the say the say.
-
- ============October 30th 2015, 02:41:05 am============= 
-argmax PERPLEXITY: 10.81
-    "I should say the say the say the say.
-
- ============October 30th 2015, 02:42:37 am============= 
-argmax PERPLEXITY: 6.29
-    "I shout the say the say the say the say.
-
- ============October 30th 2015, 02:44:15 am============= 
-argmax PERPLEXITY: 5.55
-    "I shout the say the say the say the say the say the say the say.
-
- ============October 30th 2015, 02:45:50 am============= 
-argmax PERPLEXITY: 6.84
-    "I shout the say the say the say the say the say.
-
- ============October 30th 2015, 02:47:28 am============= 
-argmax PERPLEXITY: 5.69
-    "I say the sting the sting the streated to the streated the say.
-
- ============October 30th 2015, 02:48:49 am============= 
-argmax PERPLEXITY: 6.32
-    "I say the sting the sting the say the say the say.
-
- ============October 30th 2015, 02:50:17 am============= 
-argmax PERPLEXITY: 3.82
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 02:51:44 am============= 
-argmax PERPLEXITY: 5.73
-    And the say the say the say the say the say.
-
- ============October 30th 2015, 02:53:28 am============= 
-argmax PERPLEXITY: 4.51
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 02:55:05 am============= 
-argmax PERPLEXITY: 5.97
-    The say the say the say the say the say.
-
- ============October 30th 2015, 02:56:31 am============= 
-argmax PERPLEXITY: 3.99
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 02:57:55 am============= 
-argmax PERPLEXITY: 3.11
-    "I say to the say to the say the say the say.
-
- ============October 30th 2015, 02:59:30 am============= 
-argmax PERPLEXITY: 4.67
-    The streat the streat the say the say.
-
- ============October 30th 2015, 03:01:03 am============= 
-argmax PERPLEXITY: 5.34
-    The streat the streat the say the say.
-
- ============October 30th 2015, 03:02:39 am============= 
-argmax PERPLEXITY: 126.74
-    The say the say the say the say the say the say.
-
- ============October 30th 2015, 03:04:09 am============= 
-argmax PERPLEXITY: 6.91
-    The say the say the say the say the say.
-
- ============October 30th 2015, 03:05:40 am============= 
-argmax PERPLEXITY: 6.11
-    The say the say the say the say.
-
- ============October 30th 2015, 03:07:09 am============= 
-argmax PERPLEXITY: 5.01
-    The say the say the say the say the say the say.
-
- ============October 30th 2015, 03:08:33 am============= 
-argmax PERPLEXITY: 5.31
-    "You say the say the say the say.
-
- ============October 30th 2015, 03:09:51 am============= 
-argmax PERPLEXITY: 5.95
-    The say the say the say the say the say.
-
- ============October 30th 2015, 03:11:23 am============= 
-argmax PERPLEXITY: 8.93
-    "You say the say the say the say the say.
-
- ============October 30th 2015, 03:12:51 am============= 
-argmax PERPLEXITY: 3.31
-    The say the say the say the say the say the say.
-
- ============October 30th 2015, 03:14:40 am============= 
-argmax PERPLEXITY: 3.67
-    The say the say the say the say the say the say the say the say the say the say the say the say t
- ============October 30th 2015, 03:16:07 am============= 
-argmax PERPLEXITY: 5.70
-    "I was the way the way the way the way the way the way the way the say the say the say the say th
- ============October 30th 2015, 03:17:38 am============= 
-argmax PERPLEXITY: 4.16
-    "You say the say the say the say the say the say the say the say the say the say the say the say 
- ============October 30th 2015, 03:18:55 am============= 
-argmax PERPLEXITY: 67.53
-    "You say the say the say the say the say the say the say the say the say the say the say the say 
- ============October 30th 2015, 03:20:30 am============= 
-argmax PERPLEXITY: 4.17
-    "You say the say the say the say the say the say the say the say the say the say the say the say 
- ============October 30th 2015, 03:22:03 am============= 
-argmax PERPLEXITY: 4.17
-    "You say the say the say the say the say the say the say the say the say the say the say the say 
- ============October 30th 2015, 03:23:43 am============= 
-argmax PERPLEXITY: 4.85
-    "I say the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 03:25:21 am============= 
-argmax PERPLEXITY: 3.89
-    "I say the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 03:26:56 am============= 
-argmax PERPLEXITY: 3.92
-    "I say the say to the say the say the say the say the say the say the say the say the say the say
- ============October 30th 2015, 03:28:18 am============= 
-argmax PERPLEXITY: 4.70
-    "I she say the say the say the say the say the say the say the say the say the say the say the sa
- ============October 30th 2015, 03:29:44 am============= 
-argmax PERPLEXITY: 3.85
-    "I say the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 03:31:12 am============= 
-argmax PERPLEXITY: 6.22
-    "I say the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 03:32:44 am============= 
-argmax PERPLEXITY: 5.69
-    "I say the say the say the say the say the say the say.
-
- ============October 30th 2015, 03:34:26 am============= 
-argmax PERPLEXITY: 5.16
-    The hanged the say the say the say the say the say the say the say the say the say the say the sa
- ============October 30th 2015, 03:35:54 am============= 
-argmax PERPLEXITY: 4.80
-    The say to the say to the say to the say the say the say the say the say the say the say the say 
- ============October 30th 2015, 03:37:33 am============= 
-argmax PERPLEXITY: 5.90
-    The say the say the say the say the say the say the say.
-
- ============October 30th 2015, 03:39:05 am============= 
-argmax PERPLEXITY: 7.15
-    The hard the hard the hard the house the say the say the say the say the say the say the say the 
- ============October 30th 2015, 03:40:34 am============= 
-argmax PERPLEXITY: 7.72
-    "What was to the hay to the hay to the house the say the see.
-
- ============October 30th 2015, 03:42:05 am============= 
-argmax PERPLEXITY: 5.16
-    I say the way the way the way the way the way the say the say the say the say the say the say the
- ============October 30th 2015, 03:43:28 am============= 
-argmax PERPLEXITY: 5.63
-    I she say the stay to tere to the say the say the say the say the say the say the say the say the
- ============October 30th 2015, 03:44:57 am============= 
-argmax PERPLEXITY: 4.31
-    The way the way the way the way the way the wartere.
-
- ============October 30th 2015, 03:46:24 am============= 
-argmax PERPLEXITY: 4.48
-    "You see to tell him to tere to the bed the bed.
-
- ============October 30th 2015, 03:48:08 am============= 
-argmax PERPLEXITY: 4.60
-    "You say the way the way the way the way the late.
-
- ============October 30th 2015, 03:49:46 am============= 
-argmax PERPLEXITY: 5.37
-    "You see the wart the wart the warters
-
- ============October 30th 2015, 03:51:17 am============= 
-argmax PERPLEXITY: 4.29
-    "You see the stand the say the wart the warters
-
- ============October 30th 2015, 03:52:43 am============= 
-argmax PERPLEXITY: 6.24
-    "You she say the say the say the say the say the late.
-
- ============October 30th 2015, 03:54:14 am============= 
-argmax PERPLEXITY: 3.50
-    "You she see the wand the wand the wand the wander the pay the see the pay the see the pay the se
- ============October 30th 2015, 03:56:00 am============= 
-argmax PERPLEXITY: 6.72
-    I say the wand the wand the wand the wand the late
-
- ============October 30th 2015, 03:57:31 am============= 
-argmax PERPLEXITY: 5.34
-    "You see the say the like the like the like the like the like the like the like the like the like
- ============October 30th 2015, 03:59:00 am============= 
-argmax PERPLEXITY: 4.12
-    "You say the like the like the like the like the like the like the like the like the like the lik
- ============October 30th 2015, 04:00:25 am============= 
-argmax PERPLEXITY: 5.09
-    I can't know the said the like the like the like the like the like the like the like the like the
- ============October 30th 2015, 04:01:59 am============= 
-argmax PERPLEXITY: 4.02
-    I say the still to the say to the say the say the say the say the say the say the say the say the
- ============October 30th 2015, 04:03:27 am============= 
-argmax PERPLEXITY: 5.81
-    What was the say the say the say the say the say the say the say the say the say the say the say 
- ============October 30th 2015, 04:05:04 am============= 
-argmax PERPLEXITY: 5.72
-    I see the say the say the say the say the say the say the say the say the say the say the say the
- ============October 30th 2015, 04:06:30 am============= 
-argmax PERPLEXITY: 3.96
-    I was the stind the stind the stind the say the say the say the say the say the say the say the s
- ============October 30th 2015, 04:07:55 am============= 
-argmax PERPLEXITY: 3.37
-    "What was the stay the stay the say the say the say
-
- ============October 30th 2015, 04:09:13 am============= 
-argmax PERPLEXITY: 6.11
-    "I don't know the say the say the say the say the say I say I say I say I say I say I say
-
- ============October 30th 2015, 04:10:39 am============= 
-argmax PERPLEXITY: 4.73
-    "I don't know the say the say the say the say the say the say the say the say the say the say the
- ============October 30th 2015, 04:12:02 am============= 
-argmax PERPLEXITY: 3.51
-    "You say the wart the warter the ware the say the say the say the say the say the say the say the
- ============October 30th 2015, 04:13:26 am============= 
-argmax PERPLEXITY: 5.99
-    "I wonder the way the way the way the way the say the say
-
- ============October 30th 2015, 04:14:47 am============= 
-argmax PERPLEXITY: 3.15
-    "I was the way the wartet the wartered the ware the ware the ware the ware the ware the ware the 
- ============October 30th 2015, 04:16:14 am============= 
-argmax PERPLEXITY: 5.07
-    "I don't know the way to the way to the ware to the ware the ware the ware the ware the ware the 
- ============October 30th 2015, 04:17:55 am============= 
-argmax PERPLEXITY: 5.50
-    "I don't know the worth the worth the worth
-
- ============October 30th 2015, 04:19:27 am============= 
-argmax PERPLEXITY: 4.91
-    "I shout the way to think to the way the way the way the say
-
- ============October 30th 2015, 04:20:46 am============= 
-argmax PERPLEXITY: 4.58
-    "I showed the way the way the way the way the way the say
-
- ============October 30th 2015, 04:22:15 am============= 
-argmax PERPLEXITY: 5.39
-    "I shout the way the way the way the way the way the say
-
- ============October 30th 2015, 04:23:46 am============= 
-argmax PERPLEXITY: 3.88
-    "I shout the say the say the say the say the say the say the say the say the say the say the say 
- ============October 30th 2015, 04:25:25 am============= 
-argmax PERPLEXITY: 4.19
-    "I show the way the way the way the way the way the say the way the say the way the say the way t
- ============October 30th 2015, 04:26:51 am============= 
-argmax PERPLEXITY: 3.34
-    "I show the stink the string the say the say the say the say the say the say the say the say the 
- ============October 30th 2015, 04:28:16 am============= 
-argmax PERPLEXITY: 7.28
-    "I show the starter the starts the stind the say the say the say the say the say the say the say 
- ============October 30th 2015, 04:29:54 am============= 
-argmax PERPLEXITY: 5.67
-    "I shouldn't ste the still the still the stink."
-
- ============October 30th 2015, 04:31:25 am============= 
-argmax PERPLEXITY: 4.88
-    "I should see the ste the still the still the say the say
-
- ============October 30th 2015, 04:32:57 am============= 
-argmax PERPLEXITY: 3.70
-    "I say the stay the stay the say the say the say the say
-
- ============October 30th 2015, 04:34:27 am============= 
-argmax PERPLEXITY: 4.45
-    "I say the stay the stay the say the say the say
-
- ============October 30th 2015, 04:36:02 am============= 
-argmax PERPLEXITY: 4.68
-    "I say the say to to to to to to the say
-
- ============October 30th 2015, 04:37:24 am============= 
-argmax PERPLEXITY: 5.08
-    "I say the stild to the say the say the say
-
- ============October 30th 2015, 04:38:59 am============= 
-argmax PERPLEXITY: 3.93
-    "I shouldn't know the say the say the say the say
-
- ============October 30th 2015, 04:40:26 am============= 
-argmax PERPLEXITY: 5.52
-    "I'm the stay the stay the stay the say the say.
-
- ============October 30th 2015, 04:41:58 am============= 
-argmax PERPLEXITY: 4.66
-    "I show the say the say the say the say the say.
-
- ============October 30th 2015, 04:43:21 am============= 
-argmax PERPLEXITY: 4.80
-    "I show the stay the stay the stay the say the say the say
-
- ============October 30th 2015, 04:44:59 am============= 
-argmax PERPLEXITY: 5.93
-    "I shouldn't know the ster the say the say the say the say the say the say the say the say the sa
- ============October 30th 2015, 04:46:21 am============= 
-argmax PERPLEXITY: 4.00
-    "I see the still the still the say the say the say the say.
-
- ============October 30th 2015, 04:47:28 am============= 
-argmax PERPLEXITY: 46.58
-    "I shouldn't know the say the say the say the say the say the say the say the say.
-
- ============October 30th 2015, 04:48:51 am============= 
-argmax PERPLEXITY: 7.03
-    "I show the stinled the say the say the say the say
-
- ============October 30th 2015, 04:50:24 am============= 
-argmax PERPLEXITY: 5.21
-    "I say the farter the farthing the farter the say
-
- ============October 30th 2015, 04:51:51 am============= 
-argmax PERPLEXITY: 5.34
-    "I say to the forter the forter the for the say.
-
- ============October 30th 2015, 04:53:13 am============= 
-argmax PERPLEXITY: 4.30
-    "I say the start the start the say the say.
-
- ============October 30th 2015, 04:54:39 am============= 
-argmax PERPLEXITY: 5.11
-    "I say the start the start the say the say.
-
- ============October 30th 2015, 04:56:08 am============= 
-argmax PERPLEXITY: 4.39
-    "You say the starter the starter the said.
-
- ============October 30th 2015, 04:57:43 am============= 
-argmax PERPLEXITY: 5.16
-    "I she see the steed the streat the said."
-
- ============October 30th 2015, 04:59:19 am============= 
-argmax PERPLEXITY: 3.09
-    "I something the sting to the string the said
-
- ============October 30th 2015, 05:00:52 am============= 
-argmax PERPLEXITY: 5.46
-    "I see to the said to the said to the said, I see to the say.
-
- ============October 30th 2015, 05:02:22 am============= 
-argmax PERPLEXITY: 409.31
-    "I see the sting the sting the say the say.
-
- ============October 30th 2015, 05:03:44 am============= 
-argmax PERPLEXITY: 5.45
-    "I spouse the say the say the say the say the say.
-
- ============October 30th 2015, 05:05:17 am============= 
-argmax PERPLEXITY: 6.51
-    "I so streat the say the say the say the say.
-
- ============October 30th 2015, 05:06:52 am============= 
-argmax PERPLEXITY: 6.23
-    "I some to the say the say the say the say a say.
-
- ============October 30th 2015, 05:08:19 am============= 
-argmax PERPLEXITY: 4.94
-    "What was the say the say the say the say the say.
-
- ============October 30th 2015, 05:09:45 am============= 
-argmax PERPLEXITY: 3.62
-    "What was the say the say the say the say the say.
-
- ============October 30th 2015, 05:11:06 am============= 
-argmax PERPLEXITY: 5.95
-    "What was to the say to the say to the say the say.
-
- ============October 30th 2015, 05:12:33 am============= 
-argmax PERPLEXITY: 5.84
-    "I'm the say the say the say the say the say.
-
- ============October 30th 2015, 05:13:54 am============= 
-argmax PERPLEXITY: 4.21
-    "I some to the say to the say to the say the say.
-
- ============October 30th 2015, 05:15:19 am============= 
-argmax PERPLEXITY: Infinity
-    "I shout the lant to the lanter the like the lanters.
-
- ============October 30th 2015, 05:16:27 am============= 
-argmax PERPLEXITY: 6.20
-    "I she's some the lant the lanter the lanter the lant.
-
- ============October 30th 2015, 05:17:55 am============= 
-argmax PERPLEXITY: 3.88
-    "I she say the say to the lame to the like to the say.
-
- ============October 30th 2015, 05:19:31 am============= 
-argmax PERPLEXITY: 4.81
-    "I she's the pay to the pay to the pay the pay the play.
-
- ============October 30th 2015, 05:20:57 am============= 
-argmax PERPLEXITY: 3.28
-    "I she's the pay the pay the pay the play.
-
- ============October 30th 2015, 05:22:27 am============= 
-argmax PERPLEXITY: 5.27
-    "I she's the pay the pay the pay the pay the pay the pay the plan.
-
- ============October 30th 2015, 05:23:51 am============= 
-argmax PERPLEXITY: 21.10
-    "I say to the pay to the pay to the pay to the pay the pay the pay the pay the pay the pay the pa
- ============October 30th 2015, 05:25:28 am============= 
-argmax PERPLEXITY: 4.86
-    "I say the pay to the pay to the pay the pay the pay the pay the pay the pay the pay the pay the 
- ============October 30th 2015, 05:26:56 am============= 
-argmax PERPLEXITY: 5.26
-    And the pay the pay the pay the pay the pay the pay the pay the pay the pay the pay the pay the p
- ============October 30th 2015, 05:28:18 am============= 
-argmax PERPLEXITY: 8.02
-    "I she say the pay the pay the pay the pay the pay the pay the pay the pay the pay the pay the pa
- ============October 30th 2015, 05:29:57 am============= 
-argmax PERPLEXITY: 6.43
-    And the pay the pay the pay the pay the pay the pay the pay the pay the pay the pay the pay the p
- ============October 30th 2015, 05:31:31 am============= 
-argmax PERPLEXITY: 5.51
-    And the say the say the say the say the say.
-
- ============October 30th 2015, 05:32:56 am============= 
-argmax PERPLEXITY: 4.97
-    "I say the farther the farther the fard.
-
- ============October 30th 2015, 05:34:16 am============= 
-argmax PERPLEXITY: 6.55
-    "What the pain the pain the paid the plants
-
- ============October 30th 2015, 05:35:48 am============= 
-argmax PERPLEXITY: 4.57
-    "What the said the said the said."
-
- ============October 30th 2015, 05:37:17 am============= 
-argmax PERPLEXITY: 5.73
-    "We say the pain the pain the paid the plange the plan.
-
- ============October 30th 2015, 05:38:51 am============= 
-argmax PERPLEXITY: 3.46
-    "I should so said the looked the looke the look.
-
- ============October 30th 2015, 05:40:33 am============= 
-argmax PERPLEXITY: 6.54
-    "You sper to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
- ============October 30th 2015, 05:41:57 am============= 
-argmax PERPLEXITY: 4.32
-    "I say the looked the looked the like the like the like the like the like the like the like the l
- ============October 30th 2015, 05:43:24 am============= 
-argmax PERPLEXITY: 8.88
-    "You spear the like to the like to the like to the like to the like to the like to the like to th
- ============October 30th 2015, 05:44:59 am============= 
-argmax PERPLEXITY: 4.33
-    "You sprear to the late to the late to the late.
-
- ============October 30th 2015, 05:46:27 am============= 
-argmax PERPLEXITY: 5.85
-    "You spell to the place to the late to the late to the late.
-
- ============October 30th 2015, 05:48:04 am============= 
-argmax PERPLEXITY: 5.37
-    "You see to the later the later the late to the late.
-
- ============October 30th 2015, 05:49:25 am============= 
-argmax PERPLEXITY: 4.56
-    "You see the late the late the late the like the like the like the like the like the like the lik
- ============October 30th 2015, 05:50:56 am============= 
-argmax PERPLEXITY: 4.33
-    "What was the said the said the late the late the late
-
- ============October 30th 2015, 05:52:36 am============= 
-argmax PERPLEXITY: 5.18
-    "What we say the late the late the late the lather.
-
- ============October 30th 2015, 05:54:20 am============= 
-argmax PERPLEXITY: 5.22
-    "What we say the like the like the like the like the like the like the like the like the like the
- ============October 30th 2015, 05:55:58 am============= 
-argmax PERPLEXITY: 6.95
-    "What we said the stree the said the said
-
- ============October 30th 2015, 05:57:39 am============= 
-argmax PERPLEXITY: 7.57
-    "I should spreet the stree the stree the say.
-
- ============October 30th 2015, 05:59:11 am============= 
-argmax PERPLEXITY: 4.83
-    "I see the sting the said the said.
-
- ============October 30th 2015, 06:00:44 am============= 
-argmax PERPLEXITY: 6.95
-    "I said the sare the said.
-
- ============October 30th 2015, 06:02:20 am============= 
-argmax PERPLEXITY: 5.65
-    "I she see the bain the best the best the best.
-
- ============October 30th 2015, 06:03:48 am============= 
-argmax PERPLEXITY: 18.76
-    "I see the farther the like the like the like the like the like.
-
- ============October 30th 2015, 06:05:14 am============= 
-argmax PERPLEXITY: 5.40
-    "I stree the farther the farther the string.
-
- ============October 30th 2015, 06:06:48 am============= 
-argmax PERPLEXITY: 9.40
-    "What strearything the start the said.
-
- ============October 30th 2015, 06:08:16 am============= 
-argmax PERPLEXITY: 4.57
-    "What we stand the start the stard the stard.
-
- ============October 30th 2015, 06:09:52 am============= 
-argmax PERPLEXITY: 4.21
-    "What was the like the like the like the like the like the like the like the like the like the li
- ============October 30th 2015, 06:11:36 am============= 
-argmax PERPLEXITY: 7.51
-    I say the waind the waind the wains the paid
-
- ============October 30th 2015, 06:13:04 am============= 
-argmax PERPLEXITY: 3.23
-    "What was the paid the paid the paid the paid.
-
- ============October 30th 2015, 06:14:22 am============= 
-argmax PERPLEXITY: 4.15
-    "I said the paid the paid the paid the paid.
-
- ============October 30th 2015, 06:15:51 am============= 
-argmax PERPLEXITY: 3.56
-    "I say the paid the paid the paid the paid.
-
- ============October 30th 2015, 06:17:26 am============= 
-argmax PERPLEXITY: 6.34
-    "I said the paid the paid the paid the paid.
-
- ============October 30th 2015, 06:18:45 am============= 
-argmax PERPLEXITY: 4.30
-    "I say the pain the pain the pain the pain the paid.
-
- ============October 30th 2015, 06:20:03 am============= 
-argmax PERPLEXITY: 4.18
-    "I see the farth the farth the farth the bain the like the said
-
- ============October 30th 2015, 06:21:25 am============= 
-argmax PERPLEXITY: 4.96
-    "I see to the paid the paid the paid the paid.
-
- ============October 30th 2015, 06:23:04 am============= 
-argmax PERPLEXITY: 4.55
-    "I see to the far the paid the bean.
-
- ============October 30th 2015, 06:24:25 am============= 
-argmax PERPLEXITY: 8.62
-    "I see the streat the streat the said.
-
- ============October 30th 2015, 06:25:45 am============= 
-argmax PERPLEXITY: 5.99
-    "I say the paid the paid the paid the paid
-
- ============October 30th 2015, 06:27:17 am============= 
-argmax PERPLEXITY: Infinity
-    "I say the paid the stind the paid the paid.
-
- ============October 30th 2015, 06:28:48 am============= 
-argmax PERPLEXITY: 5.06
-    "I say the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 06:30:17 am============= 
-argmax PERPLEXITY: 14.13
-    "I say the stand the stand the stand the say the say.
-
- ============October 30th 2015, 06:31:54 am============= 
-argmax PERPLEXITY: 6.46
-    "We say to the pard to the pard to the pard to the pard.
-
- ============October 30th 2015, 06:33:23 am============= 
-argmax PERPLEXITY: 6.10
-    "What was the say the say the say the say the say.
-
- ============October 30th 2015, 06:34:45 am============= 
-argmax PERPLEXITY: 4.85
-    "We so look to the partere to the parth.
-
- ============October 30th 2015, 06:36:16 am============= 
-argmax PERPLEXITY: 3.36
-    "What was the say the pay the pay the pay the pay the pay the say the say the say.
-
- ============October 30th 2015, 06:37:54 am============= 
-argmax PERPLEXITY: 4.93
-    "What was to the pay to the pay to the pay to the pay to the pay to the pay to the pay to the pay
- ============October 30th 2015, 06:39:15 am============= 
-argmax PERPLEXITY: 4.97
-    "I say to the pay to the pay to the prough
-
- ============October 30th 2015, 06:40:31 am============= 
-argmax PERPLEXITY: 5.08
-    I say the pay to the pay to the pay the say.
-
- ============October 30th 2015, 06:42:02 am============= 
-argmax PERPLEXITY: 4.08
-    "I see to the streat to the say.
-
- ============October 30th 2015, 06:43:30 am============= 
-argmax PERPLEXITY: 4.71
-    I say to the say to the say to the say.
-
- ============October 30th 2015, 06:44:49 am============= 
-argmax PERPLEXITY: 3.10
-    "I say the say the say the say.
-
- ============October 30th 2015, 06:46:16 am============= 
-argmax PERPLEXITY: 7.01
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 06:47:47 am============= 
-argmax PERPLEXITY: 6.16
-    "I should see the stree the stree the stree the see
-
- ============October 30th 2015, 06:49:17 am============= 
-argmax PERPLEXITY: 5.14
-    "I shouldn't the streat the string the say the say.
-
- ============October 30th 2015, 06:50:59 am============= 
-argmax PERPLEXITY: 3.69
-    "I say the say the say the say the say the say.
-
- ============October 30th 2015, 06:52:23 am============= 
-argmax PERPLEXITY: 3.24
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 06:53:50 am============= 
-argmax PERPLEXITY: 7.75
-    "I say the string the string the say the say.
-
- ============October 30th 2015, 06:55:14 am============= 
-argmax PERPLEXITY: 6.34
-    "I see the steet the stered the stree the stree the see the see
-
- ============October 30th 2015, 06:56:33 am============= 
-argmax PERPLEXITY: 4.09
-    "I say the said the said the said.
-
- ============October 30th 2015, 06:58:02 am============= 
-argmax PERPLEXITY: 4.34
-    "I shout the strearything to the said the see the see
-
- ============October 30th 2015, 06:59:37 am============= 
-argmax PERPLEXITY: 5.18
-    "I say the ste the ste the ste the sting to the sting to the sting to the sting to the sting to t
- ============October 30th 2015, 07:01:18 am============= 
-argmax PERPLEXITY: 3.67
-    "What was the stay the stay the say the say.
-
- ============October 30th 2015, 07:02:50 am============= 
-argmax PERPLEXITY: 5.33
-    "What we say to the say to the say the say.
-
- ============October 30th 2015, 07:04:17 am============= 
-argmax PERPLEXITY: 4.30
-    "I say the streared the streard the say.
-
- ============October 30th 2015, 07:05:38 am============= 
-argmax PERPLEXITY: 3.88
-    "You say the stander the say the say.
-
- ============October 30th 2015, 07:07:13 am============= 
-argmax PERPLEXITY: 8.02
-    I say the say the say the say the say.
-
- ============October 30th 2015, 07:08:38 am============= 
-argmax PERPLEXITY: 5.01
-    I should see the ster the stree the say.
-
- ============October 30th 2015, 07:09:56 am============= 
-argmax PERPLEXITY: 5.43
-    "I say the start the starther a string the say.
-
- ============October 30th 2015, 07:11:12 am============= 
-argmax PERPLEXITY: 4.81
-    The say the say the say the say the say the say.
-
- ============October 30th 2015, 07:12:49 am============= 
-argmax PERPLEXITY: 3.52
-    The say the say the say the say the say the say.
-
- ============October 30th 2015, 07:14:23 am============= 
-argmax PERPLEXITY: 3.69
-    The say the say the say the say the say the say.
-
- ============October 30th 2015, 07:15:53 am============= 
-argmax PERPLEXITY: 4.89
-    And the say the say the say the say the say.
-
- ============October 30th 2015, 07:17:30 am============= 
-argmax PERPLEXITY: 3.56
-    And the say the say the say the say the say.
-
- ============October 30th 2015, 07:18:59 am============= 
-argmax PERPLEXITY: 5.07
-    "You would the steet the say the say the say.
-
- ============October 30th 2015, 07:20:24 am============= 
-argmax PERPLEXITY: 3.01
-    "You can't have the pay the pay the say.
-
- ============October 30th 2015, 07:21:54 am============= 
-argmax PERPLEXITY: Infinity
-    "You can to the say the pay the pay the lather.
-
- ============October 30th 2015, 07:23:23 am============= 
-argmax PERPLEXITY: 4.48
-    "You can the say to the pay the pay the say.
-
- ============October 30th 2015, 07:24:55 am============= 
+ ============November 4th 2015, 11:06:28 pm============= 
+argmax PERPLEXITY: 3.14
+    And the worst the worst the worst the worst the worst the worst the worst the worst the worst the
+ ============November 4th 2015, 11:08:35 pm============= 
 argmax PERPLEXITY: 4.35
-    And the start the said the said the say.
+    The worst the worst the worst the worst the late.
 
- ============October 30th 2015, 07:26:40 am============= 
-argmax PERPLEXITY: 5.70
-    "I say the said the said the said the say the say.
-
- ============October 30th 2015, 07:28:11 am============= 
-argmax PERPLEXITY: 6.02
-    "I should spround the like the like the like the like the like the like the like the like the lik
- ============October 30th 2015, 07:29:52 am============= 
-argmax PERPLEXITY: 5.30
-    "I say the pay the pay the pay the pay the pay.
-
- ============October 30th 2015, 07:31:30 am============= 
-argmax PERPLEXITY: 5.34
-    "I say the sare the sare the said.
-
- ============October 30th 2015, 07:32:56 am============= 
-argmax PERPLEXITY: 7.71
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 07:34:28 am============= 
-argmax PERPLEXITY: Infinity
-    "I should the sare the sare the said."
-
- ============October 30th 2015, 07:36:00 am============= 
-argmax PERPLEXITY: 4.72
-    "I should the said the said."
-
- ============October 30th 2015, 07:37:32 am============= 
-argmax PERPLEXITY: 4.34
-    "I should the said the said the said.
-
- ============October 30th 2015, 07:38:56 am============= 
-argmax PERPLEXITY: 3.98
-    "I should the say the say the say the say.
-
- ============October 30th 2015, 07:40:36 am============= 
-argmax PERPLEXITY: 3.85
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 07:41:53 am============= 
-argmax PERPLEXITY: 4.72
-    "I should she should she should she should she should the say.
-
- ============October 30th 2015, 07:43:23 am============= 
-argmax PERPLEXITY: 4.18
-    "I should she say the say the say the say.
-
- ============October 30th 2015, 07:45:08 am============= 
-argmax PERPLEXITY: 4.81
-    "I should she say the said the said."
-
- ============October 30th 2015, 07:46:42 am============= 
-argmax PERPLEXITY: 5.38
-    The say the said the said the said.
-
- ============October 30th 2015, 07:48:14 am============= 
-argmax PERPLEXITY: 10.96
-    The say the say the say the say the say.
-
- ============October 30th 2015, 07:49:48 am============= 
-argmax PERPLEXITY: 5.38
-    "You she was the say the say the say the say.
-
- ============October 30th 2015, 07:51:33 am============= 
-argmax PERPLEXITY: 9.04
-    "You say the say the say the say the say.
-
- ============October 30th 2015, 07:53:03 am============= 
-argmax PERPLEXITY: 4.88
-    "I say to the say to the say to the say.
-
- ============October 30th 2015, 07:54:16 am============= 
-argmax PERPLEXITY: 4.58
-    "I say the say to the say the pay the pay.
-
- ============October 30th 2015, 07:55:41 am============= 
-argmax PERPLEXITY: 4.41
-    "It's and the pay the pay the pay the pay the place.
-
- ============October 30th 2015, 07:57:12 am============= 
-argmax PERPLEXITY: 4.17
-    "I should she say the pay the pay the place them the place.
-
- ============October 30th 2015, 07:58:41 am============= 
-argmax PERPLEXITY: 4.31
-    "I say the sainst the said. I should the say.
-
- ============October 30th 2015, 08:00:04 am============= 
-argmax PERPLEXITY: 4.90
-    The for the for the for the pay the say.
-
- ============October 30th 2015, 08:01:44 am============= 
-argmax PERPLEXITY: 5.05
-    The pay to the say to the say to the see.
-
- ============October 30th 2015, 08:03:23 am============= 
-argmax PERPLEXITY: 3.46
-    The pay to the pay to the pay to the say to the say.
-
- ============October 30th 2015, 08:05:02 am============= 
-argmax PERPLEXITY: 4.72
-    The pay the pay the pay the pay the pay the pay the pay the say the see.
-
- ============October 30th 2015, 08:06:46 am============= 
-argmax PERPLEXITY: 7.72
-    "I say the pay the pay the pay the pay the pay the pay the say the say the say the say the say th
- ============October 30th 2015, 08:08:34 am============= 
-argmax PERPLEXITY: 6.46
-    "I say the pay the pay the pay the pay the pay the pay the say the say the say the say the say th
- ============October 30th 2015, 08:10:06 am============= 
-argmax PERPLEXITY: 4.68
-    "I should see the pay the pay the pay the pay the pay the pay the pay the pay the pay the pay the
- ============October 30th 2015, 08:11:30 am============= 
-argmax PERPLEXITY: 4.24
-    "I say the say the say the say the say.
-
- ============October 30th 2015, 08:12:59 am============= 
-argmax PERPLEXITY: 6.56
-    "You say to the ster to the see the see the see the see.
-
- ============October 30th 2015, 08:14:33 am============= 
-argmax PERPLEXITY: 3.99
-    "You see the for the for the for the see.
-
- ============October 30th 2015, 08:15:59 am============= 
-argmax PERPLEXITY: 6.81
-    "You say to the say to the say to the say.
-
- ============October 30th 2015, 08:17:35 am============= 
-argmax PERPLEXITY: 4.70
-    "You say to the say to the say to the say.
-
- ============October 30th 2015, 08:19:00 am============= 
-argmax PERPLEXITY: 5.11
-    "I say the late the late the late the late the late.
-
- ============October 30th 2015, 08:20:38 am============= 
-argmax PERPLEXITY: 6.62
-    "You say the say to the say the say the say the say.
-
- ============October 30th 2015, 08:22:16 am============= 
-argmax PERPLEXITY: 6.38
-    "I should say the sand the sare the sare the sare there there there there there there there there
- ============October 30th 2015, 08:23:42 am============= 
-argmax PERPLEXITY: 5.14
-    The sand the sand the san the san the say.
-
- ============October 30th 2015, 08:25:13 am============= 
-argmax PERPLEXITY: 4.21
-    The say the say the said the said.
-
- ============October 30th 2015, 08:26:39 am============= 
-argmax PERPLEXITY: 5.58
-    The say the say the say the say the say the say there the say.
-
- ============October 30th 2015, 08:28:19 am============= 
-argmax PERPLEXITY: 10.09
-    The say the say the say the say the lated."
-
- ============October 30th 2015, 08:29:42 am============= 
-argmax PERPLEXITY: 3.93
-    "I should some the say to the say the lamed the lamed the lame.
-
- ============October 30th 2015, 08:31:04 am============= 
-argmax PERPLEXITY: 9.74
-    "I shadve the later the lated the lated.
-
- ============October 30th 2015, 08:32:38 am============= 
-argmax PERPLEXITY: 3.94
-    The say the say the say the say the say the say the say.
-
- ============October 30th 2015, 08:34:06 am============= 
-argmax PERPLEXITY: 5.82
-    "I shouldn't know the was the was the was things things things things things things things things
- ============October 30th 2015, 08:35:35 am============= 
-argmax PERPLEXITY: 3.56
-    The paid to the paid to the paid to the bains to the bains to the baid.
-
- ============October 30th 2015, 08:36:58 am============= 
-argmax PERPLEXITY: 5.37
-    The way the way the way the way the way the bay the bay the bay the bay the bay the bay the bay t
- ============October 30th 2015, 08:38:10 am============= 
-argmax PERPLEXITY: 3.70
-    The band the hay the band the hay the band the bay the brow
-
- ============October 30th 2015, 08:39:39 am============= 
-argmax PERPLEXITY: 31.99
-    The the the the the the the the the the the say the bay the bay.
-
- ============October 30th 2015, 08:41:06 am============= 
-argmax PERPLEXITY: 4.42
-    The band to the brower the brown the brower to the brough
-
- ============October 30th 2015, 08:42:35 am============= 
-argmax PERPLEXITY: 4.30
-    The say the say the was the say the say the say there.
-
- ============October 30th 2015, 08:43:51 am============= 
-argmax PERPLEXITY: 40.91
-    The say the say the say the say the say the say the say.
-
- ============October 30th 2015, 08:45:11 am============= 
-argmax PERPLEXITY: 4.72
-    "I say to the say to the say to the say to the say to the say to the say to the say to the say to
- ============October 30th 2015, 08:46:51 am============= 
-argmax PERPLEXITY: 7.09
-    "I should's as the say the say the say the say the say the say the say the say the say the say.
-
- ============October 30th 2015, 08:48:12 am============= 
-argmax PERPLEXITY: 3.31
-    "I say the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 08:49:56 am============= 
-argmax PERPLEXITY: 3.85
-    "I say the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 08:51:33 am============= 
-argmax PERPLEXITY: 6.17
-    "I say a bust a bust a bust a bust to the say a bust to have the say a bust to have the say a bus
- ============October 30th 2015, 08:53:15 am============= 
-argmax PERPLEXITY: 5.62
-    "I say a say a say a say a say a say a say a say a say a say a say a say a say a say a say a say 
- ============October 30th 2015, 08:54:58 am============= 
-argmax PERPLEXITY: 5.88
-    "I say to the way to the way to the way to the say to have to have to have to have to have to hav
- ============October 30th 2015, 08:56:42 am============= 
-argmax PERPLEXITY: 71.74
-    "I say the say the say the say the say the way the say the say the say the say the say the say an
- ============October 30th 2015, 08:58:28 am============= 
-argmax PERPLEXITY: 4.05
-    "I should see the say the say the say the say the see.
-
- ============October 30th 2015, 09:00:10 am============= 
-argmax PERPLEXITY: 4.19
-    "I should see to the see to the say to have to have him.
-
- ============October 30th 2015, 09:01:45 am============= 
-argmax PERPLEXITY: 3.68
-    "I she see the said the said the said the see the see the see the see the see.
-
- ============October 30th 2015, 09:03:04 am============= 
-argmax PERPLEXITY: 3.11
-    "You was the said the said the said."
-
- ============October 30th 2015, 09:04:20 am============= 
-argmax PERPLEXITY: 4.52
-    "You say a said a say a said a said."
-
- ============October 30th 2015, 09:05:36 am============= 
-argmax PERPLEXITY: 4.86
-    "What was the said the said the said."
-
- ============October 30th 2015, 09:07:16 am============= 
-argmax PERPLEXITY: 79.02
-    "I won't have the way the want the way the wange the say and the say and the say and the say and 
- ============October 30th 2015, 09:09:00 am============= 
-argmax PERPLEXITY: 3.20
-    "What when the work to the work to the work
-
- ============October 30th 2015, 09:10:18 am============= 
-argmax PERPLEXITY: 7.96
-    "I won't have the wore the wore the wore the wore the say
-
- ============October 30th 2015, 09:11:45 am============= 
-argmax PERPLEXITY: 3.94
-    "I should she say and the said the said."
-
- ============October 30th 2015, 09:12:52 am============= 
-argmax PERPLEXITY: 6.94
-    "I should say and some to the sare to the say.
-
- ============October 30th 2015, 09:14:17 am============= 
-argmax PERPLEXITY: 3.93
-    "What was the sand the sand the sand the sare the say.
-
- ============October 30th 2015, 09:15:55 am============= 
-argmax PERPLEXITY: 3.47
-    "I should some the said the said the said the said.
-
- ============October 30th 2015, 09:17:35 am============= 
-argmax PERPLEXITY: 7.57
-    "I should she should she should she should she should she should say and the say.
-
- ============October 30th 2015, 09:19:12 am============= 
-argmax PERPLEXITY: 5.83
-    And the said the way the way the waind to the said.
-
- ============October 30th 2015, 09:20:54 am============= 
-argmax PERPLEXITY: 3.82
-    The string to the string to the string to the said.
-
- ============October 30th 2015, 09:22:31 am============= 
-argmax PERPLEXITY: Infinity
-    I should she's the string to the string to the said.
-
- ============October 30th 2015, 09:24:15 am============= 
-argmax PERPLEXITY: 4.63
-    I she she she shout the string to the say the say the say the say.
-
- ============October 30th 2015, 09:25:40 am============= 
-argmax PERPLEXITY: 7.67
-    And the string to the string to the say the say the say.
-
- ============October 30th 2015, 09:27:15 am============= 
-argmax PERPLEXITY: 4.18
-    And the say the say the say the say the say.
-
- ============October 30th 2015, 09:28:42 am============= 
-argmax PERPLEXITY: 4.45
-    And the strear the say the say the say the say the say.
-
- ============October 30th 2015, 09:30:09 am============= 
-argmax PERPLEXITY: 3.15
-    "I was the say the say the say the say the say.
-
- ============October 30th 2015, 09:31:38 am============= 
-argmax PERPLEXITY: 4.85
-    And the say the say the say the say a say.
-
- ============October 30th 2015, 09:33:19 am============= 
-argmax PERPLEXITY: 5.94
-    And she should sprear the say the say the say the sleet
-
- ============October 30th 2015, 09:34:36 am============= 
-argmax PERPLEXITY: 6.09
-    And the say the say the say the say the say the say.
-
- ============October 30th 2015, 09:36:09 am============= 
-argmax PERPLEXITY: 4.01
-    "I should sprere the said the said the said.
-
- ============October 30th 2015, 09:37:46 am============= 
-argmax PERPLEXITY: 8.13
-    The said the said the said the said.
-
- ============October 30th 2015, 09:39:29 am============= 
-argmax PERPLEXITY: 3.54
-    The said the said the said the said.
-
- ============October 30th 2015, 09:40:53 am============= 
-argmax PERPLEXITY: 6.09
-    "I say the say the say the say the say the say
-
- ============October 30th 2015, 09:42:22 am============= 
-argmax PERPLEXITY: 3.46
-    "I say the said the said the said the said.
-
- ============October 30th 2015, 09:43:57 am============= 
-argmax PERPLEXITY: 5.97
-    "I say the bear the bear the beard the bed
-
- ============October 30th 2015, 09:45:22 am============= 
-argmax PERPLEXITY: 4.56
-    "I say the baid the baid the baid the baid.
-
- ============October 30th 2015, 09:46:48 am============= 
-argmax PERPLEXITY: 7.33
-    "I say the baid the baid the baid.
-
- ============October 30th 2015, 09:48:25 am============= 
-argmax PERPLEXITY: 6.10
-    I say the said the said the said.
-
- ============October 30th 2015, 09:49:59 am============= 
-argmax PERPLEXITY: 5.16
-    I say the bain the baid the baid.
-
- ============October 30th 2015, 09:51:21 am============= 
-argmax PERPLEXITY: 55.55
-    "I say the baid the baid the baid the baid.
-
- ============October 30th 2015, 09:52:49 am============= 
-argmax PERPLEXITY: 5.83
-    "I was the wait the wait the wait the wait the said.
-
- ============October 30th 2015, 09:54:13 am============= 
-argmax PERPLEXITY: 4.62
-    "I was the band the band the band the band.
-
- ============October 30th 2015, 09:55:53 am============= 
-argmax PERPLEXITY: 4.59
-    And the say the say the say the say the beard.
-
- ============October 30th 2015, 09:57:18 am============= 
-argmax PERPLEXITY: 5.14
-    And the bear the bear the bean the bear the beard.
-
- ============October 30th 2015, 09:58:37 am============= 
-argmax PERPLEXITY: 4.38
-    "I say the bear the bear the bear the bear the bear the bed.
-
- ============October 30th 2015, 10:00:15 am============= 
-argmax PERPLEXITY: 5.31
-    "I say the bear the buch the buch the bear the buch.
-
- ============October 30th 2015, 10:01:37 am============= 
-argmax PERPLEXITY: 5.01
-    "I was the wain the wand the wand the wand the wand.
-
- ============October 30th 2015, 10:03:22 am============= 
-argmax PERPLEXITY: 5.74
-    "I say the say the say the say the san.
-
- ============October 30th 2015, 10:04:57 am============= 
-argmax PERPLEXITY: 4.16
-    "I say the said the said the said.
-
- ============October 30th 2015, 10:06:22 am============= 
-argmax PERPLEXITY: 4.83
-    "I say the said the said the said.
-
- ============October 30th 2015, 10:08:00 am============= 
-argmax PERPLEXITY: 4.86
-    "I say the said the said the said.
-
- ============October 30th 2015, 10:09:32 am============= 
-argmax PERPLEXITY: 4.17
-    "I say the said the said the said.
-
- ============October 30th 2015, 10:10:50 am============= 
-argmax PERPLEXITY: 6.25
-    "I say the said the said the said.
-
- ============October 30th 2015, 10:12:19 am============= 
-argmax PERPLEXITY: 5.56
-    "I won't have the like the like the like the like the like the like the like the like the like th
- ============October 30th 2015, 10:13:47 am============= 
-argmax PERPLEXITY: 3.98
-    "I shouldn't have to the like the like the like the like the like the like the like the like the 
- ============October 30th 2015, 10:15:32 am============= 
-argmax PERPLEXITY: 6.19
-    "I shouldn't have the said the said the said.
-
- ============October 30th 2015, 10:17:08 am============= 
-argmax PERPLEXITY: 5.79
-    "I shouldn't have the said the said.
-
- ============October 30th 2015, 10:18:22 am============= 
-argmax PERPLEXITY: 4.38
-    "I shad the starther the starther the said.
-
- ============October 30th 2015, 10:19:49 am============= 
-argmax PERPLEXITY: 4.65
-    "I say to the say to the said.
-
- ============October 30th 2015, 10:21:13 am============= 
-argmax PERPLEXITY: 4.38
-    "I should see to the say to say the say the see
-
- ============October 30th 2015, 10:22:32 am============= 
-argmax PERPLEXITY: 5.05
-    "You may the say the say the say the say the say the say the say the say the say the say the say 
- ============October 30th 2015, 10:24:04 am============= 
-argmax PERPLEXITY: 6.01
-    "I say the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 10:25:34 am============= 
-argmax PERPLEXITY: 5.70
-    And the say the say the say the say the say the say the say the say the say the say the say the s
- ============October 30th 2015, 10:27:00 am============= 
-argmax PERPLEXITY: 4.10
-    "You say the say the say the say the say the say the say the say the say the say the say the say 
- ============October 30th 2015, 10:28:33 am============= 
-argmax PERPLEXITY: 5.15
-    "You say the say the say the say the say the say the say the say the say.
-
- ============October 30th 2015, 10:30:00 am============= 
-argmax PERPLEXITY: 6.42
-    "You say the say the say the say the say the say the say the say the say the say the say the say 
- ============October 30th 2015, 10:31:19 am============= 
-argmax PERPLEXITY: 5.52
-    "You say the say the say the say the say the say the say the say the say the say the say the say 
- ============October 30th 2015, 10:32:47 am============= 
-argmax PERPLEXITY: 5.62
-    "You say the pay the pay the pay the pay the say the say the say.
-
- ============October 30th 2015, 10:34:31 am============= 
-argmax PERPLEXITY: 4.04
-    "I say to the say to the say the pay the say the say the say the say the say the say the say the 
- ============October 30th 2015, 10:36:05 am============= 
-argmax PERPLEXITY: 5.08
-    "I should the sto have the say the see.
-
- ============October 30th 2015, 10:37:32 am============= 
-argmax PERPLEXITY: 7.15
-    "I should the say the say the say the say the say the say there the say.
-
- ============October 30th 2015, 10:39:01 am============= 
-argmax PERPLEXITY: 7.00
-    I say the say the say the say the say the say the say the say.
-
- ============October 30th 2015, 10:40:54 am============= 
-argmax PERPLEXITY: 7.01
-    I said the said the said the said the said the said.
-
- ============October 30th 2015, 10:42:31 am============= 
-argmax PERPLEXITY: 5.44
-    I say the say the say the say the say the say the say the say the say the say the say the say the
- ============October 30th 2015, 10:43:52 am============= 
-argmax PERPLEXITY: 3.86
-    I she say the say the say the say the say the see
-
- ============October 30th 2015, 10:45:24 am============= 
-argmax PERPLEXITY: 4.23
-    "I say the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 10:46:44 am============= 
-argmax PERPLEXITY: 5.20
-    It was the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 10:48:21 am============= 
-argmax PERPLEXITY: 3.51
-    "I say the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 10:49:46 am============= 
-argmax PERPLEXITY: 54.08
-    "I was the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 10:51:21 am============= 
-argmax PERPLEXITY: 4.10
-    "I was the say the say the say the say the say the say the say the say the say the say the say th
- ============October 30th 2015, 10:52:56 am============= 
-argmax PERPLEXITY: 6.95
-    "I was the say the say the say the lanter to the lanter
-
- ============October 30th 2015, 10:54:33 am============= 
-argmax PERPLEXITY: 5.27
-    And the brough the brough the brough the brough the brough the brough the brough the brough the b
- ============October 30th 2015, 10:56:05 am============= 
-argmax PERPLEXITY: 6.35
-    And the said the pan the pan the pan the say the say the say the say the say the say the say the 
- ============October 30th 2015, 10:57:41 am============= 
-argmax PERPLEXITY: 4.54
-    And say the say the say the say the pay the say the say.
-
- ============October 30th 2015, 10:59:20 am============= 
-argmax PERPLEXITY: 4.04
-    And the stranged the stranged the sain the said.
-
- ============October 30th 2015, 11:00:46 am============= 
-argmax PERPLEXITY: 4.03
-    And the sige the strange the sige the sain.
-
- ============October 30th 2015, 11:02:17 am============= 
-argmax PERPLEXITY: 6.05
-    And the say the say the say the say the say the say.
-
- ============October 30th 2015, 11:03:54 am============= 
-argmax PERPLEXITY: 4.89
-    "You say the say the said the said.
-
- ============October 30th 2015, 11:05:47 am============= 
-argmax PERPLEXITY: 4.07
-    And the side the sind the side the side the say there the say there the say there the say there t
- ============October 30th 2015, 11:07:33 am============= 
-argmax PERPLEXITY: 3.84
-    "You say the say the say the say the say the say the say.
-
- ============October 30th 2015, 11:08:58 am============= 
-argmax PERPLEXITY: 3.35
-    And the say the say the say the say the say the say.
-
- ============October 30th 2015, 11:10:35 am============= 
-argmax PERPLEXITY: Infinity
-    "I she say the latter the latder the latder.
-
- ============October 30th 2015, 11:12:02 am============= 
-argmax PERPLEXITY: 3.26
-    And the say the say the say the say the latder.
-
- ============October 30th 2015, 11:13:31 am============= 
+ ============November 4th 2015, 11:10:40 pm============= 
 argmax PERPLEXITY: 4.97
-    "You say the say the say the say the say a stard.
+    And the shout the shout the shout the shout.
 
- ============October 30th 2015, 11:15:02 am============= 
-argmax PERPLEXITY: 6.46
-    "You say the say the say the say a ster to see.
+ ============November 4th 2015, 11:12:55 pm============= 
+argmax PERPLEXITY: 3.45
+    The way the way the way the way the way the way.
 
- ============October 30th 2015, 11:16:25 am============= 
-argmax PERPLEXITY: 8.56
-    "You say to take the say the say the say.
+ ============November 4th 2015, 11:15:13 pm============= 
+argmax PERPLEXITY: 5.50
+    "I see the worst the worst the worded.
 
- ============October 30th 2015, 11:17:56 am============= 
-argmax PERPLEXITY: 10.95
-    "I say to tell the say to take the say the say the say the say the say the seep.
+ ============November 4th 2015, 11:17:37 pm============= 
+argmax PERPLEXITY: 3.20
+    "I see the worst the worst the worst.
 
- ============October 30th 2015, 11:19:32 am============= 
-argmax PERPLEXITY: 4.03
-    "You say the stay the stay the stay the ster the seep.
-
- ============October 30th 2015, 11:20:55 am============= 
-argmax PERPLEXITY: 6.31
-    "You say the starter the stare the stay the ster the seep.
-
- ============October 30th 2015, 11:22:27 am============= 
-argmax PERPLEXITY: 4.41
-    "I said the stin the stin the stin the stind the stind the see
-
- ============October 30th 2015, 11:24:03 am============= 
-argmax PERPLEXITY: 4.86
-    "You was to tell to tell the ster to take the ster.
-
- ============October 30th 2015, 11:25:30 am============= 
-argmax PERPLEXITY: 4.17
-    "I said the ster the ster the stood to the stood to see the ster.
-
- ============October 30th 2015, 11:27:07 am============= 
-argmax PERPLEXITY: 3.81
-    "You was the sting to the sting to the sting to the stimes a sting to the stimes.
-
- ============October 30th 2015, 11:28:37 am============= 
-argmax PERPLEXITY: 4.28
-    "I won't know to the store to the store to the stown to the stown.
-
- ============October 30th 2015, 11:30:18 am============= 
-argmax PERPLEXITY: 4.50
-    I said the stime the stime the stimes the stimes a sting,
-
- ============October 30th 2015, 11:31:40 am============= 
-argmax PERPLEXITY: 5.22
-    "I she see the sand the said the said the said.
-
- ============October 30th 2015, 11:33:19 am============= 
-argmax PERPLEXITY: 4.45
-    "What we she say the streat the streat the say the see
-
- ============October 30th 2015, 11:34:55 am============= 
-argmax PERPLEXITY: 8.30
-    "What the say to the say to the say the say the say the say the say the say the say the say the s
- ============October 30th 2015, 11:36:32 am============= 
-argmax PERPLEXITY: 4.24
-    "What was the said the said the said the said.
-
- ============October 30th 2015, 11:38:07 am============= 
-argmax PERPLEXITY: 4.52
-    "You say to the sting to the sting to the say the say.
-
- ============October 30th 2015, 11:39:44 am============= 
-argmax PERPLEXITY: 4.56
-    "What we say the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay the 
- ============October 30th 2015, 11:41:15 am============= 
-argmax PERPLEXITY: 4.47
-    "I she say the streat the strear the say.
-
- ============October 30th 2015, 11:42:41 am============= 
-argmax PERPLEXITY: 3.65
-    "What what what what what what what what what what I should the bay.
-
- ============October 30th 2015, 11:44:17 am============= 
-argmax PERPLEXITY: 4.94
-    "I say the bed to the bed to the bed to the bed the bed the bed the bed the bed the bed the bed t
- ============October 30th 2015, 11:45:48 am============= 
-argmax PERPLEXITY: 4.44
-    "I should the say the say the say the say.
-
- ============October 30th 2015, 11:47:21 am============= 
-argmax PERPLEXITY: Infinity
-    "I should the say the say the say the say.
-
- ============October 30th 2015, 11:48:48 am============= 
-argmax PERPLEXITY: 4.67
-    "What with her the string the string the say.
-
- ============October 30th 2015, 11:50:19 am============= 
-argmax PERPLEXITY: 5.47
-    "What we say to the streat to the stree to the say.
-
- ============October 30th 2015, 11:51:56 am============= 
-argmax PERPLEXITY: 3.90
-    "We she some to the sting to the sight
-
- ============October 30th 2015, 11:53:34 am============= 
-argmax PERPLEXITY: 4.76
-    "We she sting to the sting to the sting to the side.
-
- ============October 30th 2015, 11:55:02 am============= 
-argmax PERPLEXITY: 13.67
-    "You say to the stink to the stink the say.
-
- ============October 30th 2015, 11:56:13 am============= 
-argmax PERPLEXITY: 5.10
-    And say the started the started the stay ther.
-
- ============October 30th 2015, 11:57:38 am============= 
-argmax PERPLEXITY: 5.12
-    "We say the starter to the say the say
-
- ============October 30th 2015, 11:59:09 am============= 
-argmax PERPLEXITY: 4.78
-    "You say the starter the say the say the say.
-
- ============October 30th 2015, 12:00:50 pm============= 
+ ============November 4th 2015, 11:19:56 pm============= 
 argmax PERPLEXITY: 3.32
-    "You say the streated to the streat the say.
-
- ============October 30th 2015, 12:02:24 pm============= 
-argmax PERPLEXITY: 6.57
-    "YoU say the stay the say the say the say.
-
- ============October 30th 2015, 12:04:02 pm============= 
-argmax PERPLEXITY: 5.93
-    "You say the say the say the say the say.
-
- ============October 30th 2015, 12:05:45 pm============= 
-argmax PERPLEXITY: 5.95
-    "You see the say the say the say the say.
-
- ============October 30th 2015, 12:07:20 pm============= 
-argmax PERPLEXITY: 7.09
-    "You say the said the said the said the said.
-
- ============October 30th 2015, 12:08:54 pm============= 
-argmax PERPLEXITY: 4.70
-    "You see the say the say the say.
-
- ============October 30th 2015, 12:10:16 pm============= 
-argmax PERPLEXITY: 4.82
-    "You say the say the say the say.
-
- ============October 30th 2015, 12:11:55 pm============= 
-argmax PERPLEXITY: 5.99
-    "You must to may not to may not to may.
-
- ============October 30th 2015, 12:13:41 pm============= 
-argmax PERPLEXITY: 4.85
-    "You may not the lame the lame the lame the lame the lame the lame the lame the lame the lame the
- ============October 30th 2015, 12:15:09 pm============= 
-argmax PERPLEXITY: 4.55
-    "You say the bay the bay the bay the bay there.
-
- ============October 30th 2015, 12:16:38 pm============= 
-argmax PERPLEXITY: 3.99
-    "You want to the brought to the brought to the brought
-
- ============October 30th 2015, 12:18:12 pm============= 
-argmax PERPLEXITY: 4.00
-    "I say the bay the bay the bay the bay the bay.
-
- ============October 30th 2015, 12:19:36 pm============= 
-argmax PERPLEXITY: 4.24
-    "I say to the sters to the sters to the say.
-
- ============October 30th 2015, 12:20:46 pm============= 
-argmax PERPLEXITY: 4.55
-    "I say the stay to the say the say the say.
-
- ============October 30th 2015, 12:22:27 pm============= 
-argmax PERPLEXITY: 3.70
-    "I say the stay the say the stay to the say the say.
-
- ============October 30th 2015, 12:23:56 pm============= 
-argmax PERPLEXITY: 4.69
-    "I say the stin the stin the stind
-
- ============October 30th 2015, 12:25:27 pm============= 
-argmax PERPLEXITY: 3.93
-    "I was the stair the starter the stairs.
-
- ============October 30th 2015, 12:26:55 pm============= 
-argmax PERPLEXITY: 3.15
-    "I won't say the band to the band to the band the band the band the band the band the band the ba
- ============October 30th 2015, 12:28:21 pm============= 
-argmax PERPLEXITY: 5.65
-    "I say the band to the band to the band the band the band the band the band the band the band the
- ============October 30th 2015, 12:29:51 pm============= 
-argmax PERPLEXITY: 3.23
-    "I say the band the band the band the band the band the band the band the band the band the band 
- ============October 30th 2015, 12:31:27 pm============= 
-argmax PERPLEXITY: 5.38
-    "I see the stin the stin the stin the said.
-
- ============October 30th 2015, 12:33:12 pm============= 
-argmax PERPLEXITY: 5.52
-    "I said the stone the stone the said.
-
- ============October 30th 2015, 12:34:39 pm============= 
-argmax PERPLEXITY: 4.58
-    "What was the said the said the said."
-
- ============October 30th 2015, 12:36:07 pm============= 
-argmax PERPLEXITY: 6.73
-    "I sparter the starter the starte the said
-
- ============October 30th 2015, 12:37:29 pm============= 
-argmax PERPLEXITY: 4.61
-    "I spand the stop to the stop to the say.
-
- ============October 30th 2015, 12:38:56 pm============= 
-argmax PERPLEXITY: 3.35
-    And the ster to the stand to the said."
-
- ============October 30th 2015, 12:40:19 pm============= 
-argmax PERPLEXITY: 5.23
-    And the said the said the said."
-
- ============October 30th 2015, 12:41:55 pm============= 
-argmax PERPLEXITY: 5.09
-    And the said the said the said the said.
-
- ============October 30th 2015, 12:43:24 pm============= 
-argmax PERPLEXITY: 5.76
-    And the said the said the said the said.
-
- ============October 30th 2015, 12:45:04 pm============= 
-argmax PERPLEXITY: 5.76
     "I see the said the said the said.
 
- ============October 30th 2015, 12:46:34 pm============= 
-argmax PERPLEXITY: 357.01
-    "I said the said the said the said."
+ ============November 4th 2015, 11:22:16 pm============= 
+argmax PERPLEXITY: 4.29
+    "I see the worded the worded the worded the seen the see.
 
- ============October 30th 2015, 12:48:01 pm============= 
-argmax PERPLEXITY: 5.12
-    "I spard to the said the late the late the late
+ ============November 4th 2015, 11:24:26 pm============= 
+argmax PERPLEXITY: 88.13
+    "I see the said the said the said.
 
- ============October 30th 2015, 12:49:34 pm============= 
-argmax PERPLEXITY: 4.35
-    "I see the ster the ster the said.
+ ============November 4th 2015, 11:26:47 pm============= 
+argmax PERPLEXITY: 2.91
+    "You see the worst the stand the said."
 
- ============October 30th 2015, 12:50:59 pm============= 
-argmax PERPLEXITY: 7.29
-    "I see the stin the stin the said the said.
+ ============November 4th 2015, 11:29:03 pm============= 
+argmax PERPLEXITY: 4.12
+    "I see to the should have to the should have to the should have to the should have to the should 
+ ============November 4th 2015, 11:31:25 pm============= 
+argmax PERPLEXITY: 3.77
+    "I should have to the should have to the should have to the should have to the should have to the
+ ============November 4th 2015, 11:33:35 pm============= 
+argmax PERPLEXITY: 4.90
+    "I see the worst the stard the stark the see the see.
 
- ============October 30th 2015, 12:52:36 pm============= 
-argmax PERPLEXITY: 5.70
-    "I spould sping the stin the stind to the said.
+ ============November 4th 2015, 11:35:54 pm============= 
+argmax PERPLEXITY: 5.98
+    "I see the word the word the worded.
 
- ============October 30th 2015, 12:54:07 pm============= 
-argmax PERPLEXITY: 7.57
-    "I spond to the stind to the said.
+ ============November 4th 2015, 11:38:16 pm============= 
+argmax PERPLEXITY: 7.84
+    "I was the word the word the worded.
 
- ============October 30th 2015, 12:55:51 pm============= 
-argmax PERPLEXITY: 4.47
-    "I sporter the said the said the said.
+ ============November 4th 2015, 11:40:31 pm============= 
+argmax PERPLEXITY: 2.81
+    "I was the way the way the way the way the way.
 
- ============October 30th 2015, 12:57:37 pm============= 
-argmax PERPLEXITY: 5.32
-    "I spome the said the said the said.
+ ============November 4th 2015, 11:42:46 pm============= 
+argmax PERPLEXITY: 6.14
+    "I say the word the word the word.
 
- ============October 30th 2015, 12:59:01 pm============= 
-argmax PERPLEXITY: 3.64
-    "What was the said the said the said.
+ ============November 4th 2015, 11:45:11 pm============= 
+argmax PERPLEXITY: 3.22
+    "I say the word the word the worded to the see.
 
- ============October 30th 2015, 01:00:31 pm============= 
-argmax PERPLEXITY: 4.81
-    "What will the said the said the said."
+ ============November 4th 2015, 11:47:24 pm============= 
+argmax PERPLEXITY: 5.13
+    "I say the word the word the worded.
 
- ============October 30th 2015, 01:02:08 pm============= 
-argmax PERPLEXITY: 3.46
-    "I say the bain the bain the bain the bain.
+ ============November 4th 2015, 11:49:45 pm============= 
+argmax PERPLEXITY: 5.26
+    "I say the way the way the way the way.
 
- ============October 30th 2015, 01:03:53 pm============= 
-argmax PERPLEXITY: 7.54
-    "I say to the stirth the stirther the said
+ ============November 4th 2015, 11:52:07 pm============= 
+argmax PERPLEXITY: 4.04
+    "I say the way the way the way the way the brought.
 
- ============October 30th 2015, 01:05:26 pm============= 
-argmax PERPLEXITY: 4.80
-    "I say the stire the stire the stree the stree the stree the say.
+ ============November 4th 2015, 11:54:36 pm============= 
+argmax PERPLEXITY: 9.77
+    "I say that was the way that was the say that was that have that her the say.
 
- ============October 30th 2015, 01:07:15 pm============= 
-argmax PERPLEXITY: 4.37
-    "I say the stin the stin the stin the said.
+ ============November 4th 2015, 11:56:50 pm============= 
+argmax PERPLEXITY: 7.05
+    "I say the say the say the said. I say the say the shoulderd.
 
- ============October 30th 2015, 01:08:47 pm============= 
-argmax PERPLEXITY: 6.97
-    "I should spair the stin the stin the stin the stin the said
+ ============November 4th 2015, 11:59:20 pm============= 
+argmax PERPLEXITY: 4.46
+    "I say the way the way the way the way the was the say.
 
- ============October 30th 2015, 01:10:10 pm============= 
-argmax PERPLEXITY: 5.22
-    "It's and the said the wanter the said
+ ============November 5th 2015, 12:01:42 am============= 
+argmax PERPLEXITY: 3.30
+    "You was the word the word the worder to the worded.
 
- ============October 30th 2015, 01:11:38 pm============= 
-argmax PERPLEXITY: 4.75
-    "It's and said the stairs the stairs the said.
-
- ============October 30th 2015, 01:13:16 pm============= 
-argmax PERPLEXITY: Infinity
-    "It's the wanter the wait the wait the wanter the wants the wanted.
-
- ============October 30th 2015, 01:14:35 pm============= 
-argmax PERPLEXITY: 4.80
-    "I should spair the wait the wait the wanter there there
-
- ============October 30th 2015, 01:15:58 pm============= 
-argmax PERPLEXITY: 4.50
-    "I stin the lamped the wait the lamped the lit the lamped the lit the lamped the lit the lamped t
- ============October 30th 2015, 01:17:32 pm============= 
-argmax PERPLEXITY: 9.88
-    "I stin the stin the stin the stin the stinged the stimes as the stimes as the stimes as the stim
- ============October 30th 2015, 01:19:04 pm============= 
-argmax PERPLEXITY: 6.06
-    "I stind the stin the stind the said.
-
- ============October 30th 2015, 01:20:41 pm============= 
-argmax PERPLEXITY: 5.52
-    "I stind the stay to the stay to the stay to the say the say the say the say the say the say the 
- ============October 30th 2015, 01:22:18 pm============= 
-argmax PERPLEXITY: 5.95
-    "I say the stind the stind the stairs the said.
-
- ============October 30th 2015, 01:23:51 pm============= 
-argmax PERPLEXITY: 6.98
-    "I say the streat the streat the said.
-
- ============October 30th 2015, 01:25:32 pm============= 
-argmax PERPLEXITY: 4.77
-    "I say the stind the stind the said.
-
- ============October 30th 2015, 01:27:06 pm============= 
-argmax PERPLEXITY: 7.75
-    "I say the stind the stind the say the say the say.
-
- ============October 30th 2015, 01:28:43 pm============= 
-argmax PERPLEXITY: 3.98
-    "I see the stind the stind the said.
-
- ============October 30th 2015, 01:30:20 pm============= 
-argmax PERPLEXITY: 4.96
-    "It's and the say the say the say the say.
-
- ============October 30th 2015, 01:31:52 pm============= 
-argmax PERPLEXITY: 4.63
-    "It's and the stime the stime the say the say the say.
-
- ============October 30th 2015, 01:33:15 pm============= 
-argmax PERPLEXITY: 4.94
-    The say to the say to the say the say.
-
- ============October 30th 2015, 01:34:50 pm============= 
-argmax PERPLEXITY: 6.27
-    The say the say the say the say the say the say.
-
- ============October 30th 2015, 01:36:13 pm============= 
-argmax PERPLEXITY: 3.61
-    The said the said the said the said.
-
- ============October 30th 2015, 01:37:37 pm============= 
-argmax PERPLEXITY: 4.59
-    "It's the sain the sain the said.
-
- ============October 30th 2015, 01:39:19 pm============= 
-argmax PERPLEXITY: 4.30
-    The stood the stime to the stair the seep.
-
- ============October 30th 2015, 01:40:44 pm============= 
-argmax PERPLEXITY: Infinity
-    It's the stood the stone the stone the wand the stond
-
- ============October 30th 2015, 01:42:13 pm============= 
-argmax PERPLEXITY: 31.92
-    "It's the stime to the stime to the said.
-
- ============October 30th 2015, 01:43:44 pm============= 
-argmax PERPLEXITY: 4.15
-    The she she's the she she see the want the wand the sheeted.
-
- ============October 30th 2015, 01:45:23 pm============= 
-argmax PERPLEXITY: 4.81
-    The stind the stind the said the said the said.
-
- ============October 30th 2015, 01:46:58 pm============= 
-argmax PERPLEXITY: 4.62
-    "It's the said the said the said the said.
-
- ============October 30th 2015, 01:48:26 pm============= 
-argmax PERPLEXITY: 3.23
-    "I see to the said the said the said.
-
- ============October 30th 2015, 01:50:00 pm============= 
-argmax PERPLEXITY: 4.19
-    The the the the the the the the the the said.
-
- ============October 30th 2015, 01:51:21 pm============= 
-argmax PERPLEXITY: 5.04
-    "I see the said the said the said the said.
-
- ============October 30th 2015, 01:52:53 pm============= 
-argmax PERPLEXITY: 5.60
-    The said the said the said the said.
-
- ============October 30th 2015, 01:54:27 pm============= 
-argmax PERPLEXITY: 4.44
-    The said the want the said the said.
-
- ============October 30th 2015, 01:55:53 pm============= 
-argmax PERPLEXITY: 4.84
-    "I say to the took the too the too the said."
-
- ============October 30th 2015, 01:57:29 pm============= 
-argmax PERPLEXITY: 6.95
-    "I she's stind the stind the stind the said."
-
- ============October 30th 2015, 01:59:05 pm============= 
-argmax PERPLEXITY: 4.63
-    The stind the stind the stind the say the say.
-
- ============October 30th 2015, 02:00:31 pm============= 
-argmax PERPLEXITY: 3.98
-    "I shout the stind the stind the stind the said.
-
- ============October 30th 2015, 02:02:08 pm============= 
-argmax PERPLEXITY: 5.49
-    "I shout the say the say the say the say the say.
-
- ============October 30th 2015, 02:03:59 pm============= 
-argmax PERPLEXITY: 4.73
-    "I say the streat the streat the say the ware the say.
-
- ============October 30th 2015, 02:05:37 pm============= 
-argmax PERPLEXITY: 3.23
-    The way the way the way the ware the ware the say.
-
- ============October 30th 2015, 02:07:25 pm============= 
-argmax PERPLEXITY: 4.11
-    "I shout the waited the want the want the seeped the seeped.
-
- ============October 30th 2015, 02:09:02 pm============= 
-argmax PERPLEXITY: 4.53
-    The say to say to say to say the say the say the say.
-
- ============October 30th 2015, 02:10:40 pm============= 
-argmax PERPLEXITY: 4.25
-    "I see the say the say the say the say.
-
- ============October 30th 2015, 02:12:13 pm============= 
+ ============November 5th 2015, 12:04:00 am============= 
+argmax PERPLEXITY: 4.66
+    "You was the like to the like to the like to the like to the like to the like to the like to the 
+ ============November 5th 2015, 12:06:21 am============= 
+argmax PERPLEXITY: 5.11
+    "You was the worst the worst the word the like the like the like the like the like the like the l
+ ============November 5th 2015, 12:08:54 am============= 
 argmax PERPLEXITY: 4.06
-    "I see the way the way the way the way.
+    I was the way the way the way the way the workere
 
- ============October 30th 2015, 02:13:52 pm============= 
-argmax PERPLEXITY: 3.18
-    "I was the way the way the waind the want to was the see.
+ ============November 5th 2015, 12:11:33 am============= 
+argmax PERPLEXITY: 5.26
+    I was the part the part the part the place the place.
 
- ============October 30th 2015, 02:15:17 pm============= 
-argmax PERPLEXITY: 3.58
-    "It was to the say to the say to the say.
+ ============November 5th 2015, 12:13:56 am============= 
+argmax PERPLEXITY: 3.49
+    "You say the stay the stay the way the string the stree.
 
- ============October 30th 2015, 02:16:39 pm============= 
-argmax PERPLEXITY: 4.03
-    "It was to the say to the say to the say.
+ ============November 5th 2015, 12:16:24 am============= 
+argmax PERPLEXITY: 5.65
+    "You was the look the look the look the look the look to the see.
 
- ============October 30th 2015, 02:18:16 pm============= 
-argmax PERPLEXITY: 5.68
-    "It was the the the the the the the the the there the say.
+ ============November 5th 2015, 12:18:50 am============= 
+argmax PERPLEXITY: 3.43
+    "I was the stay the stread the stread the said.
 
- ============October 30th 2015, 02:19:51 pm============= 
-argmax PERPLEXITY: 5.61
-    "It was the way the say the say the say the say.
+ ============November 5th 2015, 12:21:16 am============= 
+argmax PERPLEXITY: 5.49
+    And the later the later the later the later the late.
 
- ============October 30th 2015, 02:21:13 pm============= 
-argmax PERPLEXITY: 5.55
-    The want the want the want the wanter to the say.
+ ============November 5th 2015, 12:23:42 am============= 
+argmax PERPLEXITY: 6.91
+    And the place the place the place the place to the broughting.
 
- ============October 30th 2015, 02:22:43 pm============= 
-argmax PERPLEXITY: 7.58
-    The want to the warted the want to the brought.
+ ============November 5th 2015, 12:26:12 am============= 
+argmax PERPLEXITY: 5.36
+    "I was the looked the looked the looked the looked the looked.
 
- ============October 30th 2015, 02:24:12 pm============= 
-argmax PERPLEXITY: 5.08
+ ============November 5th 2015, 12:28:27 am============= 
+argmax PERPLEXITY: 4.13
+    "I was the look to lo her the look to lo hair the look the look the look the look the look the lo
+ ============November 5th 2015, 12:30:52 am============= 
+argmax PERPLEXITY: 3.33
+    "I was the look the look the look the look the look the look the look the look the look the look 
+ ============November 5th 2015, 12:33:13 am============= 
+argmax PERPLEXITY: 9.06
+    I was the looked the look the looked the look the look the look the look the look the look the lo
+ ============November 5th 2015, 12:35:35 am============= 
+argmax PERPLEXITY: 5.24
+    "I don't keen the said the look the looked the look the look the look the look the look the look 
+ ============November 5th 2015, 12:37:57 am============= 
+argmax PERPLEXITY: 5.19
     "I was the said the said the said.
 
- ============October 30th 2015, 02:25:46 pm============= 
-argmax PERPLEXITY: 4.83
-    And the said the said the said.
-
- ============October 30th 2015, 02:27:22 pm============= 
-argmax PERPLEXITY: 4.20
-    The brought to the brought to the brought.
-
- ============October 30th 2015, 02:28:58 pm============= 
-argmax PERPLEXITY: 4.44
-    "I say the last the last the last the lase.
-
- ============October 30th 2015, 02:30:28 pm============= 
-argmax PERPLEXITY: 5.81
-    "I say the bant the brought the brought.
-
- ============October 30th 2015, 02:32:08 pm============= 
-argmax PERPLEXITY: 4.53
-    "What we something the pay the pay the brough.
-
- ============October 30th 2015, 02:33:39 pm============= 
-argmax PERPLEXITY: 8.11
-    "What we something the brough the brough the brough the like the brough.
-
- ============October 30th 2015, 02:35:25 pm============= 
-argmax PERPLEXITY: 4.59
-    The pain the pain the pain the like the like the like the like the like the like the like the lik
- ============October 30th 2015, 02:37:01 pm============= 
-argmax PERPLEXITY: 4.54
-    "I spear the look the paid the look the look.
-
- ============October 30th 2015, 02:38:44 pm============= 
-argmax PERPLEXITY: 3.78
-    "I see the look the look the look the look,
-
- ============October 30th 2015, 02:40:14 pm============= 
-argmax PERPLEXITY: 4.53
-    "I see the pay the pay the pay the pay the pay the looks.
-
- ============October 30th 2015, 02:41:54 pm============= 
-argmax PERPLEXITY: 3.60
-    I should speet the said the said.
-
- ============October 30th 2015, 02:43:20 pm============= 
-argmax PERPLEXITY: 3.58
-    "I see the stere the stered the said.
-
- ============October 30th 2015, 02:44:48 pm============= 
-argmax PERPLEXITY: 3.81
-    "I see the stin the streat the said.
-
- ============October 30th 2015, 02:46:16 pm============= 
-argmax PERPLEXITY: 3.82
-    "I say the streat the streat the streat the said.
-
- ============October 30th 2015, 02:47:54 pm============= 
-argmax PERPLEXITY: 4.17
-    "I say the stin the stin the said.
-
- ============October 30th 2015, 02:49:32 pm============= 
-argmax PERPLEXITY: 6.41
-    "I see the stind the stind the said.
-
- ============October 30th 2015, 02:50:56 pm============= 
-argmax PERPLEXITY: 4.73
-    "I see the lated the lated the lated the later.
-
- ============October 30th 2015, 02:52:32 pm============= 
-argmax PERPLEXITY: 3.59
-    "I see the lawe the lawe the lawe the lawe.
-
- ============October 30th 2015, 02:54:10 pm============= 
-argmax PERPLEXITY: 5.80
-    "I see to the late to the late to the late.
-
- ============October 30th 2015, 02:55:49 pm============= 
-argmax PERPLEXITY: 5.46
-    "I see the start the start the say the say the say the say.
-
- ============October 30th 2015, 02:57:23 pm============= 
-argmax PERPLEXITY: 3.87
-    "I see the streated the streated the say the say.
-
- ============October 30th 2015, 02:58:55 pm============= 
-argmax PERPLEXITY: 5.14
-    "I say the said the said the said the said.
-
- ============October 30th 2015, 03:00:33 pm============= 
-argmax PERPLEXITY: 115.64
-    "I should the should the should the shoulder the shoulder.
-
- ============October 30th 2015, 03:01:58 pm============= 
-argmax PERPLEXITY: 3.03
-    "I wouldn't some the paid the paid the pay the late
-
- ============October 30th 2015, 03:03:41 pm============= 
-argmax PERPLEXITY: 3.92
-    "I would the stere the stere the stere the said.
-
- ============October 30th 2015, 03:05:23 pm============= 
-argmax PERPLEXITY: 3.54
-    The ster the ster the stinds the stinds.
-
- ============October 30th 2015, 03:06:54 pm============= 
-argmax PERPLEXITY: 3.80
-    The stin the stin the stree the stree the say the see the see the seeps
-
- ============October 30th 2015, 03:08:32 pm============= 
-argmax PERPLEXITY: 6.64
-    "I won't think I was the wond the wonder the say the say the say.
-
- ============October 30th 2015, 03:10:01 pm============= 
-argmax PERPLEXITY: 4.30
-    "I was the stree the stree the stree the stree the say the say.
-
- ============October 30th 2015, 03:11:33 pm============= 
-argmax PERPLEXITY: 4.93
-    "I was the wand the wand the wand the wand.
-
- ============October 30th 2015, 03:13:08 pm============= 
-argmax PERPLEXITY: 6.47
-    The start the start the start the stry to the say the say.
-
- ============October 30th 2015, 03:14:32 pm============= 
-argmax PERPLEXITY: 4.54
-    The wand the wand the wand the wand the wand the say the say.
-
- ============October 30th 2015, 03:15:59 pm============= 
-argmax PERPLEXITY: 6.40
-    "I won't the late to the late to late to late
-
- ============October 30th 2015, 03:17:50 pm============= 
-argmax PERPLEXITY: 3.43
-    "I say the pay the pay the pay the pay the say the say.
-
- ============October 30th 2015, 03:19:33 pm============= 
-argmax PERPLEXITY: 7.49
-    "I wouldn't have the stay the said the said.
-
- ============October 30th 2015, 03:21:02 pm============= 
-argmax PERPLEXITY: 4.13
-    "I say the stay the stay the said."
-
- ============October 30th 2015, 03:22:24 pm============= 
-argmax PERPLEXITY: 5.39
-    "I won't the stin the stin the said.
-
- ============October 30th 2015, 03:23:57 pm============= 
-argmax PERPLEXITY: 5.02
-    "I won't mee the should the lamped the lamped the lamped the last.
-
- ============October 30th 2015, 03:25:20 pm============= 
-argmax PERPLEXITY: 4.68
-    "I say the stay the shoulder the say the say the see the see the see the see the see the see the 
- ============October 30th 2015, 03:26:45 pm============= 
-argmax PERPLEXITY: 5.25
-    "I streat to the ster to the ster to the say the see the see the see the see the see the see the 
- ============October 30th 2015, 03:28:18 pm============= 
-argmax PERPLEXITY: 4.30
-    "I say the streat the say the say the say.
-
- ============October 30th 2015, 03:29:52 pm============= 
-argmax PERPLEXITY: 3.26
-    "I say the say the say the say the say the say the say the say the say the say.
-
- ============October 30th 2015, 03:31:28 pm============= 
-argmax PERPLEXITY: 3.65
-    "I say the look to the late the look to the late.
-
- ============October 30th 2015, 03:32:54 pm============= 
-argmax PERPLEXITY: 3.84
-    "I say the late the late the late the late
-
- ============October 30th 2015, 03:34:38 pm============= 
-argmax PERPLEXITY: 3.82
-    "I say the lawed the lawed the lawed the lawed the lawed.
-
- ============October 30th 2015, 03:36:11 pm============= 
-argmax PERPLEXITY: 3.56
-    "I said the lawed to the lawed the lawed the late
-
- ============October 30th 2015, 03:37:43 pm============= 
-argmax PERPLEXITY: 5.47
-    "I say the said the said the said the said.
-
- ============October 30th 2015, 03:39:10 pm============= 
-argmax PERPLEXITY: 9.12
-    "I was the way the way the way the way the wanter.
-
- ============October 30th 2015, 03:40:41 pm============= 
-argmax PERPLEXITY: 3.91
-    "I say the said the said the said the said.
-
- ============October 30th 2015, 03:42:05 pm============= 
-argmax PERPLEXITY: 4.01
-    "I was the way the way the way the way the wanter.
-
- ============October 30th 2015, 03:43:39 pm============= 
-argmax PERPLEXITY: 4.31
-    "I was the way the way the way the way the wanter.
-
- ============October 30th 2015, 03:45:20 pm============= 
-argmax PERPLEXITY: 8.41
-    "I was the wain the wain the wain.
-
- ============October 30th 2015, 03:46:58 pm============= 
-argmax PERPLEXITY: 4.63
-    "I say the beared the beard the beard the bed the bed the bed the bed the bed the bed the bed the
- ============October 30th 2015, 03:48:18 pm============= 
-argmax PERPLEXITY: 81.14
-    "I was the was the was the wand the wand the brought
-
- ============October 30th 2015, 03:50:02 pm============= 
-argmax PERPLEXITY: 4.87
-    And the way the wart the warted the wanged the wand the wand the wand the wand the wand the wand 
- ============October 30th 2015, 03:51:53 pm============= 
-argmax PERPLEXITY: 6.72
-    "I said the way the way the way the way the wanged the wanged the wanged the wanged the wanged th
- ============October 30th 2015, 03:53:29 pm============= 
-argmax PERPLEXITY: 4.21
-    "I was the way the way the way the way the way the way the way the way the way the way the way th
- ============October 30th 2015, 03:55:11 pm============= 
-argmax PERPLEXITY: 6.27
-    "I say the way the way the way the way the way the way the way the way the way the way the way th
- ============October 30th 2015, 03:56:39 pm============= 
-argmax PERPLEXITY: 4.87
-    "I she say the way the way the way the way the way.
-
- ============October 30th 2015, 03:58:09 pm============= 
-argmax PERPLEXITY: 3.83
-    "I she some the way the way the way the way the way there the way there the way there.
-
- ============October 30th 2015, 04:00:02 pm============= 
-argmax PERPLEXITY: 5.00
-    The way to say to say to say to say to say to say to say to say to say to say to say to say the s
- ============October 30th 2015, 04:01:28 pm============= 
-argmax PERPLEXITY: 6.78
-    "I said the said the said the said.
-
- ============October 30th 2015, 04:02:54 pm============= 
-argmax PERPLEXITY: 5.64
-    "I said the sare the sare the sare the said.
-
- ============October 30th 2015, 04:04:29 pm============= 
-argmax PERPLEXITY: 3.71
-    "I sare to the sare to sare to sare the sare the sare the sare the sare the sare.
-
- ============October 30th 2015, 04:06:15 pm============= 
-argmax PERPLEXITY: 3.53
-    "I was to the said the way to the said.
-
- ============October 30th 2015, 04:08:05 pm============= 
-argmax PERPLEXITY: 4.82
-    The farther the farther the farthing the farthing the far.
-
- ============October 30th 2015, 04:09:50 pm============= 
-argmax PERPLEXITY: 3.87
-    The farth the farth the farth the fard.
-
- ============October 30th 2015, 04:11:17 pm============= 
-argmax PERPLEXITY: 3.22
-    The fay the fay the fay the fay the fay the place.
-
- ============October 30th 2015, 04:12:54 pm============= 
-argmax PERPLEXITY: 135.27
-    The fay to the farther the farther the fard.
-
- ============October 30th 2015, 04:14:26 pm============= 
-argmax PERPLEXITY: 4.48
-    The farther the farther the farther the bed.
-
- ============October 30th 2015, 04:16:02 pm============= 
-argmax PERPLEXITY: 4.02
-    I was the fare the fare the fare the farm.
-
- ============October 30th 2015, 04:17:33 pm============= 
-argmax PERPLEXITY: 4.27
-    The sted the ste the sted the sted the see the see the bed.
-
- ============October 30th 2015, 04:18:58 pm============= 
-argmax PERPLEXITY: 5.80
-    The band the band the band the band the band the bed the bed the bed.
-
- ============October 30th 2015, 04:20:16 pm============= 
-argmax PERPLEXITY: 3.97
-    "I see the band the band the band the band the bed the bed the bed the bed.
-
- ============October 30th 2015, 04:21:54 pm============= 
-argmax PERPLEXITY: 4.59
-    The sand the sand the sand the sare.
-
- ============October 30th 2015, 04:23:31 pm============= 
-argmax PERPLEXITY: 4.07
-    "I shout the sare the sare the sared the said.
-
- ============October 30th 2015, 04:25:10 pm============= 
-argmax PERPLEXITY: 4.89
-    "I shout the ban the sand the ban the ban the band the band.
-
- ============October 30th 2015, 04:26:39 pm============= 
-argmax PERPLEXITY: 4.48
-    "I see the ban the ban the ban the ban the ban the ban't see the ban.
-
- ============October 30th 2015, 04:27:57 pm============= 
-argmax PERPLEXITY: 4.94
-    "I she see the bay the bay the bay the bay the bane the bay the bane the bane the bear.
-
- ============October 30th 2015, 04:29:31 pm============= 
-argmax PERPLEXITY: 3.54
-    "I was the bear the bear the bear the beard the bed the bed the bed the bed the bed the bed the b
- ============October 30th 2015, 04:30:59 pm============= 
-argmax PERPLEXITY: 4.10
-    "I should see the bear the band the bed the bane the bed the bed the bed the bed the bed the bed 
- ============October 30th 2015, 04:32:26 pm============= 
-argmax PERPLEXITY: 3.65
-    "It was to the say to the say to the band to the bane the bane the bane the bane the bane.
-
- ============October 30th 2015, 04:33:59 pm============= 
-argmax PERPLEXITY: 5.16
-    "I say to the bay to the bay to the bay the bay the bay the bay the bay the bay the bay the bay t
- ============October 30th 2015, 04:35:42 pm============= 
-argmax PERPLEXITY: 4.20
-    "I say the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay th
- ============October 30th 2015, 04:37:22 pm============= 
-argmax PERPLEXITY: 3.89
-    "I was the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay th
- ============October 30th 2015, 04:38:51 pm============= 
-argmax PERPLEXITY: 6.08
-    "I say the said the said the said.
-
- ============October 30th 2015, 04:40:20 pm============= 
-argmax PERPLEXITY: 4.04
-    The stinter to the stinter to the said.
-
- ============October 30th 2015, 04:42:02 pm============= 
-argmax PERPLEXITY: 3.52
-    "I see the stind the stind the say the say the see the see the see the see the see the see the se
- ============October 30th 2015, 04:43:28 pm============= 
-argmax PERPLEXITY: 63.74
-    "I see the see the see the see the see the see the see the see the see the see the see the see th
- ============October 30th 2015, 04:45:00 pm============= 
-argmax PERPLEXITY: 4.67
-    "I see the say the say the say the say the say the say the say the say the say the say there.
-
- ============October 30th 2015, 04:46:37 pm============= 
-argmax PERPLEXITY: 3.67
-    "I see the ste the ste the ste the see the see the see the see--
-
- ============October 30th 2015, 04:48:17 pm============= 
+ ============November 5th 2015, 12:40:06 am============= 
+argmax PERPLEXITY: 6.76
+    "I don't said the said the said. I say.
+
+ ============November 5th 2015, 12:42:23 am============= 
 argmax PERPLEXITY: 4.46
-    "I see the sand the sand the sand the sant the see the see--
+    "I say to say to say to say to see to see to see to see.
 
- ============October 30th 2015, 04:49:53 pm============= 
-argmax PERPLEXITY: 3.87
-    "I see the streat the streat the said.
+ ============November 5th 2015, 12:44:33 am============= 
+argmax PERPLEXITY: 5.47
+    "I we say the say the say the say the say.
 
- ============October 30th 2015, 04:51:35 pm============= 
-argmax PERPLEXITY: 7.31
-    "I say the stin the stin the stin the say the see the see the sleep.
+ ============November 5th 2015, 12:46:46 am============= 
+argmax PERPLEXITY: 3.69
+    "It was the say the say the say the say.
 
- ============October 30th 2015, 04:53:14 pm============= 
-argmax PERPLEXITY: 4.12
-    "I say the stin the stin the stin the say the say the say the say.
+ ============November 5th 2015, 12:49:06 am============= 
+argmax PERPLEXITY: 3.99
+    "I say the say the say the say the say.
 
- ============October 30th 2015, 04:55:00 pm============= 
-argmax PERPLEXITY: 4.50
-    "I some the streat the streat the streat to the say the say there.
+ ============November 5th 2015, 12:51:26 am============= 
+argmax PERPLEXITY: 3.05
+    "I say the say the say the say the say the say the say.
 
- ============October 30th 2015, 04:56:28 pm============= 
-argmax PERPLEXITY: 5.15
-    "It was the streat the streat the say there.
+ ============November 5th 2015, 12:53:40 am============= 
+argmax PERPLEXITY: 3.28
+    "I say the way the way the way the way the way the way.
 
- ============October 30th 2015, 04:57:58 pm============= 
-argmax PERPLEXITY: 9.85
-    "I say the stry the stry the stry say the say there the say there.
+ ============November 5th 2015, 12:56:00 am============= 
+argmax PERPLEXITY: 4.13
+    "I say to think and say to think and say.
 
- ============October 30th 2015, 04:59:42 pm============= 
-argmax PERPLEXITY: 4.30
-    "I say the streat the streat the say the say the say the say the say the say the say the say the 
- ============October 30th 2015, 05:01:10 pm============= 
-argmax PERPLEXITY: 4.16
-    "I some the band the band the bay the bay the bay the bay the bay the brough.
+ ============November 5th 2015, 12:58:17 am============= 
+argmax PERPLEXITY: 4.69
+    "I was the way the way the way the way.
 
- ============October 30th 2015, 05:02:52 pm============= 
-argmax PERPLEXITY: 3.57
-    "I some the streat the streat the say the see the see the see the see the see the see the bed the
- ============October 30th 2015, 05:04:19 pm============= 
-argmax PERPLEXITY: 3.36
-    "I say the streat the streat the say the bay the bay the bay the bay the bay the bay the bay the 
- ============October 30th 2015, 05:05:49 pm============= 
-argmax PERPLEXITY: 3.01
-    "I some the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay t
- ============October 30th 2015, 05:07:22 pm============= 
-argmax PERPLEXITY: 5.41
-    "I some the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay t
- ============October 30th 2015, 05:08:56 pm============= 
-argmax PERPLEXITY: 4.25
-    "I say the band the band the band the band the band the band the band the band the band the band 
- ============October 30th 2015, 05:10:37 pm============= 
-argmax PERPLEXITY: 7.27
-    "I say the band the band the band the band the band the band the brough.
+ ============November 5th 2015, 01:00:21 am============= 
+argmax PERPLEXITY: 43.67
+    "I was the way the way the way the way the way.
 
- ============October 30th 2015, 05:12:16 pm============= 
-argmax PERPLEXITY: 4.58
-    "I say the band the band the band the band the band the band the band the band the band the band 
- ============October 30th 2015, 05:13:53 pm============= 
-argmax PERPLEXITY: 4.88
-    "I say the bange to the bangen the bangen the bane the bed the bed the bed.
+ ============November 5th 2015, 01:02:38 am============= 
+argmax PERPLEXITY: 3.73
+    "You was the way the way the way the way the way.
 
- ============October 30th 2015, 05:15:28 pm============= 
-argmax PERPLEXITY: 5.58
-    "I say the bain the bain the bain.
+ ============November 5th 2015, 01:04:36 am============= 
+argmax PERPLEXITY: 3.27
+    "You was the way the way the way the way the way the way.
 
- ============October 30th 2015, 05:17:12 pm============= 
-argmax PERPLEXITY: 4.91
-    "I say the band the band the band the bain the bain.
+ ============November 5th 2015, 01:06:55 am============= 
+argmax PERPLEXITY: 5.73
+    "I was to the world to the way to tell the place.
 
- ============October 30th 2015, 05:18:39 pm============= 
-argmax PERPLEXITY: 3.95
-    The bain the baid the baid the bay the bay the bay the bay the bay the bay the bay the bay the ba
- ============October 30th 2015, 05:20:09 pm============= 
-argmax PERPLEXITY: 5.06
-    "I sast the baid the baid the baid.
+ ============November 5th 2015, 01:09:16 am============= 
+argmax PERPLEXITY: 16.95
+    "It was to take the part to take the place.
 
- ============October 30th 2015, 05:21:42 pm============= 
-argmax PERPLEXITY: 4.99
-    "I say the bain the bain the bain the bain the bain the bain the bain the bain the bain the bain 
- ============October 30th 2015, 05:23:24 pm============= 
-argmax PERPLEXITY: 3.53
-    "I say the band to the bane the bane the bane the bane the bane the bane the bane the bane the ba
- ============October 30th 2015, 05:25:05 pm============= 
-argmax PERPLEXITY: 4.59
-    "I say the bane the bane the bane the bain the bear the bear the bear the bear the bear the bear 
- ============October 30th 2015, 05:26:34 pm============= 
-argmax PERPLEXITY: 4.32
-    "I see the ban the ban the ban the ban the ban the ban the ban the ban the ban the ban the ban th
- ============October 30th 2015, 05:28:16 pm============= 
-argmax PERPLEXITY: 3.43
-    "I say the stay the stay the stay the said.
+ ============November 5th 2015, 01:11:33 am============= 
+argmax PERPLEXITY: 3.71
+    "I can't the pain to the pain to the part.
 
- ============October 30th 2015, 05:29:52 pm============= 
-argmax PERPLEXITY: 4.41
-    "I see the ban the ban the ban the ban the ban the ban the ban the ban the bane the bane the bane
- ============October 30th 2015, 05:31:09 pm============= 
-argmax PERPLEXITY: 3.90
-    "I say the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay th
- ============October 30th 2015, 05:32:43 pm============= 
-argmax PERPLEXITY: 3.82
-    "I some the band the band the band the band the band the band the band the band the band the band
- ============October 30th 2015, 05:34:39 pm============= 
-argmax PERPLEXITY: 5.58
-    "I say the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay the bay th
- ============October 30th 2015, 05:36:08 pm============= 
+ ============November 5th 2015, 01:13:51 am============= 
+argmax PERPLEXITY: 6.53
+    And the place the place the place the place.
+
+ ============November 5th 2015, 01:16:06 am============= 
+argmax PERPLEXITY: 3.27
+    And the place the place the place the place the place.
+
+ ============November 5th 2015, 01:18:24 am============= 
+argmax PERPLEXITY: 3.21
+    And the bain the pain the pain the bain.
+
+ ============November 5th 2015, 01:20:43 am============= 
+argmax PERPLEXITY: 5.21
+    And the bain the bain the bain the bain.
+
+ ============November 5th 2015, 01:22:52 am============= 
+argmax PERPLEXITY: 4.94
+    The bain the pain the pain the bain.
+
+ ============November 5th 2015, 01:25:02 am============= 
+argmax PERPLEXITY: 4.09
+    The pain the pain the pain the pain.
+
+ ============November 5th 2015, 01:27:06 am============= 
+argmax PERPLEXITY: 6.13
+    The bain to the way to the way to the pain.
+
+ ============November 5th 2015, 01:29:04 am============= 
 argmax PERPLEXITY: 5.75
-    "I see the brought to see the brought to see the brough.
+    And the place the place the place the place.
 
- ============October 30th 2015, 05:37:36 pm============= 
-argmax PERPLEXITY: 4.91
-    "It she see the say the say the say the say the say the say the say the say the say the say the s
- ============October 30th 2015, 05:39:15 pm============= 
+ ============November 5th 2015, 01:31:21 am============= 
+argmax PERPLEXITY: 5.04
+    The bain the bain the bain the bain the bain
+
+ ============November 5th 2015, 01:33:48 am============= 
+argmax PERPLEXITY: 3.91
+    The said the said the said the said.
+
+ ============November 5th 2015, 01:36:02 am============= 
+argmax PERPLEXITY: 2.99
+    The said the said the said the said.
+
+ ============November 5th 2015, 01:38:22 am============= 
+argmax PERPLEXITY: 4.52
+    The said the said the said the said.
+
+ ============November 5th 2015, 01:40:39 am============= 
+argmax PERPLEXITY: 3.14
+    "I was the way the way the way the way the way.
+
+ ============November 5th 2015, 01:42:52 am============= 
+argmax PERPLEXITY: 2.64
+    "I were the said the said the said the said.
+
+ ============November 5th 2015, 01:45:08 am============= 
+argmax PERPLEXITY: 5.38
+    I wonted to the worgle the worgle the work
+
+ ============November 5th 2015, 01:47:29 am============= 
+argmax PERPLEXITY: 3.18
+    "I could know the work to the work
+
+ ============November 5th 2015, 01:49:51 am============= 
+argmax PERPLEXITY: 3.76
+    "I was the worgle the worgle the worgle the word.
+
+ ============November 5th 2015, 01:52:14 am============= 
+argmax PERPLEXITY: 4.25
+    "I was the worgle the worgle the working the see.
+
+ ============November 5th 2015, 01:54:46 am============= 
+argmax PERPLEXITY: 6.46
+    "I was the worgle the worgle the worgle the say.
+
+ ============November 5th 2015, 01:57:03 am============= 
+argmax PERPLEXITY: 4.72
+    "I was the said the said. I say you see.
+
+ ============November 5th 2015, 01:59:27 am============= 
+argmax PERPLEXITY: 4.96
+    I was the work to the work the work the see.
+
+ ============November 5th 2015, 02:01:48 am============= 
+argmax PERPLEXITY: 3.48
+    I was the way the way the way the way the way.
+
+ ============November 5th 2015, 02:04:17 am============= 
+argmax PERPLEXITY: 3.91
+    "I was the work the work the work the word
+
+ ============November 5th 2015, 02:06:41 am============= 
+argmax PERPLEXITY: 3.55
+    And the work to the work to the said.
+
+ ============November 5th 2015, 02:09:00 am============= 
+argmax PERPLEXITY: 4.69
+    And the work the word the word the see.
+
+ ============November 5th 2015, 02:11:19 am============= 
+argmax PERPLEXITY: 3.38
+    And the way and said and said and said.
+
+ ============November 5th 2015, 02:13:37 am============= 
+argmax PERPLEXITY: 3.67
+    And the said and said and said and said.
+
+ ============November 5th 2015, 02:16:01 am============= 
+argmax PERPLEXITY: 4.44
+    And the way and the way and the way and the way.
+
+ ============November 5th 2015, 02:18:15 am============= 
+argmax PERPLEXITY: 3.32
+    And the way and the way and the way and the way.
+
+ ============November 5th 2015, 02:20:34 am============= 
+argmax PERPLEXITY: 4.60
+    And the way the way the way the way the way the way.
+
+ ============November 5th 2015, 02:22:48 am============= 
+argmax PERPLEXITY: 5.19
+    I was the way the way the way the way.
+
+ ============November 5th 2015, 02:24:58 am============= 
+argmax PERPLEXITY: 3.97
+    And the way the way the way the way the way the say.
+
+ ============November 5th 2015, 02:27:28 am============= 
+argmax PERPLEXITY: 5.26
+    And the bain to the said the baid the barthing.
+
+ ============November 5th 2015, 02:29:49 am============= 
+argmax PERPLEXITY: 4.81
+    I say the barts the barts the barts the say.
+
+ ============November 5th 2015, 02:32:13 am============= 
+argmax PERPLEXITY: 4.46
+    I said the stay the stay the stay the said.
+
+ ============November 5th 2015, 02:34:23 am============= 
+argmax PERPLEXITY: 5.53
+    There said there said there said.
+
+ ============November 5th 2015, 02:36:51 am============= 
+argmax PERPLEXITY: 6.65
+    The bain to be to to best to be to bester.
+
+ ============November 5th 2015, 02:39:10 am============= 
+argmax PERPLEXITY: 3.37
+    The bain to be to be to be to be to be to be to be to be to be to be to be to be to be to be to b
+ ============November 5th 2015, 02:41:36 am============= 
+argmax PERPLEXITY: 6.26
+    The stay the stay the stay the stay the stay the stay to see the stay to see the stay to see the 
+ ============November 5th 2015, 02:44:00 am============= 
+argmax PERPLEXITY: 2.98
+    The bear to the best the best the bed the bed.
+
+ ============November 5th 2015, 02:46:15 am============= 
+argmax PERPLEXITY: 3.40
+    "I was the bean the bean the bean the bested.
+
+ ============November 5th 2015, 02:48:40 am============= 
+argmax PERPLEXITY: 9.81
+    "It was there were there were there were the bested.
+
+ ============November 5th 2015, 02:51:05 am============= 
+argmax PERPLEXITY: 5.18
+    "It was the like the like the like the like the light the light.
+
+ ============November 5th 2015, 02:53:25 am============= 
+argmax PERPLEXITY: 4.07
+    I want to take the like too make the light.
+
+ ============November 5th 2015, 02:55:46 am============= 
+argmax PERPLEXITY: 4.93
+    "I want to the tood to the tood to the light to the light.
+
+ ============November 5th 2015, 02:58:07 am============= 
+argmax PERPLEXITY: 5.74
+    "I was the word the word the word the stard.
+
+ ============November 5th 2015, 03:00:32 am============= 
+argmax PERPLEXITY: 3.29
+    "I was the started the started the start.
+
+ ============November 5th 2015, 03:02:47 am============= 
+argmax PERPLEXITY: 4.51
+    "I see the pain the pain the pain the pain.
+
+ ============November 5th 2015, 03:04:57 am============= 
+argmax PERPLEXITY: 3.58
+    The bain to the word the bain, I said.
+
+ ============November 5th 2015, 03:07:12 am============= 
+argmax PERPLEXITY: 55.45
+    "I said the barts the way the way the bart to see the late.
+
+ ============November 5th 2015, 03:09:21 am============= 
+argmax PERPLEXITY: 4.39
+    "I say the sand the said. I say the said.
+
+ ============November 5th 2015, 03:11:27 am============= 
+argmax PERPLEXITY: 4.48
+    "I see the stand to the stand the stand.
+
+ ============November 5th 2015, 03:13:35 am============= 
 argmax PERPLEXITY: 4.41
-    "I she say the say the say the say the say the say the say the say the say the say the say the sa
- ============October 30th 2015, 05:40:54 pm============= 
-argmax PERPLEXITY: 2.92
-    "I so so the bay to the bay to the bay the bay the brough.
+    "I see the stand the stand the stand the say.
 
- ============October 30th 2015, 05:42:27 pm============= 
-argmax PERPLEXITY: 4.41
-    "I so so the brough the brough the brough the brough.
+ ============November 5th 2015, 03:15:56 am============= 
+argmax PERPLEXITY: 3.54
+    The way the way the way the way the way the way the way.
 
- ============October 30th 2015, 05:43:57 pm============= 
-argmax PERPLEXITY: 7.42
-    And the brough the bay to the brough the brough.
+ ============November 5th 2015, 03:18:22 am============= 
+argmax PERPLEXITY: 3.52
+    The stand to the stand to the stand to the start.
 
- ============October 30th 2015, 05:45:34 pm============= 
-argmax PERPLEXITY: 3.93
-    "I say the streat the streate the say the say.
+ ============November 5th 2015, 03:20:43 am============= 
+argmax PERPLEXITY: 2.52
+    The stand the stand the strear to tree the stand.
+
+ ============November 5th 2015, 03:22:54 am============= 
+argmax PERPLEXITY: 5.05
+    And the said. "What was to tropper to tropper to see.
+
+ ============November 5th 2015, 03:25:13 am============= 
+argmax PERPLEXITY: 3.25
+    And the strings the strings the strings the strings the stark.
+
+ ============November 5th 2015, 03:27:34 am============= 
+argmax PERPLEXITY: 40.16
+    And the stain the stand to the stairs.
+
+ ============November 5th 2015, 03:29:36 am============= 
+argmax PERPLEXITY: 4.62
+    And the stand the stand the stand the stand.
+
+ ============November 5th 2015, 03:31:59 am============= 
+argmax PERPLEXITY: 7.80
+    And the stand the stand the stand the stands.
+
+ ============November 5th 2015, 03:34:25 am============= 
+argmax PERPLEXITY: 4.57
+    "You see the stand the stand the stand the stand the starries.
+
+ ============November 5th 2015, 03:36:49 am============= 
+argmax PERPLEXITY: 3.08
+    "You see the stand the stand the stand the see.
+
+ ============November 5th 2015, 03:39:18 am============= 
+argmax PERPLEXITY: 6.66
+    "You see the stand the stop to to the see.
+
+ ============November 5th 2015, 03:41:41 am============= 
+argmax PERPLEXITY: 4.00
+    "I shouldn't have the say the say the say the see.
+
+ ============November 5th 2015, 03:44:08 am============= 
+argmax PERPLEXITY: 3.48
+    "You see the stark the stark the stark the stay.
+
+ ============November 5th 2015, 03:46:18 am============= 
+argmax PERPLEXITY: 3.55
+    "I see the stay the bed the word the stop.
+
+ ============November 5th 2015, 03:48:44 am============= 
+argmax PERPLEXITY: 4.18
+    "I see the bear the bear the bed the bed the bed.
+
+ ============November 5th 2015, 03:51:13 am============= 
+argmax PERPLEXITY: 3.42
+    "I shouldn't have the bed the bed the bed the bed.
+
+ ============November 5th 2015, 03:53:35 am============= 
+argmax PERPLEXITY: 6.58
+    The bed to be to be to be to be to be to be to be to be to be to be to be to be to be to be to be
+ ============November 5th 2015, 03:55:53 am============= 
+argmax PERPLEXITY: 3.87
+    The ban the ban the ban the bed the bed.
+
+ ============November 5th 2015, 03:58:14 am============= 
+argmax PERPLEXITY: 3.97
+    "I shouldn't think the stark the work the stark.
+
+ ============November 5th 2015, 04:00:41 am============= 
+argmax PERPLEXITY: 4.45
+    "I say I shouldn't the way a bed the way the way the bed.
+
+ ============November 5th 2015, 04:03:05 am============= 
+argmax PERPLEXITY: 5.27
+    "I say a say the say the say the say the say the see.
+
+ ============November 5th 2015, 04:05:29 am============= 
+argmax PERPLEXITY: 4.70
+    "I say and the say and the say and the say the say.
+
+ ============November 5th 2015, 04:07:54 am============= 
+argmax PERPLEXITY: 3.44
+    "I say the stark the stark the say the say the see the see.
+
+ ============November 5th 2015, 04:10:19 am============= 
+argmax PERPLEXITY: 3.45
+    "I say the stay to see the stay to see the stree.
+
+ ============November 5th 2015, 04:12:29 am============= 
+argmax PERPLEXITY: 10.02
+    "You see the stay to stay to stay to stay to see.
+
+ ============November 5th 2015, 04:14:40 am============= 
+argmax PERPLEXITY: 3.72
+    "You see to stay to think to stay to stayed to stayed.
+
+ ============November 5th 2015, 04:16:59 am============= 
+argmax PERPLEXITY: 3.64
+    "I see the stay the stay the stay the stay to see.
+
+ ============November 5th 2015, 04:19:11 am============= 
+argmax PERPLEXITY: 15.39
+    "I see the way the way the way the way the way the way the streed.
+
+ ============November 5th 2015, 04:21:15 am============= 
+argmax PERPLEXITY: 4.08
+    "You see the stark the stark the stark the stree.
+
+ ============November 5th 2015, 04:23:31 am============= 
+argmax PERPLEXITY: 4.76
+    "You see the stark the stark the stark the stark.
+
+ ============November 5th 2015, 04:25:55 am============= 
+argmax PERPLEXITY: 4.74
+    "You see the stark to the stark to the streen to the stree.
+
+ ============November 5th 2015, 04:28:16 am============= 
+argmax PERPLEXITY: 2.47
+    "You see the streak the streak the streakidelf.
+
+ ============November 5th 2015, 04:30:38 am============= 
+argmax PERPLEXITY: 3.59
+    "You see the way the way the way the way the way the way to see the streen
+
+ ============November 5th 2015, 04:33:03 am============= 
+argmax PERPLEXITY: 4.66
+    "You can't the way the way the way the way the way.
+
+ ============November 5th 2015, 04:35:27 am============= 
+argmax PERPLEXITY: 4.29
+    "You can't the worth to stay to stayed to see the streed.
+
+ ============November 5th 2015, 04:37:43 am============= 
+argmax PERPLEXITY: 3.68
+    "I want to the word to the word to the place.
+
+ ============November 5th 2015, 04:39:49 am============= 
+argmax PERPLEXITY: 3.58
+    "I can't the way the way the way the way the way the way the streat.
+
+ ============November 5th 2015, 04:42:07 am============= 
+argmax PERPLEXITY: 4.36
+    "I see the way the way the way the way the way the bed.
+
+ ============November 5th 2015, 04:44:33 am============= 
+argmax PERPLEXITY: 3.96
+    "You was the stay the stay the stay the stay the stay.
+
+ ============November 5th 2015, 04:46:56 am============= 
+argmax PERPLEXITY: 4.83
+    "I say and the way and the way and the way and the say.
+
+ ============November 5th 2015, 04:49:15 am============= 
+argmax PERPLEXITY: 3.87
+    "I say and the stay the stay the stay the stayed the see.
+
+ ============November 5th 2015, 04:51:50 am============= 
+argmax PERPLEXITY: 3.24
+    "I was the way and the way and the way and the way the stay.
+
+ ============November 5th 2015, 04:54:14 am============= 
+argmax PERPLEXITY: 6.03
+    "I can't stay the stringing the stringing the say.
+
+ ============November 5th 2015, 04:56:28 am============= 
+argmax PERPLEXITY: 6.44
+    "I say the stay the stay the stay the stayed the said.
+
+ ============November 5th 2015, 04:58:45 am============= 
+argmax PERPLEXITY: 3.89
+    "I say the stay to the stay to the stay to the string
+
+ ============November 5th 2015, 05:01:14 am============= 
+argmax PERPLEXITY: 4.27
+    "I say the starring to the stay to the stayed to the said.
+
+ ============November 5th 2015, 05:03:30 am============= 
+argmax PERPLEXITY: 3.48
+    "I said the stay to the stay to the said the said.
+
+ ============November 5th 2015, 05:05:36 am============= 
+argmax PERPLEXITY: 4.52
+    The said the said the said the said the said
+
+ ============November 5th 2015, 05:07:51 am============= 
+argmax PERPLEXITY: 4.68
+    The bed the bed the bed the bed the bed the bed the bed the bed the bed the bed the bed the bed t
+ ============November 5th 2015, 05:10:11 am============= 
+argmax PERPLEXITY: 5.68
+    The bed to the bed to the bed to see the bed to see.
+
+ ============November 5th 2015, 05:12:25 am============= 
+argmax PERPLEXITY: 8.89
+    The bell her the bed to was the bed to see to see to see to see to see to see to see to see to se
+ ============November 5th 2015, 05:14:39 am============= 
+argmax PERPLEXITY: 8.85
+    The said the said the said the said.
+
+ ============November 5th 2015, 05:17:10 am============= 
+argmax PERPLEXITY: 3.29
+    The said the said the said the said the said.
+
+ ============November 5th 2015, 05:19:44 am============= 
+argmax PERPLEXITY: 4.36
+    "What was the she say it she say it she say.
+
+ ============November 5th 2015, 05:22:06 am============= 
+argmax PERPLEXITY: 4.73
+    "I say it's not the said the said.
+
+ ============November 5th 2015, 05:24:12 am============= 
+argmax PERPLEXITY: 4.34
+    "I was the say the say the say the say the say.
+
+ ============November 5th 2015, 05:26:28 am============= 
+argmax PERPLEXITY: 4.14
+    "I was the said to say the said."
+
+ ============November 5th 2015, 05:28:38 am============= 
+argmax PERPLEXITY: 3.43
+    "I say the say the say the say the say.
+
+ ============November 5th 2015, 05:30:51 am============= 
+argmax PERPLEXITY: 2.88
+    "I say the say the say the say the say.
+
+ ============November 5th 2015, 05:33:10 am============= 
+argmax PERPLEXITY: 4.67
+    I say and the said to the said the say.
+
+ ============November 5th 2015, 05:35:34 am============= 
+argmax PERPLEXITY: 4.27
+    "I say to the some the some the say to the say.
+
+ ============November 5th 2015, 05:37:53 am============= 
+argmax PERPLEXITY: 3.77
+    "I say to the some the some the said.
+
+ ============November 5th 2015, 05:40:14 am============= 
+argmax PERPLEXITY: 3.56
+    "What the stay the stay the stay the stay the say.
+
+ ============November 5th 2015, 05:42:26 am============= 
+argmax PERPLEXITY: 4.24
+    "I say the stay to the stay to the say the say.
+
+ ============November 5th 2015, 05:44:56 am============= 
+argmax PERPLEXITY: 3.31
+    "I was the bart to think he was the bart to the bart.
+
+ ============November 5th 2015, 05:47:21 am============= 
+argmax PERPLEXITY: 3.48
+    "It make the barther the way the barther the bart to the bart to the bart to the bart to the bart
+ ============November 5th 2015, 05:49:35 am============= 
+argmax PERPLEXITY: 7.02
+    "It make the was the was the was the was the say.
+
+ ============November 5th 2015, 05:51:51 am============= 
+argmax PERPLEXITY: 3.91
+    "What we say to the stay to the say to the say.
+
+ ============November 5th 2015, 05:54:07 am============= 
+argmax PERPLEXITY: 3.75
+    "It must say to the way to the say to the say.
+
+ ============November 5th 2015, 05:56:26 am============= 
+argmax PERPLEXITY: 3.52
+    "It's the say the say the say the say the say.
+
+ ============November 5th 2015, 05:58:43 am============= 
+argmax PERPLEXITY: 4.20
+    "It's the say the say the say the say.
+
+ ============November 5th 2015, 06:01:12 am============= 
+argmax PERPLEXITY: 3.81
+    "It's the part the part the part the pard.
+
+ ============November 5th 2015, 06:03:33 am============= 
+argmax PERPLEXITY: 3.46
+    "It's the say the say the say the say the say.
+
+ ============November 5th 2015, 06:05:52 am============= 
+argmax PERPLEXITY: 4.27
+    I say the staye the staye the say.
+
+ ============November 5th 2015, 06:08:00 am============= 
+argmax PERPLEXITY: 5.00
+    I say and the staything the say.
+
+ ============November 5th 2015, 06:10:28 am============= 
+argmax PERPLEXITY: 4.00
+    I say a son't say and the say and the say.
+
+ ============November 5th 2015, 06:12:55 am============= 
+argmax PERPLEXITY: 4.84
+    I say to the beadelly to the been the bee.
+
+ ============November 5th 2015, 06:15:16 am============= 
+argmax PERPLEXITY: 4.16
+    I can the bearand to to to the brought.
+
+ ============November 5th 2015, 06:17:48 am============= 
+argmax PERPLEXITY: 4.87
+    I can the pand to the pand to the say.
+
+ ============November 5th 2015, 06:20:09 am============= 
+argmax PERPLEXITY: 3.15
+    I say and the stand the stand the stand.
+
+ ============November 5th 2015, 06:22:31 am============= 
+argmax PERPLEXITY: 4.47
+    I say to the stand to the stand to the say.
+
+ ============November 5th 2015, 06:24:46 am============= 
+argmax PERPLEXITY: 7.10
+    I say the bear the pand to the bent to the been been seem.
+
+ ============November 5th 2015, 06:26:57 am============= 
+argmax PERPLEXITY: 4.98
+    I say and the band the back the back to the say.
+
+ ============November 5th 2015, 06:29:16 am============= 
+argmax PERPLEXITY: 3.31
+    "It must say the stark to think he say.
+
+ ============November 5th 2015, 06:31:29 am============= 
+argmax PERPLEXITY: 4.12
+    "You see the be the barther the barther the say.
+
+ ============November 5th 2015, 06:33:30 am============= 
+argmax PERPLEXITY: 3.51
+    The stark the stark the stark the stark the seen see.
+
+ ============November 5th 2015, 06:35:31 am============= 
+argmax PERPLEXITY: 4.06
+    I see the stark the stark the stark the see the see the see the see the see the see the see the s
+ ============November 5th 2015, 06:38:02 am============= 
+argmax PERPLEXITY: 4.08
+    I should have to the say the starring the see the see the see the see the see the see the see the
+ ============November 5th 2015, 06:40:23 am============= 
+argmax PERPLEXITY: 4.74
+    The best the barries to the brought to the brought
+
+ ============November 5th 2015, 06:42:43 am============= 
+argmax PERPLEXITY: 5.29
+    "I can see the bear the bed the bed to the say.
+
+ ============November 5th 2015, 06:45:08 am============= 
+argmax PERPLEXITY: 3.52
+    "It's to the stark to the stark to the say.
+
+ ============November 5th 2015, 06:47:14 am============= 
+argmax PERPLEXITY: 6.40
+    "It's to the too the stark to to to the say.
+
+ ============November 5th 2015, 06:49:45 am============= 
+argmax PERPLEXITY: 3.58
+    "I say the stark to the tooge to the stread.
+
+ ============November 5th 2015, 06:52:11 am============= 
+argmax PERPLEXITY: 4.25
+    "It's to the toogh to the stand to the shout.
+
+ ============November 5th 2015, 06:54:27 am============= 
+argmax PERPLEXITY: 5.50
+    And the stand the stand the stand the stand.
+
+ ============November 5th 2015, 06:56:49 am============= 
+argmax PERPLEXITY: 4.51
+    And the stark the stark the stand the shout the shout.
+
+ ============November 5th 2015, 06:59:19 am============= 
+argmax PERPLEXITY: 3.74
+    And the pain the pain the pain the shout.
+
+ ============November 5th 2015, 07:01:49 am============= 
+argmax PERPLEXITY: 3.73
+    And the pain the pain the pain the pain the stand.
+
+ ============November 5th 2015, 07:04:18 am============= 
+argmax PERPLEXITY: 3.29
+    "It shout to to to to to to the stayed to the say.
+
+ ============November 5th 2015, 07:06:28 am============= 
+argmax PERPLEXITY: 4.38
+    "It's someto the pain to to the pain.
+
+ ============November 5th 2015, 07:08:48 am============= 
+argmax PERPLEXITY: Infinity
+    "It say the said. "I should the said.
+
+ ============November 5th 2015, 07:10:51 am============= 
+argmax PERPLEXITY: 3.78
+    And the pains the pains the pains the pains
+
+ ============November 5th 2015, 07:13:06 am============= 
+argmax PERPLEXITY: 5.95
+    "It shave the pain the pain the pain.
+
+ ============November 5th 2015, 07:15:26 am============= 
+argmax PERPLEXITY: 4.71
+    "It see the starries to to to to to think the seen the see.
+
+ ============November 5th 2015, 07:17:46 am============= 
+argmax PERPLEXITY: 5.43
+    "It see the stayed the stayed the stayed the seen said.
+
+ ============November 5th 2015, 07:20:10 am============= 
+argmax PERPLEXITY: 4.33
+    "I say the some to to to to to to to to to the seep
+
+ ============November 5th 2015, 07:22:35 am============= 
+argmax PERPLEXITY: 4.30
+    "I see the stark the stark the stark to to the seen seen seen seen seen seen seen seen seen seen 
+ ============November 5th 2015, 07:25:04 am============= 
+argmax PERPLEXITY: 3.22
+    "It seem the stay the stay the stayed the see them them them.
+
+ ============November 5th 2015, 07:27:37 am============= 
+argmax PERPLEXITY: 5.18
+    "It see the see the see the see the see the seen the see.
+
+ ============November 5th 2015, 07:30:05 am============= 
+argmax PERPLEXITY: 3.18
+    "I see the should the should the should the seen see.
+
+ ============November 5th 2015, 07:32:39 am============= 
+argmax PERPLEXITY: 3.62
+    "Where the some the some the some the say.
+
+ ============November 5th 2015, 07:35:04 am============= 
+argmax PERPLEXITY: 4.94
+    "Where the something to to to to to the see.
+
+ ============November 5th 2015, 07:37:13 am============= 
+argmax PERPLEXITY: 3.85
+    "Where the say the say the say the say the seen see.
+
+ ============November 5th 2015, 07:39:37 am============= 
+argmax PERPLEXITY: 4.33
+    "Where the some to the way the she see the seen see.
+
+ ============November 5th 2015, 07:42:08 am============= 
+argmax PERPLEXITY: 6.31
+    "You must the way the way the way the way the shelp.
+
+ ============November 5th 2015, 07:44:24 am============= 
+argmax PERPLEXITY: 50.53
+    "You see the house the houses the house the hers
+
+ ============November 5th 2015, 07:46:56 am============= 
+argmax PERPLEXITY: 5.98
+    "You say the some to the way the she say the she say.
+
+ ============November 5th 2015, 07:49:27 am============= 
+argmax PERPLEXITY: 3.59
+    The she say the she say the she say the she seen seen
+
+ ============November 5th 2015, 07:51:51 am============= 
+argmax PERPLEXITY: 4.60
+    The way the way the way the way the way the way the seen wall
+
+ ============November 5th 2015, 07:54:09 am============= 
+argmax PERPLEXITY: 3.13
+    "You see the worst the worst the world
+
+ ============November 5th 2015, 07:56:31 am============= 
+argmax PERPLEXITY: 3.74
+    "You must the way and the look to the looked.
+
+ ============November 5th 2015, 07:58:39 am============= 
+argmax PERPLEXITY: 5.14
+    "It see the say to the way to the say.
+
+ ============November 5th 2015, 08:00:57 am============= 
+argmax PERPLEXITY: 2.73
+    "I say the way the way the way the way the way.
+
+ ============November 5th 2015, 08:03:08 am============= 
+argmax PERPLEXITY: 5.44
+    "You must the way to the way to the way.
+
+ ============November 5th 2015, 08:05:30 am============= 
+argmax PERPLEXITY: 3.83
+    "I couldn't the way to the way to say to say.
+
+ ============November 5th 2015, 08:07:45 am============= 
+argmax PERPLEXITY: 3.89
+    "I can see to the way to the way to the see.
+
+ ============November 5th 2015, 08:10:14 am============= 
+argmax PERPLEXITY: 7.07
+    "I see the way the way the way the way the way.
+
+ ============November 5th 2015, 08:12:35 am============= 
+argmax PERPLEXITY: 5.78
+    "I can the houses to the houses to see the house the house the house the house the house the hous
+ ============November 5th 2015, 08:15:01 am============= 
+argmax PERPLEXITY: 4.35
+    "You must the say the say the say the say.
+
+ ============November 5th 2015, 08:17:24 am============= 
+argmax PERPLEXITY: 7.50
+    "You must the way the world to see the world
+
+ ============November 5th 2015, 08:19:45 am============= 
+argmax PERPLEXITY: 3.27
+    "You must the way the way the way the way the way.
+
+ ============November 5th 2015, 08:22:02 am============= 
+argmax PERPLEXITY: 5.16
+    "You must the worst the worst the worst the browed.
+
+ ============November 5th 2015, 08:24:19 am============= 
+argmax PERPLEXITY: 3.07
+    "You must see the worst the worst the way to see.
+
+ ============November 5th 2015, 08:26:40 am============= 
+argmax PERPLEXITY: 3.71
+    "You see the way the way the way the way the best
+
+ ============November 5th 2015, 08:29:02 am============= 
+argmax PERPLEXITY: 6.66
+    And the way the way the way the way the way the way to see.
+
+ ============November 5th 2015, 08:31:27 am============= 
+argmax PERPLEXITY: 3.05
+    "You must the way the way the way the way the way the best
+
+ ============November 5th 2015, 08:33:53 am============= 
+argmax PERPLEXITY: 3.98
+    The worth the worth the worth the wall.
+
+ ============November 5th 2015, 08:36:06 am============= 
+argmax PERPLEXITY: 13.75
+    "You says the way the way the way the way the way the wish the see.
+
+ ============November 5th 2015, 08:38:20 am============= 
+argmax PERPLEXITY: 4.08
+    "You want to see the way to see the way.
+
+ ============November 5th 2015, 08:40:50 am============= 
+argmax PERPLEXITY: 5.19
+    "You was the way the way the way the way the way the way the be to say I was the way.
+
+ ============November 5th 2015, 08:43:04 am============= 
+argmax PERPLEXITY: 4.94
+    "You was the way the way the way the way the way.
+
+ ============November 5th 2015, 08:45:26 am============= 
+argmax PERPLEXITY: 4.80
+    "You was the way the way the way the way the way to be to be to be to be to be to be to be to be 
+ ============November 5th 2015, 08:47:46 am============= 
+argmax PERPLEXITY: 5.80
+    "You was the way the way the way the way the way the way the bed.
+
+ ============November 5th 2015, 08:50:26 am============= 
+argmax PERPLEXITY: 4.47
+    "Yes, and the way the way the way the way the way the way the way.
+
+ ============November 5th 2015, 08:52:56 am============= 
+argmax PERPLEXITY: 4.45
+    "You see the way the way the way the way the way the will the will the will the will the will the
+ ============November 5th 2015, 08:55:16 am============= 
+argmax PERPLEXITY: Infinity
+    "What was the way the way the way the way the will the will the will the will the will the say.
+
+ ============November 5th 2015, 08:57:49 am============= 
+argmax PERPLEXITY: 5.15
+    "What was me the hay to the house the world
+
+ ============November 5th 2015, 09:00:14 am============= 
+argmax PERPLEXITY: 5.60
+    "What was me the hay to the house the world the will the shower
+
+ ============November 5th 2015, 09:02:51 am============= 
+argmax PERPLEXITY: 4.71
+    The world the hay the hay the hay the hay the hours
+
+ ============November 5th 2015, 09:05:17 am============= 
+argmax PERPLEXITY: 2.57
+    "What was the bear the hay the hours the bed.
+
+ ============November 5th 2015, 09:07:43 am============= 
+argmax PERPLEXITY: 4.02
+    "I say the way the way the way the way the way the see.
+
+ ============November 5th 2015, 09:09:58 am============= 
+argmax PERPLEXITY: 3.43
+    "I say the bear the bear the bear the strest
+
+ ============November 5th 2015, 09:12:15 am============= 
+argmax PERPLEXITY: 3.88
+    "I say the say the say the say the say the see.
+
+ ============November 5th 2015, 09:14:41 am============= 
+argmax PERPLEXITY: 4.38
+    "What we say to the say to the say to say.
+
+ ============November 5th 2015, 09:16:55 am============= 
+argmax PERPLEXITY: 6.14
+    "What we know the bed to say a bed to say.
+
+ ============November 5th 2015, 09:19:17 am============= 
+argmax PERPLEXITY: 4.87
+    "Well, and the say and say and say and say.
+
+ ============November 5th 2015, 09:21:49 am============= 
+argmax PERPLEXITY: 3.87
+    "I shower the say and the say and the said.
+
+ ============November 5th 2015, 09:24:14 am============= 
+argmax PERPLEXITY: 4.56
+    "What and the say and the say and the say and the say,
+
+ ============November 5th 2015, 09:26:33 am============= 
+argmax PERPLEXITY: 3.52
+    The say the say the say the say the say the say the say I say the say I say the say I say the say
+ ============November 5th 2015, 09:29:10 am============= 
+argmax PERPLEXITY: 4.71
+    The string the string the stark the stark the strings the shower
+
+ ============November 5th 2015, 09:31:40 am============= 
+argmax PERPLEXITY: 4.59
+    The say the say the say the say the say the say I was the say

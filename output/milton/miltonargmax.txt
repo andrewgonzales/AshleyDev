@@ -1,0 +1,2224 @@
+
+ ============November 3rd 2015, 01:38:40 am============= 
+argmax PERPLEXITY: 11.18
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:42:33 am============= 
+argmax PERPLEXITY: 11.94
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 01:46:54 am============= 
+argmax PERPLEXITY: 7.77
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:50:13 am============= 
+argmax PERPLEXITY: 7.06
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:54:22 am============= 
+argmax PERPLEXITY: 14.72
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:58:12 am============= 
+argmax PERPLEXITY: 14.91
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:02:24 am============= 
+argmax PERPLEXITY: 8.76
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:06:45 am============= 
+argmax PERPLEXITY: 10.72
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:10:51 am============= 
+argmax PERPLEXITY: 14.79
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:14:35 am============= 
+argmax PERPLEXITY: 11.68
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:18:20 am============= 
+argmax PERPLEXITY: 8.56
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:22:33 am============= 
+argmax PERPLEXITY: 9.72
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:27:13 am============= 
+argmax PERPLEXITY: 10.53
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:31:19 am============= 
+argmax PERPLEXITY: 9.81
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:35:19 am============= 
+argmax PERPLEXITY: 11.95
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:39:30 am============= 
+argmax PERPLEXITY: 12.03
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:43:28 am============= 
+argmax PERPLEXITY: 9.88
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:47:33 am============= 
+argmax PERPLEXITY: 9.83
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 02:51:33 am============= 
+argmax PERPLEXITY: 11.91
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:55:44 am============= 
+argmax PERPLEXITY: 8.39
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:59:54 am============= 
+argmax PERPLEXITY: 13.31
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:04:06 am============= 
+argmax PERPLEXITY: 11.98
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 03:07:51 am============= 
+argmax PERPLEXITY: 12.65
+  And there there there there there there there there there there there there there there there there
+ ============November 3rd 2015, 03:11:50 am============= 
+argmax PERPLEXITY: 10.85
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:16:08 am============= 
+argmax PERPLEXITY: 10.85
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:19:49 am============= 
+argmax PERPLEXITY: 17.29
+  Arhere there there there there there there there there there there there there there there there th
+ ============November 3rd 2015, 03:23:46 am============= 
+argmax PERPLEXITY: 9.96
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:27:50 am============= 
+argmax PERPLEXITY: 9.88
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:31:45 am============= 
+argmax PERPLEXITY: 9.50
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 03:35:42 am============= 
+argmax PERPLEXITY: 14.24
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 03:39:22 am============= 
+argmax PERPLEXITY: 11.15
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 03:43:04 am============= 
+argmax PERPLEXITY: 14.53
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:46:54 am============= 
+argmax PERPLEXITY: 12.02
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 03:51:15 am============= 
+argmax PERPLEXITY: 10.39
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:55:15 am============= 
+argmax PERPLEXITY: 10.95
+  An and and and and and and and and and and and and and and and and and and and and and and and and 
+ ============November 3rd 2015, 03:58:42 am============= 
+argmax PERPLEXITY: 12.76
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:02:21 am============= 
+argmax PERPLEXITY: 10.67
+  The and and and and and and and and and and and and and and and and and and and and and and and and
+ ============November 3rd 2015, 04:06:06 am============= 
+argmax PERPLEXITY: 9.65
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:09:54 am============= 
+argmax PERPLEXITY: 8.99
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:13:31 am============= 
+argmax PERPLEXITY: 12.19
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:17:36 am============= 
+argmax PERPLEXITY: 10.07
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:21:53 am============= 
+argmax PERPLEXITY: 9.71
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:25:54 am============= 
+argmax PERPLEXITY: 9.87
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:30:06 am============= 
+argmax PERPLEXITY: 9.46
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:34:01 am============= 
+argmax PERPLEXITY: 8.17
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:37:57 am============= 
+argmax PERPLEXITY: 12.86
+  Ther the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 3rd 2015, 04:41:37 am============= 
+argmax PERPLEXITY: 11.67
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:45:28 am============= 
+argmax PERPLEXITY: 11.04
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:49:43 am============= 
+argmax PERPLEXITY: 12.52
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:53:23 am============= 
+argmax PERPLEXITY: 10.40
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:57:19 am============= 
+argmax PERPLEXITY: 10.12
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:01:17 am============= 
+argmax PERPLEXITY: 11.36
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:05:34 am============= 
+argmax PERPLEXITY: 9.95
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:09:42 am============= 
+argmax PERPLEXITY: 7.12
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 05:13:34 am============= 
+argmax PERPLEXITY: 11.93
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:17:44 am============= 
+argmax PERPLEXITY: 11.47
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 05:21:03 am============= 
+argmax PERPLEXITY: 11.89
+  The on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on
+ ============November 3rd 2015, 05:25:04 am============= 
+argmax PERPLEXITY: 10.56
+  There the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 05:29:05 am============= 
+argmax PERPLEXITY: 10.50
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 05:33:06 am============= 
+argmax PERPLEXITY: 7.19
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 05:37:03 am============= 
+argmax PERPLEXITY: 8.48
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:40:48 am============= 
+argmax PERPLEXITY: 11.37
+  There the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 05:44:43 am============= 
+argmax PERPLEXITY: 14.11
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 05:48:33 am============= 
+argmax PERPLEXITY: 11.07
+  Tothe the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 05:52:08 am============= 
+argmax PERPLEXITY: 10.72
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 05:56:07 am============= 
+argmax PERPLEXITY: 12.29
+  An won the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 06:00:02 am============= 
+argmax PERPLEXITY: 10.95
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:03:26 am============= 
+argmax PERPLEXITY: 8.55
+  Ong the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:07:05 am============= 
+argmax PERPLEXITY: 14.63
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 06:11:11 am============= 
+argmax PERPLEXITY: 9.56
+  Whe the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:15:24 am============= 
+argmax PERPLEXITY: 8.51
+  Won the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:19:36 am============= 
+argmax PERPLEXITY: 13.37
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 06:23:17 am============= 
+argmax PERPLEXITY: 12.13
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 06:27:19 am============= 
+argmax PERPLEXITY: 11.34
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:31:06 am============= 
+argmax PERPLEXITY: 10.88
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:35:07 am============= 
+argmax PERPLEXITY: 10.40
+  The were were were were were were were were were were were were were were were were were were were 
+ ============November 3rd 2015, 06:38:53 am============= 
+argmax PERPLEXITY: Infinity
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:42:47 am============= 
+argmax PERPLEXITY: 10.54
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 06:46:43 am============= 
+argmax PERPLEXITY: 9.06
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:50:54 am============= 
+argmax PERPLEXITY: 11.95
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:55:01 am============= 
+argmax PERPLEXITY: 14.61
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:59:06 am============= 
+argmax PERPLEXITY: 7.71
+  Where the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 07:02:44 am============= 
+argmax PERPLEXITY: 12.05
+  Wothe the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 07:06:43 am============= 
+argmax PERPLEXITY: 10.91
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:10:31 am============= 
+argmax PERPLEXITY: 14.03
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:14:34 am============= 
+argmax PERPLEXITY: 12.46
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:18:05 am============= 
+argmax PERPLEXITY: 10.80
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:22:20 am============= 
+argmax PERPLEXITY: 9.99
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:26:15 am============= 
+argmax PERPLEXITY: 10.77
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:30:14 am============= 
+argmax PERPLEXITY: 9.77
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:34:29 am============= 
+argmax PERPLEXITY: 12.67
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:38:45 am============= 
+argmax PERPLEXITY: 11.71
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:42:58 am============= 
+argmax PERPLEXITY: 11.01
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:47:08 am============= 
+argmax PERPLEXITY: 9.77
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:51:18 am============= 
+argmax PERPLEXITY: 9.92
+  There the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 07:54:55 am============= 
+argmax PERPLEXITY: 8.30
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:58:41 am============= 
+argmax PERPLEXITY: 9.35
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:02:53 am============= 
+argmax PERPLEXITY: 12.84
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:06:51 am============= 
+argmax PERPLEXITY: 10.27
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 08:10:54 am============= 
+argmax PERPLEXITY: 11.56
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 08:15:07 am============= 
+argmax PERPLEXITY: 10.66
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 08:19:07 am============= 
+argmax PERPLEXITY: 12.46
+  Ton the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:22:55 am============= 
+argmax PERPLEXITY: 10.11
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:26:57 am============= 
+argmax PERPLEXITY: Infinity
+  Be the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 08:30:34 am============= 
+argmax PERPLEXITY: 7.54
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:34:45 am============= 
+argmax PERPLEXITY: Infinity
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:38:18 am============= 
+argmax PERPLEXITY: 11.65
+  Tot the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:42:06 am============= 
+argmax PERPLEXITY: 12.45
+  Bon the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:45:40 am============= 
+argmax PERPLEXITY: 11.21
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:49:30 am============= 
+argmax PERPLEXITY: 10.35
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:53:31 am============= 
+argmax PERPLEXITY: 11.45
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:57:28 am============= 
+argmax PERPLEXITY: 10.52
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 09:01:27 am============= 
+argmax PERPLEXITY: 15.16
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 09:05:31 am============= 
+argmax PERPLEXITY: 10.91
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 09:09:47 am============= 
+argmax PERPLEXITY: 8.19
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 09:13:09 am============= 
+argmax PERPLEXITY: 10.18
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:17:37 am============= 
+argmax PERPLEXITY: 10.40
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:21:21 am============= 
+argmax PERPLEXITY: 9.43
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:25:00 am============= 
+argmax PERPLEXITY: 11.48
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:29:14 am============= 
+argmax PERPLEXITY: 15.19
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:33:12 am============= 
+argmax PERPLEXITY: 10.76
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:37:50 am============= 
+argmax PERPLEXITY: 9.78
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:42:17 am============= 
+argmax PERPLEXITY: 10.28
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:46:41 am============= 
+argmax PERPLEXITY: 11.25
+  Ton the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:51:35 am============= 
+argmax PERPLEXITY: 10.80
+  And there there there there there there there there there there there there there there there there
+ ============November 3rd 2015, 09:55:35 am============= 
+argmax PERPLEXITY: 8.99
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 10:00:23 am============= 
+argmax PERPLEXITY: 14.72
+  In the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 10:04:56 am============= 
+argmax PERPLEXITY: Infinity
+  Of the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 10:09:19 am============= 
+argmax PERPLEXITY: 12.04
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:13:37 am============= 
+argmax PERPLEXITY: 9.28
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:18:11 am============= 
+argmax PERPLEXITY: 10.34
+  Tot the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:22:49 am============= 
+argmax PERPLEXITY: 10.13
+  Tot there there there there there there there there there there there there there there there there
+ ============November 3rd 2015, 10:27:01 am============= 
+argmax PERPLEXITY: 11.17
+  Tot the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:31:42 am============= 
+argmax PERPLEXITY: 9.07
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:35:58 am============= 
+argmax PERPLEXITY: 13.73
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:40:05 am============= 
+argmax PERPLEXITY: 12.76
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:44:06 am============= 
+argmax PERPLEXITY: Infinity
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:48:37 am============= 
+argmax PERPLEXITY: 11.10
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:53:18 am============= 
+argmax PERPLEXITY: 13.62
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:57:38 am============= 
+argmax PERPLEXITY: 16.56
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:02:24 am============= 
+argmax PERPLEXITY: 11.44
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:07:04 am============= 
+argmax PERPLEXITY: Infinity
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:11:28 am============= 
+argmax PERPLEXITY: 13.66
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:15:57 am============= 
+argmax PERPLEXITY: 10.58
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:20:42 am============= 
+argmax PERPLEXITY: 14.40
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:25:12 am============= 
+argmax PERPLEXITY: 10.55
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:29:30 am============= 
+argmax PERPLEXITY: 10.65
+  Of the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 11:33:57 am============= 
+argmax PERPLEXITY: 10.64
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:38:35 am============= 
+argmax PERPLEXITY: 7.95
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:42:58 am============= 
+argmax PERPLEXITY: 13.67
+  Of the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 11:47:39 am============= 
+argmax PERPLEXITY: 20.26
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:52:08 am============= 
+argmax PERPLEXITY: 12.93
+  Of the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 11:56:34 am============= 
+argmax PERPLEXITY: 11.20
+  Of the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 12:01:23 pm============= 
+argmax PERPLEXITY: 11.58
+  There there there there there there there there there there there there there there there there the
+ ============November 3rd 2015, 12:05:56 pm============= 
+argmax PERPLEXITY: 8.69
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 12:10:30 pm============= 
+argmax PERPLEXITY: 12.40
+  O hon the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 12:15:16 pm============= 
+argmax PERPLEXITY: 12.08
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 12:19:55 pm============= 
+argmax PERPLEXITY: 12.25
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 12:24:36 pm============= 
+argmax PERPLEXITY: 10.75
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 12:29:01 pm============= 
+argmax PERPLEXITY: 12.70
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 12:33:41 pm============= 
+argmax PERPLEXITY: 10.61
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 12:38:39 pm============= 
+argmax PERPLEXITY: 9.68
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 12:43:45 pm============= 
+argmax PERPLEXITY: 8.48
+  Ton the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 12:48:41 pm============= 
+argmax PERPLEXITY: 12.09
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 12:52:51 pm============= 
+argmax PERPLEXITY: 9.85
+    and the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 12:57:29 pm============= 
+argmax PERPLEXITY: 11.76
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:01:57 pm============= 
+argmax PERPLEXITY: 13.99
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:06:33 pm============= 
+argmax PERPLEXITY: 7.65
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:10:53 pm============= 
+argmax PERPLEXITY: 9.26
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:15:17 pm============= 
+argmax PERPLEXITY: 10.75
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:20:02 pm============= 
+argmax PERPLEXITY: 10.52
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:24:40 pm============= 
+argmax PERPLEXITY: 11.95
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:29:02 pm============= 
+argmax PERPLEXITY: 12.29
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:33:12 pm============= 
+argmax PERPLEXITY: 9.76
+  Whor the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 3rd 2015, 01:37:53 pm============= 
+argmax PERPLEXITY: 11.14
+  Whe the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:42:27 pm============= 
+argmax PERPLEXITY: 12.53
+  Of the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 01:47:16 pm============= 
+argmax PERPLEXITY: 9.89
+  Where the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 01:51:57 pm============= 
+argmax PERPLEXITY: 11.12
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 01:56:29 pm============= 
+argmax PERPLEXITY: 13.38
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:01:13 pm============= 
+argmax PERPLEXITY: 17.79
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:05:43 pm============= 
+argmax PERPLEXITY: 12.38
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:10:21 pm============= 
+argmax PERPLEXITY: 12.16
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:14:42 pm============= 
+argmax PERPLEXITY: 12.01
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:19:39 pm============= 
+argmax PERPLEXITY: 11.94
+  O ho the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 3rd 2015, 02:24:35 pm============= 
+argmax PERPLEXITY: 10.27
+  In the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 02:29:16 pm============= 
+argmax PERPLEXITY: 8.13
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:34:00 pm============= 
+argmax PERPLEXITY: 10.88
+  There wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo wo 
+ ============November 3rd 2015, 02:38:54 pm============= 
+argmax PERPLEXITY: 9.56
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:43:33 pm============= 
+argmax PERPLEXITY: 12.94
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:48:21 pm============= 
+argmax PERPLEXITY: 8.66
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:52:41 pm============= 
+argmax PERPLEXITY: 10.99
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 02:57:17 pm============= 
+argmax PERPLEXITY: 12.18
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:01:39 pm============= 
+argmax PERPLEXITY: 12.22
+  Whe the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:06:10 pm============= 
+argmax PERPLEXITY: 12.45
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:10:28 pm============= 
+argmax PERPLEXITY: 10.51
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:15:21 pm============= 
+argmax PERPLEXITY: 14.88
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:19:47 pm============= 
+argmax PERPLEXITY: 9.37
+  Whor the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 3rd 2015, 03:24:06 pm============= 
+argmax PERPLEXITY: 8.80
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:28:40 pm============= 
+argmax PERPLEXITY: 11.95
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:33:03 pm============= 
+argmax PERPLEXITY: 11.73
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:37:33 pm============= 
+argmax PERPLEXITY: 8.99
+  Ton the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:41:51 pm============= 
+argmax PERPLEXITY: 8.83
+  And there there there there there there there there there there there there there there there there
+ ============November 3rd 2015, 03:46:25 pm============= 
+argmax PERPLEXITY: 9.15
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:51:01 pm============= 
+argmax PERPLEXITY: 10.63
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:55:18 pm============= 
+argmax PERPLEXITY: 11.26
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 03:59:54 pm============= 
+argmax PERPLEXITY: 8.21
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:04:51 pm============= 
+argmax PERPLEXITY: 12.56
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:08:31 pm============= 
+argmax PERPLEXITY: 10.47
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:13:24 pm============= 
+argmax PERPLEXITY: 11.92
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:17:57 pm============= 
+argmax PERPLEXITY: 10.92
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:22:43 pm============= 
+argmax PERPLEXITY: 12.72
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:27:13 pm============= 
+argmax PERPLEXITY: 12.82
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:31:30 pm============= 
+argmax PERPLEXITY: 15.55
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:36:28 pm============= 
+argmax PERPLEXITY: 11.55
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:41:10 pm============= 
+argmax PERPLEXITY: 13.73
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:45:45 pm============= 
+argmax PERPLEXITY: 15.37
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:50:22 pm============= 
+argmax PERPLEXITY: 9.14
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 04:55:22 pm============= 
+argmax PERPLEXITY: 9.13
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:00:13 pm============= 
+argmax PERPLEXITY: 10.05
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:05:00 pm============= 
+argmax PERPLEXITY: 9.13
+  Ther the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 3rd 2015, 05:09:19 pm============= 
+argmax PERPLEXITY: 14.28
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:13:54 pm============= 
+argmax PERPLEXITY: 12.79
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:18:18 pm============= 
+argmax PERPLEXITY: 10.51
+  There the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 05:22:55 pm============= 
+argmax PERPLEXITY: 11.25
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:27:18 pm============= 
+argmax PERPLEXITY: 9.15
+  The her her her her her her her her her her her her her her her her her her her her her her her her
+ ============November 3rd 2015, 05:31:41 pm============= 
+argmax PERPLEXITY: 7.57
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:36:39 pm============= 
+argmax PERPLEXITY: 8.24
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:41:28 pm============= 
+argmax PERPLEXITY: 13.99
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:46:28 pm============= 
+argmax PERPLEXITY: 7.96
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:51:30 pm============= 
+argmax PERPLEXITY: 10.63
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:56:00 pm============= 
+argmax PERPLEXITY: 10.08
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 05:59:59 pm============= 
+argmax PERPLEXITY: 13.91
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:04:28 pm============= 
+argmax PERPLEXITY: 14.00
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:09:06 pm============= 
+argmax PERPLEXITY: 11.72
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:13:49 pm============= 
+argmax PERPLEXITY: 13.56
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:18:04 pm============= 
+argmax PERPLEXITY: 14.07
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:22:35 pm============= 
+argmax PERPLEXITY: 13.91
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:27:09 pm============= 
+argmax PERPLEXITY: 23.25
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:31:55 pm============= 
+argmax PERPLEXITY: 9.43
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:36:31 pm============= 
+argmax PERPLEXITY: 13.67
+  There the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 06:41:17 pm============= 
+argmax PERPLEXITY: 8.19
+  Thor the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 3rd 2015, 06:45:49 pm============= 
+argmax PERPLEXITY: 15.46
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:50:47 pm============= 
+argmax PERPLEXITY: 8.50
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:55:23 pm============= 
+argmax PERPLEXITY: 12.06
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 06:59:58 pm============= 
+argmax PERPLEXITY: 10.47
+  Whe the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:04:37 pm============= 
+argmax PERPLEXITY: 9.58
+  Won the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:09:27 pm============= 
+argmax PERPLEXITY: 9.18
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:14:11 pm============= 
+argmax PERPLEXITY: 11.69
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 07:19:13 pm============= 
+argmax PERPLEXITY: 9.89
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:23:41 pm============= 
+argmax PERPLEXITY: 9.42
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:28:03 pm============= 
+argmax PERPLEXITY: 10.48
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:32:14 pm============= 
+argmax PERPLEXITY: 15.00
+  Bet the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:37:07 pm============= 
+argmax PERPLEXITY: 8.18
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:41:51 pm============= 
+argmax PERPLEXITY: 9.67
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:46:04 pm============= 
+argmax PERPLEXITY: 11.13
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 07:50:47 pm============= 
+argmax PERPLEXITY: 9.65
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 07:55:38 pm============= 
+argmax PERPLEXITY: 11.94
+  Whe the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:00:28 pm============= 
+argmax PERPLEXITY: 25.70
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:05:27 pm============= 
+argmax PERPLEXITY: 11.60
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:10:40 pm============= 
+argmax PERPLEXITY: 9.52
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:15:38 pm============= 
+argmax PERPLEXITY: 11.20
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:20:15 pm============= 
+argmax PERPLEXITY: 13.44
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:24:45 pm============= 
+argmax PERPLEXITY: 11.80
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:29:19 pm============= 
+argmax PERPLEXITY: 10.48
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:33:50 pm============= 
+argmax PERPLEXITY: 10.86
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:37:56 pm============= 
+argmax PERPLEXITY: 12.56
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:42:37 pm============= 
+argmax PERPLEXITY: 14.19
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:47:03 pm============= 
+argmax PERPLEXITY: 14.52
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:51:56 pm============= 
+argmax PERPLEXITY: 9.39
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 08:57:01 pm============= 
+argmax PERPLEXITY: Infinity
+  Ber the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:01:39 pm============= 
+argmax PERPLEXITY: 10.21
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:06:26 pm============= 
+argmax PERPLEXITY: 13.45
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:11:20 pm============= 
+argmax PERPLEXITY: 11.39
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:16:08 pm============= 
+argmax PERPLEXITY: 11.61
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:20:46 pm============= 
+argmax PERPLEXITY: 14.89
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:24:58 pm============= 
+argmax PERPLEXITY: 10.71
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:29:12 pm============= 
+argmax PERPLEXITY: 11.36
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:33:43 pm============= 
+argmax PERPLEXITY: Infinity
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:37:55 pm============= 
+argmax PERPLEXITY: 10.93
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:42:41 pm============= 
+argmax PERPLEXITY: 10.84
+  Arhe the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 3rd 2015, 09:47:37 pm============= 
+argmax PERPLEXITY: 9.08
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:52:12 pm============= 
+argmax PERPLEXITY: 12.44
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 09:56:03 pm============= 
+argmax PERPLEXITY: 7.91
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:00:33 pm============= 
+argmax PERPLEXITY: 18.29
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:05:15 pm============= 
+argmax PERPLEXITY: 16.49
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:10:02 pm============= 
+argmax PERPLEXITY: 11.75
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:14:17 pm============= 
+argmax PERPLEXITY: 15.66
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:19:10 pm============= 
+argmax PERPLEXITY: 11.05
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:23:52 pm============= 
+argmax PERPLEXITY: 7.75
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:28:37 pm============= 
+argmax PERPLEXITY: 9.72
+  Ong the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:33:21 pm============= 
+argmax PERPLEXITY: 14.72
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:38:01 pm============= 
+argmax PERPLEXITY: 11.87
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:42:18 pm============= 
+argmax PERPLEXITY: 11.25
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:47:12 pm============= 
+argmax PERPLEXITY: 8.96
+  Ond and and and and and and and and and and and and and and and and and and and and and and and and
+ ============November 3rd 2015, 10:52:12 pm============= 
+argmax PERPLEXITY: 9.05
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 10:56:50 pm============= 
+argmax PERPLEXITY: 8.86
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:00:51 pm============= 
+argmax PERPLEXITY: 9.14
+  I hon the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 3rd 2015, 11:05:36 pm============= 
+argmax PERPLEXITY: 8.23
+  A ho the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 3rd 2015, 11:09:39 pm============= 
+argmax PERPLEXITY: 11.99
+  Ton the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:14:13 pm============= 
+argmax PERPLEXITY: 10.61
+  Ton the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:18:34 pm============= 
+argmax PERPLEXITY: 8.76
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 3rd 2015, 11:23:17 pm============= 
+argmax PERPLEXITY: 12.68
+  Bor the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:28:06 pm============= 
+argmax PERPLEXITY: 9.01
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:32:56 pm============= 
+argmax PERPLEXITY: 16.99
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:37:54 pm============= 
+argmax PERPLEXITY: 9.63
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:42:10 pm============= 
+argmax PERPLEXITY: Infinity
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:46:54 pm============= 
+argmax PERPLEXITY: 14.69
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:51:29 pm============= 
+argmax PERPLEXITY: 23.23
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 3rd 2015, 11:55:29 pm============= 
+argmax PERPLEXITY: 10.11
+  There the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 12:00:09 am============= 
+argmax PERPLEXITY: 9.75
+  I her the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 12:04:24 am============= 
+argmax PERPLEXITY: 15.38
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:09:06 am============= 
+argmax PERPLEXITY: 56.66
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:13:35 am============= 
+argmax PERPLEXITY: 11.93
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:18:05 am============= 
+argmax PERPLEXITY: 9.43
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:22:17 am============= 
+argmax PERPLEXITY: Infinity
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 12:26:36 am============= 
+argmax PERPLEXITY: 12.70
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:30:51 am============= 
+argmax PERPLEXITY: 13.65
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:35:20 am============= 
+argmax PERPLEXITY: 12.10
+  And there there there there there there there there there there there there there there there there
+ ============November 4th 2015, 12:39:21 am============= 
+argmax PERPLEXITY: 12.82
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 12:43:34 am============= 
+argmax PERPLEXITY: 9.10
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:47:52 am============= 
+argmax PERPLEXITY: 9.63
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:52:17 am============= 
+argmax PERPLEXITY: 9.36
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:56:40 am============= 
+argmax PERPLEXITY: 13.75
+  And and and and and and and and and and and and and and and and and and and and and and and and and
+ ============November 4th 2015, 01:01:07 am============= 
+argmax PERPLEXITY: 6.81
+  Are the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:05:40 am============= 
+argmax PERPLEXITY: 13.85
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:10:10 am============= 
+argmax PERPLEXITY: 12.82
+  Theed the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 01:14:57 am============= 
+argmax PERPLEXITY: 13.00
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:19:38 am============= 
+argmax PERPLEXITY: 11.09
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:24:01 am============= 
+argmax PERPLEXITY: 10.97
+  O ho the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 01:28:53 am============= 
+argmax PERPLEXITY: 11.06
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:33:39 am============= 
+argmax PERPLEXITY: 12.30
+  There the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 01:38:25 am============= 
+argmax PERPLEXITY: 13.66
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 01:43:03 am============= 
+argmax PERPLEXITY: 15.75
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:47:38 am============= 
+argmax PERPLEXITY: 12.10
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:52:23 am============= 
+argmax PERPLEXITY: 10.51
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:57:10 am============= 
+argmax PERPLEXITY: 9.02
+  Ther the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 02:01:41 am============= 
+argmax PERPLEXITY: 11.90
+  Thet the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 02:06:27 am============= 
+argmax PERPLEXITY: 7.29
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:10:47 am============= 
+argmax PERPLEXITY: 9.30
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:15:24 am============= 
+argmax PERPLEXITY: 10.50
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:20:14 am============= 
+argmax PERPLEXITY: 15.37
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:25:04 am============= 
+argmax PERPLEXITY: 12.77
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:29:33 am============= 
+argmax PERPLEXITY: 9.29
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:34:15 am============= 
+argmax PERPLEXITY: 9.00
+  Thete the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 02:38:38 am============= 
+argmax PERPLEXITY: 10.69
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:42:57 am============= 
+argmax PERPLEXITY: 10.00
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:47:27 am============= 
+argmax PERPLEXITY: 9.99
+  Tot the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:51:42 am============= 
+argmax PERPLEXITY: 8.32
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:56:27 am============= 
+argmax PERPLEXITY: 9.45
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:01:29 am============= 
+argmax PERPLEXITY: 12.69
+  There the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 03:06:08 am============= 
+argmax PERPLEXITY: 17.35
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:10:43 am============= 
+argmax PERPLEXITY: 11.48
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:15:26 am============= 
+argmax PERPLEXITY: 8.14
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:19:45 am============= 
+argmax PERPLEXITY: 11.43
+  And and the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:24:31 am============= 
+argmax PERPLEXITY: 9.09
+  And and the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:29:06 am============= 
+argmax PERPLEXITY: 11.53
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:33:51 am============= 
+argmax PERPLEXITY: 9.65
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:38:26 am============= 
+argmax PERPLEXITY: Infinity
+  Tot the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:42:42 am============= 
+argmax PERPLEXITY: 12.74
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:47:32 am============= 
+argmax PERPLEXITY: 12.45
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:52:27 am============= 
+argmax PERPLEXITY: 9.05
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:56:51 am============= 
+argmax PERPLEXITY: Infinity
+  Tho the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:01:04 am============= 
+argmax PERPLEXITY: 11.70
+  The the so the so the so the so the so the so the so the so the so the so the so the so the so the 
+ ============November 4th 2015, 04:05:24 am============= 
+argmax PERPLEXITY: 14.97
+  Ther the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 04:09:43 am============= 
+argmax PERPLEXITY: 10.00
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:14:15 am============= 
+argmax PERPLEXITY: 9.52
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:18:38 am============= 
+argmax PERPLEXITY: 12.08
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:23:16 am============= 
+argmax PERPLEXITY: 7.21
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:27:38 am============= 
+argmax PERPLEXITY: 14.82
+  There there there there there there there there there there there there there there there there the
+ ============November 4th 2015, 04:31:53 am============= 
+argmax PERPLEXITY: 12.65
+  There ther ther ther ther ther ther ther ther ther ther ther ther ther ther ther ther ther ther the
+ ============November 4th 2015, 04:37:02 am============= 
+argmax PERPLEXITY: 21.92
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:41:34 am============= 
+argmax PERPLEXITY: 10.48
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:46:14 am============= 
+argmax PERPLEXITY: 9.70
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:51:01 am============= 
+argmax PERPLEXITY: 9.10
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:56:06 am============= 
+argmax PERPLEXITY: 11.86
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:00:34 am============= 
+argmax PERPLEXITY: 11.96
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:04:47 am============= 
+argmax PERPLEXITY: 9.84
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:09:34 am============= 
+argmax PERPLEXITY: 9.61
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:14:10 am============= 
+argmax PERPLEXITY: 14.05
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:18:26 am============= 
+argmax PERPLEXITY: 9.92
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:23:10 am============= 
+argmax PERPLEXITY: 11.77
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:27:51 am============= 
+argmax PERPLEXITY: 11.34
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:32:17 am============= 
+argmax PERPLEXITY: 13.17
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:36:38 am============= 
+argmax PERPLEXITY: 12.11
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:41:27 am============= 
+argmax PERPLEXITY: 14.73
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:46:03 am============= 
+argmax PERPLEXITY: 9.57
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:50:07 am============= 
+argmax PERPLEXITY: Infinity
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:54:30 am============= 
+argmax PERPLEXITY: 15.83
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:59:03 am============= 
+argmax PERPLEXITY: 12.55
+  There there there there there there there there there there there there there there there there the
+ ============November 4th 2015, 06:03:17 am============= 
+argmax PERPLEXITY: 9.05
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:07:57 am============= 
+argmax PERPLEXITY: 12.21
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:12:33 am============= 
+argmax PERPLEXITY: 11.91
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:17:03 am============= 
+argmax PERPLEXITY: 12.66
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:21:30 am============= 
+argmax PERPLEXITY: 12.56
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:25:58 am============= 
+argmax PERPLEXITY: 11.16
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:30:50 am============= 
+argmax PERPLEXITY: 9.12
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:35:34 am============= 
+argmax PERPLEXITY: 9.21
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:40:02 am============= 
+argmax PERPLEXITY: 12.67
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:44:34 am============= 
+argmax PERPLEXITY: 11.69
+  And and and the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:48:57 am============= 
+argmax PERPLEXITY: 9.83
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:53:21 am============= 
+argmax PERPLEXITY: 12.23
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:58:05 am============= 
+argmax PERPLEXITY: 11.08
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:02:45 am============= 
+argmax PERPLEXITY: 9.81
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:07:04 am============= 
+argmax PERPLEXITY: 13.68
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:11:53 am============= 
+argmax PERPLEXITY: 12.78
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:16:37 am============= 
+argmax PERPLEXITY: 14.44
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:21:25 am============= 
+argmax PERPLEXITY: 8.26
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:25:45 am============= 
+argmax PERPLEXITY: 12.58
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:30:02 am============= 
+argmax PERPLEXITY: 9.42
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:34:29 am============= 
+argmax PERPLEXITY: 15.63
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:38:59 am============= 
+argmax PERPLEXITY: 13.86
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:43:20 am============= 
+argmax PERPLEXITY: 10.75
+  Ther the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 07:47:33 am============= 
+argmax PERPLEXITY: 10.92
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:52:08 am============= 
+argmax PERPLEXITY: 9.16
+  There the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 07:56:42 am============= 
+argmax PERPLEXITY: 12.98
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:01:00 am============= 
+argmax PERPLEXITY: 9.68
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:05:34 am============= 
+argmax PERPLEXITY: 15.53
+  And and and and and and and and and and and and and and and and and and and and and and and and and
+ ============November 4th 2015, 08:09:53 am============= 
+argmax PERPLEXITY: 13.79
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:14:05 am============= 
+argmax PERPLEXITY: 11.10
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:18:49 am============= 
+argmax PERPLEXITY: 12.27
+  Whe the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:23:28 am============= 
+argmax PERPLEXITY: 10.78
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:27:58 am============= 
+argmax PERPLEXITY: 10.62
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:32:24 am============= 
+argmax PERPLEXITY: 12.18
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:36:56 am============= 
+argmax PERPLEXITY: 15.25
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:41:31 am============= 
+argmax PERPLEXITY: 13.61
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:46:03 am============= 
+argmax PERPLEXITY: 8.73
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:50:40 am============= 
+argmax PERPLEXITY: 15.09
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:54:57 am============= 
+argmax PERPLEXITY: 11.40
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:59:35 am============= 
+argmax PERPLEXITY: 16.43
+  Where the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 09:04:23 am============= 
+argmax PERPLEXITY: 9.83
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:08:55 am============= 
+argmax PERPLEXITY: 11.22
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:13:28 am============= 
+argmax PERPLEXITY: 9.32
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:18:07 am============= 
+argmax PERPLEXITY: 9.22
+  What the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 09:23:07 am============= 
+argmax PERPLEXITY: 9.81
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:27:52 am============= 
+argmax PERPLEXITY: 11.59
+  Wher the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 09:32:16 am============= 
+argmax PERPLEXITY: 8.54
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:36:56 am============= 
+argmax PERPLEXITY: 14.37
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:41:42 am============= 
+argmax PERPLEXITY: 9.03
+  Ther the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 09:46:16 am============= 
+argmax PERPLEXITY: 9.16
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:50:53 am============= 
+argmax PERPLEXITY: 12.37
+  The wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor
+ ============November 4th 2015, 09:55:36 am============= 
+argmax PERPLEXITY: 14.53
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:00:07 am============= 
+argmax PERPLEXITY: 9.61
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:04:45 am============= 
+argmax PERPLEXITY: 11.95
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:09:24 am============= 
+argmax PERPLEXITY: 8.49
+  I he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he h
+ ============November 4th 2015, 10:13:54 am============= 
+argmax PERPLEXITY: 7.06
+  Ind the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:18:34 am============= 
+argmax PERPLEXITY: 10.07
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:23:23 am============= 
+argmax PERPLEXITY: 9.39
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:28:03 am============= 
+argmax PERPLEXITY: 16.08
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:32:52 am============= 
+argmax PERPLEXITY: 13.33
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:37:09 am============= 
+argmax PERPLEXITY: 8.71
+  In the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 10:41:39 am============= 
+argmax PERPLEXITY: 8.79
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:46:21 am============= 
+argmax PERPLEXITY: 11.23
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:51:20 am============= 
+argmax PERPLEXITY: 10.89
+  Ser the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:56:14 am============= 
+argmax PERPLEXITY: 9.41
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:00:40 am============= 
+argmax PERPLEXITY: Infinity
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:05:02 am============= 
+argmax PERPLEXITY: 11.31
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:09:26 am============= 
+argmax PERPLEXITY: 14.85
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:14:16 am============= 
+argmax PERPLEXITY: 10.43
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:18:43 am============= 
+argmax PERPLEXITY: 17.49
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:23:41 am============= 
+argmax PERPLEXITY: 7.32
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:27:59 am============= 
+argmax PERPLEXITY: 11.69
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:32:42 am============= 
+argmax PERPLEXITY: 9.59
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:36:58 am============= 
+argmax PERPLEXITY: 9.67
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:41:42 am============= 
+argmax PERPLEXITY: 15.93
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:46:12 am============= 
+argmax PERPLEXITY: 10.66
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:50:35 am============= 
+argmax PERPLEXITY: 10.87
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:55:15 am============= 
+argmax PERPLEXITY: 10.36
+  Set the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:59:50 am============= 
+argmax PERPLEXITY: 9.25
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:04:26 pm============= 
+argmax PERPLEXITY: 9.51
+  Ond the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:08:55 pm============= 
+argmax PERPLEXITY: 12.91
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 12:13:35 pm============= 
+argmax PERPLEXITY: 7.95
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:18:08 pm============= 
+argmax PERPLEXITY: 14.91
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:22:49 pm============= 
+argmax PERPLEXITY: 12.93
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:27:03 pm============= 
+argmax PERPLEXITY: 9.46
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:31:50 pm============= 
+argmax PERPLEXITY: 9.85
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:36:12 pm============= 
+argmax PERPLEXITY: 14.34
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:40:58 pm============= 
+argmax PERPLEXITY: 15.11
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:45:52 pm============= 
+argmax PERPLEXITY: 9.69
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:50:53 pm============= 
+argmax PERPLEXITY: 12.28
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 12:55:26 pm============= 
+argmax PERPLEXITY: 9.85
+  O here the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 12:59:24 pm============= 
+argmax PERPLEXITY: 14.99
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 01:03:37 pm============= 
+argmax PERPLEXITY: 10.32
+  Where the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 01:07:57 pm============= 
+argmax PERPLEXITY: 12.50
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 01:12:30 pm============= 
+argmax PERPLEXITY: 11.11
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:17:10 pm============= 
+argmax PERPLEXITY: 24.65
+  WOLL ghged ghged ghged ghged ghged ghged ghged ghged ghged ghged ghged ghged ghged ghged ghged ghge
+ ============November 4th 2015, 01:22:04 pm============= 
+argmax PERPLEXITY: 10.21
+   The the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 01:26:06 pm============= 
+argmax PERPLEXITY: 9.75
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:30:10 pm============= 
+argmax PERPLEXITY: 10.89
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:34:32 pm============= 
+argmax PERPLEXITY: 12.95
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:39:08 pm============= 
+argmax PERPLEXITY: 7.74
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:43:28 pm============= 
+argmax PERPLEXITY: 12.55
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:47:59 pm============= 
+argmax PERPLEXITY: 11.10
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:52:34 pm============= 
+argmax PERPLEXITY: 14.96
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 01:57:18 pm============= 
+argmax PERPLEXITY: 14.07
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:02:04 pm============= 
+argmax PERPLEXITY: 12.31
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:07:04 pm============= 
+argmax PERPLEXITY: 9.94
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:12:26 pm============= 
+argmax PERPLEXITY: 10.77
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:17:19 pm============= 
+argmax PERPLEXITY: 38.04
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:21:46 pm============= 
+argmax PERPLEXITY: 10.97
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:26:35 pm============= 
+argmax PERPLEXITY: 8.22
+  Of the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 02:31:12 pm============= 
+argmax PERPLEXITY: 10.87
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:36:05 pm============= 
+argmax PERPLEXITY: 10.42
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:40:53 pm============= 
+argmax PERPLEXITY: 9.12
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:45:34 pm============= 
+argmax PERPLEXITY: 9.48
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:50:29 pm============= 
+argmax PERPLEXITY: 11.89
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 02:55:22 pm============= 
+argmax PERPLEXITY: 10.87
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:00:08 pm============= 
+argmax PERPLEXITY: 8.54
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:04:36 pm============= 
+argmax PERPLEXITY: 11.44
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:09:27 pm============= 
+argmax PERPLEXITY: 10.36
+  An the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 03:14:08 pm============= 
+argmax PERPLEXITY: 11.13
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 03:18:59 pm============= 
+argmax PERPLEXITY: 10.31
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 03:24:01 pm============= 
+argmax PERPLEXITY: 10.80
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:28:47 pm============= 
+argmax PERPLEXITY: 9.97
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:33:34 pm============= 
+argmax PERPLEXITY: 11.49
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:38:26 pm============= 
+argmax PERPLEXITY: 10.17
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:42:49 pm============= 
+argmax PERPLEXITY: 10.27
+  There there there there there there there there there there there there there there there there the
+ ============November 4th 2015, 03:47:31 pm============= 
+argmax PERPLEXITY: 12.83
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:52:14 pm============= 
+argmax PERPLEXITY: 10.27
+  Tor the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 03:56:56 pm============= 
+argmax PERPLEXITY: 11.74
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:01:44 pm============= 
+argmax PERPLEXITY: 8.21
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:06:21 pm============= 
+argmax PERPLEXITY: 8.91
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:11:23 pm============= 
+argmax PERPLEXITY: 11.63
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:16:26 pm============= 
+argmax PERPLEXITY: 12.61
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:21:30 pm============= 
+argmax PERPLEXITY: 9.28
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:26:12 pm============= 
+argmax PERPLEXITY: 13.71
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:31:12 pm============= 
+argmax PERPLEXITY: 8.50
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:36:21 pm============= 
+argmax PERPLEXITY: 11.55
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:41:01 pm============= 
+argmax PERPLEXITY: Infinity
+  I her the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 04:45:57 pm============= 
+argmax PERPLEXITY: 11.95
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:50:40 pm============= 
+argmax PERPLEXITY: 13.50
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 04:55:17 pm============= 
+argmax PERPLEXITY: 10.34
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:00:02 pm============= 
+argmax PERPLEXITY: 11.18
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:04:44 pm============= 
+argmax PERPLEXITY: 10607.30
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:09:16 pm============= 
+argmax PERPLEXITY: 13.87
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:14:07 pm============= 
+argmax PERPLEXITY: 15.74
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 05:18:55 pm============= 
+argmax PERPLEXITY: 12.33
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:23:38 pm============= 
+argmax PERPLEXITY: 12.12
+  I het the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 05:28:24 pm============= 
+argmax PERPLEXITY: 8.87
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:33:18 pm============= 
+argmax PERPLEXITY: 10.68
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:38:00 pm============= 
+argmax PERPLEXITY: 11.58
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 05:42:29 pm============= 
+argmax PERPLEXITY: 11.64
+  And and and and and and and and and and and and and and and and and and and and and and and and and
+ ============November 4th 2015, 05:47:02 pm============= 
+argmax PERPLEXITY: 9.94
+  And and and and and and and and and and and and and and and and and and and and and and and and and
+ ============November 4th 2015, 05:51:50 pm============= 
+argmax PERPLEXITY: 12.32
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 05:56:49 pm============= 
+argmax PERPLEXITY: 10.31
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:01:25 pm============= 
+argmax PERPLEXITY: 12.21
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:06:10 pm============= 
+argmax PERPLEXITY: 12.63
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:10:46 pm============= 
+argmax PERPLEXITY: 10.00
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:15:22 pm============= 
+argmax PERPLEXITY: 12.05
+  Won the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:19:45 pm============= 
+argmax PERPLEXITY: 13.93
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:24:37 pm============= 
+argmax PERPLEXITY: 9.86
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:29:36 pm============= 
+argmax PERPLEXITY: 9.39
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:34:21 pm============= 
+argmax PERPLEXITY: 9.40
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:39:05 pm============= 
+argmax PERPLEXITY: 14.99
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:43:47 pm============= 
+argmax PERPLEXITY: 10.44
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:48:39 pm============= 
+argmax PERPLEXITY: 15.42
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:53:11 pm============= 
+argmax PERPLEXITY: 9.91
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 06:58:06 pm============= 
+argmax PERPLEXITY: 14.02
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:02:31 pm============= 
+argmax PERPLEXITY: 13.03
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:06:43 pm============= 
+argmax PERPLEXITY: 11.68
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:11:21 pm============= 
+argmax PERPLEXITY: 13.64
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:15:52 pm============= 
+argmax PERPLEXITY: 8.28
+  Ber the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:20:26 pm============= 
+argmax PERPLEXITY: 10.78
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:25:27 pm============= 
+argmax PERPLEXITY: 8.50
+  Whoug the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 07:30:14 pm============= 
+argmax PERPLEXITY: 10.39
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:34:56 pm============= 
+argmax PERPLEXITY: 10.66
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:39:28 pm============= 
+argmax PERPLEXITY: 11.42
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:44:11 pm============= 
+argmax PERPLEXITY: 19.57
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:48:44 pm============= 
+argmax PERPLEXITY: 9.84
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:53:30 pm============= 
+argmax PERPLEXITY: 11.49
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 07:58:30 pm============= 
+argmax PERPLEXITY: 8.88
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:03:27 pm============= 
+argmax PERPLEXITY: 10.48
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:07:59 pm============= 
+argmax PERPLEXITY: Infinity
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:12:45 pm============= 
+argmax PERPLEXITY: 11.78
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:17:41 pm============= 
+argmax PERPLEXITY: 10.45
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:22:33 pm============= 
+argmax PERPLEXITY: 10.57
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:27:23 pm============= 
+argmax PERPLEXITY: 15.86
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:32:21 pm============= 
+argmax PERPLEXITY: 12.97
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:37:06 pm============= 
+argmax PERPLEXITY: 13.64
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:41:59 pm============= 
+argmax PERPLEXITY: 8.80
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:46:24 pm============= 
+argmax PERPLEXITY: 9.39
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:51:03 pm============= 
+argmax PERPLEXITY: 9.49
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 08:55:49 pm============= 
+argmax PERPLEXITY: 10.77
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:00:43 pm============= 
+argmax PERPLEXITY: 8.46
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:05:29 pm============= 
+argmax PERPLEXITY: 11.00
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:10:12 pm============= 
+argmax PERPLEXITY: 11.69
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:15:00 pm============= 
+argmax PERPLEXITY: 18.56
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:19:52 pm============= 
+argmax PERPLEXITY: 12.70
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:24:48 pm============= 
+argmax PERPLEXITY: 9.43
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:29:41 pm============= 
+argmax PERPLEXITY: 11.24
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:34:26 pm============= 
+argmax PERPLEXITY: 11.09
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:39:14 pm============= 
+argmax PERPLEXITY: 10.28
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:43:31 pm============= 
+argmax PERPLEXITY: Infinity
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 09:48:09 pm============= 
+argmax PERPLEXITY: 9.08
+  Whor the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 09:52:42 pm============= 
+argmax PERPLEXITY: 12.35
+  There the the the the the the the the the the the the the the the the the the the the the the the t
+ ============November 4th 2015, 09:57:30 pm============= 
+argmax PERPLEXITY: 9.67
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:02:30 pm============= 
+argmax PERPLEXITY: 14.48
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:07:24 pm============= 
+argmax PERPLEXITY: 11.69
+  Of the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 10:14:08 pm============= 
+argmax PERPLEXITY: 8.48
+  The th th th th th th th th th th th th th th th th th th th th th th th th th th th th th th th th
+ ============November 4th 2015, 10:18:36 pm============= 
+argmax PERPLEXITY: 11.89
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:23:42 pm============= 
+argmax PERPLEXITY: 12.54
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:28:20 pm============= 
+argmax PERPLEXITY: 10.85
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:32:56 pm============= 
+argmax PERPLEXITY: 13.17
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:37:51 pm============= 
+argmax PERPLEXITY: 9.35
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:42:36 pm============= 
+argmax PERPLEXITY: 8.60
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:47:28 pm============= 
+argmax PERPLEXITY: 10.56
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:52:17 pm============= 
+argmax PERPLEXITY: 10.75
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 10:57:11 pm============= 
+argmax PERPLEXITY: 16.29
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:01:48 pm============= 
+argmax PERPLEXITY: 10.66
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:06:38 pm============= 
+argmax PERPLEXITY: 12.39
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:11:11 pm============= 
+argmax PERPLEXITY: 11.99
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:15:44 pm============= 
+argmax PERPLEXITY: 12.72
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:20:46 pm============= 
+argmax PERPLEXITY: 11.66
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:25:40 pm============= 
+argmax PERPLEXITY: 8.85
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:30:34 pm============= 
+argmax PERPLEXITY: 11.50
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 4th 2015, 11:35:27 pm============= 
+argmax PERPLEXITY: 12.22
+  Af the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 11:40:12 pm============= 
+argmax PERPLEXITY: 11.28
+  Whouse the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 11:44:46 pm============= 
+argmax PERPLEXITY: 14.87
+  Whoung the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 4th 2015, 11:49:44 pm============= 
+argmax PERPLEXITY: 9.54
+  Whor the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 11:54:12 pm============= 
+argmax PERPLEXITY: 12.04
+  Whor the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 4th 2015, 11:58:57 pm============= 
+argmax PERPLEXITY: 18.44
+  Whet the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 5th 2015, 12:03:55 am============= 
+argmax PERPLEXITY: 10.60
+  Whor the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 5th 2015, 12:08:55 am============= 
+argmax PERPLEXITY: 11.36
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 12:13:59 am============= 
+argmax PERPLEXITY: 12.04
+  Of the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 12:18:57 am============= 
+argmax PERPLEXITY: 14.57
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 12:23:50 am============= 
+argmax PERPLEXITY: 9.45
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 12:28:30 am============= 
+argmax PERPLEXITY: 9.51
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 12:33:27 am============= 
+argmax PERPLEXITY: 7.33
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 12:38:12 am============= 
+argmax PERPLEXITY: 15.84
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 12:43:04 am============= 
+argmax PERPLEXITY: 18.06
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 12:47:27 am============= 
+argmax PERPLEXITY: 10.11
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 12:51:58 am============= 
+argmax PERPLEXITY: 14.24
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 12:56:54 am============= 
+argmax PERPLEXITY: 7.58
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:01:49 am============= 
+argmax PERPLEXITY: Infinity
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:06:31 am============= 
+argmax PERPLEXITY: 12.38
+  The the there there there there there there there there there there there there there there there t
+ ============November 5th 2015, 01:11:00 am============= 
+argmax PERPLEXITY: 10.21
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:15:51 am============= 
+argmax PERPLEXITY: 10.50
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:20:31 am============= 
+argmax PERPLEXITY: 7.71
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:25:13 am============= 
+argmax PERPLEXITY: Infinity
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:30:02 am============= 
+argmax PERPLEXITY: 8.44
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:34:46 am============= 
+argmax PERPLEXITY: 12.54
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:39:39 am============= 
+argmax PERPLEXITY: 9.60
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:43:47 am============= 
+argmax PERPLEXITY: 8.68
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:48:37 am============= 
+argmax PERPLEXITY: 9.46
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:53:24 am============= 
+argmax PERPLEXITY: Infinity
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 01:57:49 am============= 
+argmax PERPLEXITY: 9.22
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:02:28 am============= 
+argmax PERPLEXITY: 11.20
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:07:01 am============= 
+argmax PERPLEXITY: 8.02
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:11:45 am============= 
+argmax PERPLEXITY: 15.72
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:16:42 am============= 
+argmax PERPLEXITY: 13.12
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:21:25 am============= 
+argmax PERPLEXITY: 12.82
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:26:25 am============= 
+argmax PERPLEXITY: 12.89
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:31:17 am============= 
+argmax PERPLEXITY: 10.47
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:36:12 am============= 
+argmax PERPLEXITY: 10.35
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:41:14 am============= 
+argmax PERPLEXITY: 7.50
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:46:17 am============= 
+argmax PERPLEXITY: 11.61
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:51:09 am============= 
+argmax PERPLEXITY: 12.18
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:55:08 am============= 
+argmax PERPLEXITY: 10.50
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 02:59:48 am============= 
+argmax PERPLEXITY: 39.17
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:04:32 am============= 
+argmax PERPLEXITY: 13.88
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:09:03 am============= 
+argmax PERPLEXITY: 8.22
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:14:17 am============= 
+argmax PERPLEXITY: 8.03
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:18:50 am============= 
+argmax PERPLEXITY: 12.35
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:23:39 am============= 
+argmax PERPLEXITY: 10.48
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:28:43 am============= 
+argmax PERPLEXITY: 9.18
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:33:15 am============= 
+argmax PERPLEXITY: 11.91
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:37:57 am============= 
+argmax PERPLEXITY: 8.03
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:42:38 am============= 
+argmax PERPLEXITY: 10.18
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:47:07 am============= 
+argmax PERPLEXITY: 12.94
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:51:56 am============= 
+argmax PERPLEXITY: 10.93
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 03:56:42 am============= 
+argmax PERPLEXITY: 5.67
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:00:58 am============= 
+argmax PERPLEXITY: 11.32
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:05:36 am============= 
+argmax PERPLEXITY: 9.53
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:10:02 am============= 
+argmax PERPLEXITY: 14.90
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:14:52 am============= 
+argmax PERPLEXITY: 8.51
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:19:12 am============= 
+argmax PERPLEXITY: 12.48
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:23:41 am============= 
+argmax PERPLEXITY: 10.54
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:28:20 am============= 
+argmax PERPLEXITY: 10.95
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:33:09 am============= 
+argmax PERPLEXITY: 17.17
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:37:46 am============= 
+argmax PERPLEXITY: 8.14
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:42:45 am============= 
+argmax PERPLEXITY: 8.42
+  And and the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:47:17 am============= 
+argmax PERPLEXITY: 10.26
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 04:51:54 am============= 
+argmax PERPLEXITY: 12.03
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 04:56:41 am============= 
+argmax PERPLEXITY: 11.16
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:01:04 am============= 
+argmax PERPLEXITY: 16.03
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:06:03 am============= 
+argmax PERPLEXITY: 8.94
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:10:54 am============= 
+argmax PERPLEXITY: 14.74
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 05:15:16 am============= 
+argmax PERPLEXITY: 10.55
+  Ton the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:19:41 am============= 
+argmax PERPLEXITY: 9.88
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:24:09 am============= 
+argmax PERPLEXITY: 19.21
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:28:47 am============= 
+argmax PERPLEXITY: 9.67
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:33:20 am============= 
+argmax PERPLEXITY: 14.85
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:37:59 am============= 
+argmax PERPLEXITY: 10.70
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:42:14 am============= 
+argmax PERPLEXITY: 10.77
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:46:50 am============= 
+argmax PERPLEXITY: 14.70
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:51:23 am============= 
+argmax PERPLEXITY: 11.32
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 05:56:15 am============= 
+argmax PERPLEXITY: 11.45
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 06:00:54 am============= 
+argmax PERPLEXITY: 14.10
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 06:05:20 am============= 
+argmax PERPLEXITY: 11.40
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 06:10:15 am============= 
+argmax PERPLEXITY: 10.19
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 06:15:07 am============= 
+argmax PERPLEXITY: 9.56
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 06:20:02 am============= 
+argmax PERPLEXITY: 7.34
+  Ther the the the the the the the the the the the the the the the the the the the the the the the th
+ ============November 5th 2015, 06:24:58 am============= 
+argmax PERPLEXITY: 12.57
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 06:29:59 am============= 
+argmax PERPLEXITY: 18.16
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 06:34:35 am============= 
+argmax PERPLEXITY: 12.15
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 06:39:20 am============= 
+argmax PERPLEXITY: 11.20
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 06:44:27 am============= 
+argmax PERPLEXITY: 13.08
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 06:49:21 am============= 
+argmax PERPLEXITY: 12.10
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 06:54:25 am============= 
+argmax PERPLEXITY: 10.46
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 06:59:02 am============= 
+argmax PERPLEXITY: Infinity
+  See the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 07:03:09 am============= 
+argmax PERPLEXITY: 9.61
+  Ser the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 07:07:49 am============= 
+argmax PERPLEXITY: 11.72
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 07:12:16 am============= 
+argmax PERPLEXITY: 9.30
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 07:17:01 am============= 
+argmax PERPLEXITY: 10.91
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 07:21:51 am============= 
+argmax PERPLEXITY: 12.30
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 07:26:33 am============= 
+argmax PERPLEXITY: 8.74
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 07:31:31 am============= 
+argmax PERPLEXITY: 9.03
+  An here the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 07:36:19 am============= 
+argmax PERPLEXITY: 12.84
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 07:40:54 am============= 
+argmax PERPLEXITY: 14.35
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 07:46:01 am============= 
+argmax PERPLEXITY: 10.87
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 07:50:59 am============= 
+argmax PERPLEXITY: 10.48
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 07:56:08 am============= 
+argmax PERPLEXITY: 9.31
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 08:00:48 am============= 
+argmax PERPLEXITY: 8.14
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 08:05:23 am============= 
+argmax PERPLEXITY: 11.59
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 08:09:53 am============= 
+argmax PERPLEXITY: 12.62
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 08:14:36 am============= 
+argmax PERPLEXITY: 8.27
+  And the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 08:19:17 am============= 
+argmax PERPLEXITY: 14.88
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 08:24:00 am============= 
+argmax PERPLEXITY: 15.04
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 08:28:35 am============= 
+argmax PERPLEXITY: 10.97
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 08:33:13 am============= 
+argmax PERPLEXITY: 11.97
+  Who the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 08:37:54 am============= 
+argmax PERPLEXITY: 8.31
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 08:42:14 am============= 
+argmax PERPLEXITY: 10.33
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 08:47:14 am============= 
+argmax PERPLEXITY: 15.40
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 08:51:33 am============= 
+argmax PERPLEXITY: 14.76
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 08:56:20 am============= 
+argmax PERPLEXITY: 12.09
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 09:01:18 am============= 
+argmax PERPLEXITY: 9.74
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 09:05:41 am============= 
+argmax PERPLEXITY: 12.94
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 09:10:26 am============= 
+argmax PERPLEXITY: 11.49
+  The the the the the the the the the the the the the the the the the the the the the the the the the
+ ============November 5th 2015, 09:15:10 am============= 
+argmax PERPLEXITY: 11.18
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 09:19:44 am============= 
+argmax PERPLEXITY: 8.40
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 09:24:29 am============= 
+argmax PERPLEXITY: 11.92
+  On the the the the the the the the the the the the the the the the the the the the the the the the 
+ ============November 5th 2015, 09:29:08 am============= 
+argmax PERPLEXITY: 8.75
+  On the the the the the the the the the the the the the the the the the the the the the the the the 

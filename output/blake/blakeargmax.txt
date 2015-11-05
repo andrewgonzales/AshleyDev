@@ -1,2502 +1,2088 @@
 
- ============October 30th 2015, 12:35:31 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:36:15 am============= 
-argmax PERPLEXITY: 9.14
-
-
- ============October 30th 2015, 12:36:57 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:37:41 am============= 
-argmax PERPLEXITY: 6.09
-
-
- ============October 30th 2015, 12:38:29 am============= 
-argmax PERPLEXITY: 9.26
-
-
- ============October 30th 2015, 12:39:14 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:40:10 am============= 
-argmax PERPLEXITY: 3.76
-
-
- ============October 30th 2015, 12:40:53 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:41:33 am============= 
-argmax PERPLEXITY: 15.57
-
-
- ============October 30th 2015, 12:42:17 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:42:56 am============= 
-argmax PERPLEXITY: 8.89
-
-
- ============October 30th 2015, 12:43:42 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:44:29 am============= 
-argmax PERPLEXITY: 6.77
-
-
- ============October 30th 2015, 12:45:46 am============= 
-argmax PERPLEXITY: 30.67
-
-
- ============October 30th 2015, 12:47:21 am============= 
-argmax PERPLEXITY: 11.32
-
-
- ============October 30th 2015, 12:49:07 am============= 
-argmax PERPLEXITY: 4.27
-
-
- ============October 30th 2015, 12:50:38 am============= 
-argmax PERPLEXITY: 6.20
-
-
- ============October 30th 2015, 12:52:05 am============= 
-argmax PERPLEXITY: 13.01
-
-
- ============October 30th 2015, 12:53:31 am============= 
-argmax PERPLEXITY: 5.18
-
-
- ============October 30th 2015, 12:55:22 am============= 
-argmax PERPLEXITY: 10.83
-
-
- ============October 30th 2015, 12:57:30 am============= 
-argmax PERPLEXITY: 6.20
-
-
- ============October 30th 2015, 12:59:14 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:00:33 am============= 
-argmax PERPLEXITY: 5.98
-
-
- ============October 30th 2015, 01:02:35 am============= 
-argmax PERPLEXITY: 6.88
-
-
- ============October 30th 2015, 01:04:36 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:06:28 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:07:51 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:09:20 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:11:18 am============= 
-argmax PERPLEXITY: 10.81
-
-
- ============October 30th 2015, 01:13:12 am============= 
-argmax PERPLEXITY: 13.56
-
-
- ============October 30th 2015, 01:14:55 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:16:56 am============= 
-argmax PERPLEXITY: 9.10
-
-
- ============October 30th 2015, 01:19:23 am============= 
-argmax PERPLEXITY: 5.91
-
-
- ============October 30th 2015, 01:21:45 am============= 
-argmax PERPLEXITY: 7.35
-
-
- ============October 30th 2015, 01:23:41 am============= 
-argmax PERPLEXITY: 5.41
-
-
- ============October 30th 2015, 01:25:41 am============= 
-argmax PERPLEXITY: 6.28
-
-
- ============October 30th 2015, 01:27:33 am============= 
-argmax PERPLEXITY: 8.08
-
-
- ============October 30th 2015, 01:29:22 am============= 
-argmax PERPLEXITY: 4.34
-
-
- ============October 30th 2015, 01:31:03 am============= 
-argmax PERPLEXITY: 6.50
-
-
- ============October 30th 2015, 01:32:34 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:34:09 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:36:06 am============= 
-argmax PERPLEXITY: 14.33
-
-
- ============October 30th 2015, 01:38:06 am============= 
-argmax PERPLEXITY: 10.30
-
-
- ============October 30th 2015, 01:39:45 am============= 
-argmax PERPLEXITY: 5.49
-
-
- ============October 30th 2015, 01:41:37 am============= 
-argmax PERPLEXITY: 5.61
-
-
- ============October 30th 2015, 01:42:57 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:44:19 am============= 
-argmax PERPLEXITY: 10.26
-
-
- ============October 30th 2015, 01:46:04 am============= 
-argmax PERPLEXITY: 9.94
-
-
-
- ============October 30th 2015, 01:47:42 am============= 
-argmax PERPLEXITY: 9.92
-
-
- ============October 30th 2015, 01:49:14 am============= 
-argmax PERPLEXITY: 5.15
-
-
- ============October 30th 2015, 01:50:59 am============= 
-argmax PERPLEXITY: 7.62
-
-
- ============October 30th 2015, 01:52:48 am============= 
-argmax PERPLEXITY: 5.88
-
-
- ============October 30th 2015, 01:54:29 am============= 
-argmax PERPLEXITY: 4.28
-
-
- ============October 30th 2015, 01:56:18 am============= 
-argmax PERPLEXITY: 6.52
-
-
-
- ============October 30th 2015, 01:57:53 am============= 
-argmax PERPLEXITY: 7.70
-
-
-
- ============October 30th 2015, 01:59:42 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 02:01:24 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 02:03:15 am============= 
-argmax PERPLEXITY: 4.74
-
-
- ============October 30th 2015, 02:04:57 am============= 
-argmax PERPLEXITY: 7.48
-
-
- ============October 30th 2015, 02:06:33 am============= 
-argmax PERPLEXITY: 5.99
-
-
- ============October 30th 2015, 02:08:17 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 02:10:06 am============= 
-argmax PERPLEXITY: 6.71
-
-
- ============October 30th 2015, 02:11:54 am============= 
-argmax PERPLEXITY: 7.22
-
-
- ============October 30th 2015, 02:13:41 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 02:15:41 am============= 
-argmax PERPLEXITY: 8.05
-
-
- ============October 30th 2015, 02:17:17 am============= 
-argmax PERPLEXITY: 7.30
-
-
- ============October 30th 2015, 02:19:06 am============= 
-argmax PERPLEXITY: 6.29
-
-
-
- ============October 30th 2015, 02:20:37 am============= 
-argmax PERPLEXITY: 5.50
-
-
- ============October 30th 2015, 02:22:12 am============= 
-argmax PERPLEXITY: 6.48
-
-
- ============October 30th 2015, 02:23:51 am============= 
-argmax PERPLEXITY: 8.95
-
-
- ============October 30th 2015, 02:25:44 am============= 
-argmax PERPLEXITY: 8.01
-
-
- ============October 30th 2015, 02:27:58 am============= 
-argmax PERPLEXITY: 10.97
-
-
-
- ============October 30th 2015, 02:29:16 am============= 
-argmax PERPLEXITY: 6.02
-
-
- ============October 30th 2015, 02:31:06 am============= 
-argmax PERPLEXITY: 5.97
-
-
- ============October 30th 2015, 02:32:28 am============= 
-argmax PERPLEXITY: 27.00
-
-
- ============October 30th 2015, 02:34:00 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 02:35:48 am============= 
-argmax PERPLEXITY: 5.89
-
-
- ============October 30th 2015, 02:37:28 am============= 
-argmax PERPLEXITY: 4.98
-
-
- ============October 30th 2015, 02:39:07 am============= 
-argmax PERPLEXITY: 6.88
-
-
- ============October 30th 2015, 02:41:07 am============= 
-argmax PERPLEXITY: 5.99
-
-
- ============October 30th 2015, 02:42:44 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 02:44:26 am============= 
-argmax PERPLEXITY: 21.04
-
-
- ============October 30th 2015, 02:45:53 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 02:47:45 am============= 
-argmax PERPLEXITY: 13.76
-
-
- ============October 30th 2015, 02:49:25 am============= 
-argmax PERPLEXITY: 4.99
-
-
- ============October 30th 2015, 02:51:20 am============= 
-argmax PERPLEXITY: 6.59
-
-
- ============October 30th 2015, 02:53:24 am============= 
-argmax PERPLEXITY: 9.49
-
-
- ============October 30th 2015, 02:55:23 am============= 
-argmax PERPLEXITY: 5.90
-
-
- ============October 30th 2015, 02:56:54 am============= 
-argmax PERPLEXITY: 9.28
-
-
- ============October 30th 2015, 02:58:33 am============= 
-argmax PERPLEXITY: 5.30
-
-
- ============October 30th 2015, 03:00:19 am============= 
-argmax PERPLEXITY: 13.45
-
-
- ============October 30th 2015, 03:01:53 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 03:03:47 am============= 
-argmax PERPLEXITY: 9.43
-
-
- ============October 30th 2015, 03:05:50 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 03:07:47 am============= 
-argmax PERPLEXITY: 12.73
-
-
- ============October 30th 2015, 03:09:38 am============= 
-argmax PERPLEXITY: 19.35
-
-
- ============October 30th 2015, 03:11:24 am============= 
-argmax PERPLEXITY: 8.32
-
-
- ============October 30th 2015, 03:12:59 am============= 
-argmax PERPLEXITY: 8.38
-
-
-
- ============October 30th 2015, 03:14:41 am============= 
-argmax PERPLEXITY: 5.60
-
-
- ============October 30th 2015, 03:16:37 am============= 
-argmax PERPLEXITY: 11.05
-
-
- ============October 30th 2015, 03:18:06 am============= 
-argmax PERPLEXITY: 20.06
-
-
- ============October 30th 2015, 03:20:09 am============= 
-argmax PERPLEXITY: 4.88
-
-
- ============October 30th 2015, 03:21:57 am============= 
-argmax PERPLEXITY: 7.76
-
-
- ============October 30th 2015, 03:23:30 am============= 
-argmax PERPLEXITY: 6.76
-
-
- ============October 30th 2015, 03:24:59 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 03:26:22 am============= 
-argmax PERPLEXITY: 7.33
-
-
- ============October 30th 2015, 03:27:57 am============= 
-argmax PERPLEXITY: Infinity
-
-
-
- ============October 30th 2015, 03:29:36 am============= 
-argmax PERPLEXITY: 10.73
-
-
- ============October 30th 2015, 03:30:55 am============= 
-argmax PERPLEXITY: 5.04
-
-
- ============October 30th 2015, 03:32:34 am============= 
-argmax PERPLEXITY: 15.11
-
-
- ============October 30th 2015, 03:34:19 am============= 
-argmax PERPLEXITY: 32.50
-
-
- ============October 30th 2015, 03:35:45 am============= 
-argmax PERPLEXITY: 7.81
-
-
- ============October 30th 2015, 03:37:43 am============= 
-argmax PERPLEXITY: 6.22
-
-
-
- ============October 30th 2015, 03:39:19 am============= 
-argmax PERPLEXITY: 9.77
-
-
-
- ============October 30th 2015, 03:41:35 am============= 
-argmax PERPLEXITY: 10.93
-
-
-
- ============October 30th 2015, 03:43:09 am============= 
-argmax PERPLEXITY: 8.71
-
-
-
- ============October 30th 2015, 03:45:12 am============= 
-argmax PERPLEXITY: 7.01
-
-
-
- ============October 30th 2015, 03:46:57 am============= 
-argmax PERPLEXITY: 6.86
-
-
-
- ============October 30th 2015, 03:49:11 am============= 
-argmax PERPLEXITY: 4.30
-
-
- ============October 30th 2015, 03:51:02 am============= 
-argmax PERPLEXITY: 6.70
-
-
-
- ============October 30th 2015, 03:53:01 am============= 
-argmax PERPLEXITY: 8.86
-
-
- ============October 30th 2015, 03:54:58 am============= 
-argmax PERPLEXITY: 4.64
-
-
- ============October 30th 2015, 03:57:06 am============= 
-argmax PERPLEXITY: 5.78
-   And the shere the sheep the sheep the sheep, and the sheep.
-
-
- ============October 30th 2015, 03:59:20 am============= 
-argmax PERPLEXITY: 10.23
-   And the the the the song the song and the song and the song and so dorr.
-
-
- ============October 30th 2015, 04:01:06 am============= 
-argmax PERPLEXITY: 7.20
-
-
-
- ============October 30th 2015, 04:02:48 am============= 
-argmax PERPLEXITY: 7.80
-
-
-
- ============October 30th 2015, 04:04:54 am============= 
-argmax PERPLEXITY: 4.74
-
-
-
- ============October 30th 2015, 04:06:17 am============= 
-argmax PERPLEXITY: 12.52
-
-
- ============October 30th 2015, 04:08:09 am============= 
-argmax PERPLEXITY: 7.13
-
-
- ============October 30th 2015, 04:09:59 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:11:40 am============= 
-argmax PERPLEXITY: 5.71
-
-
- ============October 30th 2015, 04:13:21 am============= 
-argmax PERPLEXITY: 7.55
-
-
- ============October 30th 2015, 04:15:11 am============= 
-argmax PERPLEXITY: 5.05
-
-
- ============October 30th 2015, 04:16:56 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:18:26 am============= 
-argmax PERPLEXITY: 6.57
-
-
-
- ============October 30th 2015, 04:20:14 am============= 
-argmax PERPLEXITY: 5.65
-
-
-
- ============October 30th 2015, 04:22:08 am============= 
-argmax PERPLEXITY: 6.62
-
-
- ============October 30th 2015, 04:24:00 am============= 
-argmax PERPLEXITY: 5.75
-
-
- ============October 30th 2015, 04:26:01 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:27:44 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:29:16 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:30:56 am============= 
-argmax PERPLEXITY: 5.72
-
-
- ============October 30th 2015, 04:32:30 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:33:55 am============= 
-argmax PERPLEXITY: 4.35
-
-
- ============October 30th 2015, 04:35:31 am============= 
-argmax PERPLEXITY: 7.04
-
-
- ============October 30th 2015, 04:37:02 am============= 
-argmax PERPLEXITY: 6.13
-
-
- ============October 30th 2015, 04:38:36 am============= 
-argmax PERPLEXITY: 15.44
-
-
-
- ============October 30th 2015, 04:39:54 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:41:22 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:43:14 am============= 
-argmax PERPLEXITY: 6.87
-
-
- ============October 30th 2015, 04:45:34 am============= 
-argmax PERPLEXITY: 5.36
-
-
- ============October 30th 2015, 04:47:17 am============= 
-argmax PERPLEXITY: 7.29
-
-
- ============October 30th 2015, 04:49:18 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:51:20 am============= 
-argmax PERPLEXITY: 5.29
-
-
- ============October 30th 2015, 04:52:54 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:54:30 am============= 
-argmax PERPLEXITY: 6.01
-
-
- ============October 30th 2015, 04:56:07 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:58:09 am============= 
-argmax PERPLEXITY: 4.98
-
-
- ============October 30th 2015, 05:00:00 am============= 
-argmax PERPLEXITY: 5.56
-
-
- ============October 30th 2015, 05:01:43 am============= 
-argmax PERPLEXITY: 3.51
-
-
- ============October 30th 2015, 05:03:33 am============= 
-argmax PERPLEXITY: 5.76
-
-
- ============October 30th 2015, 05:05:16 am============= 
-argmax PERPLEXITY: 4.99
-
-
- ============October 30th 2015, 05:07:13 am============= 
-argmax PERPLEXITY: 20.69
-
-
- ============October 30th 2015, 05:09:18 am============= 
-argmax PERPLEXITY: 7.05
-
-
- ============October 30th 2015, 05:10:50 am============= 
-argmax PERPLEXITY: 5.24
-
-
- ============October 30th 2015, 05:12:19 am============= 
-argmax PERPLEXITY: 7.28
-
-
- ============October 30th 2015, 05:14:17 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 05:16:13 am============= 
-argmax PERPLEXITY: 6.98
-
-
- ============October 30th 2015, 05:17:38 am============= 
-argmax PERPLEXITY: 10.53
-
-
- ============October 30th 2015, 05:18:52 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 05:20:24 am============= 
-argmax PERPLEXITY: 9.49
-
-
- ============October 30th 2015, 05:21:43 am============= 
-argmax PERPLEXITY: Infinity
-
-
-
- ============October 30th 2015, 05:23:15 am============= 
-argmax PERPLEXITY: 7.16
-
-
- ============October 30th 2015, 05:25:15 am============= 
-argmax PERPLEXITY: 4.46
-
-
- ============October 30th 2015, 05:26:37 am============= 
-argmax PERPLEXITY: 4.70
-
-
- ============October 30th 2015, 05:28:09 am============= 
-argmax PERPLEXITY: 5.70
-
-
- ============October 30th 2015, 05:29:51 am============= 
-argmax PERPLEXITY: 6.80
-
-
-
- ============October 30th 2015, 05:31:09 am============= 
-argmax PERPLEXITY: 5.35
-
-
- ============October 30th 2015, 05:32:43 am============= 
-argmax PERPLEXITY: 7.10
-
-
-
- ============October 30th 2015, 05:34:28 am============= 
-argmax PERPLEXITY: 8.68
-
-
- ============October 30th 2015, 05:36:10 am============= 
-argmax PERPLEXITY: 6.87
-
-
-
- ============October 30th 2015, 05:37:57 am============= 
-argmax PERPLEXITY: 8.42
-
-
-
- ============October 30th 2015, 05:39:50 am============= 
-argmax PERPLEXITY: 4.55
-
-
- ============October 30th 2015, 05:41:23 am============= 
-argmax PERPLEXITY: 7.79
-
-
-
- ============October 30th 2015, 05:43:09 am============= 
-argmax PERPLEXITY: 3.06
-
-
-
- ============October 30th 2015, 05:44:25 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 05:45:52 am============= 
-argmax PERPLEXITY: 9.36
-
-
- ============October 30th 2015, 05:47:21 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 05:49:04 am============= 
-argmax PERPLEXITY: 8.29
-
-
- ============October 30th 2015, 05:50:35 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 05:52:35 am============= 
-argmax PERPLEXITY: 4.87
-
-
- ============October 30th 2015, 05:54:49 am============= 
-argmax PERPLEXITY: 8.85
-
-
- ============October 30th 2015, 05:56:29 am============= 
-argmax PERPLEXITY: 4.11
-
-
- ============October 30th 2015, 05:58:30 am============= 
-argmax PERPLEXITY: 8.18
-
-
- ============October 30th 2015, 05:59:50 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 06:01:32 am============= 
-argmax PERPLEXITY: 11.10
-
-
- ============October 30th 2015, 06:03:27 am============= 
-argmax PERPLEXITY: 6.23
-
-
- ============October 30th 2015, 06:05:01 am============= 
-argmax PERPLEXITY: 8.49
-
-
- ============October 30th 2015, 06:06:54 am============= 
-argmax PERPLEXITY: 4.60
-
-
- ============October 30th 2015, 06:09:00 am============= 
-argmax PERPLEXITY: 5.03
-
-
- ============October 30th 2015, 06:10:43 am============= 
-argmax PERPLEXITY: 12.35
-
-
- ============October 30th 2015, 06:12:33 am============= 
-argmax PERPLEXITY: 7.25
-
-
- ============October 30th 2015, 06:14:15 am============= 
-argmax PERPLEXITY: 4.69
-
-
- ============October 30th 2015, 06:15:51 am============= 
-argmax PERPLEXITY: 7.62
-
-
- ============October 30th 2015, 06:17:30 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 06:18:53 am============= 
-argmax PERPLEXITY: 8.20
-
-
- ============October 30th 2015, 06:20:28 am============= 
-argmax PERPLEXITY: 4.69
-
-
-
- ============October 30th 2015, 06:22:12 am============= 
-argmax PERPLEXITY: 6.48
-
-
-
- ============October 30th 2015, 06:23:52 am============= 
-argmax PERPLEXITY: Infinity
-
-
-
- ============October 30th 2015, 06:25:45 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 06:27:22 am============= 
-argmax PERPLEXITY: 15.00
-
-
- ============October 30th 2015, 06:29:21 am============= 
-argmax PERPLEXITY: 6.77
-
-
-
- ============October 30th 2015, 06:31:32 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 06:33:18 am============= 
-argmax PERPLEXITY: 10.78
-
-
- ============October 30th 2015, 06:35:09 am============= 
-argmax PERPLEXITY: 6.77
-
-
- ============October 30th 2015, 06:36:49 am============= 
-argmax PERPLEXITY: 6.01
-
-
-
- ============October 30th 2015, 06:38:25 am============= 
-argmax PERPLEXITY: 7.39
-
-
- ============October 30th 2015, 06:40:00 am============= 
-argmax PERPLEXITY: 11.61
-
-
- ============October 30th 2015, 06:41:40 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 06:43:16 am============= 
-argmax PERPLEXITY: 5.35
-
-
- ============October 30th 2015, 06:45:05 am============= 
-argmax PERPLEXITY: 8.68
-
-
- ============October 30th 2015, 06:46:37 am============= 
-argmax PERPLEXITY: 5.74
-
-
- ============October 30th 2015, 06:48:12 am============= 
-argmax PERPLEXITY: 5.57
-
-
- ============October 30th 2015, 06:50:08 am============= 
-argmax PERPLEXITY: 5.56
-
-
- ============October 30th 2015, 06:51:59 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 06:53:28 am============= 
-argmax PERPLEXITY: 6.17
-
-
- ============October 30th 2015, 06:54:47 am============= 
-argmax PERPLEXITY: 11.77
-
-
- ============October 30th 2015, 06:56:37 am============= 
-argmax PERPLEXITY: 4.24
-
-
- ============October 30th 2015, 06:58:03 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 06:59:38 am============= 
-argmax PERPLEXITY: 24.83
-
-
- ============October 30th 2015, 07:01:10 am============= 
-argmax PERPLEXITY: 10.37
-
-
- ============October 30th 2015, 07:02:43 am============= 
-argmax PERPLEXITY: 9.24
-
-
- ============October 30th 2015, 07:04:09 am============= 
-argmax PERPLEXITY: 4.70
-
-
- ============October 30th 2015, 07:06:00 am============= 
-argmax PERPLEXITY: 5.11
-
-
- ============October 30th 2015, 07:07:37 am============= 
-argmax PERPLEXITY: 5.80
-
-
- ============October 30th 2015, 07:09:06 am============= 
-argmax PERPLEXITY: 10.18
-
-
- ============October 30th 2015, 07:11:05 am============= 
-argmax PERPLEXITY: 12.48
-
-
- ============October 30th 2015, 07:12:53 am============= 
-argmax PERPLEXITY: 8.15
-
-
- ============October 30th 2015, 07:14:54 am============= 
-argmax PERPLEXITY: 4.62
-
-
- ============October 30th 2015, 07:16:41 am============= 
-argmax PERPLEXITY: 14.30
-
-
- ============October 30th 2015, 07:18:34 am============= 
-argmax PERPLEXITY: 5.48
-
-
- ============October 30th 2015, 07:20:19 am============= 
-argmax PERPLEXITY: 5.11
-   And the sit the sit the sit the the the tree,
-
- ============October 30th 2015, 07:22:01 am============= 
-argmax PERPLEXITY: Infinity
-
-
-
- ============October 30th 2015, 07:23:46 am============= 
-argmax PERPLEXITY: 6.65
-
-
- ============October 30th 2015, 07:25:38 am============= 
-argmax PERPLEXITY: 6.70
-
-
- ============October 30th 2015, 07:27:23 am============= 
-argmax PERPLEXITY: 8.28
-
-
- ============October 30th 2015, 07:29:02 am============= 
-argmax PERPLEXITY: 4.65
-
-
- ============October 30th 2015, 07:30:53 am============= 
-argmax PERPLEXITY: 6.62
-
-
- ============October 30th 2015, 07:32:24 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 07:34:19 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 07:35:41 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 07:37:22 am============= 
-argmax PERPLEXITY: 6.04
-
-
-
- ============October 30th 2015, 07:38:58 am============= 
-argmax PERPLEXITY: 5.69
-
-
- ============October 30th 2015, 07:40:37 am============= 
-argmax PERPLEXITY: 3.29
-
-
- ============October 30th 2015, 07:42:30 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 07:44:19 am============= 
-argmax PERPLEXITY: 15.78
-
-
-
- ============October 30th 2015, 07:46:21 am============= 
-argmax PERPLEXITY: 7.02
-
-
- ============October 30th 2015, 07:48:01 am============= 
-argmax PERPLEXITY: 8.65
-
-
- ============October 30th 2015, 07:49:49 am============= 
-argmax PERPLEXITY: 6.99
-
-
- ============October 30th 2015, 07:51:53 am============= 
-argmax PERPLEXITY: 11.85
-
-
- ============October 30th 2015, 07:53:57 am============= 
-argmax PERPLEXITY: 9.50
-
-
-
- ============October 30th 2015, 07:55:28 am============= 
-argmax PERPLEXITY: 4.41
-
-
- ============October 30th 2015, 07:57:22 am============= 
-argmax PERPLEXITY: 2.37
-
-
- ============October 30th 2015, 07:59:05 am============= 
-argmax PERPLEXITY: 2.62
-
-
- ============October 30th 2015, 08:00:50 am============= 
-argmax PERPLEXITY: 4.99
-
-
- ============October 30th 2015, 08:02:27 am============= 
-argmax PERPLEXITY: 6.26
-
-
- ============October 30th 2015, 08:03:46 am============= 
-argmax PERPLEXITY: 6.41
-
-
- ============October 30th 2015, 08:05:09 am============= 
-argmax PERPLEXITY: 9.84
-
-
- ============October 30th 2015, 08:06:55 am============= 
-argmax PERPLEXITY: 5.78
-
-
- ============October 30th 2015, 08:08:43 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 08:09:54 am============= 
-argmax PERPLEXITY: 10.20
-
-
- ============October 30th 2015, 08:11:20 am============= 
-argmax PERPLEXITY: 11.15
-
-
- ============October 30th 2015, 08:12:51 am============= 
-argmax PERPLEXITY: 7.32
-
-
- ============October 30th 2015, 08:14:38 am============= 
-argmax PERPLEXITY: 11.18
-
-
- ============October 30th 2015, 08:16:40 am============= 
-argmax PERPLEXITY: 4.76
-
-
- ============October 30th 2015, 08:18:19 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 08:20:10 am============= 
-argmax PERPLEXITY: 8.18
-
-
-
- ============October 30th 2015, 08:22:01 am============= 
-argmax PERPLEXITY: Infinity
-
-
-
- ============October 30th 2015, 08:23:47 am============= 
-argmax PERPLEXITY: 8.71
-
-
-
- ============October 30th 2015, 08:25:38 am============= 
-argmax PERPLEXITY: 4.60
-
-
- ============October 30th 2015, 08:27:38 am============= 
-argmax PERPLEXITY: 10.25
-
-
- ============October 30th 2015, 08:29:28 am============= 
-argmax PERPLEXITY: 4.09
-
-
- ============October 30th 2015, 08:31:20 am============= 
-argmax PERPLEXITY: 5.70
-
-
- ============October 30th 2015, 08:33:06 am============= 
-argmax PERPLEXITY: 7.40
-
-
-
- ============October 30th 2015, 08:35:05 am============= 
-argmax PERPLEXITY: 14.86
-
-
- ============October 30th 2015, 08:36:47 am============= 
-argmax PERPLEXITY: 9.19
-
-
- ============October 30th 2015, 08:38:31 am============= 
-argmax PERPLEXITY: 11.51
-
-
- ============October 30th 2015, 08:40:07 am============= 
-argmax PERPLEXITY: 7.39
-
-
- ============October 30th 2015, 08:42:01 am============= 
-argmax PERPLEXITY: 11.28
-
-
- ============October 30th 2015, 08:43:37 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 08:45:03 am============= 
-argmax PERPLEXITY: 3.68
-
-
- ============October 30th 2015, 08:46:53 am============= 
-argmax PERPLEXITY: 4.63
-
-
- ============October 30th 2015, 08:48:20 am============= 
-argmax PERPLEXITY: 3.49
-
-
- ============October 30th 2015, 08:50:11 am============= 
-argmax PERPLEXITY: 7.13
-
-
-
- ============October 30th 2015, 08:51:41 am============= 
-argmax PERPLEXITY: 6.56
-
-
- ============October 30th 2015, 08:53:31 am============= 
-argmax PERPLEXITY: 7.37
-
-
-
- ============October 30th 2015, 08:54:56 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 08:56:45 am============= 
-argmax PERPLEXITY: 6.16
-
-
- ============October 30th 2015, 08:58:42 am============= 
-argmax PERPLEXITY: 5.07
-
-
- ============October 30th 2015, 08:59:58 am============= 
-argmax PERPLEXITY: 19.61
-
-
- ============October 30th 2015, 09:01:55 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 09:04:04 am============= 
-argmax PERPLEXITY: 8.57
-
-
- ============October 30th 2015, 09:05:38 am============= 
-argmax PERPLEXITY: 20.92
-
-
- ============October 30th 2015, 09:07:15 am============= 
-argmax PERPLEXITY: 8.12
-
-
- ============October 30th 2015, 09:09:31 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 09:11:38 am============= 
-argmax PERPLEXITY: 28.83
-
-
- ============October 30th 2015, 09:13:20 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 09:15:04 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 09:16:45 am============= 
-argmax PERPLEXITY: 4.53
-
-
- ============October 30th 2015, 09:18:30 am============= 
-argmax PERPLEXITY: 6.82
-
-
- ============October 30th 2015, 09:20:14 am============= 
-argmax PERPLEXITY: 3.69
-
-
- ============October 30th 2015, 09:22:11 am============= 
-argmax PERPLEXITY: 4.00
-
-
- ============October 30th 2015, 09:23:38 am============= 
-argmax PERPLEXITY: 4.52
-
-
- ============October 30th 2015, 09:25:03 am============= 
-argmax PERPLEXITY: 12.86
-
-
- ============October 30th 2015, 09:26:49 am============= 
-argmax PERPLEXITY: 3.88
-
-
- ============October 30th 2015, 09:28:33 am============= 
-argmax PERPLEXITY: 6.47
-
-
- ============October 30th 2015, 09:30:19 am============= 
-argmax PERPLEXITY: 6.10
-
-
- ============October 30th 2015, 09:32:11 am============= 
-argmax PERPLEXITY: 12.05
-
-
- ============October 30th 2015, 09:34:09 am============= 
-argmax PERPLEXITY: 4.13
-
-
- ============October 30th 2015, 09:36:00 am============= 
-argmax PERPLEXITY: 5.50
-
-
- ============October 30th 2015, 09:38:05 am============= 
-argmax PERPLEXITY: 8.93
-
-
- ============October 30th 2015, 09:39:43 am============= 
-argmax PERPLEXITY: 6.52
-
-
- ============October 30th 2015, 09:41:01 am============= 
-argmax PERPLEXITY: 9.86
-
-
- ============October 30th 2015, 09:42:53 am============= 
-argmax PERPLEXITY: 4.83
-
-
- ============October 30th 2015, 09:44:42 am============= 
-argmax PERPLEXITY: 13.00
-
-
- ============October 30th 2015, 09:46:34 am============= 
-argmax PERPLEXITY: 9.99
-
-
- ============October 30th 2015, 09:48:14 am============= 
-argmax PERPLEXITY: 3.25
-
-
- ============October 30th 2015, 09:50:09 am============= 
-argmax PERPLEXITY: 6.08
-
-
- ============October 30th 2015, 09:51:52 am============= 
-argmax PERPLEXITY: 5.01
-
-
- ============October 30th 2015, 09:53:21 am============= 
-argmax PERPLEXITY: 4.22
-
-
- ============October 30th 2015, 09:54:45 am============= 
-argmax PERPLEXITY: 5.81
-
-
- ============October 30th 2015, 09:56:10 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 09:57:35 am============= 
-argmax PERPLEXITY: 9.58
-
-
- ============October 30th 2015, 09:59:21 am============= 
-argmax PERPLEXITY: 5.76
-
-
- ============October 30th 2015, 10:01:12 am============= 
-argmax PERPLEXITY: 7.09
-
-
- ============October 30th 2015, 10:02:51 am============= 
-argmax PERPLEXITY: 7.26
-
-
- ============October 30th 2015, 10:04:36 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 10:06:25 am============= 
-argmax PERPLEXITY: 5.28
-
-
- ============October 30th 2015, 10:08:01 am============= 
-argmax PERPLEXITY: 2.79
-
-
- ============October 30th 2015, 10:09:57 am============= 
-argmax PERPLEXITY: 6.89
-
-
- ============October 30th 2015, 10:11:37 am============= 
-argmax PERPLEXITY: 8.60
-
-
- ============October 30th 2015, 10:13:34 am============= 
-argmax PERPLEXITY: 5.09
-
-
- ============October 30th 2015, 10:15:12 am============= 
-argmax PERPLEXITY: 5.42
-
-
- ============October 30th 2015, 10:17:04 am============= 
-argmax PERPLEXITY: 13.92
-
-
- ============October 30th 2015, 10:18:56 am============= 
-argmax PERPLEXITY: 13.08
-
-
- ============October 30th 2015, 10:20:28 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 10:22:18 am============= 
-argmax PERPLEXITY: 5.73
-
-
- ============October 30th 2015, 10:23:52 am============= 
-argmax PERPLEXITY: 2.04
-
-
- ============October 30th 2015, 10:25:25 am============= 
-argmax PERPLEXITY: 4.04
-
-
- ============October 30th 2015, 10:27:32 am============= 
-argmax PERPLEXITY: 5.39
-
-
- ============October 30th 2015, 10:29:06 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 10:30:23 am============= 
-argmax PERPLEXITY: 5.70
-
-
- ============October 30th 2015, 10:31:52 am============= 
-argmax PERPLEXITY: 4.22
-
-
- ============October 30th 2015, 10:33:37 am============= 
-argmax PERPLEXITY: 7.95
-
-
- ============October 30th 2015, 10:35:32 am============= 
-argmax PERPLEXITY: 5.63
-
-
- ============October 30th 2015, 10:37:14 am============= 
-argmax PERPLEXITY: 4.43
-
-
- ============October 30th 2015, 10:39:07 am============= 
-argmax PERPLEXITY: 5.59
-
-
- ============October 30th 2015, 10:40:54 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 10:42:41 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 10:44:16 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 10:45:54 am============= 
-argmax PERPLEXITY: 5.35
-
-
-
- ============October 30th 2015, 10:47:43 am============= 
-argmax PERPLEXITY: 7.07
-
-
- ============October 30th 2015, 10:49:46 am============= 
-argmax PERPLEXITY: 5.10
-
-
- ============October 30th 2015, 10:51:28 am============= 
-argmax PERPLEXITY: 10.21
-
-
- ============October 30th 2015, 10:53:09 am============= 
-argmax PERPLEXITY: 9.31
-
-
- ============October 30th 2015, 10:54:54 am============= 
-argmax PERPLEXITY: 10.54
-
-
- ============October 30th 2015, 10:56:16 am============= 
-argmax PERPLEXITY: 5.60
-
-
- ============October 30th 2015, 10:57:51 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 10:59:22 am============= 
-argmax PERPLEXITY: 6.90
-
-
- ============October 30th 2015, 11:01:06 am============= 
-argmax PERPLEXITY: 6.01
-
-
- ============October 30th 2015, 11:02:36 am============= 
-argmax PERPLEXITY: 19.30
-
-
- ============October 30th 2015, 11:03:52 am============= 
-argmax PERPLEXITY: 4.07
-
-
- ============October 30th 2015, 11:05:57 am============= 
-argmax PERPLEXITY: 3.19
-
-
- ============October 30th 2015, 11:08:09 am============= 
-argmax PERPLEXITY: 11.04
-
-
- ============October 30th 2015, 11:09:50 am============= 
-argmax PERPLEXITY: 6.41
-
-
- ============October 30th 2015, 11:11:31 am============= 
-argmax PERPLEXITY: 4.91
-
-
- ============October 30th 2015, 11:12:59 am============= 
-argmax PERPLEXITY: 11.04
-
-
- ============October 30th 2015, 11:14:53 am============= 
-argmax PERPLEXITY: 7.01
-
-
-
- ============October 30th 2015, 11:16:45 am============= 
-argmax PERPLEXITY: Infinity
-
-
-
- ============October 30th 2015, 11:18:35 am============= 
-argmax PERPLEXITY: 4.77
-
-
-
- ============October 30th 2015, 11:20:10 am============= 
-argmax PERPLEXITY: 10.38
-
-
- ============October 30th 2015, 11:21:54 am============= 
-argmax PERPLEXITY: Infinity
-
-
-
- ============October 30th 2015, 11:23:30 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 11:25:19 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 11:27:08 am============= 
-argmax PERPLEXITY: 8.78
-
-
- ============October 30th 2015, 11:28:53 am============= 
-argmax PERPLEXITY: 11.61
-
-
- ============October 30th 2015, 11:30:21 am============= 
-argmax PERPLEXITY: 5.76
-
-
- ============October 30th 2015, 11:31:56 am============= 
-argmax PERPLEXITY: 5.40
-
-
- ============October 30th 2015, 11:33:33 am============= 
-argmax PERPLEXITY: 8.02
-
-
- ============October 30th 2015, 11:34:55 am============= 
-argmax PERPLEXITY: 4.94
-
-
- ============October 30th 2015, 11:36:42 am============= 
-argmax PERPLEXITY: 3.09
-
-
- ============October 30th 2015, 11:38:20 am============= 
-argmax PERPLEXITY: 3.58
-
-
-
- ============October 30th 2015, 11:40:16 am============= 
-argmax PERPLEXITY: 9.18
-
-
-
- ============October 30th 2015, 11:42:15 am============= 
-argmax PERPLEXITY: 5.43
-
-
-
- ============October 30th 2015, 11:44:13 am============= 
-argmax PERPLEXITY: 5.36
-
-
- ============October 30th 2015, 11:45:36 am============= 
-argmax PERPLEXITY: 4.72
-
-
- ============October 30th 2015, 11:46:53 am============= 
-argmax PERPLEXITY: 7.62
-
-
-
- ============October 30th 2015, 11:48:46 am============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 11:50:41 am============= 
-argmax PERPLEXITY: 4.35
-
-
- ============October 30th 2015, 11:52:46 am============= 
-argmax PERPLEXITY: 5.15
-
-
- ============October 30th 2015, 11:54:04 am============= 
-argmax PERPLEXITY: 6.25
-
-
-
- ============October 30th 2015, 11:55:18 am============= 
-argmax PERPLEXITY: 7.87
-
-
- ============October 30th 2015, 11:56:43 am============= 
-argmax PERPLEXITY: Infinity
-
-
-
- ============October 30th 2015, 11:58:35 am============= 
+ ============October 30th 2015, 05:55:27 pm============= 
 argmax PERPLEXITY: 5.25
 
 
+ ============October 30th 2015, 05:56:49 pm============= 
+argmax PERPLEXITY: 3.65
 
- ============October 30th 2015, 12:00:16 pm============= 
-argmax PERPLEXITY: 10.34
 
+ ============October 30th 2015, 05:58:22 pm============= 
+argmax PERPLEXITY: 5.80
 
 
- ============October 30th 2015, 12:02:11 pm============= 
-argmax PERPLEXITY: 10.59
 
-
-
- ============October 30th 2015, 12:03:58 pm============= 
-argmax PERPLEXITY: 6.22
-
-
-
- ============October 30th 2015, 12:05:47 pm============= 
-argmax PERPLEXITY: 7.21
-
-
- ============October 30th 2015, 12:07:46 pm============= 
-argmax PERPLEXITY: 5.19
-
-
- ============October 30th 2015, 12:09:27 pm============= 
-argmax PERPLEXITY: 7.92
-
-
- ============October 30th 2015, 12:11:24 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:13:05 pm============= 
-argmax PERPLEXITY: 4.40
-
-
- ============October 30th 2015, 12:14:50 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:16:36 pm============= 
-argmax PERPLEXITY: 7.08
-
-
- ============October 30th 2015, 12:18:10 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:19:47 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:21:45 pm============= 
-argmax PERPLEXITY: 4.85
-
-
- ============October 30th 2015, 12:23:48 pm============= 
-argmax PERPLEXITY: 23.55
-
-
- ============October 30th 2015, 12:26:02 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:28:04 pm============= 
-argmax PERPLEXITY: 20.51
-
-
- ============October 30th 2015, 12:29:32 pm============= 
-argmax PERPLEXITY: 6.56
-
-
- ============October 30th 2015, 12:31:06 pm============= 
-argmax PERPLEXITY: 4.25
-
-
- ============October 30th 2015, 12:32:49 pm============= 
-argmax PERPLEXITY: 9.06
-
-
- ============October 30th 2015, 12:34:42 pm============= 
-argmax PERPLEXITY: 4.60
-
-
- ============October 30th 2015, 12:36:24 pm============= 
-argmax PERPLEXITY: 5.89
-
-
- ============October 30th 2015, 12:38:20 pm============= 
-argmax PERPLEXITY: 7.32
-
-
- ============October 30th 2015, 12:39:47 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:41:14 pm============= 
-argmax PERPLEXITY: 6.83
-
-
- ============October 30th 2015, 12:43:07 pm============= 
-argmax PERPLEXITY: 13.96
-
-
- ============October 30th 2015, 12:45:06 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 12:46:51 pm============= 
-argmax PERPLEXITY: 5.15
-
-
- ============October 30th 2015, 12:48:30 pm============= 
-argmax PERPLEXITY: 5.19
-
-
- ============October 30th 2015, 12:50:28 pm============= 
-argmax PERPLEXITY: 7.20
-
-
- ============October 30th 2015, 12:52:06 pm============= 
-argmax PERPLEXITY: 5.10
-
-
- ============October 30th 2015, 12:53:47 pm============= 
-argmax PERPLEXITY: 6.78
-
-
- ============October 30th 2015, 12:55:47 pm============= 
-argmax PERPLEXITY: 4.65
-
-
- ============October 30th 2015, 12:57:47 pm============= 
-argmax PERPLEXITY: 15.03
-
-
- ============October 30th 2015, 12:59:23 pm============= 
-argmax PERPLEXITY: 5.27
-
-
- ============October 30th 2015, 01:01:23 pm============= 
-argmax PERPLEXITY: 19.69
-
-
- ============October 30th 2015, 01:03:06 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:04:33 pm============= 
-argmax PERPLEXITY: 10.01
-
-
-
- ============October 30th 2015, 01:06:16 pm============= 
-argmax PERPLEXITY: 7.69
-
-
-
- ============October 30th 2015, 01:07:43 pm============= 
-argmax PERPLEXITY: 5.55
-
-
- ============October 30th 2015, 01:09:27 pm============= 
-argmax PERPLEXITY: 6.02
-
-
- ============October 30th 2015, 01:11:15 pm============= 
-argmax PERPLEXITY: 6.61
-
-
- ============October 30th 2015, 01:13:03 pm============= 
-argmax PERPLEXITY: 5.54
-
-
- ============October 30th 2015, 01:14:38 pm============= 
-argmax PERPLEXITY: 5.40
-
-
- ============October 30th 2015, 01:16:09 pm============= 
-argmax PERPLEXITY: 10.12
-
-
- ============October 30th 2015, 01:17:55 pm============= 
-argmax PERPLEXITY: 8.58
-
-
- ============October 30th 2015, 01:19:39 pm============= 
-argmax PERPLEXITY: 6.18
-
-
- ============October 30th 2015, 01:21:42 pm============= 
-argmax PERPLEXITY: 7.55
-
-
- ============October 30th 2015, 01:24:00 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:25:57 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 01:27:29 pm============= 
-argmax PERPLEXITY: 7.59
-
-
- ============October 30th 2015, 01:29:13 pm============= 
-argmax PERPLEXITY: 8.11
-
-
-
- ============October 30th 2015, 01:30:41 pm============= 
-argmax PERPLEXITY: 8.14
-
-
- ============October 30th 2015, 01:32:10 pm============= 
-argmax PERPLEXITY: 4.79
-
-
- ============October 30th 2015, 01:33:57 pm============= 
-argmax PERPLEXITY: 7.65
-
-
- ============October 30th 2015, 01:35:30 pm============= 
-argmax PERPLEXITY: 5.54
-
-
- ============October 30th 2015, 01:37:34 pm============= 
-argmax PERPLEXITY: 5.17
-
-
- ============October 30th 2015, 01:39:17 pm============= 
-argmax PERPLEXITY: 4.29
-
-
- ============October 30th 2015, 01:40:51 pm============= 
+ ============October 30th 2015, 05:59:52 pm============= 
 argmax PERPLEXITY: 4.52
 
 
 
- ============October 30th 2015, 01:42:41 pm============= 
-argmax PERPLEXITY: 4.50
-
-
-
- ============October 30th 2015, 01:44:31 pm============= 
+ ============October 30th 2015, 06:01:58 pm============= 
 argmax PERPLEXITY: Infinity
 
 
+ ============October 30th 2015, 06:03:54 pm============= 
+argmax PERPLEXITY: 6.82
 
- ============October 30th 2015, 01:46:18 pm============= 
+
+ ============October 30th 2015, 06:06:15 pm============= 
 argmax PERPLEXITY: Infinity
 
 
- ============October 30th 2015, 01:47:56 pm============= 
-argmax PERPLEXITY: 5.44
+ ============October 30th 2015, 06:08:13 pm============= 
+argmax PERPLEXITY: 11.33
 
 
-
- ============October 30th 2015, 01:49:53 pm============= 
-argmax PERPLEXITY: 5.00
-
-
-
- ============October 30th 2015, 01:51:42 pm============= 
-argmax PERPLEXITY: 8.72
-
-
-
- ============October 30th 2015, 01:53:10 pm============= 
-argmax PERPLEXITY: 4.77
-
-
-
- ============October 30th 2015, 01:54:53 pm============= 
+ ============October 30th 2015, 06:10:58 pm============= 
 argmax PERPLEXITY: Infinity
 
 
-
- ============October 30th 2015, 01:56:37 pm============= 
-argmax PERPLEXITY: 4.78
-
-
- ============October 30th 2015, 01:58:32 pm============= 
-argmax PERPLEXITY: 6.32
+ ============October 30th 2015, 06:13:12 pm============= 
+argmax PERPLEXITY: 8.56
 
 
-
- ============October 30th 2015, 02:00:32 pm============= 
+ ============October 30th 2015, 06:15:00 pm============= 
 argmax PERPLEXITY: Infinity
 
 
-
- ============October 30th 2015, 02:02:30 pm============= 
-argmax PERPLEXITY: 6.02
-
+ ============October 30th 2015, 06:17:23 pm============= 
+argmax PERPLEXITY: 5.95
 
 
- ============October 30th 2015, 02:04:25 pm============= 
-argmax PERPLEXITY: 4.92
-
-
-
- ============October 30th 2015, 02:06:21 pm============= 
-argmax PERPLEXITY: 7.19
-
-
-
- ============October 30th 2015, 02:08:22 pm============= 
-argmax PERPLEXITY: 3.59
-
-
-
- ============October 30th 2015, 02:10:09 pm============= 
-argmax PERPLEXITY: 6.07
-
-
-
- ============October 30th 2015, 02:11:55 pm============= 
+ ============October 30th 2015, 06:19:54 pm============= 
 argmax PERPLEXITY: Infinity
 
 
-
- ============October 30th 2015, 02:13:58 pm============= 
-argmax PERPLEXITY: 5.15
-
+ ============October 30th 2015, 06:21:46 pm============= 
+argmax PERPLEXITY: 6.63
 
 
- ============October 30th 2015, 02:16:15 pm============= 
-argmax PERPLEXITY: Infinity
-
-
-
- ============October 30th 2015, 02:18:01 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 02:19:42 pm============= 
-argmax PERPLEXITY: 4.62
-
-
- ============October 30th 2015, 02:21:24 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 02:23:19 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 02:25:20 pm============= 
-argmax PERPLEXITY: 6.32
-
-
- ============October 30th 2015, 02:26:46 pm============= 
-argmax PERPLEXITY: 5.26
-
-
- ============October 30th 2015, 02:28:36 pm============= 
-argmax PERPLEXITY: 6.36
-
-
- ============October 30th 2015, 02:30:10 pm============= 
-argmax PERPLEXITY: 3.36
-
-
- ============October 30th 2015, 02:31:40 pm============= 
-argmax PERPLEXITY: 6.51
-
-
- ============October 30th 2015, 02:33:37 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 02:35:26 pm============= 
-argmax PERPLEXITY: 5.39
-
-
- ============October 30th 2015, 02:37:15 pm============= 
-argmax PERPLEXITY: 6.83
-
-
- ============October 30th 2015, 02:38:45 pm============= 
+ ============October 30th 2015, 06:23:32 pm============= 
 argmax PERPLEXITY: 4.21
 
 
- ============October 30th 2015, 02:40:31 pm============= 
-argmax PERPLEXITY: 3.98
+ ============October 30th 2015, 06:25:16 pm============= 
+argmax PERPLEXITY: 4.90
 
 
-
- ============October 30th 2015, 02:42:11 pm============= 
-argmax PERPLEXITY: 8.83
-
-
- ============October 30th 2015, 02:43:47 pm============= 
-argmax PERPLEXITY: 5.37
+ ============October 30th 2015, 06:27:59 pm============= 
+argmax PERPLEXITY: 8.22
 
 
- ============October 30th 2015, 02:45:33 pm============= 
-argmax PERPLEXITY: 6.64
+ ============October 30th 2015, 06:30:23 pm============= 
+argmax PERPLEXITY: 5.72
 
 
- ============October 30th 2015, 02:47:16 pm============= 
-argmax PERPLEXITY: 4.09
+ ============October 30th 2015, 06:32:32 pm============= 
+argmax PERPLEXITY: 6.20
 
 
- ============October 30th 2015, 02:49:04 pm============= 
+ ============October 30th 2015, 06:34:44 pm============= 
+argmax PERPLEXITY: 3.67
+
+
+ ============October 30th 2015, 06:36:05 pm============= 
 argmax PERPLEXITY: Infinity
 
 
- ============October 30th 2015, 02:50:41 pm============= 
+ ============October 30th 2015, 06:37:56 pm============= 
+argmax PERPLEXITY: 4.43
+
+
+ ============October 30th 2015, 06:39:41 pm============= 
+argmax PERPLEXITY: 7.52
+
+
+ ============October 30th 2015, 06:41:23 pm============= 
+argmax PERPLEXITY: 8.99
+
+
+ ============October 30th 2015, 06:43:37 pm============= 
 argmax PERPLEXITY: Infinity
 
 
- ============October 30th 2015, 02:52:08 pm============= 
-argmax PERPLEXITY: Infinity
+ ============October 30th 2015, 06:45:35 pm============= 
+argmax PERPLEXITY: 5.48
 
 
- ============October 30th 2015, 02:54:05 pm============= 
-argmax PERPLEXITY: 4.05
-
-
- ============October 30th 2015, 02:55:56 pm============= 
-argmax PERPLEXITY: 6.29
-
-
- ============October 30th 2015, 02:57:50 pm============= 
-argmax PERPLEXITY: 6.16
-
-
- ============October 30th 2015, 02:59:25 pm============= 
-argmax PERPLEXITY: 6.38
-
-
- ============October 30th 2015, 03:01:10 pm============= 
+ ============October 30th 2015, 06:47:49 pm============= 
 argmax PERPLEXITY: 6.74
 
 
- ============October 30th 2015, 03:02:51 pm============= 
-argmax PERPLEXITY: 11.22
+ ============October 30th 2015, 06:49:38 pm============= 
+argmax PERPLEXITY: 7.52
 
 
-
- ============October 30th 2015, 03:04:36 pm============= 
-argmax PERPLEXITY: 5.50
-
-
- ============October 30th 2015, 03:06:11 pm============= 
-argmax PERPLEXITY: 7.24
+ ============October 30th 2015, 06:51:24 pm============= 
+argmax PERPLEXITY: 4.37
 
 
- ============October 30th 2015, 03:07:48 pm============= 
-argmax PERPLEXITY: 10.61
+ ============October 30th 2015, 06:52:59 pm============= 
+argmax PERPLEXITY: 5.94
 
 
- ============October 30th 2015, 03:09:25 pm============= 
-argmax PERPLEXITY: 3.78
-
-
- ============October 30th 2015, 03:10:54 pm============= 
-argmax PERPLEXITY: 4.36
-
-
- ============October 30th 2015, 03:12:34 pm============= 
-argmax PERPLEXITY: 9.84
-
-
- ============October 30th 2015, 03:14:38 pm============= 
-argmax PERPLEXITY: 9.91
-
-
- ============October 30th 2015, 03:16:23 pm============= 
-argmax PERPLEXITY: 6.04
-
-
- ============October 30th 2015, 03:17:54 pm============= 
-argmax PERPLEXITY: 3.98
-
-
- ============October 30th 2015, 03:20:06 pm============= 
-argmax PERPLEXITY: 4.27
-
-
- ============October 30th 2015, 03:22:00 pm============= 
+ ============October 30th 2015, 06:54:36 pm============= 
 argmax PERPLEXITY: Infinity
 
 
- ============October 30th 2015, 03:23:49 pm============= 
-argmax PERPLEXITY: 5.57
+ ============October 30th 2015, 06:56:37 pm============= 
+argmax PERPLEXITY: 6.81
 
 
- ============October 30th 2015, 03:25:31 pm============= 
-argmax PERPLEXITY: 13.00
+ ============October 30th 2015, 06:58:24 pm============= 
+argmax PERPLEXITY: 6.49
 
 
- ============October 30th 2015, 03:27:14 pm============= 
-argmax PERPLEXITY: 4.09
+ ============October 30th 2015, 07:00:13 pm============= 
+argmax PERPLEXITY: 4.73
 
 
- ============October 30th 2015, 03:29:09 pm============= 
-argmax PERPLEXITY: 7.57
+ ============October 30th 2015, 07:02:12 pm============= 
+argmax PERPLEXITY: 5.60
 
 
- ============October 30th 2015, 03:31:13 pm============= 
+ ============October 30th 2015, 07:04:08 pm============= 
+argmax PERPLEXITY: 7.39
+
+
+ ============October 30th 2015, 07:06:26 pm============= 
+argmax PERPLEXITY: 3.97
+
+
+ ============October 30th 2015, 07:08:22 pm============= 
+argmax PERPLEXITY: 5.91
+
+
+ ============October 30th 2015, 07:10:00 pm============= 
+argmax PERPLEXITY: 4.24
+
+
+ ============October 30th 2015, 07:11:44 pm============= 
+argmax PERPLEXITY: 8.82
+
+
+ ============October 30th 2015, 07:13:23 pm============= 
+argmax PERPLEXITY: 5.33
+
+
+ ============October 30th 2015, 07:15:33 pm============= 
+argmax PERPLEXITY: 4.32
+
+
+ ============October 30th 2015, 07:17:40 pm============= 
+argmax PERPLEXITY: 5.41
+
+
+ ============October 30th 2015, 07:19:50 pm============= 
+argmax PERPLEXITY: 11.07
+
+
+ ============October 30th 2015, 07:21:56 pm============= 
+argmax PERPLEXITY: 4.42
+
+
+ ============October 30th 2015, 07:23:40 pm============= 
+argmax PERPLEXITY: 5.56
+
+
+ ============October 30th 2015, 07:25:57 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 07:28:21 pm============= 
+argmax PERPLEXITY: 6.47
+
+
+ ============October 30th 2015, 07:30:33 pm============= 
+argmax PERPLEXITY: 3.59
+
+
+ ============October 30th 2015, 07:32:48 pm============= 
+argmax PERPLEXITY: 7.01
+
+
+
+ ============October 30th 2015, 07:34:30 pm============= 
+argmax PERPLEXITY: 6.15
+
+
+ ============October 30th 2015, 07:36:28 pm============= 
+argmax PERPLEXITY: 6.73
+
+
+
+ ============October 30th 2015, 07:38:32 pm============= 
+argmax PERPLEXITY: 5.04
+
+
+ ============October 30th 2015, 07:40:23 pm============= 
+argmax PERPLEXITY: 11.21
+
+
+ ============October 30th 2015, 07:42:00 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 07:43:38 pm============= 
+argmax PERPLEXITY: 7.45
+
+
+ ============October 30th 2015, 07:45:46 pm============= 
+argmax PERPLEXITY: 4.28
+
+
+ ============October 30th 2015, 07:47:46 pm============= 
+argmax PERPLEXITY: 8.02
+
+
+ ============October 30th 2015, 07:49:15 pm============= 
+argmax PERPLEXITY: 6.33
+
+
+ ============October 30th 2015, 07:50:51 pm============= 
+argmax PERPLEXITY: 3.56
+
+
+
+ ============October 30th 2015, 07:53:18 pm============= 
+argmax PERPLEXITY: 6.38
+
+
+
+ ============October 30th 2015, 07:55:10 pm============= 
+argmax PERPLEXITY: 13.76
+
+
+
+ ============October 30th 2015, 07:57:13 pm============= 
+argmax PERPLEXITY: 4.24
+
+
+
+ ============October 30th 2015, 07:59:05 pm============= 
 argmax PERPLEXITY: 6.24
 
 
 
- ============October 30th 2015, 03:32:58 pm============= 
-argmax PERPLEXITY: Infinity
+ ============October 30th 2015, 08:01:06 pm============= 
+argmax PERPLEXITY: 4.72
 
 
- ============October 30th 2015, 03:34:41 pm============= 
-argmax PERPLEXITY: Infinity
 
+ ============October 30th 2015, 08:02:48 pm============= 
+argmax PERPLEXITY: 9.11
 
- ============October 30th 2015, 03:36:03 pm============= 
-argmax PERPLEXITY: 3.66
 
 
- ============October 30th 2015, 03:37:45 pm============= 
-argmax PERPLEXITY: 17.14
+ ============October 30th 2015, 08:05:16 pm============= 
+argmax PERPLEXITY: 4.64
 
 
- ============October 30th 2015, 03:39:28 pm============= 
-argmax PERPLEXITY: 4.71
+ ============October 30th 2015, 08:07:32 pm============= 
+argmax PERPLEXITY: 7.06
 
 
- ============October 30th 2015, 03:41:03 pm============= 
-argmax PERPLEXITY: 5.38
 
+ ============October 30th 2015, 08:09:29 pm============= 
+argmax PERPLEXITY: 5.61
 
- ============October 30th 2015, 03:42:50 pm============= 
-argmax PERPLEXITY: 4.91
 
 
- ============October 30th 2015, 03:44:11 pm============= 
-argmax PERPLEXITY: 3.93
+ ============October 30th 2015, 08:11:17 pm============= 
+argmax PERPLEXITY: 11.69
 
 
- ============October 30th 2015, 03:45:44 pm============= 
-argmax PERPLEXITY: 6.26
+ ============October 30th 2015, 08:13:03 pm============= 
+argmax PERPLEXITY: 5.32
 
 
- ============October 30th 2015, 03:47:18 pm============= 
-argmax PERPLEXITY: 5.79
+ ============October 30th 2015, 08:15:14 pm============= 
+argmax PERPLEXITY: 7.00
 
 
- ============October 30th 2015, 03:49:01 pm============= 
-argmax PERPLEXITY: 8.99
 
+ ============October 30th 2015, 08:17:02 pm============= 
+argmax PERPLEXITY: 10.44
 
- ============October 30th 2015, 03:50:57 pm============= 
-argmax PERPLEXITY: Infinity
 
+ ============October 30th 2015, 08:19:17 pm============= 
+argmax PERPLEXITY: 6.61
 
- ============October 30th 2015, 03:52:38 pm============= 
-argmax PERPLEXITY: Infinity
 
-
- ============October 30th 2015, 03:54:17 pm============= 
-argmax PERPLEXITY: 1.94
-
-
- ============October 30th 2015, 03:56:22 pm============= 
-argmax PERPLEXITY: 9.09
-
-
- ============October 30th 2015, 03:58:07 pm============= 
-argmax PERPLEXITY: 5.65
-
-
- ============October 30th 2015, 03:59:52 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:01:43 pm============= 
-argmax PERPLEXITY: 8.55
-
-
- ============October 30th 2015, 04:03:28 pm============= 
-argmax PERPLEXITY: 5.35
-
-
- ============October 30th 2015, 04:04:55 pm============= 
-argmax PERPLEXITY: 12.28
-
-
- ============October 30th 2015, 04:06:39 pm============= 
-argmax PERPLEXITY: 6.27
-
-
- ============October 30th 2015, 04:08:21 pm============= 
-argmax PERPLEXITY: 8.20
-
-
- ============October 30th 2015, 04:10:10 pm============= 
-argmax PERPLEXITY: 11.36
-
-
- ============October 30th 2015, 04:11:46 pm============= 
-argmax PERPLEXITY: 5.94
-
-
-
- ============October 30th 2015, 04:13:24 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:14:38 pm============= 
-argmax PERPLEXITY: 3.98
-
-
- ============October 30th 2015, 04:16:25 pm============= 
-argmax PERPLEXITY: 6.32
-
-
- ============October 30th 2015, 04:18:02 pm============= 
-argmax PERPLEXITY: 14.07
-
-
- ============October 30th 2015, 04:19:30 pm============= 
-argmax PERPLEXITY: 15.13
-
-
- ============October 30th 2015, 04:21:54 pm============= 
-argmax PERPLEXITY: 5.96
-
-
- ============October 30th 2015, 04:24:07 pm============= 
-argmax PERPLEXITY: 3.66
-
-
- ============October 30th 2015, 04:25:49 pm============= 
-argmax PERPLEXITY: 7.92
-
-
- ============October 30th 2015, 04:27:08 pm============= 
-argmax PERPLEXITY: 4.95
-
-
- ============October 30th 2015, 04:28:45 pm============= 
-argmax PERPLEXITY: 4.55
-
-
- ============October 30th 2015, 04:29:59 pm============= 
-argmax PERPLEXITY: 3.53
-
-
- ============October 30th 2015, 04:31:40 pm============= 
-argmax PERPLEXITY: 5.79
-
-
- ============October 30th 2015, 04:33:27 pm============= 
-argmax PERPLEXITY: 3.80
-
-
- ============October 30th 2015, 04:35:04 pm============= 
-argmax PERPLEXITY: 7.23
-
-
- ============October 30th 2015, 04:36:52 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:38:29 pm============= 
-argmax PERPLEXITY: 3.13
-
-
- ============October 30th 2015, 04:40:22 pm============= 
-argmax PERPLEXITY: 5.21
-
-
- ============October 30th 2015, 04:42:33 pm============= 
-argmax PERPLEXITY: 4.89
-
-
- ============October 30th 2015, 04:44:18 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:46:03 pm============= 
-argmax PERPLEXITY: 13.38
-
-
- ============October 30th 2015, 04:47:47 pm============= 
-argmax PERPLEXITY: 4.99
-
-
- ============October 30th 2015, 04:49:36 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 04:51:37 pm============= 
-argmax PERPLEXITY: 4.03
-
-
- ============October 30th 2015, 04:53:08 pm============= 
-argmax PERPLEXITY: 5.18
-
-
- ============October 30th 2015, 04:55:03 pm============= 
-argmax PERPLEXITY: 11.67
-
-
- ============October 30th 2015, 04:56:44 pm============= 
-argmax PERPLEXITY: 14.90
-
-
- ============October 30th 2015, 04:58:27 pm============= 
-argmax PERPLEXITY: 6.59
-
-
-
- ============October 30th 2015, 05:00:29 pm============= 
-argmax PERPLEXITY: 6.35
-
-
-
- ============October 30th 2015, 05:02:05 pm============= 
-argmax PERPLEXITY: 9.20
-
-
-
- ============October 30th 2015, 05:04:09 pm============= 
-argmax PERPLEXITY: 8.24
-
-
-
- ============October 30th 2015, 05:06:03 pm============= 
-argmax PERPLEXITY: 8.25
-
-
-
- ============October 30th 2015, 05:07:49 pm============= 
-argmax PERPLEXITY: 10.76
-
-
-
- ============October 30th 2015, 05:09:15 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 05:10:46 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 05:12:28 pm============= 
+ ============October 30th 2015, 08:20:48 pm============= 
 argmax PERPLEXITY: 4.81
 
 
- ============October 30th 2015, 05:14:11 pm============= 
-argmax PERPLEXITY: 4.31
+ ============October 30th 2015, 08:22:34 pm============= 
+argmax PERPLEXITY: 6.80
 
 
- ============October 30th 2015, 05:15:40 pm============= 
-argmax PERPLEXITY: 4.17
+ ============October 30th 2015, 08:24:13 pm============= 
+argmax PERPLEXITY: 9.68
 
 
- ============October 30th 2015, 05:17:29 pm============= 
-argmax PERPLEXITY: 11.22
+ ============October 30th 2015, 08:26:00 pm============= 
+argmax PERPLEXITY: 12.52
 
 
- ============October 30th 2015, 05:19:04 pm============= 
-argmax PERPLEXITY: 9.98
+ ============October 30th 2015, 08:27:47 pm============= 
+argmax PERPLEXITY: 5.39
 
 
- ============October 30th 2015, 05:20:52 pm============= 
+ ============October 30th 2015, 08:29:37 pm============= 
+argmax PERPLEXITY: 6.03
+
+
+ ============October 30th 2015, 08:31:41 pm============= 
+argmax PERPLEXITY: 5.93
+
+
+ ============October 30th 2015, 08:33:24 pm============= 
+argmax PERPLEXITY: 4.57
+
+
+ ============October 30th 2015, 08:35:27 pm============= 
+argmax PERPLEXITY: 6.60
+
+
+ ============October 30th 2015, 08:37:35 pm============= 
+argmax PERPLEXITY: 6.44
+
+
+ ============October 30th 2015, 08:39:42 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 08:41:41 pm============= 
+argmax PERPLEXITY: 7.04
+
+
+ ============October 30th 2015, 08:43:01 pm============= 
+argmax PERPLEXITY: 4.44
+
+
+ ============October 30th 2015, 08:44:47 pm============= 
+argmax PERPLEXITY: 15.21
+
+
+ ============October 30th 2015, 08:46:52 pm============= 
 argmax PERPLEXITY: 5.96
 
 
- ============October 30th 2015, 05:22:45 pm============= 
+ ============October 30th 2015, 08:49:12 pm============= 
+argmax PERPLEXITY: 8.19
+
+
+ ============October 30th 2015, 08:50:48 pm============= 
 argmax PERPLEXITY: Infinity
 
 
- ============October 30th 2015, 05:24:18 pm============= 
-argmax PERPLEXITY: 12.45
-
-
- ============October 30th 2015, 05:26:06 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 05:27:45 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 05:29:16 pm============= 
-argmax PERPLEXITY: 19.68
-
-
- ============October 30th 2015, 05:31:26 pm============= 
-argmax PERPLEXITY: Infinity
-
-
- ============October 30th 2015, 05:33:13 pm============= 
+ ============October 30th 2015, 08:52:51 pm============= 
 argmax PERPLEXITY: 3.92
 
 
- ============October 30th 2015, 05:35:18 pm============= 
+
+ ============October 30th 2015, 08:54:49 pm============= 
+argmax PERPLEXITY: 8.18
+
+
+ ============October 30th 2015, 08:56:38 pm============= 
+argmax PERPLEXITY: 4.85
+
+
+ ============October 30th 2015, 08:58:39 pm============= 
+argmax PERPLEXITY: 5.76
+
+
+ ============October 30th 2015, 09:00:17 pm============= 
+argmax PERPLEXITY: 6.58
+
+
+ ============October 30th 2015, 09:02:14 pm============= 
+argmax PERPLEXITY: 5.35
+
+
+ ============October 30th 2015, 09:04:28 pm============= 
+argmax PERPLEXITY: 5.05
+
+
+ ============October 30th 2015, 09:06:54 pm============= 
+argmax PERPLEXITY: 6.50
+
+
+ ============October 30th 2015, 09:09:10 pm============= 
+argmax PERPLEXITY: 5.42
+
+
+ ============October 30th 2015, 09:11:00 pm============= 
+argmax PERPLEXITY: 12.11
+
+
+ ============October 30th 2015, 09:12:45 pm============= 
+argmax PERPLEXITY: 4.32
+
+
+ ============October 30th 2015, 09:14:40 pm============= 
+argmax PERPLEXITY: 17.08
+
+
+ ============October 30th 2015, 09:16:37 pm============= 
+argmax PERPLEXITY: 4.55
+
+
+ ============October 30th 2015, 09:18:51 pm============= 
+argmax PERPLEXITY: 6.12
+
+
+ ============October 30th 2015, 09:20:44 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 09:22:43 pm============= 
+argmax PERPLEXITY: 6.68
+
+
+ ============October 30th 2015, 09:25:04 pm============= 
+argmax PERPLEXITY: 11.89
+
+
+ ============October 30th 2015, 09:27:00 pm============= 
+argmax PERPLEXITY: 5.20
+
+
+
+ ============October 30th 2015, 09:29:05 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+
+ ============October 30th 2015, 09:30:56 pm============= 
+argmax PERPLEXITY: 4.62
+
+
+
+ ============October 30th 2015, 09:32:57 pm============= 
+argmax PERPLEXITY: 5.21
+
+
+
+ ============October 30th 2015, 09:34:27 pm============= 
+argmax PERPLEXITY: 6.30
+
+
+ ============October 30th 2015, 09:36:40 pm============= 
+argmax PERPLEXITY: 8.03
+
+
+
+ ============October 30th 2015, 09:38:48 pm============= 
+argmax PERPLEXITY: 5.27
+
+
+ ============October 30th 2015, 09:41:00 pm============= 
+argmax PERPLEXITY: 4.16
+
+
+
+ ============October 30th 2015, 09:43:17 pm============= 
+argmax PERPLEXITY: 4.22
+
+
+ ============October 30th 2015, 09:45:15 pm============= 
+argmax PERPLEXITY: 16.82
+
+
+ ============October 30th 2015, 09:47:33 pm============= 
+argmax PERPLEXITY: 4.53
+
+
+ ============October 30th 2015, 09:49:29 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 09:51:09 pm============= 
+argmax PERPLEXITY: 2.85
+
+
+ ============October 30th 2015, 09:53:28 pm============= 
+argmax PERPLEXITY: 4.83
+
+
+ ============October 30th 2015, 09:55:46 pm============= 
+argmax PERPLEXITY: 2.28
+   And the little song the little song the little song the little song,
+
+ ============October 30th 2015, 09:57:55 pm============= 
+argmax PERPLEXITY: 4.29
+
+
+ ============October 30th 2015, 09:59:56 pm============= 
+argmax PERPLEXITY: 15.47
+
+
+ ============October 30th 2015, 10:01:47 pm============= 
+argmax PERPLEXITY: 11.05
+   The bound the sing and light and light and light,
+
+ ============October 30th 2015, 10:03:52 pm============= 
+argmax PERPLEXITY: 9.57
+   The hand the share the shall,
+
+ ============October 30th 2015, 10:05:53 pm============= 
+argmax PERPLEXITY: 4.16
+   And be the brow the brow the broy the brear the brear the brear the brear the brear the brear the 
+ ============October 30th 2015, 10:07:49 pm============= 
+argmax PERPLEXITY: 5.34
+   The hand the sun to the sun to the sun to the sun to the sun to the sun to the sun to the sun to t
+ ============October 30th 2015, 10:10:06 pm============= 
+argmax PERPLEXITY: 8.43
+   And be the sun to hears bears bears bears to star bear.
+
+
+ ============October 30th 2015, 10:11:52 pm============= 
+argmax PERPLEXITY: 7.08
+   And be the sun bears and brear and brear and brear and brear and beat bears and beat the sun bear.
+ ============October 30th 2015, 10:14:14 pm============= 
+argmax PERPLEXITY: 5.79
+   And the summer the summer shall the summer so so so so so so so so so so so so so so so so so so s
+ ============October 30th 2015, 10:16:49 pm============= 
+argmax PERPLEXITY: 6.05
+   And I shall the summer the summer the human the summer bear.
+
+
+ ============October 30th 2015, 10:18:51 pm============= 
+argmax PERPLEXITY: 6.00
+   And I shall the summer the summer shall the summer shall the summer shall the summer shought and b
+ ============October 30th 2015, 10:20:58 pm============= 
+argmax PERPLEXITY: Infinity
+   And I say and bear and bear.
+
+
+ ============October 30th 2015, 10:22:59 pm============= 
+argmax PERPLEXITY: 7.20
+   And be the summer so born,
+
+ ============October 30th 2015, 10:25:00 pm============= 
+argmax PERPLEXITY: 14.88
+   And the summer the summer the summer bear.
+
+
+ ============October 30th 2015, 10:27:10 pm============= 
+argmax PERPLEXITY: 5.37
+   And what and brear and brear.
+
+
+ ============October 30th 2015, 10:29:39 pm============= 
+argmax PERPLEXITY: 5.74
+   And the summer the summer the summer the summer the summer the summer the summer the summer the su
+ ============October 30th 2015, 10:31:54 pm============= 
+argmax PERPLEXITY: 10.85
+
+
+
+ ============October 30th 2015, 10:33:57 pm============= 
+argmax PERPLEXITY: 5.86
+
+
+
+ ============October 30th 2015, 10:36:08 pm============= 
+argmax PERPLEXITY: 6.51
+
+
+ ============October 30th 2015, 10:38:12 pm============= 
+argmax PERPLEXITY: 3.10
+
+
+ ============October 30th 2015, 10:40:42 pm============= 
+argmax PERPLEXITY: 7.24
+
+
+ ============October 30th 2015, 10:42:27 pm============= 
+argmax PERPLEXITY: 4.33
+
+
+ ============October 30th 2015, 10:44:48 pm============= 
+argmax PERPLEXITY: 5.82
+
+
+ ============October 30th 2015, 10:46:45 pm============= 
+argmax PERPLEXITY: 6.66
+
+
+ ============October 30th 2015, 10:48:28 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 10:50:30 pm============= 
+argmax PERPLEXITY: 7.54
+
+
+ ============October 30th 2015, 10:52:29 pm============= 
+argmax PERPLEXITY: 10.09
+
+
+ ============October 30th 2015, 10:54:14 pm============= 
+argmax PERPLEXITY: 7.40
+
+
+
+ ============October 30th 2015, 10:55:44 pm============= 
+argmax PERPLEXITY: 5.04
+
+
+ ============October 30th 2015, 10:57:04 pm============= 
+argmax PERPLEXITY: 4.31
+
+
+
+ ============October 30th 2015, 10:58:29 pm============= 
+argmax PERPLEXITY: 4.45
+
+
+
+ ============October 30th 2015, 11:00:46 pm============= 
+argmax PERPLEXITY: 5.40
+
+
+ ============October 30th 2015, 11:02:23 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 11:04:08 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 11:06:00 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 11:08:01 pm============= 
+argmax PERPLEXITY: 3.27
+
+
+ ============October 30th 2015, 11:09:55 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 11:11:26 pm============= 
+argmax PERPLEXITY: 12.99
+
+
+ ============October 30th 2015, 11:13:11 pm============= 
+argmax PERPLEXITY: 5.27
+
+
+ ============October 30th 2015, 11:15:22 pm============= 
+argmax PERPLEXITY: 7.40
+
+
+ ============October 30th 2015, 11:18:07 pm============= 
+argmax PERPLEXITY: 5.19
+
+
+ ============October 30th 2015, 11:20:01 pm============= 
+argmax PERPLEXITY: 17.09
+
+
+ ============October 30th 2015, 11:21:44 pm============= 
+argmax PERPLEXITY: 5.40
+
+
+ ============October 30th 2015, 11:23:33 pm============= 
+argmax PERPLEXITY: 6.44
+
+
+ ============October 30th 2015, 11:25:15 pm============= 
+argmax PERPLEXITY: 6.29
+
+
+
+ ============October 30th 2015, 11:27:26 pm============= 
+argmax PERPLEXITY: 8.16
+
+
+
+ ============October 30th 2015, 11:29:10 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 11:31:12 pm============= 
+argmax PERPLEXITY: 11.19
+
+
+ ============October 30th 2015, 11:33:30 pm============= 
+argmax PERPLEXITY: 4.58
+
+
+ ============October 30th 2015, 11:35:50 pm============= 
+argmax PERPLEXITY: 6.45
+
+
+ ============October 30th 2015, 11:37:50 pm============= 
+argmax PERPLEXITY: 8.49
+
+
+ ============October 30th 2015, 11:39:46 pm============= 
+argmax PERPLEXITY: 8.29
+
+
+ ============October 30th 2015, 11:41:35 pm============= 
+argmax PERPLEXITY: 12.73
+
+
+
+ ============October 30th 2015, 11:43:48 pm============= 
+argmax PERPLEXITY: 7.22
+
+
+ ============October 30th 2015, 11:45:45 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 11:47:34 pm============= 
+argmax PERPLEXITY: 8.64
+
+
+ ============October 30th 2015, 11:49:16 pm============= 
+argmax PERPLEXITY: 4.62
+
+
+ ============October 30th 2015, 11:51:33 pm============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 30th 2015, 11:53:19 pm============= 
+argmax PERPLEXITY: 4.91
+
+
+ ============October 30th 2015, 11:55:42 pm============= 
+argmax PERPLEXITY: 5.26
+
+
+ ============October 30th 2015, 11:57:07 pm============= 
+argmax PERPLEXITY: 6.63
+
+
+ ============October 30th 2015, 11:58:45 pm============= 
+argmax PERPLEXITY: 23.58
+
+
+ ============October 31st 2015, 12:01:03 am============= 
+argmax PERPLEXITY: 5.99
+
+
+ ============October 31st 2015, 12:03:10 am============= 
+argmax PERPLEXITY: 8.14
+
+
+ ============October 31st 2015, 12:05:10 am============= 
+argmax PERPLEXITY: 6.68
+
+
+ ============October 31st 2015, 12:07:16 am============= 
+argmax PERPLEXITY: 12.29
+
+
+ ============October 31st 2015, 12:09:19 am============= 
+argmax PERPLEXITY: 7.87
+
+
+ ============October 31st 2015, 12:11:08 am============= 
+argmax PERPLEXITY: 2.99
+   And with the songred and the songred and the songred and the songs and the songs and the songs and
+ ============October 31st 2015, 12:12:42 am============= 
+argmax PERPLEXITY: 8.36
+
+
+ ============October 31st 2015, 12:14:41 am============= 
+argmax PERPLEXITY: 6.49
+
+
+ ============October 31st 2015, 12:16:16 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 12:18:19 am============= 
+argmax PERPLEXITY: 7.28
+
+
+ ============October 31st 2015, 12:20:51 am============= 
+argmax PERPLEXITY: 4.83
+
+
+ ============October 31st 2015, 12:22:50 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 12:24:41 am============= 
+argmax PERPLEXITY: 5.52
+
+
+ ============October 31st 2015, 12:26:57 am============= 
+argmax PERPLEXITY: 9.98
+
+
+ ============October 31st 2015, 12:28:40 am============= 
+argmax PERPLEXITY: 4.82
+
+
+ ============October 31st 2015, 12:30:39 am============= 
+argmax PERPLEXITY: 5.33
+
+
+ ============October 31st 2015, 12:32:33 am============= 
+argmax PERPLEXITY: 4.38
+
+
+ ============October 31st 2015, 12:34:22 am============= 
+argmax PERPLEXITY: 9.46
+
+
+ ============October 31st 2015, 12:36:20 am============= 
+argmax PERPLEXITY: 5.03
+
+
+ ============October 31st 2015, 12:38:31 am============= 
+argmax PERPLEXITY: 4.48
+
+
+ ============October 31st 2015, 12:40:42 am============= 
+argmax PERPLEXITY: 12.86
+
+
+ ============October 31st 2015, 12:42:21 am============= 
+argmax PERPLEXITY: 3.93
+
+
+ ============October 31st 2015, 12:44:03 am============= 
+argmax PERPLEXITY: 5.44
+
+
+ ============October 31st 2015, 12:46:21 am============= 
+argmax PERPLEXITY: 7.69
+
+
+ ============October 31st 2015, 12:48:15 am============= 
+argmax PERPLEXITY: 4.38
+
+
+ ============October 31st 2015, 12:50:18 am============= 
+argmax PERPLEXITY: 4.36
+
+
+ ============October 31st 2015, 12:52:14 am============= 
+argmax PERPLEXITY: 14.66
+
+
+ ============October 31st 2015, 12:54:15 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 12:56:22 am============= 
+argmax PERPLEXITY: 6.47
+
+
+ ============October 31st 2015, 12:58:14 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:00:28 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:02:11 am============= 
+argmax PERPLEXITY: 6.19
+
+
+ ============October 31st 2015, 01:04:30 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:06:47 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:08:44 am============= 
+argmax PERPLEXITY: 9.84
+
+
+ ============October 31st 2015, 01:10:41 am============= 
+argmax PERPLEXITY: 5.16
+
+
+ ============October 31st 2015, 01:12:44 am============= 
+argmax PERPLEXITY: 3.49
+
+
+ ============October 31st 2015, 01:14:43 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:16:23 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:18:42 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:20:16 am============= 
+argmax PERPLEXITY: 4.00
+
+
+ ============October 31st 2015, 01:21:49 am============= 
+argmax PERPLEXITY: 5.81
+
+
+ ============October 31st 2015, 01:23:52 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:26:06 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:28:14 am============= 
+argmax PERPLEXITY: 4.11
+
+
+ ============October 31st 2015, 01:29:57 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:31:35 am============= 
+argmax PERPLEXITY: 4.70
+
+
+ ============October 31st 2015, 01:33:35 am============= 
+argmax PERPLEXITY: 4.45
+
+
+ ============October 31st 2015, 01:35:24 am============= 
+argmax PERPLEXITY: 6.04
+
+
+ ============October 31st 2015, 01:37:28 am============= 
+argmax PERPLEXITY: 8.34
+
+
+ ============October 31st 2015, 01:39:25 am============= 
+argmax PERPLEXITY: 5.41
+
+
+ ============October 31st 2015, 01:41:36 am============= 
+argmax PERPLEXITY: 4.94
+
+
+ ============October 31st 2015, 01:43:44 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:45:54 am============= 
+argmax PERPLEXITY: 4.55
+
+
+ ============October 31st 2015, 01:47:55 am============= 
+argmax PERPLEXITY: 6.41
+
+
+ ============October 31st 2015, 01:49:33 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 01:51:11 am============= 
+argmax PERPLEXITY: 5.45
+
+
+ ============October 31st 2015, 01:53:15 am============= 
+argmax PERPLEXITY: 4.52
+
+
+ ============October 31st 2015, 01:55:20 am============= 
+argmax PERPLEXITY: 7.08
+
+
+ ============October 31st 2015, 01:57:12 am============= 
+argmax PERPLEXITY: 10.73
+
+
+
+ ============October 31st 2015, 01:59:09 am============= 
+argmax PERPLEXITY: 4.25
+
+
+
+ ============October 31st 2015, 02:01:32 am============= 
+argmax PERPLEXITY: 5.33
+
+
+
+ ============October 31st 2015, 02:03:39 am============= 
+argmax PERPLEXITY: 7.13
+
+
+ ============October 31st 2015, 02:05:54 am============= 
+argmax PERPLEXITY: 11.32
+
+
+ ============October 31st 2015, 02:08:11 am============= 
+argmax PERPLEXITY: 4.54
+
+
+ ============October 31st 2015, 02:10:11 am============= 
+argmax PERPLEXITY: 4.12
+
+
+ ============October 31st 2015, 02:11:44 am============= 
+argmax PERPLEXITY: 5.36
+
+
+ ============October 31st 2015, 02:13:52 am============= 
+argmax PERPLEXITY: 3.95
+
+
+
+ ============October 31st 2015, 02:15:57 am============= 
+argmax PERPLEXITY: 6.15
+
+
+
+ ============October 31st 2015, 02:17:54 am============= 
+argmax PERPLEXITY: 5.87
+
+
+ ============October 31st 2015, 02:20:39 am============= 
+argmax PERPLEXITY: 2.48
+
+
+ ============October 31st 2015, 02:22:41 am============= 
+argmax PERPLEXITY: 8.43
+
+
+
+ ============October 31st 2015, 02:24:51 am============= 
+argmax PERPLEXITY: 4.72
+
+
+ ============October 31st 2015, 02:26:36 am============= 
+argmax PERPLEXITY: Infinity
+
+
+
+ ============October 31st 2015, 02:28:49 am============= 
+argmax PERPLEXITY: 8.13
+
+
+
+ ============October 31st 2015, 02:30:40 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 02:32:09 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 02:34:14 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 02:36:03 am============= 
+argmax PERPLEXITY: 6.71
+
+
+ ============October 31st 2015, 02:37:59 am============= 
+argmax PERPLEXITY: 6.84
+
+
+ ============October 31st 2015, 02:40:07 am============= 
+argmax PERPLEXITY: 22.30
+
+
+ ============October 31st 2015, 02:42:11 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 02:44:06 am============= 
+argmax PERPLEXITY: 5.37
+
+
+ ============October 31st 2015, 02:46:18 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 02:48:06 am============= 
+argmax PERPLEXITY: 15.11
+
+
+ ============October 31st 2015, 02:50:11 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 02:52:03 am============= 
+argmax PERPLEXITY: 9.81
+
+
+ ============October 31st 2015, 02:53:53 am============= 
+argmax PERPLEXITY: 5.23
+
+
+ ============October 31st 2015, 02:55:47 am============= 
+argmax PERPLEXITY: 4.41
+
+
+ ============October 31st 2015, 02:57:35 am============= 
+argmax PERPLEXITY: 7.40
+
+
+ ============October 31st 2015, 02:59:32 am============= 
+argmax PERPLEXITY: 3.61
+
+
+ ============October 31st 2015, 03:01:24 am============= 
+argmax PERPLEXITY: 3.38
+
+
+ ============October 31st 2015, 03:03:28 am============= 
+argmax PERPLEXITY: 227.70
+
+
+ ============October 31st 2015, 03:05:04 am============= 
+argmax PERPLEXITY: 5.59
+
+
+
+ ============October 31st 2015, 03:06:55 am============= 
+argmax PERPLEXITY: 4.93
+
+
+ ============October 31st 2015, 03:09:02 am============= 
+argmax PERPLEXITY: 5.22
+
+
+ ============October 31st 2015, 03:11:15 am============= 
+argmax PERPLEXITY: 8.08
+
+
+ ============October 31st 2015, 03:12:52 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 03:14:45 am============= 
+argmax PERPLEXITY: 6.05
+
+
+ ============October 31st 2015, 03:16:33 am============= 
+argmax PERPLEXITY: 5.05
+
+
+ ============October 31st 2015, 03:18:22 am============= 
+argmax PERPLEXITY: 6.33
+
+
+ ============October 31st 2015, 03:20:37 am============= 
+argmax PERPLEXITY: 9.22
+
+
+ ============October 31st 2015, 03:22:59 am============= 
+argmax PERPLEXITY: 5.64
+
+
+ ============October 31st 2015, 03:25:26 am============= 
+argmax PERPLEXITY: 7.90
+
+
+ ============October 31st 2015, 03:27:52 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 03:29:53 am============= 
+argmax PERPLEXITY: 5.38
+
+
+ ============October 31st 2015, 03:32:08 am============= 
+argmax PERPLEXITY: 3.53
+
+
+ ============October 31st 2015, 03:34:15 am============= 
+argmax PERPLEXITY: 7.58
+
+
+ ============October 31st 2015, 03:36:19 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 03:38:11 am============= 
+argmax PERPLEXITY: 7.33
+
+
+ ============October 31st 2015, 03:40:03 am============= 
+argmax PERPLEXITY: 3.54
+
+
+ ============October 31st 2015, 03:41:42 am============= 
+argmax PERPLEXITY: 4.72
+
+
+ ============October 31st 2015, 03:43:27 am============= 
+argmax PERPLEXITY: 7.45
+
+
+
+ ============October 31st 2015, 03:45:10 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 03:47:15 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 03:49:27 am============= 
+argmax PERPLEXITY: 4.49
+
+
+ ============October 31st 2015, 03:51:08 am============= 
+argmax PERPLEXITY: 4.65
+
+
+ ============October 31st 2015, 03:53:18 am============= 
+argmax PERPLEXITY: 5.62
+
+
+
+ ============October 31st 2015, 03:55:16 am============= 
+argmax PERPLEXITY: 7.13
+
+
+
+ ============October 31st 2015, 03:57:26 am============= 
+argmax PERPLEXITY: 5.06
+
+
+
+ ============October 31st 2015, 03:59:17 am============= 
+argmax PERPLEXITY: 5.19
+
+
+
+ ============October 31st 2015, 04:01:10 am============= 
+argmax PERPLEXITY: 11.39
+
+
+
+ ============October 31st 2015, 04:03:00 am============= 
+argmax PERPLEXITY: 2.93
+
+
+
+ ============October 31st 2015, 04:05:17 am============= 
+argmax PERPLEXITY: 3.73
+
+
+
+ ============October 31st 2015, 04:07:20 am============= 
+argmax PERPLEXITY: 8.85
+
+
+ ============October 31st 2015, 04:09:27 am============= 
+argmax PERPLEXITY: 7.69
+
+
+ ============October 31st 2015, 04:11:33 am============= 
+argmax PERPLEXITY: 6.82
+
+
+ ============October 31st 2015, 04:13:45 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 04:15:46 am============= 
+argmax PERPLEXITY: 5.03
+
+
+ ============October 31st 2015, 04:17:46 am============= 
+argmax PERPLEXITY: 16.41
+
+
+ ============October 31st 2015, 04:20:12 am============= 
+argmax PERPLEXITY: 4.93
+
+
+ ============October 31st 2015, 04:22:15 am============= 
+argmax PERPLEXITY: 4.24
+
+
+ ============October 31st 2015, 04:23:45 am============= 
+argmax PERPLEXITY: 3.20
+
+
+ ============October 31st 2015, 04:25:20 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 04:27:34 am============= 
+argmax PERPLEXITY: 6.34
+
+
+ ============October 31st 2015, 04:29:56 am============= 
+argmax PERPLEXITY: 4.84
+
+
+
+ ============October 31st 2015, 04:32:08 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 04:33:59 am============= 
+argmax PERPLEXITY: 4.58
+
+
+
+ ============October 31st 2015, 04:36:02 am============= 
+argmax PERPLEXITY: 3.53
+
+
+
+ ============October 31st 2015, 04:37:46 am============= 
+argmax PERPLEXITY: 3.72
+
+
+ ============October 31st 2015, 04:39:29 am============= 
+argmax PERPLEXITY: 9.67
+
+
+ ============October 31st 2015, 04:41:43 am============= 
+argmax PERPLEXITY: 12.68
+
+
+ ============October 31st 2015, 04:43:45 am============= 
+argmax PERPLEXITY: 8.97
+
+
+ ============October 31st 2015, 04:46:15 am============= 
+argmax PERPLEXITY: 5.89
+
+
+ ============October 31st 2015, 04:48:26 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 04:50:38 am============= 
+argmax PERPLEXITY: 6.10
+
+
+ ============October 31st 2015, 04:52:48 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 04:54:37 am============= 
+argmax PERPLEXITY: 5.63
+
+
+ ============October 31st 2015, 04:56:34 am============= 
+argmax PERPLEXITY: 6.24
+
+
+ ============October 31st 2015, 04:58:27 am============= 
 argmax PERPLEXITY: 7.35
 
 
-
- ============October 30th 2015, 05:37:18 pm============= 
-argmax PERPLEXITY: 2.41
-
+ ============October 31st 2015, 05:00:28 am============= 
+argmax PERPLEXITY: 4.90
 
 
- ============October 30th 2015, 05:38:54 pm============= 
+ ============October 31st 2015, 05:02:32 am============= 
+argmax PERPLEXITY: 6.28
+
+
+ ============October 31st 2015, 05:04:30 am============= 
+argmax PERPLEXITY: 4.36
+
+
+
+ ============October 31st 2015, 05:06:43 am============= 
+argmax PERPLEXITY: 9.16
+
+
+
+ ============October 31st 2015, 05:08:49 am============= 
+argmax PERPLEXITY: 4.29
+
+
+ ============October 31st 2015, 05:10:36 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 05:12:27 am============= 
+argmax PERPLEXITY: 7.92
+
+
+
+ ============October 31st 2015, 05:14:04 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 05:15:51 am============= 
+argmax PERPLEXITY: 3.83
+
+
+ ============October 31st 2015, 05:17:59 am============= 
+argmax PERPLEXITY: 4.43
+
+
+ ============October 31st 2015, 05:20:10 am============= 
+argmax PERPLEXITY: 5.51
+
+
+ ============October 31st 2015, 05:21:57 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 05:23:32 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 05:25:47 am============= 
+argmax PERPLEXITY: 4.03
+
+
+ ============October 31st 2015, 05:27:36 am============= 
+argmax PERPLEXITY: 7.90
+
+
+ ============October 31st 2015, 05:29:28 am============= 
+argmax PERPLEXITY: 6.55
+
+
+
+ ============October 31st 2015, 05:31:42 am============= 
+argmax PERPLEXITY: Infinity
+
+
+
+ ============October 31st 2015, 05:33:20 am============= 
+argmax PERPLEXITY: 3.81
+
+
+
+ ============October 31st 2015, 05:35:12 am============= 
+argmax PERPLEXITY: 3.45
+
+
+
+ ============October 31st 2015, 05:36:32 am============= 
+argmax PERPLEXITY: 7.53
+
+
+
+ ============October 31st 2015, 05:38:44 am============= 
+argmax PERPLEXITY: 4.17
+
+
+ ============October 31st 2015, 05:40:49 am============= 
+argmax PERPLEXITY: 9.90
+
+
+ ============October 31st 2015, 05:42:26 am============= 
+argmax PERPLEXITY: 4.32
+
+
+
+ ============October 31st 2015, 05:44:00 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 05:45:58 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 05:47:39 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 05:49:41 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 05:51:47 am============= 
+argmax PERPLEXITY: 4.11
+
+
+ ============October 31st 2015, 05:53:21 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 05:55:13 am============= 
+argmax PERPLEXITY: 10.67
+
+
+ ============October 31st 2015, 05:57:06 am============= 
+argmax PERPLEXITY: 6.40
+
+
+ ============October 31st 2015, 05:58:41 am============= 
+argmax PERPLEXITY: 5.89
+
+
+ ============October 31st 2015, 06:00:22 am============= 
+argmax PERPLEXITY: 9.29
+
+
+ ============October 31st 2015, 06:02:24 am============= 
+argmax PERPLEXITY: 5.85
+
+
+ ============October 31st 2015, 06:04:07 am============= 
+argmax PERPLEXITY: 3.97
+
+
+ ============October 31st 2015, 06:05:30 am============= 
+argmax PERPLEXITY: 6.57
+
+
+ ============October 31st 2015, 06:07:12 am============= 
+argmax PERPLEXITY: 6.20
+
+
+ ============October 31st 2015, 06:09:09 am============= 
+argmax PERPLEXITY: 7.15
+
+
+ ============October 31st 2015, 06:11:32 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 06:13:42 am============= 
+argmax PERPLEXITY: 7.75
+
+
+
+ ============October 31st 2015, 06:15:28 am============= 
+argmax PERPLEXITY: 6.71
+
+
+ ============October 31st 2015, 06:17:36 am============= 
+argmax PERPLEXITY: 6.12
+
+
+ ============October 31st 2015, 06:19:51 am============= 
+argmax PERPLEXITY: 4.70
+
+
+ ============October 31st 2015, 06:21:58 am============= 
+argmax PERPLEXITY: 13.12
+
+
+ ============October 31st 2015, 06:24:07 am============= 
+argmax PERPLEXITY: 4.30
+
+
+ ============October 31st 2015, 06:25:54 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 06:27:54 am============= 
+argmax PERPLEXITY: 3.73
+
+
+ ============October 31st 2015, 06:30:04 am============= 
+argmax PERPLEXITY: 5.84
+
+
+ ============October 31st 2015, 06:32:08 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 06:34:08 am============= 
+argmax PERPLEXITY: 4.54
+
+
+ ============October 31st 2015, 06:36:30 am============= 
+argmax PERPLEXITY: 11.07
+
+
+ ============October 31st 2015, 06:38:23 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 06:40:22 am============= 
+argmax PERPLEXITY: 5.06
+
+
+ ============October 31st 2015, 06:42:24 am============= 
+argmax PERPLEXITY: 4.76
+
+
+ ============October 31st 2015, 06:44:20 am============= 
+argmax PERPLEXITY: 5.83
+
+
+ ============October 31st 2015, 06:46:24 am============= 
+argmax PERPLEXITY: 3.12
+
+
+ ============October 31st 2015, 06:48:17 am============= 
+argmax PERPLEXITY: 4.29
+
+
+ ============October 31st 2015, 06:50:36 am============= 
+argmax PERPLEXITY: 5.65
+
+
+ ============October 31st 2015, 06:52:49 am============= 
+argmax PERPLEXITY: 9.37
+
+
+ ============October 31st 2015, 06:54:50 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 06:57:09 am============= 
+argmax PERPLEXITY: 30.85
+
+
+ ============October 31st 2015, 06:59:27 am============= 
+argmax PERPLEXITY: 5.16
+
+
+ ============October 31st 2015, 07:02:28 am============= 
+argmax PERPLEXITY: 3.63
+
+
+ ============October 31st 2015, 07:04:02 am============= 
+argmax PERPLEXITY: 16.89
+
+
+ ============October 31st 2015, 07:06:09 am============= 
+argmax PERPLEXITY: 5.56
+
+
+ ============October 31st 2015, 07:08:31 am============= 
+argmax PERPLEXITY: 5.19
+
+
+ ============October 31st 2015, 07:10:37 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 07:12:44 am============= 
+argmax PERPLEXITY: 4.41
+
+
+ ============October 31st 2015, 07:14:58 am============= 
+argmax PERPLEXITY: 7.32
+
+
+ ============October 31st 2015, 07:16:43 am============= 
+argmax PERPLEXITY: 8.22
+
+
+ ============October 31st 2015, 07:18:38 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 07:20:35 am============= 
+argmax PERPLEXITY: 2.98
+
+
+ ============October 31st 2015, 07:22:45 am============= 
+argmax PERPLEXITY: 7.47
+
+
+ ============October 31st 2015, 07:24:41 am============= 
+argmax PERPLEXITY: 9.52
+
+
+ ============October 31st 2015, 07:26:20 am============= 
+argmax PERPLEXITY: 3.58
+
+
+ ============October 31st 2015, 07:28:26 am============= 
+argmax PERPLEXITY: 5.73
+
+
+ ============October 31st 2015, 07:30:41 am============= 
+argmax PERPLEXITY: 3.94
+
+
+
+ ============October 31st 2015, 07:32:55 am============= 
+argmax PERPLEXITY: 5.23
+
+
+
+ ============October 31st 2015, 07:35:15 am============= 
+argmax PERPLEXITY: 4.12
+
+
+
+ ============October 31st 2015, 07:37:30 am============= 
+argmax PERPLEXITY: 3.17
+
+
+
+ ============October 31st 2015, 07:39:42 am============= 
+argmax PERPLEXITY: 3.09
+
+
+
+ ============October 31st 2015, 07:41:13 am============= 
+argmax PERPLEXITY: 3.73
+
+
+ ============October 31st 2015, 07:43:28 am============= 
+argmax PERPLEXITY: 4.37
+
+
+ ============October 31st 2015, 07:45:29 am============= 
+argmax PERPLEXITY: 4.38
+
+
+ ============October 31st 2015, 07:47:29 am============= 
 argmax PERPLEXITY: 4.23
 
 
- ============October 30th 2015, 05:40:35 pm============= 
-argmax PERPLEXITY: 9.44
+ ============October 31st 2015, 07:49:38 am============= 
+argmax PERPLEXITY: 7.54
 
 
- ============October 30th 2015, 05:42:21 pm============= 
-argmax PERPLEXITY: 5.55
+ ============October 31st 2015, 07:52:16 am============= 
+argmax PERPLEXITY: 4.19
 
 
- ============October 30th 2015, 05:43:33 pm============= 
+ ============October 31st 2015, 07:54:38 am============= 
+argmax PERPLEXITY: 4.70
+
+
+ ============October 31st 2015, 07:57:16 am============= 
+argmax PERPLEXITY: 4.99
+   And the sun the sun the sun the sunner the sunnes and sing,
+
+ ============October 31st 2015, 07:58:55 am============= 
+argmax PERPLEXITY: 4.37
+
+
+ ============October 31st 2015, 08:01:12 am============= 
+argmax PERPLEXITY: 4.02
+   And the sun the sun the sun the sun to hears
+
+ ============October 31st 2015, 08:02:58 am============= 
+argmax PERPLEXITY: 9.01
+
+
+ ============October 31st 2015, 08:04:52 am============= 
+argmax PERPLEXITY: 8.54
+
+
+
+ ============October 31st 2015, 08:06:50 am============= 
+argmax PERPLEXITY: 5.49
+
+
+ ============October 31st 2015, 08:09:07 am============= 
 argmax PERPLEXITY: 4.89
 
 
+ ============October 31st 2015, 08:11:07 am============= 
+argmax PERPLEXITY: 5.97
 
- ============October 30th 2015, 05:45:44 pm============= 
-argmax PERPLEXITY: 4.91
 
+ ============October 31st 2015, 08:13:02 am============= 
+argmax PERPLEXITY: 7.36
+
+
+
+ ============October 31st 2015, 08:15:08 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 08:17:16 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 08:19:55 am============= 
+argmax PERPLEXITY: 5.49
+
+
+ ============October 31st 2015, 08:22:43 am============= 
+argmax PERPLEXITY: 6.80
+
+
+ ============October 31st 2015, 08:24:28 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 08:26:20 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 08:28:19 am============= 
+argmax PERPLEXITY: 9.74
+
+
+ ============October 31st 2015, 08:30:03 am============= 
+argmax PERPLEXITY: 3.07
+
+
+ ============October 31st 2015, 08:31:40 am============= 
+argmax PERPLEXITY: 4.93
+
+
+ ============October 31st 2015, 08:33:35 am============= 
+argmax PERPLEXITY: 6.84
+
+
+ ============October 31st 2015, 08:35:13 am============= 
+argmax PERPLEXITY: 4.32
+
+
+ ============October 31st 2015, 08:36:59 am============= 
+argmax PERPLEXITY: 5.08
+
+
+
+ ============October 31st 2015, 08:38:54 am============= 
+argmax PERPLEXITY: 2.92
+
+
+
+ ============October 31st 2015, 08:40:55 am============= 
+argmax PERPLEXITY: 4.43
+
+
+
+ ============October 31st 2015, 08:43:04 am============= 
+argmax PERPLEXITY: 6.92
+
+
+
+ ============October 31st 2015, 08:45:22 am============= 
+argmax PERPLEXITY: 5.90
+
+
+
+ ============October 31st 2015, 08:47:09 am============= 
+argmax PERPLEXITY: 4.59
+
+
+
+ ============October 31st 2015, 08:48:41 am============= 
+argmax PERPLEXITY: 4.97
+
+
+
+ ============October 31st 2015, 08:50:41 am============= 
+argmax PERPLEXITY: 6.08
+
+
+
+ ============October 31st 2015, 08:53:01 am============= 
+argmax PERPLEXITY: 4.17
+
+
+
+ ============October 31st 2015, 08:55:03 am============= 
+argmax PERPLEXITY: Infinity
+
+
+
+ ============October 31st 2015, 08:57:03 am============= 
+argmax PERPLEXITY: 6.53
+
+
+ ============October 31st 2015, 08:58:57 am============= 
+argmax PERPLEXITY: Infinity
+
+
+
+ ============October 31st 2015, 09:00:59 am============= 
+argmax PERPLEXITY: 4.56
+
+
+ ============October 31st 2015, 09:03:03 am============= 
+argmax PERPLEXITY: 8.23
+
+
+ ============October 31st 2015, 09:05:08 am============= 
+argmax PERPLEXITY: 5.54
+
+
+ ============October 31st 2015, 09:07:22 am============= 
+argmax PERPLEXITY: 5.87
+
+
+ ============October 31st 2015, 09:09:20 am============= 
+argmax PERPLEXITY: 22.06
+
+
+ ============October 31st 2015, 09:11:35 am============= 
+argmax PERPLEXITY: 6.17
+
+
+ ============October 31st 2015, 09:13:43 am============= 
+argmax PERPLEXITY: Infinity
+
+
+
+ ============October 31st 2015, 09:15:48 am============= 
+argmax PERPLEXITY: 4.71
+
+
+ ============October 31st 2015, 09:17:56 am============= 
+argmax PERPLEXITY: 7.88
+
+
+
+ ============October 31st 2015, 09:19:51 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 09:21:50 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 09:23:41 am============= 
+argmax PERPLEXITY: 4.03
+
+
+ ============October 31st 2015, 09:26:17 am============= 
+argmax PERPLEXITY: 3.80
+
+
+ ============October 31st 2015, 09:28:19 am============= 
+argmax PERPLEXITY: 3.46
+
+
+
+ ============October 31st 2015, 09:30:08 am============= 
+argmax PERPLEXITY: 11.81
+
+
+ ============October 31st 2015, 09:31:48 am============= 
+argmax PERPLEXITY: 3.90
+
+
+ ============October 31st 2015, 09:34:03 am============= 
+argmax PERPLEXITY: 8.75
+
+
+ ============October 31st 2015, 09:36:31 am============= 
+argmax PERPLEXITY: 3.90
+
+
+ ============October 31st 2015, 09:38:47 am============= 
+argmax PERPLEXITY: 3.53
+
+
+
+ ============October 31st 2015, 09:40:37 am============= 
+argmax PERPLEXITY: 15.57
+
+
+ ============October 31st 2015, 09:42:36 am============= 
+argmax PERPLEXITY: 3.32
+
+
+ ============October 31st 2015, 09:44:18 am============= 
+argmax PERPLEXITY: 5.07
+
+
+ ============October 31st 2015, 09:45:50 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 09:47:45 am============= 
+argmax PERPLEXITY: 4.34
+
+
+
+ ============October 31st 2015, 09:49:47 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 09:51:52 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 09:53:34 am============= 
+argmax PERPLEXITY: 7.66
+
+
+ ============October 31st 2015, 09:55:30 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 09:57:18 am============= 
+argmax PERPLEXITY: 4.72
+
+
+ ============October 31st 2015, 09:58:53 am============= 
+argmax PERPLEXITY: 8.13
+
+
+ ============October 31st 2015, 10:01:03 am============= 
+argmax PERPLEXITY: 7.17
+
+
+
+ ============October 31st 2015, 10:02:54 am============= 
+argmax PERPLEXITY: 7.06
+
+
+
+ ============October 31st 2015, 10:04:43 am============= 
+argmax PERPLEXITY: 4.01
+
+
+ ============October 31st 2015, 10:06:39 am============= 
+argmax PERPLEXITY: 5.50
+
+
+ ============October 31st 2015, 10:08:47 am============= 
+argmax PERPLEXITY: 2.65
+
+
+ ============October 31st 2015, 10:10:57 am============= 
+argmax PERPLEXITY: 4.00
+
+
+ ============October 31st 2015, 10:12:41 am============= 
+argmax PERPLEXITY: 4.95
+
+
+ ============October 31st 2015, 10:14:34 am============= 
+argmax PERPLEXITY: 7.37
+
+
+
+ ============October 31st 2015, 10:16:46 am============= 
+argmax PERPLEXITY: 5.72
+
+
+ ============October 31st 2015, 10:18:30 am============= 
+argmax PERPLEXITY: 4.07
+
+
+
+ ============October 31st 2015, 10:20:52 am============= 
+argmax PERPLEXITY: Infinity
+
+
+ ============October 31st 2015, 10:22:59 am============= 
+argmax PERPLEXITY: 6.67
+
+
+ ============October 31st 2015, 10:24:50 am============= 
+argmax PERPLEXITY: 6.54
+
+
+ ============October 31st 2015, 10:27:09 am============= 
+argmax PERPLEXITY: 6.12
+
+
+ ============October 31st 2015, 10:28:58 am============= 
+argmax PERPLEXITY: 13.12
+
+
+ ============October 31st 2015, 10:30:53 am============= 
+argmax PERPLEXITY: 6.63
 
